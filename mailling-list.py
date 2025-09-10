@@ -25,25 +25,40 @@ llm = ChatOpenAI(model="gpt-4o-mini")
 
 # 메일의 상태를 관리할 클래스
 class MailState(TypedDict):
-    mail_text: str # 그래프의 입력으로 들어오는 원문
-    
+    mail_text: str  # 그래프의 입력으로 들어오는 원문
+
+    # 요약
     purpose: str
-    mail_type: str
-    conf_name: str
-    is_cfp: bool
-    start_date: str
-    sub_deadline: str
-    conf_website: str
+
+    # 멀티 라벨 결과 (각 타입별 bool)
+    cfp_conf: bool
+    cfp_work: bool
+    cfp_jour: bool
+    call_app: bool
+    call_prop: bool
+    info: bool
+    etc: bool  # 아무 규칙에도 안 걸리지만 특정 분류가 필요한 경우 대비(선택)
+
+    # 추출 필드
+    conf_name: Optional[str]
+    start_date: Optional[str]
+    sub_deadline: Optional[str]
+    conf_website: Optional[str]
 
 # 메일 타입 열거형 정의
-class MailTypeEnum(str, Enum):
-    CFP_CONF = "Call for Paper for Conference"
-    CFP_WORK = "Call for Paper for Workshop"
-    CFP_JOUR = "Call for Paper for Journal(Issue)"
-    CALL_APP = "Call for Application/Participation"
-    CALL_PROP = "Call for Proposal"
-    INFO = "Giving Information"
-    ETC = "etc"
+class MailTypeFlags(BaseModel):
+    # Call for Papers
+    cfp_conf: bool = Field(description="Conference paper CfP present?")
+    cfp_work: bool = Field(description="Workshop paper CfP present?")
+    cfp_jour: bool = Field(description="Journal/Special Issue CfP present?")
+
+    # Call for ...
+    call_app: bool = Field(description="Call for Application / Participation?")
+    call_prop: bool = Field(description="Call for Proposal?")
+
+    # Info / Etc
+    info: bool = Field(description="Only information / announcements?")
+    etc: bool = Field(description="Other / Unclear category?")
     
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
     
@@ -100,9 +115,6 @@ class Extract(BaseModel):
 class Summary(BaseModel):
     purpose: str = Field(description="One senetence purpose of the email")
 
-class MailTypeOut(BaseModel):
-    mail_type: MailTypeEnum = Field(description="Choose exactly one label from enum.")
-
 # 메일 요약을 위한 프롬프트와 체인
 summ_prompt = ChatPromptTemplate.from_messages([
         ("system", "You are a careful academic-email summarizer. Output JSON."),
@@ -116,31 +128,26 @@ summ_prompt = ChatPromptTemplate.from_messages([
 summ_chain = summ_prompt | llm | PydanticOutputParser(pydantic_object=Summary)
 
 # 메일 타입을 분류하기 위한 프롬프트와 체인
-type_prompt = ChatPromptTemplate.from_messages([
-    ("system", 
-     "Classify the mail type. Return JSON that conforms to the provided schema.\n"
+flags_prompt = ChatPromptTemplate.from_messages([
+    ("system",
+     "You classify an academic mailing-list email into multiple labels.\n"
+     "Return strict JSON that conforms to the provided schema.\n"
      "{format_instructions}\n"
-     "PRIORITY RULES (decide using ONLY the PURPOSE string below):\n"
-     "1) If the mail includes ANY invitation to submit papers/manuscripts for a CONFERENCE or WORKSHOP, "
-     "   the mail_type MUST be one of:\n"
-     "   - 'Call for Paper for Conference'  (for conference papers)\n"
-     "   - 'Call for Paper for Workshop'    (for workshop/satellite papers)\n"
-     "   Ignore other concurrent items (proposals, applications, info) if a CfP for conf/workshop exists.\n"
-     "2) If both conference CfP and workshop CfP appear, choose the more SPECIFIC target:\n"
-     "   - If the text explicitly invites 'workshop papers' (or a named workshop), choose 'Call for Paper for Workshop'.\n"
-     "   - Otherwise choose 'Call for Paper for Conference'.\n"
-     "3) If NO conf/workshop paper submission is invited but it invites proposals (workshop/tutorial/session/project), choose 'Call for Proposal'.\n"
-     "4) If it invites applications/participation/registration (but not papers), choose 'Call for Application/Participation'.\n"
-     "5) If it merely announces information and does not invite action, choose 'Giving Information'.\n"
-     "6) When unsure, choose 'Giving Information'.\n"
-     "Notes:\n"
-     "- Words/phrases indicating CfP include: 'call for papers', 'paper submission', 'manuscript submission', 'regular papers', 'short papers', "
-     "'workshop papers', 'camera-ready', 'submission deadline'.\n"
-     "- Do NOT classify as 'Call for Paper for Journal(Issue)' unless it clearly targets a journal/special issue."
+     "GUIDELINES:\n"
+     "- Decide using ONLY the PURPOSE string provided.\n"
+     "- Set each field to true/false independently (multi-label).\n"
+     "- If the PURPOSE clearly invites paper submissions to a conference, set cfp_conf=true.\n"
+     "- If it invites workshop paper submissions, set cfp_work=true.\n"
+     "- If it invites journal/special issue submissions, set cfp_jour=true.\n"
+     "- If it invites applications/participation/registration (not papers), set call_app=true.\n"
+     "- If it invites proposals (workshop/tutorial/session/project), set call_prop=true.\n"
+     "- If it mainly announces info and no direct action is requested, set info=true.\n"
+     "- If unclear or outside categories, you may set etc=true.\n"
+     "- Prefer precision: if uncertain, leave fields false rather than guessing."  # 보수적 판정
     ),
     ("human", "PURPOSE: {purpose}")
 ])
-type_chain = type_prompt | llm | PydanticOutputParser(pydantic_object=MailTypeOut)
+flags_chain = flags_prompt | llm | PydanticOutputParser(pydantic_object=MailTypeFlags)
 
 
 # 정보를 추출하기 위한 프롬프트
@@ -172,14 +179,20 @@ def summarize(state: MailState) -> dict:
     }
 
 # 메일 타입을 정하는 노드
-def mail_type_node(state: MailState) -> dict:
+def classify_flags(state: MailState) -> dict:
     purpose = state.get("purpose", "")
-    mail_type = type_chain.invoke({
-        "format_instructions": PydanticOutputParser(pydantic_object=MailTypeOut).get_format_instructions(),
+    flags: MailTypeFlags = flags_chain.invoke({
+        "format_instructions": PydanticOutputParser(pydantic_object=MailTypeFlags).get_format_instructions(),
         "purpose": purpose
     })
     return {
-        "mail_type": mail_type.mail_type.value
+        "cfp_conf": flags.cfp_conf,
+        "cfp_work": flags.cfp_work,
+        "cfp_jour": flags.cfp_jour,
+        "call_app": flags.call_app,
+        "call_prop": flags.call_prop,
+        "info": flags.info,
+        "etc": flags.etc
     }
     
 def ext_info(state: MailState) -> dict:
@@ -194,29 +207,24 @@ def ext_info(state: MailState) -> dict:
         "conf_website": infos.conference_website
     }
 
-# 라우팅 함수
-def mail_router(state: MailState) -> dict:
-    return state["mail_type"]
+# 라우팅: 컨퍼런스 또는 워크숍 CfP면 추출로, 아니면 종료
+def mail_router(state: MailState) -> str:
+    if state.get("cfp_conf") or state.get("cfp_work"):
+        return "EXT"
+    return "END"
     
 graph = StateGraph(MailState)
 graph.add_node("summarize", summarize)
-graph.add_node("mail_type_node", mail_type_node)
+graph.add_node("classify_flags", classify_flags)
 graph.add_node("ext_info", ext_info)
 
 graph.add_edge(START, "summarize")
-graph.add_edge("summarize", "mail_type_node")
+graph.add_edge("summarize", "classify_flags")
 graph.add_conditional_edges(
-    "mail_type_node",
+    "classify_flags",
     mail_router,
-    {
-        "Call for Paper for Conference": "ext_info",
-        "Call for Paper for Workshop": "ext_info",
-        "Call for Paper for Journal(Issue)": END,
-        "Call for Application/Participation": END,
-        "Call for Proposal": END,
-        "Giving Information": END,
-        "etc": END
-    })
+    {"EXT": "ext_info", "END": END}
+)
 
 
 app = graph.compile()
@@ -224,16 +232,54 @@ app = graph.compile()
 
 loader = TextLoader("./2.txt", autodetect_encoding=True)
 data = loader.load()
-result = app.invoke({
+
+# 초기 상태: bool들은 기본 False로 시작
+init_state = {
     "mail_text": data[0].page_content,
+    "purpose": "",
+    "cfp_conf": False,
+    "cfp_work": False,
+    "cfp_jour": False,
+    "call_app": False,
+    "call_prop": False,
+    "info": False,
+    "etc": False,
     "conf_name": None,
     "start_date": None,
     "sub_deadline": None,
     "conf_website": None
-})
+}
+result = app.invoke(init_state)
+
+
+def derive_primary_label(r):
+    if r["cfp_work"]:
+        return "Call for Paper for Workshop"
+    if r["cfp_conf"]:
+        return "Call for Paper for Conference"
+    if r["cfp_jour"]:
+        return "Call for Paper for Journal(Issue)"
+    if r["call_prop"]:
+        return "Call for Proposal"
+    if r["call_app"]:
+        return "Call for Application/Participation"
+    if r["info"]:
+        return "Giving Information"
+    if r["etc"]:
+        return "etc"
+    return "Unlabeled"
+
 
 print(f"Purpose: {result['purpose']}")
-print(f"Mail Type: {result['mail_type']}")
+print("Flags:\n"
+      f"cfp_conf={result['cfp_conf']}\n"
+      f"cfp_work={result['cfp_work']}\n" 
+      f"cfp_jour={result['cfp_jour']}\n"
+      f"call_app={result['call_app']}\n" 
+      f"call_prop={result['call_prop']}\n" 
+      f"info={result['info']}\n" 
+      f"etc={result['etc']}")
+print(f"(Derived Primary) Mail Type: {derive_primary_label(result)}")
 print(f"Conference Name: {result['conf_name']}")
 print(f"Start Date: {result['start_date']}")
 print(f"Submission Deadline: {result['sub_deadline']}")

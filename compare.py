@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-
-label_dir = 'seworld_label'
-predict_dir = f'predictions'
+version = 2
+label_dir = './data/seworld_label'
+predict_dir = f'./data/predictions_{version}'
 
 fields_to_compare = [
     "conference_name",
@@ -56,14 +56,14 @@ for i in range(1, 101):
 
     # --- 이진: is_call_for_paper vs is_call_for_conference_paper ---
     y = label_data.get("is_call_for_paper")
-    yhat = predict_data.get("final_is_cfp")
+    yhat = predict_data.get("final_cfp")
     per_field["is_call_for_paper"]["total"] += 1
     if y == yhat:
         per_field["is_call_for_paper"]["matches"] += 1
     else:
         per_field["is_call_for_paper"]["errors"] += 1
         mismatched_fields.append({
-            "field": "is_call_for_paper vs final_is_cfp",
+            "field": "is_call_for_paper vs is_cfp",
             "label_value": y,
             "predict_value": yhat,
         })
@@ -170,7 +170,7 @@ for item in comparison_results:
         print(f"    라벨 값: {mismatch['label_value']}")
         print(f"    예측 값: {mismatch['predict_value']}")
 
-out_path = f"comparison_result.json"
+out_path = f"comparison_result_{version}.json"
 with open(out_path, "w", encoding="utf-8") as out_file:
     json.dump({
         "summary": summary,

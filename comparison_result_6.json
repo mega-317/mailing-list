@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "overall": {
+      "total_files": 100,
+      "files_all_correct": 100,
+      "files_with_any_error": 0
+    },
+    "per_field": {
+      "is_call_for_paper": {
+        "matches": 100,
+        "errors": 0,
+        "label_true_predict_false": 0,
+        "label_false_predict_true": 0
+      }
+    }
+  },
+  "match_count": 100,
+  "total_files": 100,
+  "mismatched_files": []
+}

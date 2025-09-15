@@ -1,0 +1,61 @@
+{
+  "summary": {
+    "overall": {
+      "total_files": 100,
+      "files_all_correct": 96,
+      "files_with_any_error": 4
+    },
+    "per_field": {
+      "is_call_for_paper": {
+        "matches": 96,
+        "errors": 4,
+        "label_true_predict_false": 0,
+        "label_false_predict_true": 4
+      }
+    }
+  },
+  "match_count": 96,
+  "total_files": 100,
+  "mismatched_files": [
+    {
+      "file": "41_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        }
+      ]
+    },
+    {
+      "file": "53_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        }
+      ]
+    },
+    {
+      "file": "67_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        }
+      ]
+    },
+    {
+      "file": "89_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        }
+      ]
+    }
+  ]
+}

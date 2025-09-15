@@ -23,7 +23,10 @@ from pathlib import Path
 # gpt api 키 로드
 load_dotenv()
 # gpt 모델 설정
-llm = ChatOpenAI(model="gpt-4o-mini")
+llm = ChatOpenAI(
+    model="gpt-4o-mini",
+    temperature=0
+    )
 
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
 LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"]
@@ -38,12 +41,15 @@ class MailState(TypedDict):
     # 요약
     purpose: str
     
-    # 메일 타입에 대한 초기 판정
-    mail_type_A: dict[str,bool]
+    cfp_candidate: bool
     
-    is_cfp: int
-    not_cfp: int
-    final_cfp: bool
+    classify_cfp_purpose: str
+    classify_cfp_mail_text: str
+    
+    is_cfp_purpose: bool
+    is_cfp_mail_text: bool
+    
+    is_cfp: bool
     
     # 요약 근거 문장들
     evidence_sentences: List[str]
@@ -55,21 +61,8 @@ class MailState(TypedDict):
     conf_website: Optional[str]
 
 
-
-# 메일 타입 열거형 정의
-class MailTypeFlags(BaseModel):
-    # Call for Papers
-    cfp_conf: bool = Field(description="Conference paper CfP present?")
-    cfp_work: bool = Field(description="Workshop paper CfP present?")
-    cfp_jour: bool = Field(description="Journal/Special Issue CfP present?")
-
-    # Call for ...
-    call_app: bool = Field(description="Call for Application / Participation?")
-    call_prop: bool = Field(description="Call for Proposal?")
-
-    # Info / Etc
-    info: bool = Field(description="Only information / announcements?")
-    etc: bool = Field(description="Other / Unclear category?")
+class BoolOut(BaseModel):
+    value: bool = Field(description="Return true or false")
 
 
 
@@ -130,59 +123,73 @@ class Summary(BaseModel):
     evidence: List[str] = Field(
         description="short evidence sentences copied verbatim from the email that justify the purpose"
     )
-
-
-
-# 메일 타입을 검증하기 위해 사용할 클래스
-class CFPInspectOutput(BaseModel):
-    agree: bool = Field(description="Whether you agree with the preliminary is_cfp decision")
-    is_cfp: bool = Field(description="Your own decision: is this email a CfP for conference/workshop papers?")
-
-
-
-
+    
+class CFPLabel(str, Enum):
+    conference = "conference"
+    workshop = "workshop"
+    journal = "journal"
+    
+class CFPLabelParser(BaseModel):
+    label: CFPLabel = Field(description="One of: conference, workshop, journal")
 
 
 # 메일 요약을 위한 프롬프트와 체인
 summ_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a careful academic-email summarizer. Output strict JSON matching the schema. "
-     "Return: purpose (exactly one sentence), and evidence (short sentences copied verbatim from the email) "
+     "Return: purpose (1 to 5 sentences, depending on the contents of the mail), and evidence (short sentences copied verbatim from the email) "
      "that directly justify the purpose. "
      "Constraints for evidence:\n"
      "- Copy text verbatim from the email\n"
     ),
     ("human",
-     "Summarize the following email in exactly one sentence (purpose), and extract evidence sentences.\n"
+     "Summarize the following email in 1 to 5 sentences (purpose), and extract evidence sentences.\n"
      "=== EMAIL START ===\n{mail_text}\n=== EMAIL END ===\n"
      "Return JSON with keys: purpose, evidence")
 ])
 summ_chain = summ_prompt | llm | PydanticOutputParser(pydantic_object=Summary)
 
 
-
-
-# 메일 타입을 분류하기 위한 프롬프트와 체인
-flags_prompt = ChatPromptTemplate.from_messages([
+# 이 메일이 CFP 메일인지 판정하는 프롬프트와 체인
+cfp_candidate_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You classify an academic mailing-list email into multiple labels.\n"
-     "Return strict JSON that conforms to the provided schema.\n"
-     "{format_instructions}\n"
-     "GUIDELINES:\n"
-     "- Decide using ONLY the PURPOSE string provided.\n"
-     "- Set each field to true/false independently (multi-label).\n"
-     "- If the PURPOSE clearly invites paper submissions to a conference, set cfp_conf=true.\n"
-     "- If it invites workshop paper submissions, set cfp_work=true.\n"
-     "- If it invites journal/special issue submissions, set cfp_jour=true.\n"
-     "- If it invites applications/participation/registration (not papers), set call_app=true.\n"
-     "- If it invites proposals (workshop/tutorial/session/project), set call_prop=true.\n"
-     "- If it mainly announces info and no direct action is requested, set info=true.\n"
-     "- If unclear or outside categories, you may set etc=true.\n"
-     "- Prefer precision: if uncertain, leave fields false rather than guessing."  # 보수적 판정
-    ),
-    ("human", "PURPOSE: {purpose}")
+     "You are a strict binary classifier for academic emails.\n"
+     "Task: I'll give you mail's purpose. Determine if the email is a Call for Papers (CFP).\n"
+     "Definition of CFP:\n"
+     "- Asking to submit a paper for a conference or workshop\n"
+     "- Requesting a manuscript for a journal special issue\n\n"
+     "Proposal mail is not applicable, such as requesting a proposal for a workshop or satellite event.\n"
+     "If yes → return JSON {{\"value\": true}}\n"
+     "If no → return JSON {{\"value\": false}}\n"
+     "Rules:\n"
+     "- Output ONLY strict JSON with key 'value'.\n"
+     "- Never add explanations or extra text."),
+    ("human",
+     "Classify the following email based on mail's purpose:\n"
+     "{purpose}")
 ])
-flags_chain = flags_prompt | llm | PydanticOutputParser(pydantic_object=MailTypeFlags)
+cfp_candidate_chain = cfp_candidate_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+
+
+classify_cfp_purpose_prompt = ChatPromptTemplate.from_messages([
+    ("system",
+     "You are a strict classifier for academic emails.\n"
+     "Task: Read the purpose of email and decide which type of Call for Papers (CFP) it is.\n"
+     "Classes (choose exactly one):\n"
+     "  - conference  : a CFP for a conference\n"
+     "  - workshop    : a CFP for a workshop (co-located or standalone)\n"
+     "  - journal     : a CFP for an academic journal or special issue (edited books/book chapters also belong here)\n\n"
+     "Assume every email you receive here is indeed a CFP (no need to reject).\n"
+     "Output ONLY a strict JSON object with a single key 'label' whose value is one of: "
+     "'conference', 'workshop', 'journal'.\n"
+     "Do not include any explanations or extra text."
+    ),
+    ("human",
+     "Classify the following email based on mail's purpose:\n"
+     "{purpose}")
+])
+classify_cfp_purpose_chain = classify_cfp_purpose_prompt | llm | PydanticOutputParser(pydantic_object=CFPLabelParser)
+
 
 
 
@@ -223,42 +230,31 @@ def summarize(state: MailState) -> dict:
     }
 
 
-
-# 메일 타입을 정하는 노드
-def classify_flags(state: MailState) -> dict:
+# 이 메일이 cfp 인지 분류하는 노드
+def cfp_candidate_node(state: MailState) -> dict:
     purpose = state.get("purpose", "")
+    is_cfp = cfp_candidate_chain.invoke({"purpose": purpose}).value
     
-    is_cfp_count = 0
-    is_not_cfp_count = 0
-    
-    for i in range(3):  
-        flags: MailTypeFlags = flags_chain.invoke({
-            "format_instructions": PydanticOutputParser(
-                pydantic_object=MailTypeFlags
-            ).get_format_instructions(),
-            "purpose": purpose
-        })
-        flags = {
-            "cfp_conf": flags.cfp_conf,
-            "cfp_work": flags.cfp_work,
-            "cfp_jour": flags.cfp_jour,
-            "call_app": flags.call_app,
-            "call_prop": flags.call_prop,
-            "info": flags.info,
-            "etc": flags.etc
-        }
-        if flags.get("cfp_conf") or flags.get("cfp_work"):
-            is_cfp_count += 1
-        else:
-            is_not_cfp_count += 1
-            
     return {
-        "is_cfp": is_cfp_count,
-        "not_cfp": is_not_cfp_count,
-        "final_cfp": is_cfp_count > is_not_cfp_count,
+        "cfp_candidate": is_cfp
     }
 
+
+def classify_cfp_purpose_node(state: MailState) -> dict:
+    purpose = state.get("purpose", "")
+    classify_cfp_purpose = classify_cfp_purpose_chain.invoke({"purpose": purpose}).label
     
+    if classify_cfp_purpose == "conference" or classify_cfp_purpose == "workshop":
+        is_cfp_purpose = True
+    else:
+        is_cfp_purpose = False
+    
+    return {
+        "classify_cfp_purpose": classify_cfp_purpose,
+        "is_cfp_purpose": is_cfp_purpose
+    }
+
+
     
     
 def ext_info(state: MailState) -> dict:
@@ -274,39 +270,42 @@ def ext_info(state: MailState) -> dict:
     }
     
 
-def flags_router(state: MailState) -> str:
-    return "cfp" if state.get("final_cfp", False) else "no"
+def cfp_candidate_router(state: MailState) -> str:
+    return "go_text" if state.get("cfp_candidate", False) else "end"
     
     
     
     
 graph = StateGraph(MailState)
 graph.add_node("summarize", summarize)
-graph.add_node("classify_flags", classify_flags)  # A
-graph.add_node("ext_info", ext_info)
+graph.add_node("cfp_candidate", cfp_candidate_node)
+graph.add_node("classify_cfp_purpose", classify_cfp_purpose_node)
+
 
 graph.add_edge(START, "summarize")
-graph.add_edge("summarize", "classify_flags")
+graph.add_edge("summarize", "cfp_candidate")
 graph.add_conditional_edges(
-    "classify_flags",
-    flags_router,
+    "cfp_candidate",
+    cfp_candidate_router,
     {
-        "cfp": "ext_info",
-        "no": END
+        "go_text": "classify_cfp_purpose",  # 노드 이름
+        "end": END
     }
 )
-graph.add_edge("ext_info", END)
+graph.add_edge("classify_cfp_purpose", END)  
 
 app = graph.compile()
 
 def build_init_state(mail_text: str) -> dict:
     return {
         "mail_text": mail_text,
+        "cfp_candidate": None,
         "purpose": None,
-        "mail_type_A": {k: None for k in LABELS},  # ← None으로
+        "classify_cfp_purpose": None,
+        "classfiy_cfp_mail_text": None,
+        "is_cfp_purpose": False,
+        "is_cfp_mail_text": None,
         "is_cfp": None,
-        "not_cfp": None,
-        "final_cfp": None,
         "evidence_sentences": None,
         "conf_name": None,
         "start_date": None,
@@ -315,19 +314,15 @@ def build_init_state(mail_text: str) -> dict:
     }
     
 def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
-    """
-    요청 포맷의 키로 맞춰 결과 JSON을 생성.
-    keep_misspelled_key=True 이면 'coference_name' (오타) 키를 사용.
-    False로 바꾸면 'conference_name'으로 저장.
-    """
-    key_conf_name = "coference_name" if keep_misspelled_key else "conference_name"
-
     return {
         "purpose": result.get("purpose"),
+        "cfp_candidate": result.get("cfp_candidate"),
+        "classify_cfp_purpose": result.get("classify_cfp_purpose"),
+        "classfiy_cfp_mail_text": result.get("classify_cfp_mail_text"),
+        "is_cfp_purpose": result.get("is_cfp_purpose"),
+        "is_cfp_mail_text": result.get("is_cfp_mail_text"),
         "is_cfp": result.get("is_cfp"),
-        "not_cfp": result.get("not_cfp"),
-        "final_cfp": result.get("final_cfp"),
-        key_conf_name: result.get("conf_name"),                 # 오타 키에 매핑
+        "conference_name": result.get("conf_name"),
         "start_date": result.get("start_date"),
         "submission_deadline": result.get("sub_deadline"),
         "conference_website": result.get("conf_website"),
@@ -355,7 +350,7 @@ def save_json(obj: dict, out_path: Path):
 
 
 
-version = 2
+version = 9
 TEXT_DIR = Path("./data/texts")
 OUT_DIR = Path(f"./data/predictions_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)

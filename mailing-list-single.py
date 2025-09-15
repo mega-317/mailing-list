@@ -23,7 +23,10 @@ from pathlib import Path
 # gpt api 키 로드
 load_dotenv()
 # gpt 모델 설정
-llm = ChatOpenAI(model="gpt-4o-mini")
+llm = ChatOpenAI(
+    model="gpt-4o-mini",
+    temperature=0
+    )
 
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
 LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"]
@@ -37,6 +40,8 @@ class MailState(TypedDict):
 
     # 요약
     purpose: str
+    
+    is_cfp: bool
     
     cfp_conf: bool
     cfp_work: bool
@@ -140,64 +145,80 @@ summ_chain = summ_prompt | llm | PydanticOutputParser(pydantic_object=Summary)
 
 
 
-
-
-
-
-flag_conf_cfp_prompt = ChatPromptTemplate.from_messages([
+is_cfp_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You're going to play the role of sorting mail.\n"
-     "From now on, I will give you a text summarizing the mail in one sentence.\n"
-     "read the sentence, and return True, otherwise False\n"
-     "You should only determine that this mail is true when you are recruiting papers to submit to the conference accurately.\n"
-     "Return strict JSON: {{\"value\": <true|false>}}.\n"),
-    ("human", "PURPOSE: {purpose}")
+     "You are a strict binary classifier for academic emails.\n"
+     "Task: Determine if the email is a Call for Papers (CFP).\n"
+     "Definition of CFP:\n"
+     "- Asking to submit a paper for a conference or workshop\n"
+     "- Requesting a manuscript for a journal special issue\n\n"
+     "If yes → return JSON {{\"value\": true}}\n"
+     "If no → return JSON {{\"value\": false}}\n"
+     "Rules:\n"
+     "- Output ONLY strict JSON with key 'value'.\n"
+     "- Never add explanations or extra text."),
+    ("human",
+     "Classify the following email:\n"
+     "=== EMAIL START ===\n{mail_text}\n=== EMAIL END ===")
 ])
-flag_conf_cfp_chain = flag_conf_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+is_cfp_chain = is_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
-flag_work_cfp_prompt = ChatPromptTemplate.from_messages([
-    ("system",
-     "You're going to play the role of sorting mail.\n"
-     "From now on, I will give you a text summarizing the mail in one sentence.\n"
-     "read the sentence, and return True, otherwise False\n"
-     "You should only determine that this mail is true when you are recruiting papers to submit to the workshop accurately.\n"
-     "Return strict JSON: {{\"value\": <true|false>}}.\n"),
-    ("human", "PURPOSE: {purpose}")
-])
-flag_work_cfp_chain = flag_work_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
-flag_jour_cfp_prompt = ChatPromptTemplate.from_messages([
-    ("system",
-     "You're going to play the role of sorting mail.\n"
-     "From now on, I will give you a text summarizing the mail in one sentence.\n"
-     "read the sentence, and return True, otherwise False\n"
-     "if you think this mail is a recruiting article for the Journal or Issues\n"
-     "Return strict JSON: {{\"value\": <true|false>}}.\n"),
-    ("human", "PURPOSE: {purpose}")
-])
-flag_jour_cfp_chain = flag_jour_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
-flag_call_app_prompt = ChatPromptTemplate.from_messages([
-    ("system",
-     "You're going to play the role of sorting mail.\n"
-     "From now on, I will give you a text summarizing the mail in one sentence.\n"
-     "read the sentence, and return True, otherwise False\n"
-     "if you think this mail is promoting participation or application for a specific program\n"
-     "Return strict JSON: {{\"value\": <true|false>}}.\n"),
-    ("human", "PURPOSE: {purpose}")
-])
-flag_call_app_chain = flag_call_app_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+# flag_conf_cfp_prompt = ChatPromptTemplate.from_messages([
+#     ("system",
+#      "You're going to play the role of sorting mail.\n"
+#      "From now on, I will give you a text summarizing the mail in one sentence.\n"
+#      "read the sentence, and return True, otherwise False\n"
+#      "You should only determine that this mail is true when you are recruiting papers to submit to the conference accurately.\n"
+#      "Return strict JSON: {{\"value\": <true|false>}}.\n"),
+#     ("human", "PURPOSE: {purpose}")
+# ])
+# flag_conf_cfp_chain = flag_conf_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
-flag_call_prop_prompt = ChatPromptTemplate.from_messages([
-    ("system",
-     "You're going to play the role of sorting mail.\n"
-     "From now on, I will give you a text summarizing the mail in one sentence.\n"
-     "read the sentence, and return True, otherwise False\n"
-     "if you think this mail is asking for a proposal such as a subsidiary event\n"
-     "Return strict JSON: {{\"value\": <true|false>}}.\n"),
-    ("human", "PURPOSE: {purpose}")
-])
-flag_call_prop_chain = flag_call_prop_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+# flag_work_cfp_prompt = ChatPromptTemplate.from_messages([
+#     ("system",
+#      "You're going to play the role of sorting mail.\n"
+#      "From now on, I will give you a text summarizing the mail in one sentence.\n"
+#      "read the sentence, and return True, otherwise False\n"
+#      "You should only determine that this mail is true when you are recruiting papers to submit to the workshop accurately.\n"
+#      "Return strict JSON: {{\"value\": <true|false>}}.\n"),
+#     ("human", "PURPOSE: {purpose}")
+# ])
+# flag_work_cfp_chain = flag_work_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+
+# flag_jour_cfp_prompt = ChatPromptTemplate.from_messages([
+#     ("system",
+#      "You're going to play the role of sorting mail.\n"
+#      "From now on, I will give you a text summarizing the mail in one sentence.\n"
+#      "read the sentence, and return True, otherwise False\n"
+#      "if you think this mail is a recruiting article for the Journal or Issues\n"
+#      "Return strict JSON: {{\"value\": <true|false>}}.\n"),
+#     ("human", "PURPOSE: {purpose}")
+# ])
+# flag_jour_cfp_chain = flag_jour_cfp_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+
+# flag_call_app_prompt = ChatPromptTemplate.from_messages([
+#     ("system",
+#      "You're going to play the role of sorting mail.\n"
+#      "From now on, I will give you a text summarizing the mail in one sentence.\n"
+#      "read the sentence, and return True, otherwise False\n"
+#      "if you think this mail is promoting participation or application for a specific program\n"
+#      "Return strict JSON: {{\"value\": <true|false>}}.\n"),
+#     ("human", "PURPOSE: {purpose}")
+# ])
+# flag_call_app_chain = flag_call_app_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+
+# flag_call_prop_prompt = ChatPromptTemplate.from_messages([
+#     ("system",
+#      "You're going to play the role of sorting mail.\n"
+#      "From now on, I will give you a text summarizing the mail in one sentence.\n"
+#      "read the sentence, and return True, otherwise False\n"
+#      "if you think this mail is asking for a proposal such as a subsidiary event\n"
+#      "Return strict JSON: {{\"value\": <true|false>}}.\n"),
+#     ("human", "PURPOSE: {purpose}")
+# ])
+# flag_call_prop_chain = flag_call_prop_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
 
 
@@ -242,26 +263,35 @@ def summarize(state: MailState) -> dict:
 
 
 # 메일 타입을 정하는 노드
-def classify_flags(state: MailState) -> dict:
-    purpose = state.get("purpose", "")
-    cfp_conf = flag_conf_cfp_chain.invoke({"purpose": purpose}).value
-    cfp_work = flag_work_cfp_chain.invoke({"purpose": purpose}).value
-    cfp_jour = flag_jour_cfp_chain.invoke({"purpose": purpose}).value
-    call_app = flag_call_app_chain.invoke({"purpose": purpose}).value
-    call_prop = flag_call_prop_chain.invoke({"purpose": purpose}).value
+# def classify_flags(state: MailState) -> dict:
+#     purpose = state.get("purpose", "")
+#     cfp_conf = flag_conf_cfp_chain.invoke({"purpose": purpose}).value
+#     cfp_work = flag_work_cfp_chain.invoke({"purpose": purpose}).value
+#     cfp_jour = flag_jour_cfp_chain.invoke({"purpose": purpose}).value
+#     call_app = flag_call_app_chain.invoke({"purpose": purpose}).value
+#     call_prop = flag_call_prop_chain.invoke({"purpose": purpose}).value
     
-    is_cfp = bool(cfp_conf) or bool(cfp_work)
+#     is_cfp = bool(cfp_conf) or bool(cfp_work)
+    
+#     return {
+#         "cfp_conf": cfp_conf,
+#         "cfp_work": cfp_work,
+#         "cfp_jour": cfp_jour,
+#         "call_app": call_app,
+#         "call_prop": call_prop,
+#         "is_cfp": is_cfp
+#     }
+
+
+# 이 메일이 cfp 인지 분류하는 노드
+def is_cfp_node(state: MailState) -> dict:
+    mail_text = state.get("mail_text", "")
+    is_cfp = is_cfp_chain.invoke({"mail_text": mail_text}).value
     
     return {
-        "cfp_conf": cfp_conf,
-        "cfp_work": cfp_work,
-        "cfp_jour": cfp_jour,
-        "call_app": call_app,
-        "call_prop": call_prop,
         "is_cfp": is_cfp
     }
 
-    
     
     
 def ext_info(state: MailState) -> dict:
@@ -284,27 +314,31 @@ def flags_router(state: MailState) -> str:
     
     
 graph = StateGraph(MailState)
-graph.add_node("summarize", summarize)
-graph.add_node("classify_flags", classify_flags)  # A
-graph.add_node("ext_info", ext_info)
+graph.add_node("is_cfp_node", is_cfp_node)
+# graph.add_node("summarize", summarize)
+# graph.add_node("classify_flags", classify_flags)  # A
+# graph.add_node("ext_info", ext_info)
 
-graph.add_edge(START, "summarize")
-graph.add_edge("summarize", "classify_flags")
-graph.add_conditional_edges(
-    "classify_flags",
-    flags_router,
-    {
-        "cfp": "ext_info",
-        "no": END
-    }
-)
-graph.add_edge("ext_info", END)
+# graph.add_edge(START, "summarize")
+# graph.add_edge("summarize", "classify_flags")
+# graph.add_conditional_edges(
+#     "classify_flags",
+#     flags_router,
+#     {
+#         "cfp": "ext_info",
+#         "no": END
+#     }
+# )
+# graph.add_edge("ext_info", END)
+graph.add_edge(START, "is_cfp_node")
+graph.add_edge("is_cfp_node", END)  
 
 app = graph.compile()
 
 def build_init_state(mail_text: str) -> dict:
     return {
         "mail_text": mail_text,
+        "is_cfp": None,
         "purpose": None,
         "cfp_conf": None,
         "cfp_work": None,
@@ -322,6 +356,7 @@ def build_init_state(mail_text: str) -> dict:
 def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
     return {
         "purpose": result.get("purpose"),
+        "is_cfp": result.get("is_cfp"),
         "cfp_conf": result.get("cfp_conf"),
         "cfp_work": result.get("cfp_work"),
         "cfp_jour": result.get("cfp_jour"),
@@ -372,7 +407,7 @@ print(f"[OK] {input_path.name} -> {output_path.name}")
 
 
 # # 단일 파일에 대해 여러번 실행
-# for i in range(5):
+# for i in range(10):
 #     input_path = Path("./data/texts/95.txt")           # 입력 파일
 #     output_path = Path(f"single_{i}_predict.json")
 

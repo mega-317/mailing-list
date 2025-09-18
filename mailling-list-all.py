@@ -29,10 +29,8 @@ llm = ChatOpenAI(
     )
 
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
-LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"]
-
-
-
+# LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"]
+    
 
 # 메일의 상태를 관리할 클래스
 class MailState(TypedDict):
@@ -51,11 +49,16 @@ class MailState(TypedDict):
     
     is_cfp: bool
     
+    # 메일 내용에 이상이 없는지 확인용
+    has_body: bool
+    
     # 요약 근거 문장들
     evidence_sentences: List[str]
 
     # 추출 필드
-    conf_name: Optional[str]
+    conf_name_candidates: str
+    conf_name_final: Optional[str]  # 최종 1개 (예: "VMCAI 2026")
+    
     start_date: Optional[str]
     sub_deadline: Optional[str]
     conf_website: Optional[str]
@@ -63,7 +66,6 @@ class MailState(TypedDict):
 
 class BoolOut(BaseModel):
     value: bool = Field(description="Return true or false")
-
 
 
 # 추출 스키마
@@ -129,8 +131,21 @@ class CFPLabel(str, Enum):
     workshop = "workshop"
     journal = "journal"
     
+    
 class CFPLabelParser(BaseModel):
     label: CFPLabel = Field(description="One of: conference, workshop, journal")
+    
+    
+    
+# # 학회 이름 후보군을 담을 클래스
+# class NameCandidate(BaseModel):
+#     raw: str = Field(description="Raw candidate text")
+#     acronym: Optional[str] = None
+#     year: Optional[int] = None
+
+# class ExtractName(BaseModel):
+#     conference_name_candidates: List[NameCandidate] = Field(default_factory=list)
+
 
 
 # 메일 요약을 위한 프롬프트와 체인
@@ -171,6 +186,8 @@ cfp_candidate_prompt = ChatPromptTemplate.from_messages([
 cfp_candidate_chain = cfp_candidate_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
 
+
+# 무엇에 대한 cfp 메일인지 분류하는 프롬프트
 classify_cfp_purpose_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a strict classifier for academic emails.\n"
@@ -191,26 +208,36 @@ classify_cfp_purpose_prompt = ChatPromptTemplate.from_messages([
 classify_cfp_purpose_chain = classify_cfp_purpose_prompt | llm | PydanticOutputParser(pydantic_object=CFPLabelParser)
 
 
-
-
-
-# 정보를 추출하기 위한 프롬프트
-ext_prompt = ChatPromptTemplate.from_messages([
+# 메일 본문이 정상적인지 확인하는 프롬프트
+check_mail_body_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "Extract the following information"
+     "You are a strict binary classifier.\n"
+     "Task: Decide if the email body has meaningful content.\n"
+     "Rules:\n"
+     "- If the body is empty or effectively empty (only headers, boilerplate, or fewer than 3 non-empty lines), return {{\"value\": false}}.\n"
+     "- Otherwise, return {{\"value\": true}}.\n"
+     "Output ONLY strict JSON with key 'value'."),
+    ("human", "{mail_text}")
+])
+check_mail_body_chain = check_mail_body_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+
+
+
+# 학회 이름을 추출하기 위한 프롬프트
+ext_name_prompt = ChatPromptTemplate.from_messages([
+    ("system",
+     "Please read the text of email I give you and return the texts that are supposed to be the name of the conference."
+     "If there is only one, please print out one, and if there seem to be multiple, print out multiple."
      "Return strict JSON following the schema. If any field is unknown, use null."
      "Rules:\n"
-     "- conference_name: Return '<ACRONYM> <YEAR>' (e.g., 'SDS 2025'). "
-     "  If the email reveals the official acronym and year (from title/body), format it like 'ICSME 2025'. "
-     "  If you cannot derive a valid acronym+year, set null (do NOT invent).\n"
-     "- start_date: first day of the event, 'YYYY-MM-DD' or null.\n"
-     "- submission_deadline: paper submission deadline, 'YYYY-MM-DD' or null.\n"
-     "- conference_website: official website URL or null.\n"
-     "- No hallucination. Prefer explicit dates/URLs in the email. If partial (e.g., 'September 2025'), set null."
-     "- Use actual JSON null values; never output the string 'null'."),
+     "- Conference_name: Return '<ACRONYM> <YEAR>' (e.g., 'SDS 2025'). "
+     "- If the email reveals the official acronym and year (from title/body), format it like 'ICSME 2025'. "
+     "- If you cannot derive a valid acronym+year, set null (do NOT invent).\n"
+     "- If there are multiple presumption names, please separate them with commas"
+     ),
      ("human", "{mail_text}")
 ])
-ext_chain = ext_prompt | llm | PydanticOutputParser(pydantic_object=Extract)
+ext_name_chain = ext_name_prompt | llm | StrOutputParser()
 
 
 
@@ -239,7 +266,7 @@ def cfp_candidate_node(state: MailState) -> dict:
         "cfp_candidate": is_cfp
     }
 
-
+# 이 메일이 무엇에 대한 cfp인지 분류하는 노드
 def classify_cfp_purpose_node(state: MailState) -> dict:
     purpose = state.get("purpose", "")
     classify_cfp_purpose = classify_cfp_purpose_chain.invoke({"purpose": purpose}).label
@@ -253,26 +280,40 @@ def classify_cfp_purpose_node(state: MailState) -> dict:
         "classify_cfp_purpose": classify_cfp_purpose,
         "is_cfp_purpose": is_cfp_purpose
     }
-
-
     
     
-def ext_info(state: MailState) -> dict:
+# 메일 본문이 제대로 존재하는지 확인하는 노드
+def check_mail_body_node(state: MailState) -> dict:
+    mail_text = state.get("mail_text", "")
+    line_count = len(mail_text.strip().splitlines())
+    
+    if line_count < 100:
+        result = check_mail_body_chain.invoke({"mail_text": mail_text}).value
+        
+        return {
+            "has_body": result
+        }
+
+
+# 학회/워크숍 이름을 추출하는 노드
+def ext_name_node(state: MailState) -> dict:
     mail_text = state.get("mail_text")
-    infos = ext_chain.invoke({
+    conf_name_candidates = ext_name_chain.invoke({
         "mail_text": mail_text
     })
     return {
-        "conf_name": infos.conference_name,
-        "start_date": infos.start_date,
-        "sub_deadline": infos.submission_deadline,
-        "conf_website": infos.conference_website
+        "conf_name_candidates": conf_name_candidates
     }
     
 
 def cfp_candidate_router(state: MailState) -> str:
     return "go_text" if state.get("cfp_candidate", False) else "end"
-    
+
+def check_mail_body_router(state: MailState) -> str:
+    return "go_next" if state.get("has_body", True) else "end"
+
+def classify_cfp_router(state: MailState) -> str:
+    return "go_next" if state.get("is_cfp_purpose", False) else "end"
     
     
     
@@ -280,9 +321,19 @@ graph = StateGraph(MailState)
 graph.add_node("summarize", summarize)
 graph.add_node("cfp_candidate", cfp_candidate_node)
 graph.add_node("classify_cfp_purpose", classify_cfp_purpose_node)
+graph.add_node("check_mail_body", check_mail_body_node)
+graph.add_node("ext_name", ext_name_node)
 
 
-graph.add_edge(START, "summarize")
+graph.add_edge(START, "check_mail_body")
+graph.add_conditional_edges(
+    "check_mail_body",
+    check_mail_body_router,
+    {
+        "go_next": "summarize",
+        "end": END
+    }
+)
 graph.add_edge("summarize", "cfp_candidate")
 graph.add_conditional_edges(
     "cfp_candidate",
@@ -292,7 +343,15 @@ graph.add_conditional_edges(
         "end": END
     }
 )
-graph.add_edge("classify_cfp_purpose", END)  
+graph.add_conditional_edges(
+    "classify_cfp_purpose",
+    classify_cfp_router,
+    {
+        "go_next": "ext_name",
+        "end": END
+    }
+)
+graph.add_edge("ext_name", END)
 
 app = graph.compile()
 
@@ -306,8 +365,10 @@ def build_init_state(mail_text: str) -> dict:
         "is_cfp_purpose": False,
         "is_cfp_mail_text": None,
         "is_cfp": None,
+        "has_body": True,
         "evidence_sentences": None,
-        "conf_name": None,
+        "conf_name_candidates": None,
+        "conf_name_final": None,
         "start_date": None,
         "sub_deadline": None,
         "conf_website": None
@@ -315,6 +376,7 @@ def build_init_state(mail_text: str) -> dict:
     
 def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
     return {
+        "has_body": result.get("has_body"),
         "purpose": result.get("purpose"),
         "cfp_candidate": result.get("cfp_candidate"),
         "classify_cfp_purpose": result.get("classify_cfp_purpose"),
@@ -322,7 +384,8 @@ def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
         "is_cfp_purpose": result.get("is_cfp_purpose"),
         "is_cfp_mail_text": result.get("is_cfp_mail_text"),
         "is_cfp": result.get("is_cfp"),
-        "conference_name": result.get("conf_name"),
+        "conf_name_candidates": result.get("conf_name_candidates"),
+        "conf_name_final": result.get("conf_name_final"),
         "start_date": result.get("start_date"),
         "submission_deadline": result.get("sub_deadline"),
         "conference_website": result.get("conf_website"),
@@ -350,7 +413,7 @@ def save_json(obj: dict, out_path: Path):
 
 
 
-version = 9
+version = 10
 TEXT_DIR = Path("./data/texts")
 OUT_DIR = Path(f"./data/predictions_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)

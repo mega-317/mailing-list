@@ -1,79 +1,68 @@
 {
   "has_body": true,
-  "purpose": "The email announces the 29th ETAPS International Joint Conferences on Theory and Practice of Software, scheduled for April 11-16, 2026, in Torino, Italy. It provides details about the conference, including submission deadlines, publication information, and the types of contributions solicited. The email emphasizes the significance of ETAPS as a leading forum for software science research and outlines the new features for the 2026 event.",
-  "cfp_candidate": true,
-  "classify_cfp_purpose": "conference",
-  "classfiy_cfp_mail_text": null,
-  "is_cfp_purpose": true,
-  "is_cfp_mail_text": null,
+  "purpose": "The email announces the workshops that will be held in conjunction with the ER 2025 conference, highlighting their role as a collaborative forum for innovative ideas in conceptual modeling. It provides links to the respective workshops and details about the Call for Papers, including submission deadlines and notification dates. The email also lists the workshop chairs for any inquiries.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "workshop",
+    "is_cfp_purpose": true
+  },
   "is_cfp": null,
-  "conf_name_candidates": [
-    {
-      "raw": "ETAPS 2026",
-      "acronym": "ETAPS",
-      "year": 2026,
-      "where": "subject",
-      "evidence": "Subject:     ETAPS 2026 Joint Call for Papers",
-      "confidence": 0.9
-    },
-    {
-      "raw": "ETAPS 2026",
-      "acronym": "ETAPS",
-      "year": 2026,
-      "where": "body",
-      "evidence": "ETAPS 2026 is the twenty-nineth event in the series.",
-      "confidence": 0.9
-    },
-    {
-      "raw": "FoSSaCS 2026",
-      "acronym": "FoSSaCS",
-      "year": 2026,
-      "where": "body",
-      "evidence": "FoSSaCS 2026 will adopt a double-blind reviewing process, in line with the other ETAPS conferences.",
-      "confidence": 0.85
-    },
-    {
-      "raw": "ESOP: European Symposium on Programming",
-      "acronym": "ESOP",
-      "year": null,
-      "where": "body",
-      "evidence": "* ESOP: European Symposium on Programming",
-      "confidence": 0.8
-    },
-    {
-      "raw": "FASE: Fundamental Approaches to Software Engineering",
-      "acronym": "FASE",
-      "year": null,
-      "where": "body",
-      "evidence": "* FASE: Fundamental Approaches to Software Engineering",
-      "confidence": 0.8
-    },
-    {
-      "raw": "FoSSaCS: Foundations of Software Science and Computation Structures",
-      "acronym": "FoSSaCS",
-      "year": null,
-      "where": "body",
-      "evidence": "* FoSSaCS: Foundations of Software Science and Computation Structures",
-      "confidence": 0.8
-    },
-    {
-      "raw": "TACAS: Tools and Algorithms for the Construction and Analysis of Systems",
-      "acronym": "TACAS",
-      "year": null,
-      "where": "body",
-      "evidence": "* TACAS: Tools and Algorithms for the Construction and Analysis of Systems",
-      "confidence": 0.8
-    }
-  ],
-  "conf_name_final": null,
-  "start_date": null,
-  "submission_deadline": null,
-  "conference_website": null,
-  "evidence_sentences": [
-    "29th ETAPS International Joint Conferences On Theory and Practice of Software ETAPS 2026 Torino, Italy, April 11-16, 2026",
-    "ETAPS is one of the world's leading fora for research on software science, with a history of more than 25 years.",
-    "Submission deadlines are strict and firm, no exceptions will be granted.",
-    "The proceedings will be published in the Advanced Research in Computing and Software Science (ARCoSS) subline of Springer's LNCS series.",
-    "Several satellite workshops and other events will take place during the weekend before the main conferences."
-  ]
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "ER 2025",
+        "acronym": "ER",
+        "year": 2025,
+        "evidence": "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference."
+      },
+      {
+        "raw": "Fundamentals of Conceptual Modeling",
+        "acronym": "FCM",
+        "year": null,
+        "evidence": "*Fundamentals of Conceptual Modeling (FCM)*"
+      },
+      {
+        "raw": "6th International Workshop on Conceptual Modeling for Life Sciences",
+        "acronym": "CMLS",
+        "year": null,
+        "evidence": "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*"
+      },
+      {
+        "raw": "3rd International Workshop Modeling in the Age of Large Language Models",
+        "acronym": "LLM4Modeling",
+        "year": null,
+        "evidence": "*3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)*"
+      },
+      {
+        "raw": "11th International Workshop on Ontologies and Conceptual Modeling",
+        "acronym": "OntoCom",
+        "year": null,
+        "evidence": "*11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)*"
+      },
+      {
+        "raw": "6th International Workshop on Quality and Measurement of Model-Driven Software Development",
+        "acronym": "QUAMES",
+        "year": null,
+        "evidence": "*6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)*"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "ER 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference.",
+      "These workshops serve as an intensive collaborative forum for exchanging innovative ideas about conceptual modeling, and for discovering new frontiers for its use.",
+      "Details regarding the Call for Papers for each workshop can be found on the respective workshop's website (linked below):",
+      "Common deadlines in all the five workshops are: Submission Deadline: *27 June 2025* Notification:* 28 July 2025*",
+      "If you have any questions, do not hesitate to contact the ER Workshop Chairs at [log in to unmask]"
+    ]
+  }
 }

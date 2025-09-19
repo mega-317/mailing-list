@@ -29,8 +29,33 @@ llm = ChatOpenAI(
     )
 
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
-# LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"]
+# LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"
+
+
+# 중복 제거 리듀서
+def merge_unique_by_raw(existing: List[Dict[str, Any]],
+                        new: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """conf_name_candidates 전용: raw 기준 중복 제거 병합"""
+    if not existing:
+        existing = []
+    if not new:
+        return existing
+
+    out = list(existing)
+    seen = {c.get("raw") for c in existing if c.get("raw")}
+
+    for c in new:
+        key = c.get("raw")
+        if key and key not in seen:
+            out.append(c)
+            seen.add(key)
+    return out
     
+class ConfNameCandidate(TypedDict, total=False):
+    raw: str
+    acronym: Optional[str]
+    year: Optional[int]
+    evidence: Optional[str]
 
 # 메일의 상태를 관리할 클래스
 class MailState(TypedDict):
@@ -54,10 +79,14 @@ class MailState(TypedDict):
     
     # 요약 근거 문장들
     evidence_sentences: List[str]
+    
+    is_joint_conf: bool
+    is_joint_work: bool
 
     # 추출 필드
-    conf_name_candidates: str
-    conf_name_final: Optional[str]  # 최종 1개 (예: "VMCAI 2026")
+    conf_name_candidates: Annotated[List[ConfNameCandidate], merge_unique_by_raw]  # ✅ 리스트 누적
+    conf_name_final: Optional[str]
+    conf_tokens: Annotated[List[str], add]
     
     start_date: Optional[str]
     sub_deadline: Optional[str]
@@ -136,15 +165,16 @@ class CFPLabelParser(BaseModel):
     label: CFPLabel = Field(description="One of: conference, workshop, journal")
     
     
-    
-# # 학회 이름 후보군을 담을 클래스
-# class NameCandidate(BaseModel):
-#     raw: str = Field(description="Raw candidate text")
-#     acronym: Optional[str] = None
-#     year: Optional[int] = None
+# 학회 이름 후보군 담을 클래스
+class NameCandidate(BaseModel):
+    raw: str = Field(..., description="as appears in text, e.g., 'VMCAI 2026' or 'International Conference on ...'")
+    acronym: Optional[str] = Field(None, description="UPPERCASE acronym if any, e.g., 'VMCAI'")
+    year: Optional[int] = Field(None, description="4-digit year if any, e.g., 2026")
+    evidence: str = Field(..., description="short snippet copied verbatim around the mention")
 
-# class ExtractName(BaseModel):
-#     conference_name_candidates: List[NameCandidate] = Field(default_factory=list)
+
+class ExtractName(BaseModel):
+    conference_name_candidates: List[NameCandidate] = Field(default_factory=list)
 
 
 
@@ -152,13 +182,13 @@ class CFPLabelParser(BaseModel):
 summ_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a careful academic-email summarizer. Output strict JSON matching the schema. "
-     "Return: purpose (1 to 5 sentences, depending on the contents of the mail), and evidence (short sentences copied verbatim from the email) "
+     "Return: purpose (1 to 10 sentences, depending on the contents of the mail), and evidence (short sentences copied verbatim from the email) "
      "that directly justify the purpose. "
      "Constraints for evidence:\n"
      "- Copy text verbatim from the email\n"
     ),
     ("human",
-     "Summarize the following email in 1 to 5 sentences (purpose), and extract evidence sentences.\n"
+     "Summarize the following email in 1 to 10 sentences (purpose), and extract evidence sentences.\n"
      "=== EMAIL START ===\n{mail_text}\n=== EMAIL END ===\n"
      "Return JSON with keys: purpose, evidence")
 ])
@@ -173,6 +203,7 @@ cfp_candidate_prompt = ChatPromptTemplate.from_messages([
      "Definition of CFP:\n"
      "- Asking to submit a paper for a conference or workshop\n"
      "- Requesting a manuscript for a journal special issue\n\n"
+     "- Referring to 'Track', 'Submission', 'Paper'."
      "Proposal mail is not applicable, such as requesting a proposal for a workshop or satellite event.\n"
      "If yes → return JSON {{\"value\": true}}\n"
      "If no → return JSON {{\"value\": false}}\n"
@@ -221,27 +252,49 @@ check_mail_body_prompt = ChatPromptTemplate.from_messages([
 ])
 check_mail_body_chain = check_mail_body_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
+# Joint Conf 여부를 확인하기 위한 프롬프트
+is_joint_conf_prompt = ChatPromptTemplate.from_messages([
+    ("system",
+     "You are a strict binary classifier.\n"
+     "Task: Decide if this email is about Joint Call"
+     "If the expression 'Joint Conference' appears directly, return {{\"value\": true}}.\n"
+     "If you check the expression 'Joint Call', make sure it's about the conference, and only if it's certain, return {{\"value\": true}}.\n"
+     "Otherwise, return {{\"value\": false}}.\n"
+     "Output ONLY strict JSON with key 'value'."),
+    ("human",
+     "{purpose}")
+])
+is_joint_conf_chain = is_joint_conf_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
+# Joint workshop 여부를 확인하기 위한 프롬프트
+is_joint_work_prompt = ChatPromptTemplate.from_messages([
+    ("system",
+     "You are a strict binary classifier.\n"
+     "Task: Decide if this email is about Joint Call"
+     "If the expression 'Joint Workshop' appears directly, return {{\"value\": true}}.\n"
+     "If you check the expression 'Joint Call', make sure it's about the workshop, and only if it's certain, return {{\"value\": true}}.\n"
+     "Otherwise, return {{\"value\": false}}.\n"
+     "Output ONLY strict JSON with key 'value'."),
+    ("human",
+     "{purpose}")
+])
+is_joint_work_chain = is_joint_work_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
 
 # 학회 이름을 추출하기 위한 프롬프트
 ext_name_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "Please read the text of email I give you and return the texts that are supposed to be the name of the conference."
-     "If there is only one, please print out one, and if there seem to be multiple, print out multiple."
-     "Return strict JSON following the schema. If any field is unknown, use null."
+     "You are an information extraction model.\n"
+     "Task: From the email, extract ALL names of EVENTS only: conferences or workshops.\n"
+     "STRICTLY EXCLUDE journals, journal series, publishers, and venues like PACM, TOPLAS, HCI journal names, ACM DL pages, etc.\n"
+     "And exclude the names of conferences/workshops referred to as co-located\n"
      "Rules:\n"
-     "- Conference_name: Return '<ACRONYM> <YEAR>' (e.g., 'SDS 2025'). "
-     "- If the email reveals the official acronym and year (from title/body), format it like 'ICSME 2025'. "
-     "- If you cannot derive a valid acronym+year, set null (do NOT invent).\n"
-     "- If there are multiple presumption names, please separate them with commas"
-     ),
-     ("human", "{mail_text}")
-])
-ext_name_chain = ext_name_prompt | llm | StrOutputParser()
-
-
-
-
+     "- Prefer '<ACRONYM> <YEAR>' if present (e.g., 'EICS 2026').\n"
+     "- If a long-form event name appears on the same line (or neighboring line) with an UPPERCASE acronym and a year, set acronym to that UPPERCASE token.\n"
+     "- evidence MUST be copied verbatim from near the mention.\n"
+     "- Return STRICT JSON for the schema:\n{schema}"),
+    ("human", "EMAIL:\n{mail_text}\n\nReturn ONLY JSON.")
+]).partial(schema=ExtractName.model_json_schema())
+ext_name_chain = ext_name_prompt | llm | PydanticOutputParser(pydantic_object=ExtractName)
 
 
 
@@ -297,14 +350,50 @@ def check_mail_body_node(state: MailState) -> dict:
 
 # 학회/워크숍 이름을 추출하는 노드
 def ext_name_node(state: MailState) -> dict:
-    mail_text = state.get("mail_text")
-    conf_name_candidates = ext_name_chain.invoke({
-        "mail_text": mail_text
-    })
+    mail_text = state["mail_text"]
+    res: ExtractName = ext_name_chain.invoke({"mail_text": mail_text})
+    cands = [c.model_dump() for c in res.conference_name_candidates]
+    
     return {
-        "conf_name_candidates": conf_name_candidates
+        "conf_name_candidates": cands
+    }
+
+# 학회에 대한 joint call인지 확인하는 노드 
+def is_joint_conf_node(state: MailState) -> dict:
+    purpose = state.get("purpose", "")
+    is_joint_conf = is_joint_conf_chain.invoke({"purpose": purpose}).value
+    
+    return {
+        "is_joint_conf": is_joint_conf
+    }
+
+# 워크숍에 대한 joint call인지 확인하는 노드
+def is_joint_work_node(state: MailState) -> dict:
+    purpose = state.get("purpose", "")
+    is_joint_work = is_joint_work_chain.invoke({"purpose": purpose}).value
+    
+    return {
+        "is_joint_work": is_joint_work
     }
     
+def build_conf_tokens_node(state: MailState) -> dict:
+    """
+    conf_name_candidates 중 acronym과 year가 모두 있는 항목을 골라
+    'ACRONYM YEAR' 문자열로 만들어 중복 제거 후 리스트로 반환.
+    """
+    tokens_set = set()
+
+    for c in state.get("conf_name_candidates", []):
+        acr = c.get("acronym")
+        yr  = c.get("year")
+        if acr and yr:  # 둘 다 존재할 때만
+            token = f"{str(acr)} {int(yr)}"
+            tokens_set.add(token)
+
+    # 리스트로 변환하여 상태 업데이트
+    return {"conf_tokens": sorted(tokens_set)}
+
+
 
 def cfp_candidate_router(state: MailState) -> str:
     return "go_text" if state.get("cfp_candidate", False) else "end"
@@ -314,6 +403,9 @@ def check_mail_body_router(state: MailState) -> str:
 
 def classify_cfp_router(state: MailState) -> str:
     return "go_next" if state.get("is_cfp_purpose", False) else "end"
+
+def is_joint_conf_router(state: MailState) -> str:
+    return "end" if state.get("is_joint_conf", False) else "go_next"
     
     
     
@@ -323,6 +415,9 @@ graph.add_node("cfp_candidate", cfp_candidate_node)
 graph.add_node("classify_cfp_purpose", classify_cfp_purpose_node)
 graph.add_node("check_mail_body", check_mail_body_node)
 graph.add_node("ext_name", ext_name_node)
+graph.add_node("is_joint_conf", is_joint_conf_node)
+graph.add_node("is_joint_work", is_joint_work_node)
+graph.add_node("build_conf_tokens", build_conf_tokens_node)
 
 
 graph.add_edge(START, "check_mail_body")
@@ -347,11 +442,21 @@ graph.add_conditional_edges(
     "classify_cfp_purpose",
     classify_cfp_router,
     {
-        "go_next": "ext_name",
+        "go_next": "is_joint_conf",
         "end": END
     }
 )
-graph.add_edge("ext_name", END)
+graph.add_conditional_edges(
+    "is_joint_conf",
+    is_joint_conf_router,
+    {
+        "go_next": "is_joint_work",
+        "end": END
+    }
+)
+graph.add_edge("is_joint_work", "ext_name")
+graph.add_edge("ext_name", "build_conf_tokens")
+graph.add_edge("build_conf_tokens", END)
 
 app = graph.compile()
 
@@ -361,14 +466,15 @@ def build_init_state(mail_text: str) -> dict:
         "cfp_candidate": None,
         "purpose": None,
         "classify_cfp_purpose": None,
-        "classfiy_cfp_mail_text": None,
         "is_cfp_purpose": False,
-        "is_cfp_mail_text": None,
         "is_cfp": None,
         "has_body": True,
+        "is_joint_conf": False,
+        "is_joint_work": False,
         "evidence_sentences": None,
-        "conf_name_candidates": None,
+        "conf_name_candidates": [],
         "conf_name_final": None,
+        "conf_tokens": [],
         "start_date": None,
         "sub_deadline": None,
         "conf_website": None
@@ -378,18 +484,25 @@ def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
     return {
         "has_body": result.get("has_body"),
         "purpose": result.get("purpose"),
-        "cfp_candidate": result.get("cfp_candidate"),
-        "classify_cfp_purpose": result.get("classify_cfp_purpose"),
-        "classfiy_cfp_mail_text": result.get("classify_cfp_mail_text"),
-        "is_cfp_purpose": result.get("is_cfp_purpose"),
-        "is_cfp_mail_text": result.get("is_cfp_mail_text"),
-        "is_cfp": result.get("is_cfp"),
-        "conf_name_candidates": result.get("conf_name_candidates"),
-        "conf_name_final": result.get("conf_name_final"),
-        "start_date": result.get("start_date"),
-        "submission_deadline": result.get("sub_deadline"),
-        "conference_website": result.get("conf_website"),
-        "evidence_sentences": result.get("evidence_sentences")
+        "cfp": {
+            "cfp_candidate": result.get("cfp_candidate"),
+            "classify_cfp_purpose": result.get("classify_cfp_purpose"),
+            "is_cfp_purpose": result.get("is_cfp_purpose"),
+        },
+        "is_cfp": result.get("is_cfp"),  
+        "is_joint_call": {
+            "is_joint_conf": result.get("is_joint_conf"),
+            "is_joint_work": result.get("is_joint_work"),
+        },
+        "infos": {
+            "conf_name_candidates": result.get("conf_name_candidates"),
+            "conf_name_final": result.get("conf_name_final"),
+            "conf_name_tokens": result.get("conf_tokens"),
+            "start_date": result.get("start_date"),
+            "submission_deadline": result.get("sub_deadline"),
+            "conference_website": result.get("conf_website"),
+            "evidence_sentences": result.get("evidence_sentences")
+        },
     }
 
 def process_one_file(txt_path: Path, keep_misspelled_key: bool = True) -> dict:
@@ -413,7 +526,7 @@ def save_json(obj: dict, out_path: Path):
 
 
 
-version = 10
+version = 13
 TEXT_DIR = Path("./data/texts")
 OUT_DIR = Path(f"./data/predictions_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)

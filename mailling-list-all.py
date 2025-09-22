@@ -30,7 +30,10 @@ llm = ChatOpenAI(
 
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
 # LABELS = ["cfp_conf","cfp_work","cfp_jour","call_app","call_prop","info","etc"
-
+SENT_SPLIT = re.compile(
+    r'(?<=[.!?])\s+(?=[A-Z0-9])'
+    r'|\n{2,}'
+)
 
 # 중복 제거 리듀서
 def merge_unique_by_raw(existing: List[Dict[str, Any]],
@@ -50,6 +53,17 @@ def merge_unique_by_raw(existing: List[Dict[str, Any]],
             out.append(c)
             seen.add(key)
     return out
+
+
+# 문장 분할 메소드
+def split_sentences(text: str) -> list[str]:
+    t = re.sub(r'[ \t]+', ' ', text).strip()
+    parts = re.split(SENT_SPLIT, t)
+    return [s.strip() for s in parts if s.strip()]
+
+def build_indexed(sentences: list[str]) -> str:
+    return "\n".join(f"{i}: {s}" for i, s in enumerate(sentences))
+
     
 class ConfNameCandidate(TypedDict, total=False):
     raw: str
@@ -60,9 +74,11 @@ class ConfNameCandidate(TypedDict, total=False):
 # 메일의 상태를 관리할 클래스
 class MailState(TypedDict):
     mail_text: str  # 그래프의 입력으로 들어오는 원문
+    len_mail_text: int
 
     # 요약
     purpose: str
+    len_purpose: int
     
     cfp_candidate: bool
     
@@ -87,6 +103,11 @@ class MailState(TypedDict):
     conf_name_candidates: Annotated[List[ConfNameCandidate], merge_unique_by_raw]  # ✅ 리스트 누적
     conf_name_final: Optional[str]
     conf_tokens: Annotated[List[str], add]
+    
+    # 필요한 정보가 있을 것으로 추정되는 문장들을 추출하기 위한 용도
+    infos: Annotated[List[str], add]      # ✅ 문장들을 누적 저장
+    infos_text: Optional[str] 
+    len_infos_text: int
     
     start_date: Optional[str]
     sub_deadline: Optional[str]
@@ -297,6 +318,23 @@ ext_name_prompt = ChatPromptTemplate.from_messages([
 ext_name_chain = ext_name_prompt | llm | PydanticOutputParser(pydantic_object=ExtractName)
 
 
+# 한 문장씩 읽으면서 필드값이 존재하는 문장인지 판단
+info_flag_prompt = ChatPromptTemplate.from_messages([
+    ("system",
+     "You are a strict binary classifier.\n"
+     "Return STRICT JSON {{\"value\": true|false}}.\n"
+     "true if the sentence contains ANY of the following:\n"
+     "- conference/host event name (e.g., '<ACRONYM> <YEAR>', long-form names)\n"
+     "- workshop name\n"
+     "- start date of conference/workshop (YYYY-MM-DD, 'Nov 24, 2025', '24–28 November 2025', etc.)\n"
+     "- submission deadline for papers (abstract/full/rounds)\n"
+     "- official URL (http/https)\n"
+     "Otherwise false. Do not explain."),
+    ("human", "SENTENCE:\n{sentence}\n\nReturn ONLY JSON.")
+])
+info_flag_chain = info_flag_prompt | llm | PydanticOutputParser(pydantic_object=BoolOut)
+
+
 
 # 메일을 한 문장으로 요약하는 노드
 def summarize(state: MailState) -> dict:
@@ -307,6 +345,8 @@ def summarize(state: MailState) -> dict:
     return {
         "purpose": out.purpose,
         "evidence_sentences": ev,
+        "len_mail_text": len(mail_text),
+        "len_purpose": len(out.purpose)
     }
 
 
@@ -350,8 +390,8 @@ def check_mail_body_node(state: MailState) -> dict:
 
 # 학회/워크숍 이름을 추출하는 노드
 def ext_name_node(state: MailState) -> dict:
-    mail_text = state["mail_text"]
-    res: ExtractName = ext_name_chain.invoke({"mail_text": mail_text})
+    infos_text = state["infos_text"]
+    res: ExtractName = ext_name_chain.invoke({"mail_text": infos_text})
     cands = [c.model_dump() for c in res.conference_name_candidates]
     
     return {
@@ -376,6 +416,7 @@ def is_joint_work_node(state: MailState) -> dict:
         "is_joint_work": is_joint_work
     }
     
+
 def build_conf_tokens_node(state: MailState) -> dict:
     """
     conf_name_candidates 중 acronym과 year가 모두 있는 항목을 골라
@@ -392,6 +433,38 @@ def build_conf_tokens_node(state: MailState) -> dict:
 
     # 리스트로 변환하여 상태 업데이트
     return {"conf_tokens": sorted(tokens_set)}
+
+
+
+def harvest_infos_node(state: MailState) -> dict:
+    mail_text = state["mail_text"]
+    sentences = split_sentences(mail_text)
+
+    picked: List[str] = []
+    for s in sentences:
+        # (선택) 너무 긴 문장은 LLM 안정성을 위해 잘라서 판단
+        probe = s[:1000]
+        flag = info_flag_chain.invoke({"sentence": probe}).value
+        if flag:
+            picked.append(s)
+
+    # add 리듀서가 리스트 병합하므로 리스트로 반환
+    return {"infos": picked}
+
+
+
+# infos 문장을 하나의 문자열로 합치기
+def finalize_infos_text_node(state: MailState) -> dict:
+    infos_list = state.get("infos", [])
+    # 순서를 유지한 채 공백으로 이어붙임 (필요하면 줄바꿈 사용)
+    infos_text = "\n".join(infos_list)
+    print('원문 길이: ', len(state.get("mail_text")))
+    print('추출 문장 길이: ', len(infos_text))
+    return {
+        "infos_text": infos_text,
+        "len_infos_text": len(infos_text)
+    }
+
 
 
 
@@ -418,6 +491,8 @@ graph.add_node("ext_name", ext_name_node)
 graph.add_node("is_joint_conf", is_joint_conf_node)
 graph.add_node("is_joint_work", is_joint_work_node)
 graph.add_node("build_conf_tokens", build_conf_tokens_node)
+graph.add_node("harvest_infos", harvest_infos_node)
+graph.add_node("finalize_infos_text", finalize_infos_text_node)
 
 
 graph.add_edge(START, "check_mail_body")
@@ -434,7 +509,7 @@ graph.add_conditional_edges(
     "cfp_candidate",
     cfp_candidate_router,
     {
-        "go_text": "classify_cfp_purpose",  # 노드 이름
+        "go_text": "classify_cfp_purpose",
         "end": END
     }
 )
@@ -454,7 +529,9 @@ graph.add_conditional_edges(
         "end": END
     }
 )
-graph.add_edge("is_joint_work", "ext_name")
+graph.add_edge("is_joint_work", "harvest_infos")
+graph.add_edge("harvest_infos", "finalize_infos_text")
+graph.add_edge("finalize_infos_text", "ext_name")
 graph.add_edge("ext_name", "build_conf_tokens")
 graph.add_edge("build_conf_tokens", END)
 
@@ -471,13 +548,18 @@ def build_init_state(mail_text: str) -> dict:
         "has_body": True,
         "is_joint_conf": False,
         "is_joint_work": False,
+        "infos": [],
+        "infos_text": None,
         "evidence_sentences": None,
         "conf_name_candidates": [],
         "conf_name_final": None,
         "conf_tokens": [],
         "start_date": None,
         "sub_deadline": None,
-        "conf_website": None
+        "conf_website": None,
+        "len_mail_text": 0,
+        "len_purpose": 0,
+        "len_infos_text": 0
     }
     
 def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
@@ -495,14 +577,20 @@ def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
             "is_joint_work": result.get("is_joint_work"),
         },
         "infos": {
+            "infos": result.get("infos"),
             "conf_name_candidates": result.get("conf_name_candidates"),
             "conf_name_final": result.get("conf_name_final"),
             "conf_name_tokens": result.get("conf_tokens"),
             "start_date": result.get("start_date"),
             "submission_deadline": result.get("sub_deadline"),
             "conference_website": result.get("conf_website"),
-            "evidence_sentences": result.get("evidence_sentences")
+            # "evidence_sentences": result.get("evidence_sentences")
         },
+        "length": {
+            "mail_text": result.get("len_mail_text"),
+            "purpose": result.get("len_purpose"),
+            "infos": result.get("len_infos_text")
+        }
     }
 
 def process_one_file(txt_path: Path, keep_misspelled_key: bool = True) -> dict:
@@ -526,7 +614,7 @@ def save_json(obj: dict, out_path: Path):
 
 
 
-version = 13
+version = 14
 TEXT_DIR = Path("./data/texts")
 OUT_DIR = Path(f"./data/predictions_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)

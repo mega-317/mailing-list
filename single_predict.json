@@ -1,9 +1,9 @@
 {
   "has_body": true,
-  "purpose": "The email announces the workshops that will be held in conjunction with the ER 2025 conference, highlighting their role as a collaborative forum for innovative ideas in conceptual modeling. It provides links to the respective workshops and details about the Call for Papers, including submission deadlines and notification dates. The email also lists the workshop chairs for any inquiries.",
+  "purpose": "The email announces the 9th International Conference on Information Technology & Systems (ICITS'26) to be held in Roatán Island, Honduras, from February 16 to 18, 2026. It invites researchers and practitioners to submit original papers in English, Spanish, or Portuguese on various topics related to Information Technology and Systems. The email outlines submission guidelines, review processes, and important dates for paper submission and registration. It also details the publication process for accepted papers and the requirements for presenting at the conference.",
   "cfp": {
     "cfp_candidate": true,
-    "classify_cfp_purpose": "workshop",
+    "classify_cfp_purpose": "conference",
     "is_cfp_purpose": true
   },
   "is_cfp": null,
@@ -12,57 +12,55 @@
     "is_joint_work": false
   },
   "infos": {
+    "infos": [
+      "Subject: (CFP) ICITS'26 - 9th Int.",
+      "Conference on Information Technology & Systems | Roatán Island, Honduras\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:[log in to unmask]\nDate:Wed, 16 Jul 2025 06:14:35 -0000\nContent-Type:text/plain",
+      "ICITS'26 - 9th Int.",
+      "Conference on Information Technology & Systems",
+      "Roatán Island, Honduras, 16-18 February 2026",
+      "https://icits.me/ <https://mkt.saisti.eu/go/c9291612eaf7-4023621248-753cddad01c932997ecd2cacc173eGe2OOTe1cH9Me5Be5FZ>",
+      "ICITS'26 - 9th International Conference on Information Technology & Systems, to be held at Universidad Tecnológica de Honduras, Roatán Island, Honduras, between the 16th and the 18th of February 2026, is an international forum for researchers and practitioners to present and discuss the most recent innovations, trends, results, experiences and concerns in the several perspectives of Information Technology & Systems.",
+      "We are pleased to invite you to submit your original papers to ICITS'26.",
+      "A) Information and Knowledge Management (IKM);",
+      "C) Software and Systems Modeling (SSM);",
+      "D) Software Systems, Architectures, Applications and Tools (SSAAT);",
+      "E) Multimedia Systems and Applications (MSA);",
+      "F) Computer Networks, Mobility and Pervasive Systems (CNMPS);",
+      "H) Big Data Analytics and Applications (BDAA);",
+      "J) Ethics, Computers and Security (ECS)",
+      "L) Information Technologies in Education (ITE);",
+      "M) Media, Applied Technology and Communication (MATC).",
+      "Submitted papers written in Spanish or Portuguese (until 15-page limit) must comply with the format of RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação (download instructions/template for authors in Spanish or Portuguese), must not have been published before, not be under review for any other conference or publication and not include any information leading to the authors’ identification.",
+      "The authors of papers accepted as posters must build and print a poster to be exhibited during the Conference.",
+      "To ensure that a paper accepted as paper is published, at least one of the authors must be fully registered by the 5th of November 2025, and the paper must comply with the suggested layout and page-limit.",
+      "Paper Submission: September 28, 2025",
+      "Notification of Acceptance: November 5, 2025",
+      "Payment of Registration, to ensure the inclusion of an accepted paper in the conference proceedings: November 19, 2025.",
+      "Camera-ready Submission: November 19, 2025",
+      "Website of ICITS'26: https://icits.me/ <https://mkt.saisti.eu/go/c9291612eaf7-4023621248-753cddad01c932997ecd2cacc173eGe2OOTe1cH9Me5Be5FZ>",
+      "ICITS'26 Team",
+      "https://icits.me/ <https://mkt.saisti.eu/go/c9291612eaf7-4023621248-753cddad01c932997ecd2cacc173eGe2OOTe1cH9Me5Be5FZ>",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
     "conf_name_candidates": [
       {
-        "raw": "ER 2025",
-        "acronym": "ER",
-        "year": 2025,
-        "evidence": "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference."
-      },
-      {
-        "raw": "Fundamentals of Conceptual Modeling",
-        "acronym": "FCM",
-        "year": null,
-        "evidence": "*Fundamentals of Conceptual Modeling (FCM)*"
-      },
-      {
-        "raw": "6th International Workshop on Conceptual Modeling for Life Sciences",
-        "acronym": "CMLS",
-        "year": null,
-        "evidence": "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*"
-      },
-      {
-        "raw": "3rd International Workshop Modeling in the Age of Large Language Models",
-        "acronym": "LLM4Modeling",
-        "year": null,
-        "evidence": "*3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)*"
-      },
-      {
-        "raw": "11th International Workshop on Ontologies and Conceptual Modeling",
-        "acronym": "OntoCom",
-        "year": null,
-        "evidence": "*11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)*"
-      },
-      {
-        "raw": "6th International Workshop on Quality and Measurement of Model-Driven Software Development",
-        "acronym": "QUAMES",
-        "year": null,
-        "evidence": "*6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)*"
+        "raw": "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+        "acronym": "ICITS",
+        "year": 2026,
+        "evidence": "ICITS'26 - 9th Int. Conference on Information Technology & Systems, Roatán Island, Honduras, 16-18 February 2026"
       }
     ],
     "conf_name_final": null,
     "conf_name_tokens": [
-      "ER 2025"
+      "ICITS 2026"
     ],
     "start_date": null,
     "submission_deadline": null,
-    "conference_website": null,
-    "evidence_sentences": [
-      "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference.",
-      "These workshops serve as an intensive collaborative forum for exchanging innovative ideas about conceptual modeling, and for discovering new frontiers for its use.",
-      "Details regarding the Call for Papers for each workshop can be found on the respective workshop's website (linked below):",
-      "Common deadlines in all the five workshops are: Submission Deadline: *27 June 2025* Notification:* 28 July 2025*",
-      "If you have any questions, do not hesitate to contact the ER Workshop Chairs at [log in to unmask]"
-    ]
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 6807,
+    "purpose": 569,
+    "infos": 2712
   }
 }

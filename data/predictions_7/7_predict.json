@@ -1,0 +1,20 @@
+{
+  "purpose": "The email is a call for participation in the 41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025), which will take place in Auckland, New Zealand from September 7 to September 12, 2025. It invites researchers and practitioners to join for a global exchange of ideas and highlights the program features, including keynotes, panels, and networking opportunities. Additionally, it encourages student volunteers to apply and mentions travel support for US-based attendees.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": null,
+  "is_cfp_mail_text": false,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "ICSME 2025 will be held in Auckland, New Zealand, from Sunday, September 7 to Friday, September 12, 2025.",
+    "This is the first call for participation — join us for a vibrant, global exchange of ideas in one of the most beautiful and dynamic cities in the southern hemisphere.",
+    "The ICSME 2025 program will feature: Cutting-edge research on software evolution, maintenance, and analysis.",
+    "Get involved, meet mentors, and experience the conference from the inside — Application still open!",
+    "Travel support for US-based attendees is available through generous NSF funding."
+  ]
+}

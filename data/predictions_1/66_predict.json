@@ -1,0 +1,13 @@
+{
+  "purpose": "The email is a call for proposals for workshops and tutorials associated with the JELIA 2025 conference.",
+  "is_cfp": true,
+  "coference_name": "JELIA 2025",
+  "start_date": "2025-09-01",
+  "submission_deadline": null,
+  "conference_website": "https://viam.science.tsu.ge/jelia2025/",
+  "evidence_sentences": [
+    "The organizers of the JELIA conference are now inviting proposals for affiliated workshops and tutorials.",
+    "We welcome submissions on any topic related to Artificial Intelligence.",
+    "We are especially interested in workshops that explore the intersection of statistical and symbolic AI."
+  ]
+}

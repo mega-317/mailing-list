@@ -1,0 +1,21 @@
+{
+  "purpose": "The email invites applications for two postdoctoral positions at UCLouvain, Belgium, focused on edge/cloud computing.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We invite applications for two postdoctoral positions at UCLouvain, Belgium.",
+    "two postdoc positions at UCLouvain, a top Belgian university, close to Brussels;",
+    "open to holders of a Ph.D. in computer science currently outside Belgium;",
+    "competitive salary and support, including access to large-scale experimental testbeds;",
+    "These two positions are thematically open to the interest and expertise of the candidates.",
+    "Each of the two postdoctoral researchers will have the opportunity to develop an independent research project, based on her/his interests, and under the mentoring of the three PIs."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "The email announces the call for papers for the 2nd International Conference on Engineering Digital Twins (EDTconf 2025).",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are excited to share the call for papers, to the International Conference on Engineering Digital Twins.",
+    "2nd International Conference on Engineering Digital Twins (EDTconf 2025) - Call for Papers -",
+    "EDTconf 2025 aims to bring together researchers and practitioners from academia and industry to shape the future of engineering DTs in a systematic, scalable, and principled way."
+  ]
+}

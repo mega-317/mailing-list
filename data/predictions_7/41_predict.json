@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces the 29th ETAPS International Joint Conferences on Theory and Practice of Software, scheduled for April 11-16, 2026, in Torino, Italy. It provides details about the conference, including submission deadlines, publication information, and the types of contributions solicited. The email emphasizes the significance of ETAPS as a leading forum for software science research and outlines the new features for the 2026 event.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": "conference",
+  "is_cfp_purpose": null,
+  "is_cfp_mail_text": true,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "29th ETAPS International Joint Conferences On Theory and Practice of Software ETAPS 2026 Torino, Italy, April 11-16, 2026",
+    "ETAPS is one of the world's leading fora for research on software science, with a history of more than 25 years.",
+    "Submission deadlines are strict and firm, no exceptions will be granted.",
+    "The proceedings will be published in the Advanced Research in Computing and Software Science (ARCoSS) subline of Springer's LNCS series.",
+    "Several satellite workshops and other events will take place during the weekend before the main conferences."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "purpose": "The email announces the opening of applications for the 2025 Summer School on Informatics Education Research (SCHIER).",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": true,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 0,
+    "false_votes": 3
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Applications are now open for the 2025 Summer School on Informatics Education Research (SCHIER).",
+    "||SCHIER: the only summer school in Europe exclusively focused on research in Informatics Education*||",
+    "[When] 8–12 September 2025",
+    "[Where] UCLouvain, Louvain-la-Neuve, Belgium",
+    "[Who should attend] PhD students, postdocs, and researchers with an interest in Informatics Education Research",
+    "Applications are now open, limited to 40 participants on a first-come, first-served basis.",
+    "[Application Deadline] 25 June 2025",
+    "Learn more and apply now: https://www.informatics-europe.org/education/informatics-education-research-school.html"
+  ]
+}

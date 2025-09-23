@@ -1,0 +1,17 @@
+{
+  "purpose": "The email is a call for papers for the 44th International Conference on Conceptual Modeling (ER 2025) taking place in Poitiers, France.",
+  "is_cfp": true,
+  "coference_name": "ER 2025",
+  "start_date": "2025-10-20",
+  "submission_deadline": "2025-05-26",
+  "conference_website": "https://er2025.ensma.fr/",
+  "evidence_sentences": [
+    "ER2025 Call for Papers",
+    "44th International Conference on Conceptual Modeling (ER 2025)",
+    "20-23 October 2025, Poitiers, France",
+    "We invite the Conceptual Modelling community to deliberate on how traditional modeling principles and frameworks can contribute and adapt to new advancements in AI, data ecosystems, and autonomous platforms while upholding ethical standards and fostering trust in digital innovations.",
+    "We welcome submissions of original research on a variety of topics on conceptual modeling, including well-established and emerging areas of research and practice, as well as submissions that lead to new foundations, links, applications, or enlarge current boundaries of conceptual modeling.",
+    "Full paper abstracts submission (mandatory): 19 MAY 2025",
+    "Full paper submission: 26 MAY 2025"
+  ]
+}

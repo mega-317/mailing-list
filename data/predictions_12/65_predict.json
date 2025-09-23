@@ -1,0 +1,36 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the Call for Papers for the ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2026), which will take place in Sydney, Australia. It provides details about the submission deadlines, including the paper submission date, author rebuttal period, and notification date. The email encourages researchers and practitioners in the field of optimization and code generation to submit their work for consideration.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2026)",
+        "acronym": "CGO",
+        "year": 2026,
+        "evidence": "next International Symposium on Code Generation and Optimization (CGO’26)"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The Call for Papers is out for the next International Symposium on Code Generation and Optimization (CGO’26), taking place next year in Sydney, Australia.",
+      "The first submission round is coming up, with the following deadlines:",
+      "*   Paper Submission: 29 May 2025",
+      "*   Author Rebuttal Period: 8–10 July 2025",
+      "*   Paper Notification: 21 July 2025",
+      "We look forward to receiving your submissions!"
+    ]
+  }
+}

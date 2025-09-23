@@ -1,0 +1,40 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for the International Conference on Software Engineering (ICSE) 2026 Research Track, inviting high-quality submissions of original and unpublished research papers in the field of Software Engineering. The conference will take place from April 12-18, 2026, in Rio de Janeiro, Brazil, with a submission deadline of July 18, 2025. It highlights the transition to Open Access for all articles published by ACM starting in 2026, which will benefit authors and increase research visibility. The email outlines important submission guidelines, research areas of interest, review criteria, and the expectations for conference attendance if a paper is accepted.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "International Conference on Software Engineering (ICSE) 2026 Research Track",
+        "acronym": "ICSE",
+        "year": 2026,
+        "evidence": "International Conference on Software Engineering (ICSE) Research Track"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "CALL FOR PAPERS",
+      "International Conference on Software Engineering (ICSE) Research Track",
+      "April 12-18, 2026",
+      "Submission deadline: Friday, July 18, 2025",
+      "In the research track, we invite high-quality submissions of technical research papers describing original and unpublished results of software engineering research.",
+      "Starting 2026, all articles published by ACM will be made Open Access.",
+      "Authors are encouraged to help advocate for their institutions to join ACM Open during this transition period.",
+      "ICSE welcomes submissions addressing topics across the full spectrum of Software Engineering.",
+      "Each paper submitted to the Research Track will be evaluated based on the following criteria: Novelty, Rigor, Relevance, Verifiability and Transparency, Presentation.",
+      "If a submission is accepted, at least one author of the paper is required to register for ICSE 2026 and present the paper."
+    ]
+  }
+}

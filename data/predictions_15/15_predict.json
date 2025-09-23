@@ -1,0 +1,57 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 5th IEEE International Conference on Code Quality (ICCQ'25), scheduled for December 13, 2025, at Ural Federal University in Russia. It aims to gather researchers to discuss improvements in code quality through topics like static analysis and bug detection. The conference will be hybrid, allowing both in-person and remote presentations. Important dates for paper submissions and notifications are provided, along with details about the program committee and publication criteria.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: CfP: 5th IEEE International Conference on Code Quality (ICCQ'25)\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Mon, 7 Jul 2025 03:08:13 -0000\nContent-Type:text/plain",
+      "Name: 5th International Conference on Code Quality (ICCQ)",
+      "Date: Dec 13, 2025",
+      "Website: https://www.iccq.ru/2025.html",
+      "IMPORTANT DATES",
+      "Paper/abstract submission: 10 Aug 2025 (anywhere on Earth)",
+      "Author notification: 1 Nov 2025",
+      "Camera-ready submissions: 25 Nov 2025",
+      "Conference: 13 Dec 2025",
+      "EasyChair: https://easychair.org/cfp/iccq25",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "ICCQ'25",
+        "acronym": "ICCQ",
+        "year": 2025,
+        "evidence": "5th IEEE International Conference on Code Quality (ICCQ'25)"
+      },
+      {
+        "raw": "5th International Conference on Code Quality",
+        "acronym": null,
+        "year": 2025,
+        "evidence": "5th International Conference on Code Quality (ICCQ)"
+      }
+    ],
+    "conf_name_tokens": [
+      "ICCQ 2025"
+    ],
+    "conf_name_final": "ICCQ 2025",
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 3804,
+    "purpose": 504,
+    "infos": 611
+  }
+}

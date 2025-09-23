@@ -1,0 +1,17 @@
+{
+  "purpose": "The email is a call for workshop proposals for the IEEE International Conference on Artificial Intelligence of Things (IEEE AIoT 2025), scheduled for December 3-5, 2025, in Osaka, Japan. It also includes an apology for any duplicate messages received regarding this call for proposals.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": null,
+  "is_cfp_mail_text": false,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Subject: [Call for Workshop Proposals] IEEE International Conference on Artificial Intelligence of Things (IEEE AIoT 2025), Dec. 3-5, 2025, Osaka, Japan",
+    "*** Please accept our apologies if you receive multiple copies of this CFP"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email is a notification about a job opening for a Senior Lecturer in Computer Science with a specialization in AI Engineering at Karlstad University, Sweden. It provides details about the position, including the application deadline, qualifications required, and the responsibilities associated with the role. The sender, Leonardo Iwaya, encourages colleagues to consider applying for this position within the Software Quality and Digital Modernization (SQuaD) group. The email also highlights the university's commitment to a collaborative and inclusive academic environment.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 11056,
+    "purpose": 580,
+    "infos": 0
+  }
+}

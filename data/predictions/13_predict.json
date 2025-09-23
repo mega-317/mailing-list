@@ -1,0 +1,43 @@
+{
+  "purpose": "The email announces the upcoming IEEE iMETA 2025 conference and provides details for paper submissions.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "iMETA 2025",
+  "start_date": "2025-10-14",
+  "submission_deadline": "2025-07-30",
+  "conference_website": "https://imeta-conference.org/",
+  "evidence_sentences": [
+    "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
+    "14-17 October 2025 | Dubrovnik, Croatia",
+    "Technically sponsored by IEEE Croatia section",
+    "The International Conference on Intelligent Metaverse Technologies & Applications (iMETA) is to bring together leading researchers, academics, and industry experts to explore the various aspects of the distributive metaverse, including its technologies, applications, and implications for various industries.",
+    "Important Dates: Late Track Submission Papers due: July 30, 2025",
+    "Submission Link: https://easychair.org/my/conference?conf=imeta2025"
+  ]
+}

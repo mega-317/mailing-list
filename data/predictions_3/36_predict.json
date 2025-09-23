@@ -1,0 +1,18 @@
+{
+  "purpose": "The email invites submissions for three workshops at the PROFES 2025 conference in Salerno, Italy.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are pleased to invite submissions to the following three workshops, co-located with the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025), to be held in Salerno, Italy, on December 1, 2025.",
+    "These workshops provide forums for researchers, practitioners, and policymakers to present and discuss recent advancements and challenges in software engineering and its intersection with machine learning, healthcare technologies, and software analytics.",
+    "Important Dates (for all workshops): Submission Deadline: August 9, 2025."
+  ]
+}

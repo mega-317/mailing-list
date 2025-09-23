@@ -1,0 +1,43 @@
+{
+  "purpose": "Announce an open Postdoctoral Fellow position in Software Engineering for AI Systems at Concordia University.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": true,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 0,
+    "false_votes": 3
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "A Postdoctoral Fellow position in Software Engineering for AI Systems is open in the Data-driven Analysis of Software (DAS) lab at Concordia University, Montreal, Canada.",
+    "The position is for a two year term, starting in September 2025 or shortly after.",
+    "The postdoc fellow will be involved in several projects related to the development, analysis and deployment of AI based systems.",
+    "Candidates must hold, or shortly expect to receive, a PhD in Software Engineering (or a related field) and have a proven track record of research excellence in Software Engineering.",
+    "To apply, interested candidates should fill out an application at the following link: https://dearprof.com/positions/66b4f1c30178fa4bf77d0614/apply and/or email a cv to [log in to unmask]",
+    "Review of applications will begin June 30, 2025 and continue to be accepted until the position is filled."
+  ]
+}

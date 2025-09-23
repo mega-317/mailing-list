@@ -1,0 +1,40 @@
+{
+  "purpose": "The ECSA Steering Committee invites the submission of Letters of Interest to organize the European conference on Software Architecture (ECSA) in September 2027 and onwards.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": true,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": false,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": true,
+    "call_app": true,
+    "info": false,
+    "etc": false
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 1,
+    "false_votes": 2
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The ECSA Steering Committee now invites the submission of Letters of Interest to organize ECSA in September 2027 and onwards.",
+    "The Letters of Interest are meant to inform the ECSA Steering Committee of the potential intent of teams to organize ECSA in prospective venues.",
+    "Submission of the Letter of Interest: Deadline: 30th June 2025 (23:59 Anywhere on Earth)."
+  ]
+}

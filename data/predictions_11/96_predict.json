@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for a special issue of the Journal of Systems and Software focused on 'Intelligent DevOps for Performance, Sustainability, and Reliability.' It outlines the significance of DevOps in software engineering, highlighting both its advantages and challenges regarding software quality. The special issue aims to consolidate recent research and advancements in this area, covering various sub-topics such as observability, AIOps techniques, and intelligent test automation. The submission deadline for manuscripts is set for September 30, 2025.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Call for Papers ― JSS Special Issue on 'Intelligent DevOps for Performance, Sustainability, and Reliability'",
+      "A special issue of the Journal of Systems and Software.",
+      "Submission Deadline: 30 September 2025",
+      "This special issue aims to consolidate the latest research and advancements on the topic of Intelligent DevOps for performance, sustainability, and reliability.",
+      "The list of relevant sub-topics we aim target include: Observability and monitoring in DevOps pipelines, including data collection, visualization, and analysis.",
+      "Submission Instructions: Submissions should be prepared according to the Guide for Authors.",
+      "Date of submission deadline: 30th September 2025"
+    ]
+  }
+}

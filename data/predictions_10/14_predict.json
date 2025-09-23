@@ -1,0 +1,20 @@
+{
+  "has_body": true,
+  "purpose": "The email announces two full-time, permanent lecturer/senior lecturer positions at Massey University in New Zealand, specifically within the School of Mathematical & Computational Sciences. The university is looking for candidates with expertise in AI, cybersecurity, software engineering, or human-computer interaction. The roles involve teaching, supervising students, and leading research initiatives.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": false,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The School of Mathematical & Computational Sciences at Massey University is seeking *two full-time, permanent* academic staff members to join the Computer Science and Information Technology group, based at our Albany Campus, Auckland.",
+    "We are interested in candidates with a research focus in AI, cybersecurity, software engineering, or human-computer interaction.",
+    "In this role, you’ll provide high-quality teaching and supervision at undergraduate and postgraduate levels, both in-person and online.",
+    "You will also lead and contribute to an active research programme, including the supervision of Master's and PhD students, and pursue external research funding opportunities."
+  ]
+}

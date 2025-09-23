@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the opening of applications for the 2025 Summer School on Informatics Education Research (SCHIER), which is the only summer school in Europe focused on this field. It provides details about the event, including the dates, location, target audience, and registration fees. The email emphasizes the benefits of attending, such as expert-led lectures, collaborative discussions, and networking opportunities. It also highlights the limited availability of spots and the application deadline.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2439,
+    "purpose": 508,
+    "infos": 0
+  }
+}

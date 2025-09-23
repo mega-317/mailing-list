@@ -1,0 +1,61 @@
+
+
+
+ 
+
+Subject:     Call for workshops and tutorials associated with JELIA 2025
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Wed, 21 May 2025 23:24:55 -0000
+Content-Type:text/plain
+
+
+
+
+
+--------------------------------------------------------------------------------
+ 19th edition of the European Conference on Logics in Artificial
+Intelligence
+
+                      1-5 September 2025, Kutaisi, Georgia
+                      https://viam.science.tsu.ge/jelia2025/
+                     Call for Workshop and Tutorial Proposals
+ -------------------------------------------------------------------------------
+
+
+The organizers of the JELIA conference are now inviting proposals for
+affiliated workshops and tutorials. We welcome submissions on any topic
+related to Artificial Intelligence.
+
+Workshops typically provide a forum for presenting ongoing research that is
+not yet ready for formal publication, while tutorials may, for example,
+offer in-depth introductions to specific topics or extended demonstrations
+of software tools.
+
+We are especially interested in workshops that explore the intersection of
+statistical and symbolic AI—a rapidly growing area of research that seeks
+to combine the strengths of data-driven machine learning approaches with
+the rigor, structure, and interpretability of logic-based reasoning. We
+particularly encourage proposals that aim to bridge communities and foster
+dialogue between researchers working in machine learning, knowledge
+representation, logic, and cognitive systems, in line with JELIA’s
+longstanding mission to promote foundational and applied research in
+logical aspects of AI.
+
+If you are considering organizing a workshop or tutorial, please feel free
+to reach out to me by email ([log in to unmask]) as soon as possible.
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces openings for postdoctoral positions in Michael Pradel's group at CISPA/University of Stuttgart. It outlines potential research topics such as AI for software modification, program analysis, and test input generation. The positions are fully funded and will be filled as soon as possible, with the workplace located in Stuttgart, Germany. Interested candidates are directed to visit the provided website for more details and application instructions.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "I have openings for postdocs to join my group.",
+      "Possible topics include AI to reason about and modify software (e.g., LLM agents for finding and fixing bugs), static and dynamic program analysis (e.g., to infer specifications), and test input generation (e.g., to compare the behavior of old and new code via differential testing).",
+      "The positions will be at CISPA, are fully funded, and will be filled as soon as possible.",
+      "The work place is Stuttgart, Germany.",
+      "Please see https://software-lab.org/ for details and how to apply."
+    ]
+  }
+}

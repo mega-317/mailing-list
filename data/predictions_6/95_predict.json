@@ -1,0 +1,21 @@
+{
+  "purpose": "The email is a call for workshop proposals for the 23rd International Conference on Service-Oriented Computing (ICSOC 2025), which will take place from December 1-4, 2025, in Shenzhen, China. It invites applicants to submit high-quality workshop proposals that contribute to the scientific program of the conference, focusing on specific sub-areas within Service-Oriented Computing. The email also provides important dates for submission and details about the workshop chairs.",
+  "cfp_candidate": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "ICSOC is inviting applicants to submit proposals for high-quality workshops contributing to the scientific program of the main conference.",
+    "The workshop program seeks to provide venues for specialist groups to meet and hold a focused discussion on specific sub-areas within Service-Oriented Computing, and to engage in community-building activities.",
+    "Workshop proposals shall be submitted to Workshop Co-chairs, see https://icsoc2025.hit.edu.cn/19950/list.htm for the list of information to include in the proposal.",
+    "Workshop proposals submission due: 20 June 2024 (AoE)",
+    "Workshop date: 01 December 2025 (AoE)"
+  ]
+}

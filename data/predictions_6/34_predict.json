@@ -1,0 +1,19 @@
+{
+  "purpose": "The email announces a full-time Post-Doc position at the Johannes Kepler University Linz Institute of Technology, focusing on software engineering research in collaboration with Dynatrace. The position involves conducting research in distributed software systems, cloud computing, and real-time data processing, along with responsibilities such as applying for grants and publishing findings. Interested candidates are encouraged to apply by the deadline of August 10.",
+  "cfp_candidate": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are looking for a (up to three-years contract) Post-Doc for the Johannes Kepler University (JKU) Linz Institute of Technology (LIT).",
+    "The Post-Doc is expected to conduct software engineering research in the JKU / Dynatrace Austria Co-Innovation Lab, with a particular focus on one or several of the following topics:",
+    "Apply now via the link below (Deadline Aug 10) or contact me in case you have any questions."
+  ]
+}

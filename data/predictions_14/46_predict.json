@@ -1,0 +1,85 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the workshops that will be held in conjunction with the ER 2025 conference, highlighting their role as a collaborative forum for innovative ideas in conceptual modeling. It provides links to the workshops' websites and details about the Call for Papers, including submission and notification deadlines. The email also lists the workshop chairs and encourages recipients to reach out with any questions.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "workshop",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: [CFP] ER2025 - List of Workshops\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Thu, 5 Jun 2025 13:51:25 -0000\nContent-Type:text/plain",
+      "=========== Workshops at ER 2025 ===========",
+      "https://er2025.ensma.fr/workshops/",
+      "Continuing a long tradition, ER 2025 will host workshops to be held in",
+      "*Fundamentals of Conceptual Modeling (FCM)*",
+      "https://ae-ainf.aau.at/fcm/",
+      "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*",
+      "https://purl.org/cmls-2025",
+      "*3rd International Workshop Modeling in the Age of Large Language Models",
+      "https://www.unifr.ch/inf/digits/en/events/3rd-international-workshop-modeling-in-the-age-of-large-language-models-(llm4modeling).html",
+      "*11th International Workshop on Ontologies and Conceptual Modeling",
+      "(OntoCom)*https://ontocomworkshops.github.io/OntoCom2025/",
+      "*6th International Workshop on Quality and Measurement of Model-Driven",
+      "Software Development (QUAMES)*https://quames.testar.org",
+      "Submission Deadline: *27 June 2025*",
+      "Notification:* 28 July 2025*",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "ER 2025",
+        "acronym": "ER",
+        "year": 2025,
+        "evidence": "Continuing a long tradition, ER 2025 will host workshops to be held in"
+      },
+      {
+        "raw": "Fundamentals of Conceptual Modeling (FCM)",
+        "acronym": "FCM",
+        "year": null,
+        "evidence": "Continuing a long tradition, ER 2025 will host workshops to be held in *Fundamentals of Conceptual Modeling (FCM)*"
+      },
+      {
+        "raw": "6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)",
+        "acronym": "CMLS",
+        "year": null,
+        "evidence": "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*"
+      },
+      {
+        "raw": "3rd International Workshop Modeling in the Age of Large Language Models",
+        "acronym": null,
+        "year": null,
+        "evidence": "*3rd International Workshop Modeling in the Age of Large Language Models"
+      },
+      {
+        "raw": "11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)",
+        "acronym": "OntoCom",
+        "year": null,
+        "evidence": "*11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)*"
+      },
+      {
+        "raw": "6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)",
+        "acronym": "QUAMES",
+        "year": null,
+        "evidence": "*6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)*"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "ER 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2228,
+    "purpose": 422,
+    "infos": 1101
+  }
+}

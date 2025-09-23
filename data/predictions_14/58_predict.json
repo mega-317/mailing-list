@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a recruitment opportunity for an Associate Professor (tenured, W2) position at TU Braunschweig in Germany, specifically in the area of Software Engineering for Safety Critical Systems. The email outlines the qualifications sought, including a promising track record in system design and analysis for safety and security requirements, and lists relevant research topics such as Model Checking and Static Program Analysis. The sender encourages recipients to reach out with questions and to share the opportunity with interested colleagues.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 1984,
+    "purpose": 558,
+    "infos": 0
+  }
+}

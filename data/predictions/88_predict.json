@@ -1,0 +1,42 @@
+{
+  "purpose": "This email is a call for papers for a special issue on Responsible Artificial Intelligence in the journal Information Processing & Management.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": true,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": false,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": true,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 1,
+    "false_votes": 2
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Submission deadline: 30 October 2025",
+    "This special issue seeks to bring together cutting-edge research, methodologies, and critical reflections on Responsible Artificial Intelligence (RAI).",
+    "As AI technologies permeate decision-making across industry, government, and society, the demand for systems that are fair, accountable, transparent, and trustworthy has never been more urgent.",
+    "Submissions are welcome on (but not limited to) the following topics:",
+    "We invite original, high-quality submissions that contribute substantively to the field of Responsible AI."
+  ]
+}

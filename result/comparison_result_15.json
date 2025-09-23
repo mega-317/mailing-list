@@ -1,0 +1,123 @@
+{
+  "summary": {
+    "overall": {
+      "total_files": 100,
+      "files_all_correct": 92,
+      "files_with_any_error": 8
+    },
+    "per_field": {
+      "is_call_for_paper": {
+        "matches": 96,
+        "errors": 4,
+        "label_true_predict_false": 1,
+        "label_false_predict_true": 3
+      },
+      "conference_name": {
+        "matches": 93,
+        "errors": 7,
+        "null_to_value": 2,
+        "value_to_null": 1,
+        "wrong_value": 4
+      }
+    }
+  },
+  "match_count": 92,
+  "total_files": 100,
+  "mismatched_files": [
+    {
+      "file": "13_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": true,
+          "predict_value": false
+        },
+        {
+          "field": "conference_name",
+          "label_value": "iMETA 2025",
+          "predict_value": null
+        }
+      ]
+    },
+    {
+      "file": "33_predict.json",
+      "mismatches": [
+        {
+          "field": "conference_name",
+          "label_value": "EDTconf 2025",
+          "predict_value": "EDT 2025"
+        }
+      ]
+    },
+    {
+      "file": "38_predict.json",
+      "mismatches": [
+        {
+          "field": "conference_name",
+          "label_value": "FROM 2025",
+          "predict_value": "9th Working Formal Methods Symposium"
+        }
+      ]
+    },
+    {
+      "file": "41_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        }
+      ]
+    },
+    {
+      "file": "42_predict.json",
+      "mismatches": [
+        {
+          "field": "conference_name",
+          "label_value": "JOWO 2025",
+          "predict_value": "FOIS 2025"
+        }
+      ]
+    },
+    {
+      "file": "53_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        },
+        {
+          "field": "conference_name",
+          "label_value": null,
+          "predict_value": "ICLP 2025"
+        }
+      ]
+    },
+    {
+      "file": "81_predict.json",
+      "mismatches": [
+        {
+          "field": "is_call_for_paper vs is_cfp",
+          "label_value": false,
+          "predict_value": true
+        },
+        {
+          "field": "conference_name",
+          "label_value": null,
+          "predict_value": "EASE 2025"
+        }
+      ]
+    },
+    {
+      "file": "100_predict.json",
+      "mismatches": [
+        {
+          "field": "conference_name",
+          "label_value": "MLOps 2025",
+          "predict_value": "ECAI 2025"
+        }
+      ]
+    }
+  ]
+}

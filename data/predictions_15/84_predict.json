@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for a special issue on 'Conceptual and Technical Engineering of Blockchain-based Information Systems' in the journal Information Systems. It outlines the submission timeline, including the open date, deadline, and acceptance date. The special issue aims to address the conceptual and technical challenges associated with Blockchain-based Information Systems (BISs) and invites contributions on various related topics. The email provides details on the types of contributions sought, including both conceptual and technical aspects, and specifies the submission process and peer-review procedure.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 5643,
+    "purpose": 626,
+    "infos": 0
+  }
+}

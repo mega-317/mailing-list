@@ -1,0 +1,261 @@
+
+
+
+ 
+
+Subject:     Call for participation - 5th LATAM School in Software Engineering Research
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Wed, 25 Jun 2025 16:20:46 -0000
+Content-Type:text/plain
+
+
+
+
+
+*Call for participation*
+*5th LATAM School in Software Engineering Research*
+*Co-located with CBSoft - XVI Brazilian Conference on Software: Practice
+and Theory. *
+*September 22nd to 26th, Recife, PE. *
+----------------------------------------------------
+*Organization: Prof. Lina Garcés (USP)  E-mail:  [log in to unmask]
+<[log in to unmask]>*
+*See full information in: *https://cbsoft.sbc.org.br/2025/escola
+----------------------------------------------------
+
+It is a great pleasure to invite students and young researchers to apply
+for this exceptional opportunity to learn about the possibilities to pursue
+a career in Software Engineering (SE) research.
+
+We invite applications for the 5th Latin American School of SE, an
+in-person event co-located with the Brazilian Conference on Software:
+Practice and Theory (CBSoft 2025), which will take place in Recife,
+Pernambuco, Brazil, from September 22 to 26, 2025. CBSoft is the leading
+Brazilian event for the SE research community and the largest one in Latin
+America. The LATAM school is scheduled for September 22nd and 23rd, 2025.
+
+The school welcomes undergraduate, MSc, and PhD students from Latin
+American institutions who are researching SE topics. We will also welcome
+researchers who have defended their PhD theses in 2024 and are working in
+Latin American institutions.
+
+The main goal of the 5th edition of the LATAM school is to help new and
+future Software Engineering (SE) researchers become part of the larger
+software engineering community. The school will enable participants to
+explore potential pathways and gain a deeper understanding of the
+challenges and opportunities in SE research. Students will have an
+excellent opportunity to interact with top academic and industry
+researchers, learn about their careers, and discover how to disseminate
+results, as well as hear about important topics that are not typically
+covered in graduate courses.
+
+Beyond the outstanding keynotes, we will provide a mentoring program where
+students will have the chance to receive feedback from a renowned
+researcher. Students will be grouped by software engineering topics, and
+each student will have at least one mentor. The mentoring sessions will
+occur with students presenting a poster with a 10-minute lightning talk
+about their research. Also, mentoring sessions will last approximately 30
+minutes.
+
+For the first time in the LATAM School, there will be a panel with 3-4
+experienced researchers who will answer any questions students ask about SE
+research and careers in academia and industry.
+Important dates
+
+Application deadline:
+
+June 30th, 2025
+
+Notification date:
+
+July 20th, 2025
+
+LATAM School:
+
+September 22nd and 23rd, 2025.
+Eligibility
+
+The applicants must be:
+
+   -
+
+   Ph.D., MSc students from Latin American institutions, or who received
+   the Ph.D. degree on or after 2024, and who work in Latin American
+   organizations/universities;
+   -
+
+   Highly motivated undergraduate students might be accepted, and
+   -
+
+   Working with software engineering topics.
+
+There are **limited spots** (maximum of 50 students) to be filled for this
+school that will be given to Latin American applicants. We will select the
+participants based on different criteria (academic background, research
+topic, diversity) to ensure the adequacy of the school and diversity. We
+encourage all those interested in applying!
+How to apply?
+
+You need to provide the following documents:
+
+   -
+
+   A structured abstract of your research with the headings:
+   Context/Problem, Aims, Method, and Results (Expected Results), written in
+   English. No specific template is required. The structured abstract must
+   explicitly describe the research plan the students are conducting (1-page
+   limit).
+   -
+
+   Poster: The poster should outline your research. It should be a balance
+   of visuals and text. It must present the research overview, research
+   questions, method, results obtained, and future plans.
+
+   -
+
+      Poster dimensions: 122cm (height) and 92cm (width). Try to use large
+      fonts, such as font size 36-48 for section headings and font
+size 20-28 for
+      text
+      -
+
+   If the student has publications, a document containing a list of papers
+   published in journals and conferences between 2022 and 2025. The document
+   must present the Year of Publication, Paper Title, Conference or Journal,
+   List of Authors and Link to the student DBLP pointing to the paper. We will
+   mainly consider the conferences and journals available at CSIndex (
+   https://csindexbr.org) - Software Engineering (list of TOP-15 best
+   conferences and TOP-15 Journals). Students can also consider publications
+   from the following venues:
+
+   -
+
+      Ibero-American Conference on Software Engineering (CIbSE)
+      -
+
+      Brazilian Symposium on Software Engineering (SBES)
+      -
+
+      Brazilian Symposium on Software Components, Architectures, and Reuse
+      (SBCARS)
+      -
+
+      Brazilian Symposium on Systematic and Automated Software Testing
+      (SAST)
+      -
+
+      Brazilian Symposium on Software Quality (SBQS)
+      -
+
+      Journal of Software Engineering Research and Development (JSERD).
+
+Submissions must explicitly state the names of the applicant, advisor, and
+affiliation.
+
+Submissions should be electronically made through JEMS3 (
+https://jems3.sbc.org.br/latamschool2025).
+Benefits for selected participants
+
+   -
+
+   Free registration for the School (including lunch and coffee break)
+   -
+
+   Free participation in the CBsoft
+
+Sponsorship
+
+Some participants may receive financial support to attend the event,
+subject to available funding.
+
+Sponsorship is possible thanks to the ACM SIGSOFT!
+
+Upon acceptance to the school, participants will receive an email detailing
+the registration procedure.
+Program
+
+The school is dedicated to topics related to career and research in
+Software Engineering. The LATAM School comprises activities as keynotes,
+panel discussions, and mentoring sessions.
+
+   -
+
+   Keynote topics:
+   -
+
+      Research methodologies: Robust software engineering research involves
+      the design and execution of scientific methods. The rigor involved in the
+      methodology of a study is key for producing high-quality research that
+      lives up to the high standards of top journals and conferences.
+Therefore,
+      research methodology is a central topic that will be involved in several
+      school activities.
+      -
+
+      Open science: A movement for more openness, collaboration, and
+      transparency in science. Even though all kinds of research artifacts are
+      essential parts of research projects, there is still a lack of awareness
+      and training about them worldwide. We argue that researchers should be
+      aware and trained early in their career to perform research considering
+      open science by construction, i.e., during the study planning
+and protocol.
+      -
+
+      Industry research: Over the years, industry research has become a
+      very desirable opportunity for academic researchers to
+collaborate with the
+      industry and target more practical problems. However, how exactly this
+      works is unknown to many supervisors, which in turn remains unknown to
+      students. This topic will be covered in school as a new path for
+the career
+      and a possible collaboration avenue for research.
+      -
+
+      Life balance and health: The rise of many mental-related health
+      issues in the world, such as burnout, depression, and impostor syndrome,
+      has led to a need to discuss this subject with early researchers and
+      students. Working in academia can be very unstructured, and many
+get overly
+      involved in reaching success and ignore their health and life outside the
+      workplace. Because of that, we aim to discuss the need for a life balance
+      for a healthier and truly successful life.
+      -
+
+   Mentoring program: In the mentoring program, students will be grouped by
+   software engineering topics and have at least one mentor. Students will
+   then present a poster of their ongoing research, answer questions, and
+   receive personalized feedback from the mentor. They can also ask mentors
+   questions related to their projects. Students are expected to apply
+   knowledge obtained from mentoring in their research projects.
+   -
+
+   Panel with Researchers in Software Engineering: The panel will be
+   question-driven, with the questions made by the students. There will be 3-4
+   researchers who will answer any questions students will ask that are
+   related to career and research, including all the topics covered by the
+   school that are mentioned above.
+
+LATAM School
+
+September 22nd and 23rd, 2025, Recife, PE, Brazil.
+
+For more details about CBSoft 2025 and how to plan your trip to Recife,
+please visit the website: https://cbsoft.sbc.org.br/2025/cbsoft/
+OrganizersLina Garcés, ICMC-USP.  In case of doubt, be in touch (<
+[log in to unmask]>)
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

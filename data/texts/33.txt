@@ -1,0 +1,143 @@
+
+
+
+ 
+
+Subject:     CfP - 2nd International Conference on Engineering Digital Twins
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Mon, 16 Jun 2025 05:31:20 -0000
+Content-Type:text/plain
+
+
+
+
+
+Dear colleagues,
+
+We are excited to share the call for papers, to the International Conference on Engineering Digital Twins.
+
+===================================================================
+         2nd International Conference on Engineering Digital Twins
+                             (EDTconf 2025)
+                         - Call for Papers -
+===================================================================
+
+Co-located with MODELS 2025 | October 6–7, 2025, Michigan, US
+Website: www.edtconf.org
+
+===================================================================
+                            Conference Scope
+===================================================================
+Digital Twins (DTs) have emerged as a key approach to understand,
+monitor, and improve systems across various domains including
+agriculture, automotive, avionics, construction, healthcare,
+manufacturing, and smart cities.
+
+DT development is inherently multi-disciplinary and requires the
+integration of data, models, simulation, software engineering,
+and domain knowledge. Despite increasing adoption, DT engineering
+is still often ad hoc, lacking systematic concepts, methods, and tools.
+
+EDTconf 2025 aims to bring together researchers and practitioners
+from academia and industry to shape the future of engineering DTs
+in a systematic, scalable, and principled way.
+
+===================================================================
+                            Important Dates
+===================================================================
+Abstract submission deadline:       June 27, 2025
+Paper submission deadline:          July 02, 2025
+Notification of acceptance:         August 05, 2025
+Camera-ready submission:            August 20, 2025
+
+===================================================================
+                               Topics
+===================================================================
+Topics of interest include (but are not limited to):
+
+− Modeling concepts and languages, methods, and tools for
+developing DTs
+− AI for DTs/DTs for AI
+− DevOps for DTs/DTs for DevOps
+− Quality assurance for and evaluation of DTs
+− DT modeling, simulation, and co-simulation of CPS
+− Deployment and operation of DTs
+− Model consistency, management, and evolution of engineering
+models and DT models
+− DTs for dynamic (re)configuration and optimization
+− Evolution and compositionality of DTs
+− Uncertainty and fidelity in DTs
+− DT reliability, trust, and security
+− Architectural patterns for DTs
+− Virtual commissioning based on DTs
+− DTs for continuous learning and improvement
+− Combining models and data in DTs
+− Case studies, experience reports, comparisons in various
+application domains
+− Empirical studies of DT development and use
+− Teaching and education of DT skills
+
+
+===================================================================
+                         Submission Guidelines
+===================================================================
+Regular Papers (max 10+2 pages):
+- Novel research contributions with substantive evaluation.
+
+Vision / New Ideas Papers (max 6+1 pages):
+- Innovative and forward-looking ideas which may not yet be full developed or evaluated.
+
+Tool Demonstration Papers (max 4+1 pages):
+- Practical insights and tools; include appendix with demo outline.
+
+Exemplar Papers (max 6+1 pages):
+- Engineering-focused implementations or specs of DTs in certain domains.
+
+Formatting:
+- IEEE Proceedings Template (LaTeX or Word).
+- Conference format must be used.
+- Submissions via EasyChair:
+  https://easychair.org/conferences/?conf=edtconf25
+
+NOTE:
+- Page limits are strict.
+- Papers must be original and not under review elsewhere.
+- ORCID usage is recommended.
+
+===================================================================
+              Selected Best Papers – Journal Opportunity
+===================================================================
+Authors of selected regular papers will be invited to submit
+extended versions to the Journal on Software and Systems Modeling
+(SoSyM), with at least 30% new material required.
+
+===================================================================
+                        Conference Organizers
+===================================================================
+General and Program Co-Chairs:
+- Romina Eramo (University of Teramo, IT)
+- Manuel Wimmer (Johannes Kepler University Linz, AT)
+- Steffen Zschaler (King’s College London, UK)
+
+Publicity & Web Co-Chairs:
+- Claudio Gomes (Aarhus University, DK)
+- Vittoriano Muttillo (University of Teramo, IT)
+
+Contact: [log in to unmask]
+===================================================================
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

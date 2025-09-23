@@ -1,0 +1,18 @@
+{
+  "purpose": "The email is a call for paper submissions for the 21st International Conference on Information Systems Security (ICISS 2025).",
+  "is_cfp": true,
+  "coference_name": "ICISS 2025",
+  "start_date": "2025-12-16",
+  "submission_deadline": "2025-07-10",
+  "conference_website": "https://iciss.isrdc.in/",
+  "evidence_sentences": [
+    "We are pleased to invite paper submissions for the *21st International Conference on Information Systems Security (ICISS 2025)*, to be hosted by the Indian Institute of Technology Indore (IIT Indore), India from *December 16–20, 2025*.",
+    "ICISS is a premier international forum that brings together researchers, academicians, and industry professionals to share their latest findings and insights in the fields of cybersecurity, cryptography, system security, and hardware security.",
+    "Important Dates:",
+    "- Submission Deadline: July 10, 2025",
+    "- Acceptance Notification: September 30, 2025",
+    "- Camera-ready Deadline: October 15, 2025",
+    "- Conference Dates: December 16–20, 2025",
+    "We look forward to your contributions and participation in ICISS 2025!"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a job opening for a Research Fellow in Edge Software Vulnerability Detection at Queen's University Belfast. It provides details about the position, including responsibilities such as investigating software vulnerabilities, monitoring source code, and improving security posture. The email also outlines the qualifications required for candidates, including a PhD in relevant fields and experience with machine learning frameworks. Additionally, it mentions the benefits offered by the university and its commitment to equality and diversity.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 5249,
+    "purpose": 561,
+    "infos": 0
+  }
+}

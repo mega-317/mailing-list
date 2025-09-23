@@ -1,0 +1,12 @@
+{
+  "purpose": "The email announces a special issue focusing on Emerging Concerns in Technical Debt Management for publication in Empirical Software Engineering (EMSE).",
+  "is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are pleased to announce a special issue focusing on Emerging Concerns in Technical Debt Management for publication in Empirical Software Engineering (EMSE).",
+    "This special issue invites contributions investigating how emerging concerns in AI, data-intensive systems, and other evolving domains affect our understanding and management of TD."
+  ]
+}

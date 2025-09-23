@@ -1,0 +1,88 @@
+
+
+
+ 
+
+Subject:     Due July 15- SERD 2025 Software Engineering Research & Development, Oct 1-2, USA & Online
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:[log in to unmask]
+Date:Mon, 19 May 2025 15:46:33 -0000
+Content-Type:text/plain
+
+
+
+
+
+[Apologies if you receive multiple copies]
+--- 1st Call for Abstracts and Papers -------------
+2025 OkIP International Conference on Software Engineering Research & 
+Development (SERD)
+Oklahoma City, OK, USA & Online
+October 1-2, 2025
+https://eventutor.com/e/SERD005
+OkIP Published & Submission for Indexation
+
+Submission Deadline: July 15, 2025
+Extended versions of the best papers will be considered for publication 
+in the inaugural volume of the International Journal of Software 
+Research.
+
+>> Areas:
+* General and Social Aspects of Software Engineering (SE)
+* Software Design, Testing, Evolution, and Maintenance
+* Formal Methods and Theoretical Foundations
+* Programming Languages (PLs), Systems, and Environments
+* Object-Oriented (OO) Design and Analysis
+* Service Orientation and Human Interactions
+* AI, Web-Based Environments, and Adaptive Systems
+* Automated Software Engineering
+* Emerging SE Technologies and Dependability
+* Distribution, Componentization, and Collaboration
+* Concurrent, Parallel, and Distributed Systems
+* More...
+https://eventutor.com/event/67/program
+
+Important Dates:
+- Abstract or Paper Submission: July 15, 2025
+- Author Notification: August 1-15, 2025
+- Camera Ready Paper Submission, Registration: August 7-22, 2025
+- Conference Date: October 1-2, 2025
+
+>> Technical Program Committee
+https://eventutor.com/event/67/page/175-committee
+
+>> Contribution Types (Two-Column IEEE Format Style):
+- Full Paper: Accomplished research results (6 pages)
+- Short Paper: Work in progress/fresh developments (3 pages)
+- Extended Abstract/Poster/Journal First: Displayed/Oral presented (1 
+page)
+
+
+Please feel free to contact us for any inquiries at:
+Kris Zeuti
+OkIP Secretariat
+[log in to unmask]
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

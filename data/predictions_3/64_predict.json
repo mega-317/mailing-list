@@ -1,0 +1,17 @@
+{
+  "purpose": "The email announces a postdoctoral opportunity in software engineering at the University of Otago focused on AI and software reliability.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Join us at the University of Otago as a Postdoctoral Fellow on our $1 million project: 'Automating software violation detection and repair: future-proofing software reputation and skills development.'",
+    "If you have a background in software engineering, AI, or related fields and want to contribute to future-proofing software development, we want to hear from you!"
+  ]
+}

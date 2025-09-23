@@ -1,0 +1,31 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a Call for Papers (CfP) for a special issue of the Information and Software Technology journal focused on 'Next-Generation Model-Based Software Engineering with Foundation Models.' It invites researchers to submit original, unpublished work that explores the intersection of model-based software engineering and foundation models. The special issue aims to highlight innovations and applications of foundation models in various software engineering tasks, such as model completion and development of domain-specific languages. The email outlines submission topics, deadlines, and instructions for authors, as well as the review process for submitted papers.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "This special issue of the Information and Software Technology journal aims to provide a venue for researchers to present insights, experiences, innovations, and solutions at the intersection of model-based software engineering and foundation models.",
+      "Submission Deadline: May 31, 2025",
+      "Foundation models (FMs) have revolutionized traditional software engineering (SE), outperforming traditional AI-based systems in different tasks, e.g., code completion, code review, or automatic categorization of software artifacts.",
+      "This special issue solicits the application of well-founded FMs, e.g., pre trained models or large language models, to MBE and the related sub-fields such as model-driven engineering (MDE), model-driven development (MDD), and model-driven architecture (MDA).",
+      "All submissions will undergo a rigorous reviewing process by independent reviewers who are experts in this field.",
+      "Papers submitted to the Special Issue should present original, unpublished work, relevant to one of its topics, outlined below.",
+      "Papers should be submitted through the Editorial Manager (EM) site of IST journal: https://edu.lu/xpnxj."
+    ]
+  }
+}

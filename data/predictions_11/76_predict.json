@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces two postdoc positions available at King Fahd University of Petroleum and Minerals (KFUPM) in Saudi Arabia. The positions focus on Secure Software Development/Software Security and Artificial Intelligence in Software Engineering. They are for a duration of two years, with a potential extension based on performance. Applicants should have a Ph.D. in Computer Science, Software Engineering, or a related field, and current postdoc holders are encouraged to apply. Interested candidates are invited to send their CV or inquiries to Prof. Mohammad Alshayeb.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "We are seeking applications for two postdoc positions in the areas of Secure Software Development/Software Security and Artificial Intelligence in Software Engineering.",
+      "The positions are for two years, with the possibility of extension for an additional two years based on performance and mutual agreement.",
+      "Applicants must have, or be near the completion of, a Ph.D. in Computer Science, Software Engineering, or a closely related field.",
+      "Candidates currently holding postdoc positions are also encouraged to apply.",
+      "Interested candidates are invited to send their CV or direct any inquiries to: Prof. Mohammad Alshayeb."
+    ]
+  }
+}

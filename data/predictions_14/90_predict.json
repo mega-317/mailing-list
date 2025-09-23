@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "Durham University is hiring a Research Associate or Postdoctoral Research Assistant for the Project JusTN0W, focusing on software engineering for an AI-based compliance control system. The role involves developing a framework and software prototype that utilizes Natural Language Processing (NLP) and Large Language Models (LLMs) to analyze compliance with treaties and agreements, particularly in relation to Article 6 of the Paris Agreement. Interested candidates can find more information and apply through the provided link, with a closing date for applications set for May 26, 2025.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 3149,
+    "purpose": 587,
+    "infos": 0
+  }
+}

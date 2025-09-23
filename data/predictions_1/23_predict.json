@@ -1,0 +1,13 @@
+{
+  "purpose": "The email announces the call for papers for ISSRE 2025 workshops with a submission deadline of July 21, 2025.",
+  "is_cfp": true,
+  "coference_name": "ISSRE 2025",
+  "start_date": "2025-10-21",
+  "submission_deadline": "2025-07-21",
+  "conference_website": "https://issre.net/",
+  "evidence_sentences": [
+    "Workshops CFP",
+    "Workshop paper submission deadline: July 21th, 2025",
+    "For more information: https://issre.github.io/2025/calls_cfp-workshop-papers.html"
+  ]
+}

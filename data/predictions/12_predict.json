@@ -1,0 +1,42 @@
+{
+  "purpose": "The email is a call for papers for a special issue on Agentic AI in Software for ACM Transactions on Software Engineering and Methodology (TOSEM) planned for 2026.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": true,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "TOSEM 2026",
+  "start_date": null,
+  "submission_deadline": "2025-11-01",
+  "conference_website": "https://mc.manuscriptcentral.com/tosem",
+  "evidence_sentences": [
+    "A special issue on Agentic AI in Software is planned in TOSEM in 2026, and papers are being solicited for this purpose.",
+    "This special issue will invite original research articles on automation due to agentic AI in software, and its impact on future software teams.",
+    "Please select the radio button “Special issue 2025: Agentic AI in Software” in manuscriptcentral.",
+    "The submission timelines are planned as follows.",
+    "Nov 1, 2025: Paper submission deadline."
+  ]
+}

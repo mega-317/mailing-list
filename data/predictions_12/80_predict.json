@@ -1,0 +1,31 @@
+{
+  "has_body": true,
+  "purpose": "The email announces two postdoctoral positions available at UCLouvain, Belgium, specifically for candidates with a Ph.D. in computer science who are currently outside Belgium. It highlights the competitive salary, flexible starting date, and the opportunity to work on the RAINDROP project, which focuses on adapting cloud applications to utilize distributed cloud and edge resources. The positions allow for independent research projects under the mentorship of experienced professors, with various target themes outlined. Interested candidates are encouraged to contact the professors for further discussion and to submit their CV and publication record.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "We invite applications for two postdoctoral positions at UCLouvain, Belgium.",
+      "open to holders of a Ph.D. in computer science currently outside Belgium;",
+      "competitive salary and support, including access to large-scale experimental testbeds;",
+      "These two positions are thematically open to the interest and expertise of the candidates.",
+      "They are offered as part of the collaborative RAINDROP project between UCLouvain and UNamur.",
+      "Each of the two postdoctoral researchers will have the opportunity to develop an independent research project, based on her/his interests, and under the mentoring of the three PIs.",
+      "Interested candidates should contact Pr. Etienne Rivière ([log in to unmask]) and Pr. Ramin Sadre ([log in to unmask]) for any question or to schedule a call to discuss research directions.",
+      "Please note that these positions are only open to candidates who are currently outside Belgium, and will be holders of a Ph.D. in computer science (or a directly-related field) at the starting time of the position."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for workshop proposals for the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026) to be held in Rio de Janeiro, Brazil. It outlines the purpose of the workshops, which is to provide a forum for discussion among participants on software engineering topics. The email details the submission requirements, including the structure and content of proposals, and highlights important dates for submission and acceptance notifications. It also mentions the conditions for accepted workshops and the responsibilities of workshop organizers.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 9781,
+    "purpose": 576,
+    "infos": 0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for the PROFES 2025 conference, inviting submissions of high-quality research related to software development processes and their impact on software product quality. It outlines the aims and scope of the conference, the topics of interest for submissions, and provides important details such as the submission deadline and conference dates. The email encourages contributions from software engineering professionals and provides links for further information.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Call for Papers – PROFES 2025 Research Papers Track\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Sat, 17 May 2025 12:30:20 -0000\nContent-Type:text/plain",
+      "PROFES 2025 – 26th International Conference on Product-Focused Software",
+      "Complesso San Michele, Salerno, Italy | December 1–3, 2025",
+      "https://conf.researchr.org/track/profes-2025/profes-2025-research-papers",
+      "The International Conference on Product-Focused Software Process",
+      "The PROFES 2025 Research Track invites the submission of high-quality full",
+      "- AI and data-driven techniques for software process improvement (AI4SE)",
+      "Paper submission deadline: June 13, 2025",
+      "For more details and updates, please visit the PROFES 2025 website:",
+      "https://conf.researchr.org/home/profes-2025",
+      "We look forward to your contributions to PROFES 2025!",
+      "PROFES 2025 Organizing Committee",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "PROFES 2025",
+        "acronym": "PROFES",
+        "year": 2025,
+        "evidence": "PROFES 2025 – 26th International Conference on Product-Focused Software"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "PROFES 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2957,
+    "purpose": 490,
+    "infos": 927
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "purpose": "The email announces the call for papers and workshop proposals for the 23rd IEEE International Conference on Software Architecture (ICSA 2026).",
+  "init_mail_type": {
+    "cfp_work": true,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "ICSA 2026",
+  "start_date": "2026-06-22",
+  "submission_deadline": "2025-12-05",
+  "conference_website": "https://conf.researchr.org/home/icsa-2026",
+  "evidence_sentences": [
+    "We are excited to announce several opportunities for contributing to the 23rd IEEE International Conference on Software Architecture (ICSA 2026).",
+    "The conference will take place in Amsterdam, Netherlands, from June 22-26, 2026.",
+    "We invite researchers to submit papers for the Research Track at ICSA 2026.",
+    "We are also inviting software architecture practitioners and researchers working with practitioners to submit papers for the Software Architecture in Practice Track.",
+    "We are also accepting workshop proposals for ICSA 2026!",
+    "Submission Deadline: October 3, 2025."
+  ]
+}

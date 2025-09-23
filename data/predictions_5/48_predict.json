@@ -1,0 +1,20 @@
+{
+  "purpose": "The email invites applicants for postdoctoral positions at the National University of Singapore (NUS) in the area of fuzz testing, part of a grant sponsored by Singapore's Cybersecurity Agency. The program aims to improve the reliability of modern software applications using fuzz testing techniques and is set to run from 2023 to 2027. Interested applicants are requested to provide their CV, research statement, and names of two referees.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Applicants are invited for postdoctoral positions at the National University of Singapore (NUS) in the area of **fuzz testing**.",
+    "This is a large research program involving several research projects that improve the reliability of modern software applications using techniques inspired from fuzz testing.",
+    "The program has started 1 July 2023, and we request interested applicants to reach out to us early with the following information.",
+    "Interested applicants need to have a PhD degree or should be submitting PhD thesis soon.",
+    "Documents required: 1. CV, including publications 2. Research statement 3. Names of two referees."
+  ]
+}

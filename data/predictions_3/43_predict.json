@@ -1,0 +1,19 @@
+{
+  "purpose": "The email announces a postdoctoral position in programming languages focused on fixed-point-oriented programming.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "I am excited to announce the following postdoctoral position.",
+    "We are excited to announce a postdoctoral position in programming languages focused on the newly emerging paradigm of fixed-point-oriented programming.",
+    "If you or someone you know is interested in this position, please email me at 'adamsmd AT nus.edu.sg' to schedule a Zoom interview.",
+    "The position offers a competitive salary and a flexible start date, with funding available for 2 to 3 years, contingent upon satisfactory progress."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "purpose": "The email is a call for papers for the MLOps25 workshop on Machine Learning Operations, inviting submissions on various topics related to MLOps.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "This workshop encourages discussions on bridging the gap between data science experimentation and the reliable operation of ML components in production.",
+    "We invite submissions that address the open challenges, latest breakthroughs, and practical use cases in the rapidly evolving field of MLOps.",
+    "Submissions are encouraged on, but not limited to, the following topics: MLOps frameworks, ML systems lifecycle management, ML pipelines orchestration, and more.",
+    "Paper submission deadline: Tuesday, May 20, 2025.",
+    "Accepted papers will be published in the CEUR Workshop Proceedings (CEUR-WS.org)."
+  ]
+}

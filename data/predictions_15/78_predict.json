@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email is a request to share a job opportunity for the position of Dean of the School of Computing and Information Systems at Singapore Management University with the SE community.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 829,
+    "purpose": 183,
+    "infos": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the Call for Papers for the 44th International Conference on Conceptual Modeling (ER 2025), scheduled for October 20-23, 2025, in Poitiers, France. It invites contributions on the theme 'Building Trust Through Conceptual Modeling,' emphasizing the importance of trust in digital ecosystems. The email outlines submission guidelines, important dates for paper submissions, and topics of interest related to conceptual modeling. It also mentions that selected papers will be invited for a special journal issue in Elsevier's Data & Knowledge Engineering.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "44th International Conference on Conceptual Modeling (ER 2025)",
+        "acronym": "ER",
+        "year": 2025,
+        "evidence": "44th International Conference on Conceptual Modeling (ER 2025)"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "ER2025 Call for Papers",
+      "20-23 October 2025, Poitiers, France",
+      "We especially invite contributions on the theme of: BUILDING TRUST THROUGH CONCEPTUAL MODELING",
+      "We welcome submissions of original research on a variety of topics on conceptual modeling, including well-established and emerging areas of research and practice.",
+      "Important Dates",
+      "Full paper abstracts submission (mandatory): 19 MAY 2025",
+      "Full paper submission: 26 MAY 2025",
+      "The authors of selected papers will be invited to prepare a substantially revised and extended version of a Special Issue in Elsevier's Data & Knowledge Engineering."
+    ]
+  }
+}

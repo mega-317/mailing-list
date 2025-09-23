@@ -1,0 +1,18 @@
+{
+  "purpose": "The email is a call for papers for the 33rd IEEE International Conference on Enabling Technologies (WETICE 2025).",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are thrilled to invite you to participate in the 33rd edition of WETICE, a leading international forum dedicated to advancing research, fostering collaboration, and sharing innovations in the rapidly evolving landscape of collaborative intelligence and decentralised software systems.",
+    "Submission deadline has been extended to May 31st!",
+    "The maximum length of the paper is 6 pages, including figures and references."
+  ]
+}

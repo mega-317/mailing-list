@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces an open postdoctoral researcher position in Trustworthy Distributed Software Systems at KU Leuven, Belgium. It provides context about the DistriNet research group's focus on Blockchain and Local-first Software, emphasizing their collaboration with industry partners to enhance decentralized applications. The email outlines the qualifications required for candidates, including a PhD in Computer Science and a strong publication record. It also describes the role's responsibilities, such as conducting research, coaching junior researchers, and engaging with external partners. Additionally, it highlights the benefits of the position, including a multicultural work environment and opportunities for professional growth.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4099,
+    "purpose": 742,
+    "infos": 0
+  }
+}

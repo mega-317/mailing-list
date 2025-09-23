@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a postdoctoral position in programming languages focused on fixed-point-oriented programming. The sender, an assistant professor at NUS, encourages recipients to share the opportunity with interested candidates. The position involves developing programs based on inference rules that simplify complex algorithms in various domains. Interested applicants are invited to email the sender to schedule a Zoom interview, as the hiring process is starting immediately. The position offers a competitive salary and funding for 2 to 3 years, contingent on satisfactory progress. Additional details about the project and the sender's research are provided, along with links to further information.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4162,
+    "purpose": 708,
+    "infos": 0
+  }
+}

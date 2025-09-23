@@ -1,0 +1,19 @@
+{
+  "purpose": "The email is a call for papers for the International Conference on Software Engineering (ICSE) 2026 Research Track.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "CALL FOR PAPERS",
+    "International Conference on Software Engineering (ICSE) Research Track",
+    "Submission deadline: Friday, July 18, 2025",
+    "In the research track, we invite high-quality submissions of technical research papers describing original and unpublished results of software engineering research."
+  ]
+}

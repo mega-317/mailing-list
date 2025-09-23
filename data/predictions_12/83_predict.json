@@ -1,0 +1,29 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a global search for the next Dean of the School of Computing and Information Systems at Singapore Management University (SMU). It highlights the university's commitment to transformative education and research, the achievements of the SCIS, and the qualifications required for the Dean position. The email also provides details on how to apply, including the application deadline and the support from the executive search firm Perrett Laver.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Singapore Management University (SMU) has started a global search for its next Dean of the School of Computing and Information Systems (SCIS).",
+      "SCIS aims for excellence both in fundamental contribution to academic knowledge and in creating technology with a practical impact.",
+      "SCIS is ranked #4 globally for Software Engineering based on output in 2024 on CSRankings.",
+      "The next Dean will be able to build on the achievements of a world leading School and to advance its position known for its innovative approach to education and cutting-edge research.",
+      "SMU will be supported in this appointment process by the executive search firm Perrett Laver.",
+      "The deadline for applications is 10 June 2025."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "purpose": "The email announces the call for papers for the 12th International Conference on Software Defined Systems (SDS2025) to be held in Lyon, France from December 2-5, 2025. It invites researchers, engineers, and practitioners to submit high-quality research and case studies on various topics related to software-defined systems. The email provides important details such as submission deadlines, conference themes, and guidelines for manuscript preparation.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The 12th International Conference on Software Defined Systems (SDS2025)",
+    "Lyon, France. December 2-5, 2025",
+    "Submission Date: 31 August 2025",
+    "SDS 2025 aims to stimulate cross-disciplinary dialogue and foster collaborations that bridge networking, systems, security, cloud computing, artificial intelligence, and beyond.",
+    "We welcome high-quality research and case studies in, but not limited to, the following areas:",
+    "Accepted papers will be published in the conference proceedings and made accessible through major digital libraries."
+  ]
+}

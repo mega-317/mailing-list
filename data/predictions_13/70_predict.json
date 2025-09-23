@@ -1,0 +1,41 @@
+{
+  "has_body": true,
+  "purpose": "The email is a Call for Papers (CFP) for the 28th Brazilian Symposium on Formal Methods (SBMF 2025), scheduled to take place in Recife, Brazil from December 3-5, 2025. It outlines important dates for paper registration and submission, as well as guidelines for submissions, including categories for regular and short papers. The symposium aims to promote the development and use of formal methods in computational systems and invites contributions that present original work in this field. Additionally, it provides information about invited speakers, committees, and publication details for accepted papers.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "28th Brazilian Symposium on Formal Methods",
+        "acronym": "SBMF",
+        "year": 2025,
+        "evidence": "SBMF 2025: 28th Brazilian Symposium on Formal Methods"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "SBMF 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "SBMF 2025: 28th Brazilian Symposium on Formal Methods",
+      "Recife - Pernambuco, Brazil, December 3-5, 2025",
+      "Paper registration deadline: August 1st, 2025",
+      "Paper submission deadline: August 8th, 2025",
+      "SBMF 2025 is the twenty-eighth in a series of events devoted to the development, dissemination, and use of formal methods for the construction of high-quality computational systems.",
+      "We invite submissions of papers with a strong emphasis on formal methods, whether practical or theoretical, in the following categories: Regular papers (limit of 15 pages) and Short papers (limit of 8 pages).",
+      "Papers should present unpublished and original work that has a clear contribution to the state-of-the-art on the theory and practice of formal methods.",
+      "Accepted papers will be published, after the conference, in a volume of LNCS."
+    ]
+  }
+}

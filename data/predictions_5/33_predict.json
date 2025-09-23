@@ -1,0 +1,22 @@
+{
+  "purpose": "The email announces the call for papers for the 2nd International Conference on Engineering Digital Twins (EDTconf 2025), which will take place on October 6–7, 2025, in Michigan, US. It aims to gather researchers and practitioners to discuss the systematic development of Digital Twins across various domains. Important dates for abstract and paper submissions are provided, along with topics of interest and submission guidelines.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are excited to share the call for papers, to the International Conference on Engineering Digital Twins.",
+    "2nd International Conference on Engineering Digital Twins (EDTconf 2025) - Call for Papers -",
+    "EDTconf 2025 aims to bring together researchers and practitioners from academia and industry to shape the future of engineering DTs in a systematic, scalable, and principled way.",
+    "Abstract submission deadline: June 27, 2025",
+    "Paper submission deadline: July 02, 2025",
+    "Topics of interest include (but are not limited to): Modeling concepts and languages, methods, and tools for developing DTs.",
+    "Submissions via EasyChair: https://easychair.org/conferences/?conf=edtconf25"
+  ]
+}

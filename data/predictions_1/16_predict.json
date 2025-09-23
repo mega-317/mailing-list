@@ -1,0 +1,14 @@
+{
+  "purpose": "Announce the Call for Papers for the First Submission Round of EICS 2026.",
+  "is_cfp": true,
+  "coference_name": "EICS 2026",
+  "start_date": "2025-06-22",
+  "submission_deadline": "2025-07-25",
+  "conference_website": "https://eics.acm.org/2026/",
+  "evidence_sentences": [
+    "Call for Papers for the First Submission Round of EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, June 22-26, 2025 - Trier, Germany.",
+    "Submission deadline for the 1st Round of PACM EICS 2026 for Full Papers and Technical Notes: July 25, 2025.",
+    "EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces.",
+    "Submissions advance the state of the art of the engineering of interactive systems."
+  ]
+}

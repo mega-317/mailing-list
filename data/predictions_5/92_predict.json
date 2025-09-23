@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces a call for papers (CfP) for a special issue of the Information and Software Technology journal focused on 'Next-Generation Model-Based Software Engineering with Foundation Models.' It invites researchers to submit original, unpublished work related to the intersection of model-based software engineering and foundation models, with a submission deadline of May 31, 2025. The email outlines the topics of interest and provides submission instructions and contact information for guest editors.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "This special issue of the Information and Software Technology journal aims to provide a venue for researchers to present insights, experiences, innovations, and solutions at the intersection of model-based software engineering and foundation models.",
+    "Submission Deadline: May 31, 2025",
+    "Papers submitted to the Special Issue should present original, unpublished work, relevant to one of its topics, outlined below.",
+    "The topics of interest include, but are not limited to: The use of foundation models for supporting the completion of different modeling artifacts.",
+    "Papers should be submitted through the Editorial Manager (EM) site of IST journal: https://edu.lu/xpnxj."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a postdoctoral research fellow position at the National University of Singapore (NUS) focused on agentic AI approaches in software engineering. It highlights the research group's expertise in program repair, fuzzing, and symbolic execution, and mentions the ongoing SPARTAN effort on AI agents. The email invites interested candidates who have submitted or will soon submit their PhD thesis to apply by sending their CV and sample publications.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "applications are invited for a postdoctoral research fellow position at the National University of Singapore (NUS).",
+      "The position will focus on agentic AI approaches towards software engineering.",
+      "The group at NUS has research expertise in program repair, fuzzing and symbolic execution.",
+      "For this specific position, we are building on our recent work on AutoCodeRover, an early agent for software engineering.",
+      "The post-doc candidate will thus join our SPARTAN effort on agents at NUS.",
+      "Only candidates who have submitted PhD thesis or will be submitting soon can be considered.",
+      "Interested candidates can email their CV and sample publications to [log in to unmask]."
+    ]
+  }
+}

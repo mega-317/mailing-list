@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a special issue of the IEEE Computer Magazine focused on Software Engineering in Generative Art. It aims to foster dialogue between software engineers, generative artists, and caretakers regarding advancements in software technology related to algorithmic art. The issue will address various software engineering concerns in generative art, such as maintenance, evolution, and performance. Authors are encouraged to share their code and data publicly. Important submission dates are provided for potential contributors.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 3019,
+    "purpose": 539,
+    "infos": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces a job opening for a Research Fellow in Edge Software Vulnerability Detection at Queen's University Belfast. It provides details about the application process, responsibilities of the role, candidate requirements, and benefits offered by the university. The closing date for applications is specified as 21-07-2025.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": false,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The application entry is: https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA",
+    "Closing date: 21-07-2025",
+    "The Post holder will be a highly productive, ambitious and collaborative member of the National Edge AI Hub.",
+    "The candidate for this role is expected to: Have or be about to obtain a PhD degree in Artificial Intelligence, or Software Engineering, or Computer Science.",
+    "Beyond a competitive salary, the University offers an attractive benefits package including a holiday entitlement of up to 8.4 weeks a year."
+  ]
+}

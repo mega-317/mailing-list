@@ -1,0 +1,74 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for the International Conference on Software Engineering (ICSE) 2026 Research Track, inviting high-quality submissions of original and unpublished research papers in the field of Software Engineering. The conference will take place from April 12-18, 2026, in Rio de Janeiro, Brazil, with a submission deadline of July 18, 2025. It highlights the transition to Open Access for all articles published by ACM starting in 2026, which will benefit authors and increase research visibility. The email outlines important submission guidelines, research areas of interest, review criteria, and the expectations for conference attendance if a paper is accepted.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Call for Papers: International Conference on Software Engineering (ICSE) 2026 Research Track\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Wed, 28 May 2025 12:08:40 -0000\nContent-Type:text/plain",
+      "International Conference on Software Engineering (ICSE) Research Track",
+      "April 12-18, 2026",
+      "https://conf.researchr.org/home/icse-2026",
+      "Submission deadline: Friday, July 18, 2025",
+      "The International Conference on Software Engineering (ICSE) is the",
+      "for ICSE.",
+      "ICSE 2026 will have two submission cycles.",
+      "- Submission: July 18, 2025",
+      "- Author response period (3 days): September 23-25, 2025",
+      "- Revision due: November 14, 2025",
+      "- Final decision (of revised papers): December 19, 2025",
+      "Submissions must strictly conform to the ACM conference proceedings",
+      "By submitting to the ICSE Technical Track, authors acknowledge that",
+      "papers submitted to ICSE 2026 must not have been published elsewhere",
+      "under consideration for ICSE 2026.",
+      "The ICSE 2026 Research Track will employ a double-anonymous review",
+      "submitted to ICSE 2026.",
+      "By submitting to the ICSE Research Track, authors acknowledge that",
+      "paper submitted to an IEEE Conference or Periodical.",
+      "Submission site: https://icse2026.hotcrp.com/",
+      "Software Engineering and Methodology, and ICSE 2026 are participating",
+      "in the Sustainable Community Review Effort (SCRE) program, aimed at",
+      "http://tinyurl.com/icse25-scre",
+      "The research track of ICSE 2026 is governed by the ICSE 2026 Open",
+      "been made without withdrawing from ICSE 2026 first is considered a",
+      "automatic rejection from ICSE 2026 as well as any other venue adhering",
+      "required to register for ICSE 2026 and present the paper.",
+      "ICSE 2026 Program Committee Co-chairs",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "International Conference on Software Engineering (ICSE) 2026",
+        "acronym": "ICSE",
+        "year": 2026,
+        "evidence": "International Conference on Software Engineering (ICSE) Research Track April 12-18, 2026"
+      },
+      {
+        "raw": "ICSE 2026",
+        "acronym": "ICSE",
+        "year": 2026,
+        "evidence": "ICSE 2026 will have two submission cycles."
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "ICSE 2026"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 23325,
+    "purpose": 683,
+    "infos": 1746
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024) scheduled for July 24-26, 2024, in Melbourne, Australia. It provides important details such as submission deadlines, topics of interest, and the structure of the conference. The conference aims to bring together various stakeholders in the fields of AI and IoT to discuss innovative solutions and establish collaborations. It also highlights opportunities for best paper awards and potential fast-track publications in reputable journals.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: [CFP] IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024) 24–26 July 2024, Melbourne, Australia\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Sat, 17 May 2025 04:14:43 -0000\nContent-Type:text/plain",
+      "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+      "24–26 July 2024, Melbourne, Australia",
+      "https://www.ieee-aiot.org",
+      "Submission Link: https://easychair.org/my/conference?conf=aiot2024",
+      "Paper Submission: 8 May 2024 (FIRM)",
+      "Final Manuscript (Camera Ready): 3 July 2024",
+      "IEEE AIoT 2024 aims at bringing together interested parties (universities,",
+      "more sophisticated and intelligent ways.",
+      "The IEEE AIoT Conference aims to explore the integration of artificial",
+      "intelligence (AI) technologies into the Internet of Things (IoT) systems",
+      "Demonstrations, Proof-of-Concepts, and Deployments",
+      "Paper Format and Submission",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "IEEE AIoT 2024",
+        "acronym": "AIoT",
+        "year": 2024,
+        "evidence": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)"
+      }
+    ],
+    "conf_name_tokens": [
+      "AIoT 2024"
+    ],
+    "conf_name_final": "AIoT 2024",
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 7244,
+    "purpose": 537,
+    "infos": 963
+  }
+}

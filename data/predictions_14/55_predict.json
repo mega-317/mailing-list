@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces an open Postdoctoral Fellow position in Software Engineering for AI Systems at Concordia University, starting in September 2025. The position involves working on projects related to AI systems and encourages collaboration and supervision of lab members. Candidates should have a PhD in Software Engineering or a related field and a strong research background. The email also highlights the advantages of living in Montreal and provides application details, including a link and contact information for submitting applications.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2766,
+    "purpose": 546,
+    "infos": 0
+  }
+}

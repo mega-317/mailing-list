@@ -1,0 +1,94 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the Call for Papers for the ACS/IEEE AICCSA 2025 conference, encouraging colleagues and students to submit their research work. It provides details about the conference, including the date, location, and submission guidelines. The email also outlines the various tracks for submissions and important deadlines for regular papers, tutorial proposals, and PhD forum papers.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: AICCSA'25 CFP-Doha-Qatar\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Thu, 15 May 2025 21:19:44 -0000\nContent-Type:text/plain",
+      "Please find below the ACS/IEEE AICCSA 2025 Call for Papers.",
+      "research work to the ACS/IEEE AICCSA 2025.",
+      "*The ACS/IEEE 22nd International Conference on Computer Systems and",
+      "*19-22 October 2025 | Doha, Qatar*",
+      "https://conferences.sigappfr.org/aiccsa2025/",
+      "The ACS/IEEE International Conference on Computer Systems and Applications (",
+      "The organizing committee members are pleased to invite you to submit",
+      ": https://easychair.org/conferences/?conf=aiccsa2025",
+      "* Main Conference*",
+      "• Regular paper submission deadline: *19 May, 2025*",
+      "• Camera-ready and copyright submission deadline: *01",
+      "September, 2025*",
+      "• Authors registration deadline: *01 September, 2025*",
+      "* Tutorial Proposals*",
+      "• Tutorial proposals due: *30 June, 2025*",
+      "• Notification of acceptance:* 07 July, 2025*",
+      "* Phd Forum and Posters*",
+      "• Paper proposals due:* 30 June, 2025*",
+      "• Notification of acceptance: *28 July, 2025*",
+      "www.fsegs.tn",
+      "www.univ-sfax.tn",
+      "*Mobile : (+216) 93 203 835*",
+      "<https://scholar.google.com/citations?user=tgf4hzQAAAAJ&hl=en> - *DBLP*",
+      "<https://dblp.org/pid/267/7458.html> - *ORCID ID*",
+      "<https://orcid.org/0000-0003-4468-4929>",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "AICCSA 2025",
+        "acronym": "AICCSA",
+        "year": 2025,
+        "evidence": "the ACS/IEEE AICCSA 2025 Call for Papers."
+      },
+      {
+        "raw": "ACS/IEEE 22nd International Conference on Computer Systems and Applications",
+        "acronym": null,
+        "year": 2025,
+        "evidence": "The ACS/IEEE 22nd International Conference on Computer Systems and"
+      }
+    ],
+    "conf_name_tokens": [
+      "AICCSA 2025"
+    ],
+    "conf_name_final": "AICCSA 2025",
+    "work_name_candidates": [
+      {
+        "raw": "AICCSA 2025",
+        "acronym": "AICCSA",
+        "year": 2025,
+        "evidence": "the ACS/IEEE AICCSA 2025 Call for Papers."
+      },
+      {
+        "raw": "Tutorial Proposals",
+        "acronym": null,
+        "year": null,
+        "evidence": "• Tutorial Proposals"
+      },
+      {
+        "raw": "Phd Forum and Posters",
+        "acronym": null,
+        "year": null,
+        "evidence": "• Phd Forum and Posters"
+      }
+    ],
+    "work_tokens": [
+      "AICCSA 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4923,
+    "purpose": 391,
+    "infos": 1330
+  }
+}

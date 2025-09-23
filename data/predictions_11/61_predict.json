@@ -1,0 +1,50 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for the ESOP 2026 conference, inviting contributions on various aspects of programming language research. It outlines the submission categories, important dates for the two-round submission process, and the review process. The conference encourages submissions that bridge theory and practice and provides details on formatting and evaluation criteria for different types of contributions. Additionally, it mentions the opportunity for artifact evaluation post-paper acceptance and outlines the roles of the program committee members.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "ESOP 2026",
+        "acronym": "ESOP",
+        "year": 2026,
+        "evidence": "************************** ESOP 2026 - Call for Papers *************************"
+      },
+      {
+        "raw": "TOPLAS",
+        "acronym": "TOPLAS",
+        "year": null,
+        "evidence": "Authors submit their papers directly to TOPLAS before the Round 1 submission"
+      },
+      {
+        "raw": "ETAPS",
+        "acronym": "ETAPS",
+        "year": null,
+        "evidence": "it may be presented at ETAPS."
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+      "ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas:",
+      "Contributions bridging the gap between theory and practice are particularly welcome.",
+      "ESOP 2026 features a two-round submission scheme.",
+      "The paper review process will be double-blind.",
+      "Accepted papers will be published in Springer’s Lecture Notes in Computer Science series.",
+      "We welcome paper submissions at both submission rounds.",
+      "ESOP 2026 will have a post-paper-acceptance voluntary artifact evaluation."
+    ]
+  }
+}

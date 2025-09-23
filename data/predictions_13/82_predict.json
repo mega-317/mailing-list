@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a special issue on Emerging Concerns in Technical Debt Management for publication in the Empirical Software Engineering (EMSE) journal. It invites contributions that explore how emerging concerns in AI, data-intensive systems, and other evolving domains impact the understanding and management of technical debt (TD). The scope includes various topics such as data quality, ethical considerations, scalability challenges, and the implications of new technologies on TD. Authors are encouraged to submit rigorous empirical studies and innovative methodologies that advance the field. The deadline for submissions is June 9, 2025.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "We are pleased to announce a special issue focusing on Emerging Concerns in Technical Debt Management for publication in Empirical Software Engineering (EMSE).",
+      "This special issue invites contributions investigating how emerging concerns in AI, data-intensive systems, and other evolving domains affect our understanding and management of TD.",
+      "These emerging concerns often introduce new implications for Technical Debt research and practice.",
+      "We encourage submissions that clearly motivate and justify the 'novelty' of the systems or concerns being studied.",
+      "Contributors are expected to provide rigorous empirical studies, evidence-based analyses, or innovative methodologies that advance our understanding of TD in these emerging areas.",
+      "Deadline: June 9, 2025"
+    ]
+  }
+}

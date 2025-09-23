@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces the 22nd International Conference on Managed Programming Languages & Runtimes (MPLR'25) and provides details on submission categories, topics of interest, and important dates.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The 22nd International Conference on Managed Programming Languages & Runtimes (MPLR, formerly ManLang, originally PPPJ) is a premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems.",
+    "The areas of interest include but are not limited to: Languages and Compilers, Virtual Machines, Techniques, Tools, and Applications.",
+    "MPLR accepts three types of submissions: Regular research papers, Work-in-progress research papers, Industry and tool papers.",
+    "Accepted submissions will be published in the ACM Digital Library, except if the authors prefer not to be included.",
+    "Important Dates: Paper Submission Deadline: June 24, 2025 (extended), Paper Author Notification: July 28, 2025, Camera Ready for Papers: August 25, 2025, Conference Date: October 14, 2025."
+  ]
+}

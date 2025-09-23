@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a special issue on Emerging Concerns in Technical Debt Management for publication in the Empirical Software Engineering (EMSE) journal. It invites contributions that explore how emerging concerns in AI, data-intensive systems, and other evolving domains impact the understanding and management of technical debt (TD). The email outlines the scope of the special issue, highlighting new implications for TD research and practice, such as data quality, ethical considerations, and scalability challenges. It encourages submissions that provide empirical studies, evidence-based analyses, or innovative methodologies related to TD in these contexts. The email also specifies important dates and provides contact information for guest editors for further inquiries.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 5651,
+    "purpose": 781,
+    "infos": 0
+  }
+}

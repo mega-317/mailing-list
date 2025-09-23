@@ -1,0 +1,40 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for abstracts and papers for the 2025 OkIP International Conference on Software Engineering Research & Development (SERD), scheduled for October 1-2, 2025, in Oklahoma City, OK, USA, and online. The submission deadline for abstracts or papers is July 15, 2025. The conference will cover various areas of software engineering, and extended versions of the best papers will be considered for publication in the inaugural volume of the International Journal of Software Research. Important dates and submission guidelines are provided for potential contributors.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "2025 OkIP International Conference on Software Engineering Research & Development",
+        "acronym": "SERD",
+        "year": 2025,
+        "evidence": "2025 OkIP International Conference on Software Engineering Research & Development (SERD)"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "SERD 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "2025 OkIP International Conference on Software Engineering Research & Development (SERD)",
+      "Oklahoma City, OK, USA & Online",
+      "October 1-2, 2025",
+      "Submission Deadline: July 15, 2025",
+      "Extended versions of the best papers will be considered for publication in the inaugural volume of the International Journal of Software Research.",
+      "Abstract or Paper Submission: July 15, 2025",
+      "Conference Date: October 1-2, 2025"
+    ]
+  }
+}

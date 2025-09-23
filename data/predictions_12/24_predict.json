@@ -1,0 +1,38 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the call for papers (CFP) for the 12th International Conference on Software Defined Systems (SDS2025) to be held in Lyon, France from December 2-5, 2025. It invites researchers, engineers, and practitioners to submit high-quality research and case studies on various topics related to software-defined systems. The conference aims to explore the foundations, architectures, challenges, and innovations in software-defined environments, fostering interdisciplinary dialogue and collaboration. Key submission dates are provided, including the submission deadline of August 31, 2025, and notification to authors by October 20, 2025. Accepted papers will be published in the conference proceedings and made accessible through major digital libraries.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "The 12th International Conference on Software Defined Systems (SDS2025)",
+        "acronym": "SDS",
+        "year": 2025,
+        "evidence": "The 12th International Conference on Software Defined Systems (SDS2025)"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The 12th International Conference on Software Defined Systems (SDS2025)",
+      "Lyon, France. December 2-5, 2025",
+      "Submission Date: 31 August 2025",
+      "Notification to Authors: 20 October 2025",
+      "Camera Ready Submission: 30 October 2025",
+      "The conference serves as a multidisciplinary platform to showcase innovations in programmability, abstraction, virtualization, and orchestration that drive software-defined solutions across domains.",
+      "We welcome high-quality research and case studies in, but not limited to, the following areas:",
+      "Accepted papers will be published in the conference proceedings and made accessible through major digital libraries."
+    ]
+  }
+}

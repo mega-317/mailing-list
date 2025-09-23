@@ -1,0 +1,125 @@
+
+
+
+ 
+
+Subject:     Call for Participation: 41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 10 Jul 2025 16:20:47 -0000
+Content-Type:text/plain
+
+
+
+
+
+The IEEE International Conference on Software Maintenance and Evolution
+(ICSME) is one of the premier academic conferences for researchers and
+practitioners working on the maintenance and evolution of software systems.
+
+ICSME 2025 will be held in Auckland, New Zealand, from Sunday, September 7
+to Friday, September 12, 2025. This is the first call for participation ‚Äî
+join us for a vibrant, global exchange of ideas in one of the most
+beautiful and dynamic cities in the southern hemisphere.
+
+
+üîó Conference website: https://conf.researchr.org/home/icsme-2025
+To register, visit Attending > Registration on the website (early-bird
+registration deadline: August 1st, 2025 (AoE)).
+
+------------------------------
+
+Program Highlights
+
+The ICSME 2025 program will feature:
+
+   -
+
+   Cutting-edge research on software evolution, maintenance, and analysis
+   -
+
+   Invited keynotes by international thought leaders
+   https://conf.researchr.org/info/icsme-2025/keynotes
+   -
+
+   Co-located conferences:  SCAM [https://conf.researchr.org/home/scam-2025]
+   and VISSOFT [https://vissoft.io/2025/] are taking place earlier in the
+   week.
+   -
+
+   Panels, tool demos, and community activities
+   -
+
+   Networking opportunities with researchers, practitioners, and students
+   from around the globe
+   -
+
+   Conference reception and cultural activities in vibrant Auckland
+
+
+Check the program overview here:
+https://conf.researchr.org/info/icsme-2025/program-overview
+
+
+------------------------------
+
+Student Volunteers
+
+Get involved, meet mentors, and experience the conference from the inside
+‚û°Ô∏è Application still open!
+https://conf.researchr.org/attending/icsme-2025/student-volunteer
+
+Application and Reference Letters need to be submitted by July 15,
+2025, at 23:59
+AoE
+
+Travel support for US-based attendees is available through generous NSF
+funding:
+üîó https://conf.researchr.org/attending/icsme-2025/travel-support
+
+Please also help us spread the word via your local networks.
+
+------------------------------
+
+Logistics & Sustainability
+
+ICSME 2025 aims to be environmentally conscious and socially inclusive.
+Discount codes for nearby hotels and international travel (e.g., Air New
+Zealand, Qantas, Air France/KLM, etc.) will be provided upon registration.
+
+We are also making arrangements to ensure accessibility and inclusivity for
+all attendees, including those from LGBTQ+, disabled, and neurodiverse
+communities.
+
+------------------------------
+
+Explore Software Engineering research in New Zealand
+
+If you are attending ICSME in Auckland and plan to travel the country, you
+can contact some of NZ‚Äôs software engineering researchers for a chat, a
+seminar, or simply to (re)connect. You can find more details here
+
+https://conf.researchr.org/info/icsme-2025/explore-se-research-in-nz#engage-with-software-engineering-researchers-in-aotearoa-new-zealand
+
+
+ICSME 2025 is sponsored by the IEEE Computer Society, with support from IEEE
+TCSE and other research organizations. We are proud to welcome support from
+industry and academic sponsors worldwide.
+
+We look forward to seeing you this September in Auckland for a week of
+inspiration, connection, and impactful research in software evolution!
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

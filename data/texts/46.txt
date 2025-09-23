@@ -1,0 +1,77 @@
+
+
+
+ 
+
+Subject:     [CFP] ER2025 - List of Workshops
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 5 Jun 2025 13:51:25 -0000
+Content-Type:text/plain
+
+
+
+
+
+=========== Workshops at ER 2025 ===========
+
+https://er2025.ensma.fr/workshops/
+
+Continuing a long tradition, ER 2025 will host workshops to be held in
+conjunction with the main conference. These workshops serve as an intensive
+collaborative forum for exchanging innovative ideas about conceptual
+modeling, and for discovering new frontiers for its use.
+
+Details regarding the Call for Papers for each workshop can be found on the
+respective workshop's website (linked below):
+
+*Fundamentals of Conceptual Modeling (FCM)*
+https://ae-ainf.aau.at/fcm/
+
+
+*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*
+https://purl.org/cmls-2025
+
+
+*3rd International Workshop Modeling in the Age of Large Language Models
+(LLM4Modeling)*
+https://www.unifr.ch/inf/digits/en/events/3rd-international-workshop-modeling-in-the-age-of-large-language-models-(llm4modeling).html
+
+
+*11th International Workshop on Ontologies and Conceptual Modeling
+(OntoCom)*https://ontocomworkshops.github.io/OntoCom2025/
+
+
+*6th International Workshop on Quality and Measurement of Model-Driven
+Software Development (QUAMES)*https://quames.testar.org
+
+
+*Important Dates*================================
+Common deadlines in all the five workshops are:
+Submission Deadline: *27 June 2025*
+Notification:* 28 July 2025*
+
+
+=========== Organization ===========
+Workshop Chairs
+If you have any questions, do not hesitate to contact
+the ER Workshop Chairs at [log in to unmask]
+
+Anna Bernasconi, Polit√©cnico de Milano, Italy
+Sergio de Cesare, University of Westminter, UK
+Claudenir Morais Fonseca, University of Twente, Netherlands
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the Joint Call for Papers for the 29th ETAPS International Joint Conferences on Theory and Practice of Software, scheduled to take place in Torino, Italy, from April 11-16, 2026. It provides details about the conference, including submission deadlines, types of contributions accepted, and the publication process. The email highlights the significance of ETAPS as a leading forum for software science research and outlines the new features for the 2026 event, such as strict submission deadlines and a double-blind reviewing process for one of the conferences. Additionally, it mentions the awards that will be given for distinguished papers and the importance of artifact evaluation in the submission process.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": true,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "29th ETAPS International Joint Conferences On Theory and Practice of Software ETAPS 2026 Torino, Italy, April 11-16, 2026",
+      "ETAPS is one of the world's leading fora for research on software science, with a history of more than 25 years.",
+      "Submission deadlines are strict and firm, no exceptions will be granted.",
+      "FoSSaCS 2026 will adopt a double-blind reviewing process, in line with the other ETAPS conferences.",
+      "The proceedings will be published in the Advanced Research in Computing and Software Science (ARCoSS) subline of Springer's LNCS series.",
+      "The strongest papers from the four conferences will be marked as distinguished papers and highlighted in the conference program.",
+      "Regular tool paper and tool demonstration paper submissions to TACAS must be accompanied by an artifact submitted shortly after the paper."
+    ]
+  }
+}

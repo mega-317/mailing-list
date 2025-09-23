@@ -1,0 +1,49 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the Call for Papers for the ACS/IEEE AICCSA 2025 conference, encouraging colleagues and students to submit their research work. It provides details about the conference, including the date, location, submission guidelines, important dates, and the various tracks for submissions. The email emphasizes the importance of sharing this information widely through mailing lists and social media.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "ACS/IEEE AICCSA 2025",
+        "acronym": "AICCSA",
+        "year": 2025,
+        "evidence": "Please find below the ACS/IEEE AICCSA 2025 Call for Papers."
+      },
+      {
+        "raw": "The ACS/IEEE 22nd International Conference on Computer Systems and Applications (AICCSA 2025)",
+        "acronym": "AICCSA",
+        "year": 2025,
+        "evidence": "*The ACS/IEEE 22nd International Conference on Computer Systems and Applications (AICCSA 2025)*"
+      },
+      {
+        "raw": "AICCSA 2024",
+        "acronym": "AICCSA",
+        "year": 2024,
+        "evidence": "The organizing committee members are pleased to invite you to submit original contributions to AICCSA 2024 through the Easychair submission system."
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Please find below the ACS/IEEE AICCSA 2025 Call for Papers.",
+      "We highly encourage you to motivate your colleagues and students to submit their research work to the ACS/IEEE AICCSA 2025.",
+      "The ACS/IEEE International Conference on Computer Systems and Applications (AICCSA) is the premier conference covering all contemporary areas in computer systems and applications.",
+      "Submissions may include, technical and experimental study, theoretical study, conceptual study, or a survey.",
+      "All submissions will be peer-reviewed based on relevance, originality, importance, and clarity.",
+      "Manuscripts must be prepared in 10-point font using the IEEE 8.5″ x 11″ two-column conference format.",
+      "Regular paper submission deadline: *19 May, 2025*."
+    ]
+  }
+}

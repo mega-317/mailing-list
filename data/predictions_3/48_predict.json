@@ -1,0 +1,19 @@
+{
+  "purpose": "The email invites applicants for postdoctoral positions at the National University of Singapore in the area of fuzz testing.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Applicants are invited for postdoctoral positions at the National University of Singapore (NUS) in the area of **fuzz testing**.",
+    "These positions will be part of a grant sponsored by Singapore's Cybersecurity Agency (CSA) as part of National Cybersecurity R&D (NCR) programme named 'Fuzz Testing' which has been funded 2023-2027.",
+    "The program has started 1 July 2023, and we request interested applicants to reach out to us early with the following information.",
+    "Interested applicants need to have a PhD degree or should be submitting PhD thesis soon."
+  ]
+}

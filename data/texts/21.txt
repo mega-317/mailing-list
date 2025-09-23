@@ -1,0 +1,134 @@
+
+
+
+ 
+
+Subject:     CONFEST 2025: 1st Call for Participation (Early Registration until July 25)
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Tue, 1 Jul 2025 06:33:25 -0000
+Content-Type:text/plain
+
+
+
+
+
+========================================
+CONFEST 2025: 1st Call for Participation
+https://conferences.au.dk/confest2025
+========================================
+
+CONCUR, FMICS, QEST+FORMATS, and six co-located workshops
+August 25-30, 2025, Aarhus, Denmark
+
+- 8 invited talks
+- 75 conference paper presentations
+- 6 co-located workshops
+
+The early registration deadline is July 25, 2025.
+
+Overview
+========
+
+We are excited to invite you to register for CONFEST 2025, which will
+host three major international conferences:
+
+CONCUR 2025: 36th International Conference on Concurrency Theory
+
+FMICS 2025: 30th International Conference on Formal Methods for Industrial
+Critical Systems
+
+QEST+FORMATS 2025: Joint International Conference on
+- Quantitative Evaluation of Systems and
+- Formal Modeling and Analysis of Timed Systems
+
+These events will take place in Aarhus, Denmark, from August 25 to
+August 30, offering a fantastic opportunity to follow the latest
+advancements, and network with researchers and practitioners in
+these fields.
+
+For more information about the conferences and the venue, please visit:
+
+https://conferences.au.dk/confest2025
+
+
+Registration
+============
+
+The Early Registration deadline is July 25, 2025.
+https://conferences.au.dk/confest2025/registration
+
+Some hotel booking codes are available here:
+https://conferences.au.dk/confest2025/hotel-accommodations
+
+Other accommodation options are available here:
+https://www.visitaarhus.com/aarhus/where-sleep/hotels
+
+
+Invited Speakers
+================
+
+Alessandro Abate, U of Oxford, UK
+Title: Neural synthesis for verification and control of stochastic systems
+- certificates and abstractions
+
+Christel Baier, TU Dresden, Germany
+Title: Linear Temporal Logic with Standpoint Modalities
+
+Lu Feng, University of Virginia, USA
+Title: Runtime Safety for Learning-Enabled Cyber-Physical Systems: From
+Predictive Monitoring to Adaptive Shielding
+
+Arnd Hartmanns, U of Twente, NL
+Title: Sound and Modest Approaches to Quantitative Model Checking from Sea
+to Space
+
+Chris Heunen, U of Edinburgh, UK
+Title: Towards categorical quantum concurrency theory
+
+Christoph Matheja, U of Oldenburg, Germany and DTU Denmark
+Title: Automating Proof Rules for Probabilistic Programs
+
+Ina Schieferdecker, Independent Researcher, Germany
+Title: Empowering Testing with AI - Navigating the growing field of
+research on AI for software testing
+
+Jiri Srba, Aalborg University, Denmark
+Title: On-the-Fly Verification: Advancements in Dependency Graphs
+
+
+Workshops
+=========
+
+BMQL 2025 - 1st IW on Behavioural Metrics and Quantitative Logics
+Express/SOS 2025 - combined IW on Expressiveness in Concurrency and
+Structural Operational Semantics
+
+FMQC 2025 - IW on Formal Methods in Quantum Computing
+
+PFQA 2025 - Colloquium on Principles of Formal Quantitative Analysis
+
+Radical 2025 -  4th IW on Recent Advances in Concurrency and Logic
+
+SynCoP 2025 - 10th IW on Synthesis of Complex Parameters
+
+
+We hope to meet you in Aarhus this summer!
+
+Sincerely,
+CONFEST Organization Committee
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

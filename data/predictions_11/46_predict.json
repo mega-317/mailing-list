@@ -1,0 +1,65 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the workshops that will be held in conjunction with the ER 2025 conference, highlighting their role as a collaborative forum for exchanging ideas about conceptual modeling. It provides links to the respective workshops and details about the Call for Papers, including submission deadlines and notification dates. The email also lists the workshop chairs and encourages recipients to reach out with any questions.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "workshop",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "ER 2025",
+        "acronym": "ER",
+        "year": 2025,
+        "evidence": "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference."
+      },
+      {
+        "raw": "Fundamentals of Conceptual Modeling (FCM)",
+        "acronym": "FCM",
+        "year": null,
+        "evidence": "*Fundamentals of Conceptual Modeling (FCM)*"
+      },
+      {
+        "raw": "6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)",
+        "acronym": "CMLS",
+        "year": null,
+        "evidence": "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*"
+      },
+      {
+        "raw": "3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)",
+        "acronym": "LLM4Modeling",
+        "year": null,
+        "evidence": "*3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)*"
+      },
+      {
+        "raw": "11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)",
+        "acronym": "OntoCom",
+        "year": null,
+        "evidence": "*11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)*"
+      },
+      {
+        "raw": "6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)",
+        "acronym": "QUAMES",
+        "year": null,
+        "evidence": "*6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)*"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference.",
+      "These workshops serve as an intensive collaborative forum for exchanging innovative ideas about conceptual modeling, and for discovering new frontiers for its use.",
+      "Details regarding the Call for Papers for each workshop can be found on the respective workshop's website (linked below).",
+      "Common deadlines in all the five workshops are: Submission Deadline: *27 June 2025* Notification:* 28 July 2025*",
+      "If you have any questions, do not hesitate to contact the ER Workshop Chairs at [log in to unmask]."
+    ]
+  }
+}

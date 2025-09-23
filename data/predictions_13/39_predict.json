@@ -1,0 +1,31 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a two-year postdoctoral position in Empirical Software Engineering at Aarhus University, specifically focusing on the adoption of human-centered AI in software engineering. The position is part of the AI4SE1DK project, which aims to explore the effective and ethical use of Large Language Models in software teams. The role offers collaboration with researchers and industry practitioners, access to a rich research ecosystem, and opportunities for publication. Applicants are required to have a PhD in Computer Science or a related field, along with experience in applied AI and programming skills. The application deadline is set for August 10, 2025, with a start date in November 2025.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The Section for Software Engineering and Computing Systems, at the Department of Electrical and Computer Engineering (ECE), invites applicants for a two-year postdoctoral position within the area of Empirical Software Engineering (EMSE).",
+      "This position is funded by Innovation Fund Denmark Grand Solutions project \"AI4SE1DK - Human-Centered Adoption of Artificial Intelligence for Software Engineering in Denmark\".",
+      "The AI4SE1DK project addresses urgent industry needs by investigating how Large Language Models can be effectively, ethically, and sustainably adopted in real-world software teams.",
+      "Join us as a Post Doctoral Researcher in Empirical Software Engineering and dive into cutting-edge research, harnessing Large Language Models for software project management.",
+      "This is a two-year fixed-term position with employment start date is 1st of November 2025, or very shortly afterwards.",
+      "Applicants should hold a PhD degree in Computer Science or related field.",
+      "Applications must be received no later than 10 August 2025."
+    ]
+  }
+}

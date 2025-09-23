@@ -1,0 +1,15 @@
+{
+  "purpose": "The email is a call for papers for the 28th Brazilian Symposium on Formal Methods (SBMF 2025) scheduled for December 3-5, 2025, in Recife, Brazil.",
+  "is_cfp": true,
+  "coference_name": "SBMF 2025",
+  "start_date": "2025-12-03",
+  "submission_deadline": "2025-08-08",
+  "conference_website": "http://sbmf2025.ufrpe.br/",
+  "evidence_sentences": [
+    "SBMF 2025: 28th Brazilian Symposium on Formal Methods",
+    "Recife - Pernambuco, Brazil, December 3-5, 2025",
+    "Paper registration deadline: August 1st, 2025",
+    "Paper submission deadline: August 8th, 2025",
+    "Papers should present unpublished and original work that has a clear contribution to the state-of-the-art on the theory and practice of formal methods."
+  ]
+}

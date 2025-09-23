@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces an international call for applications for a tenure-track Assistant Professor position in the Department of Informatics Engineering at the University of Coimbra, Portugal. The position focuses on the sub-areas of Dependability or Software Engineering. Applications are open until August 7, 2025, and the email encourages sharing this opportunity with potential candidates.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 1357,
+    "purpose": 392,
+    "infos": 0
+  }
+}

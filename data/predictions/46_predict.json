@@ -1,0 +1,40 @@
+{
+  "purpose": "The email provides information about workshops that will be held at the ER 2025 conference and details regarding their respective Calls for Papers.",
+  "init_mail_type": {
+    "cfp_work": true,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "ER 2025",
+  "start_date": null,
+  "submission_deadline": "2025-06-27",
+  "conference_website": "https://er2025.ensma.fr/workshops/",
+  "evidence_sentences": [
+    "Continuing a long tradition, ER 2025 will host workshops to be held in conjunction with the main conference.",
+    "These workshops serve as an intensive collaborative forum for exchanging innovative ideas about conceptual modeling, and for discovering new frontiers for its use.",
+    "Details regarding the Call for Papers for each workshop can be found on the respective workshop's website."
+  ]
+}

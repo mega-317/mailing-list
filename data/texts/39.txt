@@ -1,0 +1,122 @@
+
+
+
+ 
+
+Subject:     Post Doctoral Researcher in Human-Centered AI for Software Engineering, Department of Electrical and Computer Engineering, Aarhus University
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Tue, 10 Jun 2025 15:19:59 -0000
+Content-Type:text/plain
+
+
+
+
+
+The Section for Software Engineering and Computing Systems, at the Department of Electrical and Computer Engineering (ECE), invites applicants for a two-year postdoctoral position within the area of Empirical Software Engineering (EMSE).
+
+This position is funded by Innovation Fund Denmark Grand Solutions project "AI4SE1DK - Human-Centered Adoption of Artificial Intelligence for Software Engineering in Denmark".
+
+You will be part of a team of researchers from leading Danish universities and practitioners from software companies in Denmark and Sweden jointly collaborating to advance the adoption of responsible and human-centered AI in software engineering (AI4SE). The AI4SE1DK project addresses urgent industry needs by investigating how Large Language Models can be effectively, ethically, and sustainably adopted in real-world software teams.
+The project will give you access to a rich ecosystem of researchers and practitioners, opportunities to publish in high-impact venues, and real-world validation of your research. Furthermore, this grant aims to significantly expand our understanding of the use of Large Language Models in Agile software development and is to be carried out in collaboration with a large industrial partner.
+
+Join us as a Post Doctoral Researcher in Empirical Software Engineering and dive into cutting-edge research, harnessing Large Language Models for software project management. Shape the future of Software Engineering with us!
+
+Expected start date and duration of employment:
+This is a two-year fixed-term position with employment start date is 1st of November 2025, or very shortly afterwards.
+
+The research to be addressed:
+AI has been applied to Software Engineering for some time, and in areas such as software effort estimation, defect prediction, and project management in general. And more recently, the proposal of Large Language Models opened a wider range of opportunities to explore its use for Software Engineering (LLM4SE). This is the main goal of this research, i.e., to apply LLMs within the context of software project management, and in collaboration with industry.
+The applicant will work in the Software Engineering Research group, which is one of several Research Groups part of the Software Engineering and Computing Systems Section at AU-ECE.
+
+Job description:
+The applicant will work in the Software Engineering Group, which is one of several Research groups part of the Software Engineering and Computing Systems Section at the department. The use of AI4SE is already being investigated within this research group, via another research project. This means that the applicant with immediately engage in a wider collaboration within the Software Engineering group, and potentially across other research groups in the SECS Section.
+
+Your profile:
+Applicants should hold a PhD degree in Computer Science or related field.
+
+Required qualifications:
+- A Ph.D. degree in Computer Science, Software Engineering or related field.
+- Solid research experience in applied AI, and in particular with Large Language Models.
+- Solid programming expertise in Python.
+- Be the main author in at least one journal publication in the area of AI4SE, published at a high impact journal.
+- Experience with publishing in journals and conferences.
+- Fast learner with interests in multidisciplinary research.
+- Be the main author in at least one journal publication published at a high impact journal (ideally) in the field of Software Engineering.
+- Experience with publishing in journals and conferences.
+- Fast learner with interests in multidisciplinary research.
+- Excellent English skills, both orally and written.
+- Ability to collaborate effectively within a multidisciplinary and multicultural team.
+- Inclusive and open minded.
+
+(Optional) Prior research experience in an industrial software development setting is a plus.
+
+Who we are:
+Further details about the Software Engineering and Computing Systems Section can be found here: https://ece.au.dk/en/research/key-areas-in-research-and-development/software-engineering-computing-systems
+
+Further details about the Department of Electrical and Computer Engineering can be found here: https://ece.au.dk/en/about-the-department
+
+Follow us on our LinkedIn.
+
+What we offer:
+The department offers:
+- a well-developed research infrastructure, laboratories and access to shared equipment.
+- an exciting interdisciplinary environment with many national, international and industrial collaborators.
+- a research climate encouraging lively, open and critical discussion within and across different fields of research.
+- a work environment with close working relationships, networking and social activities.
+- a workplace characterised by professionalism, equality and a healthy work-life balance.
+
+Place of work and area of employment:
+The place of work is Helsingforsgade 10, 8200 Aarhus N, Denmark, and the area of employment is Aarhus University with related departments.
+
+Contact information:
+Additional information relating to this job opening position can be obtained by contacting the project leader, Professor Emilia Mendes ([log in to unmask]<mailto:[log in to unmask]>).
+
+Deadline:
+Applications must be received no later than 10 August 2025.
+
+Application procedure:
+Shortlisting is used. This means that after the deadline for applications - and with the assistance from the assessment committee chairman, and the appointment committee if necessary, - the head of department selects the candidates to be evaluated. All applicants will be notified whether or not their applications have been sent to an expert assessment committee for evaluation. The selected applicants will be informed about the composition of the committee, and each applicant is given the opportunity to comment on the part of the assessment that concerns him/her self. Once the recruitment process is completed a final letter of rejection is sent to the deselected applicants.
+
+Letter of reference:
+If you want a referee to upload a letter of reference on your behalf, please state the referee's contact information when you submit your application. We strongly recommend that you make an agreement with the person in question before you enter the referee's contact information, and that you ensure that the referee has enough time to write the letter of reference before the application deadline.
+Unfortunately, it is not possible to ensure that letters of reference received after the application deadline will be taken into consideration.
+
+If you wish to add a referee after you have submitted your application, you must send this person's details (name, job title, place of work, and email address) as well as the name of the position you have applied for to: [log in to unmask]<mailto:[log in to unmask]>
+
+Formalities and salary range:
+Technical Sciences refers to the Ministerial Order on the Appointment of Academic<https://international.au.dk/fileadmin/Bekendtgoerelse_nr__242_af_a3__MARTS_2012_-_ENGELSK_UDGAVE.pdf> Staff at Danish Universities under the Danish Ministry of Science, Technology and<https://international.au.dk/fileadmin/Bekendtgoerelse_nr__242_af_a3__MARTS_2012_-_ENGELSK_UDGAVE.pdf> Innovation<https://international.au.dk/fileadmin/Bekendtgoerelse_nr__242_af_a3__MARTS_2012_-_ENGELSK_UDGAVE.pdf>.
+
+The application must be in English and include: a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities, teaching portfolio and verified information on previous teaching experience (if any). Guidelines for applicants can be found here.<https://tech.au.dk/en/about-the-faculty/vacant-positions-and-career/guidelines-and-rules/>
+
+Appointment shall be in accordance with the collective labour agreement between the Danish Ministry of Taxation and the Danish Confederation of Professional Associations. Further information on qualification requirements and job content may be found in the Memorandum on Job Structure for Academic Staff at Danish Universities<https://medarbejdere.au.dk/fileadmin/www.medarbejdere.au.dk/hr/Rekruttering/Onboarding/Ministerial_Order_no._1443_of_11_December_2019_on_Job_Structure_for_Academic_Staff_at_Universities.pdf>.
+
+Salary depends on seniority as agreed between the Danish Ministry of Taxation and the Confederation of Professional Associations.
+
+Aarhus University's ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.
+
+Research activities will be evaluated in relation to actual research time. Thus, we encourage applicants to specify periods of leave without research activities, in order to be able to subtract these periods from the span of the scientific career during the evaluation of scientific productivity.
+
+Aarhus University offers a broad variety of services for international researchers and accompanying families, including relocation service and career counselling to expat partners. Read more here<https://internationalstaff.au.dk/relocationservice/>. Please find more information about entering and working in Denmark here<http://international.au.dk/research/>.
+
+Aarhus University also offers a Junior Researcher Development Programme targeted at career development for postdocs at AU. You can read more about it here<http://talent.au.dk/junior-researcher-development-programme/>.
+
+The application must be submitted via Aarhus University's recruitment system, which can be accessed under the job advertisement on Aarhus University's website.
+
+Aarhus University
+Aarhus University is an academically diverse and research-intensive university with a strong commitment to high-quality research and education and the development of society nationally and globally. The university offers an inspiring research and teaching environment to its 38,000 students (FTEs) and 8,300 employees, and has an annual revenues of EUR 935 million. Learn more at www.international.au.dk/<http://www.international.au.dk/>
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

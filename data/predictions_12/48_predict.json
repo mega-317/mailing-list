@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email invites applicants for postdoctoral positions at the National University of Singapore (NUS) in the area of fuzz testing. These positions are part of a grant sponsored by Singapore's Cybersecurity Agency (CSA) under the National Cybersecurity R&D programme named 'Fuzz Testing', which is funded from 2023 to 2027. The program aims to improve the reliability of modern software applications using fuzz testing techniques and will involve research on concurrent, distributed, and stateful software, including parts of the Linux Kernel. Interested applicants should have a PhD or be submitting their PhD thesis soon and are required to submit a CV, research statement, and names of two referees. The postdoc will be located in the Computer Science Department of NUS, which has a strong academic reputation.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Applicants are invited for postdoctoral positions at the National University of Singapore (NUS) in the area of fuzz testing.",
+      "These positions will be part of a grant sponsored by Singapore's Cybersecurity Agency (CSA) as part of National Cybersecurity R&D (NCR) programme named 'Fuzz Testing' which has been funded 2023-2027.",
+      "This is a large research program involving several research projects that improve the reliability of modern software applications using techniques inspired from fuzz testing.",
+      "As part of this program, we will advance the state-of-the-art in testing and analysis of concurrent/ distributed / stateful software, including kernel software such as parts of the Linux Kernel.",
+      "Interested applicants need to have a PhD degree or should be submitting PhD thesis soon.",
+      "Documents required: 1. CV, including publications 2. Research statement 3. Names of two referees.",
+      "The postdoc will be located in the Computer Science Department of NUS, which enjoys a high degree of academic reputation."
+    ]
+  }
+}

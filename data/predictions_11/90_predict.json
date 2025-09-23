@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "Durham University is hiring a Research Associate or Postdoctoral Research Assistant for the Project JusTN0W, focusing on platform software engineering. The role involves developing a framework and software prototype for an AI-based compliance control system that utilizes Natural Language Processing (NLP) and Large Language Models (LLMs) to analyze treaties and agreements. The position is open until May 26, 2025, and interested candidates can find more information and apply through the provided link. For inquiries, applicants can contact Dr. Nelly Bencomo.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Durham University Computer Science is Hiring a Research Associate / Postdoctoral Research Assistant for Platform Software Engineering for the Project JusTN0W.",
+      "You will contribute to developing a framework and software prototype for an AI-based compliance control system.",
+      "This system will apply Natural Language Processing (NLP) and Large Language Models (LLMs) to analyze the compliance of treaties and agreements.",
+      "Apply now – Closing Date: 26-May-2025, 11:59:00 PM.",
+      "For any enquiries regarding the role and application process, please contact Dr Nelly Bencomo."
+    ]
+  }
+}

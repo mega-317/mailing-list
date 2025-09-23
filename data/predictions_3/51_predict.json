@@ -1,0 +1,19 @@
+{
+  "purpose": "The email announces the 7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025) and invites submissions.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems.",
+    "FMAS welcomes submissions that use formal methods to specify, model, or verify autonomous systems; in whole or in part.",
+    "Submission: 22nd of August 2025",
+    "Workshop: 17th to 19th of November 2025"
+  ]
+}

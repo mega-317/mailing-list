@@ -1,0 +1,84 @@
+
+
+
+ 
+
+Subject:     JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 04:12:12 -0000
+Content-Type:text/plain
+
+
+
+
+
+Call for Papers ― JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”
+https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability
+
+A special issue of the Journal of Systems and Software.
+https://www.sciencedirect.com/journal/journal-of-systems-and-software
+
+
+Submission Deadline: 30 September 2025
+
+
+Description of the Special Issue
+
+DevOps has recently emerged as a fundamental principle in software engineering, aimed at accelerating the delivery of high-quality software through automation and seamless integration of development (Dev) and operations (Ops). Despite its clear advantages, DevOps can produce a mixed impact on software quality. On one hand, the rapid release cycles commonly associated with DevOps can conflict with the rigorous quality assurance practices needed to maintain critical runtime attributes such as performance, sustainability, and reliability. On the other hand, the close integration between development and operational activities unlocks unprecedented opportunities to enhance software quality through continuous collection, and analysis of operational data. Intelligent DevOps techniques can leverage this feedback loop to transform raw operational data into actionable insights that drive ongoing improvements in software quality. This shift is evident in emerging sub disciplines like observability—the ability to understand a system’s behavior by analyzing the monitoring data it produces, including logs, traces, and metrics– and AIOps—the application of artificial intelligence techniques to support various quality assurance tasks, such as anomaly detection, incident prediction, and root cause analysis.
+
+This special issue aims to consolidate the latest research and advancements on the topic of Intelligent DevOps for performance, sustainability, and reliability.
+
+The list of relevant sub-topics we aim target include:
+
+- Observability and monitoring in DevOps pipelines, including data collection, visualization, and analysis
+- Application of AIOps techniques to support quality assurance, continuous integration and deployment
+- Automated anomaly detection, incident prediction, and root cause analysis
+- Data-driven feedback loops for continuous improvement
+- Intelligent test automation, model-based testing, and AI-driven defect prediction
+- Integration of AI and data analytics tools into CI/CD pipelines and DevOps workflows
+- Infrastructure as code solutions augmented by intelligent self-adaptation and performance tuning
+- Methods and tools leveraging AI to enhance software quality at development time
+- Techniques and frameworks for improving sustainability, such as energy-efficient builds and resource optimization that reduce environmental impact
+- Model-based performance analysis and predictive modeling to proactively address capacity planning, scalability, and reliability concerns
+- Leveraging large language models for automation DevOps processes
+- Software architecture modeling, analysis, and adaptation informed by operational data
+- Tools and methodologies for quality assurance in microservices-based systems
+-  Comparative evaluations, benchmarks, and empirical studies of tools, frameworks, and methodologies for quality assurance spanning the entire software delivery lifecycle
+
+
+
+Submission Instructions
+
+Manuscript submission information:
+
+Submissions should be prepared according to the Guide for Authors (https://www.sciencedirect.com/journal/journal-of-systems-and-software/publish/guide-for-authors). All manuscripts should be submitted via the Elsevier Editorial System at https://www2.cloud.editorialmanager.com/jssoftware. During submission, select the article type "VSI:Intelligent DevOps" to ensure proper identification for the special issue.
+Date of submission deadline: 30th September 2025
+
+
+
+Editors of the Special Issue
+
+Luca Traini, Assistant Professor
+University of L’Aquila, L'Aquila, Italy
+
+Heng Li, Assistant Professor
+Polytechnique Montreal, Montréal Quebec, Canada
+
+Weiyi Shang, Associate Professor
+University of Waterloo, Waterloo Ontario, Canada
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

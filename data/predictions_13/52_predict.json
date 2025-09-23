@@ -1,0 +1,29 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a Postdoctoral Researcher position at the Dynamical Systems section of DTU Compute, Technical University of Denmark. It highlights the focus areas of the position, which include Software Architecture, Software Evaluation, Digital Twin, and Digital Transformation. The email encourages applied researchers with interests in Energy, Mobility, or Climate Change to apply. It also requests recipients to circulate the job posting within their networks.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "There is a Postdoctoral Researcher at the Dynamical Systems section at DTU Compute.",
+      "If you're an applied researcher with a passion for practical European projects, this is your opportunity to elevate your work in Software Engineering and contribute to impactful research with real-world relevance.",
+      "Experience or interest in domains such as Energy, Mobility, or Climate Change is highly relevant.",
+      "Please find the full job posting and application details below.",
+      "It would be greatly appreciated if you could circulate this position among your research team or through your professional network."
+    ]
+  }
+}

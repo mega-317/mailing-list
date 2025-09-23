@@ -1,0 +1,38 @@
+{
+  "purpose": "The email announces a Call for Papers (CfP) for the PoEM 2025 conference.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": false,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": false,
+  "c_is_cfp": true,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "PoEM 2025",
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "CfP PoEM 2025 – 18th IFIP WG8.1 Working Conference on the Practice of Enterprise Modeling"
+  ]
+}

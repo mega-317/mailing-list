@@ -1,0 +1,47 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 17th Symposium on Search-Based Software Engineering (SSBSE 2025) scheduled for November 16, 2025, in Seoul. It invites high-quality research submissions focusing on the role of AI and optimization in software engineering. Key topics include novel applications of SBSE, theoretical advances in search algorithms, empirical evaluations, industrial experiences, and integrations with AI and machine learning. Important dates for submissions and notifications are provided, along with a link for more information and submission guidelines. Accepted papers will be considered for a special journal issue in the Automated Software Engineering journal.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Call for Papers – SSBSE 2025, Seoul\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Thu, 19 Jun 2025 17:15:39 -0000\nContent-Type:text/plain",
+      "Excited to announce the 17th Symposium on Search-Based Software Engineering (SSBSE 2025), taking place on 16 November 2025 in Seoul! ðŸ‡°ðŸ‡·",
+      "Submission Deadline: August 21, 2025",
+      "ðŸ”— More info & submission: https://lnkd.in/gwxVDG5q",
+      "Co-located with ASE, https://lnkd.in/gTDTsXuX",
+      "For previous proceedings, check out https://lnkd.in/gnCGdwtQ",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "SSBSE 2025",
+        "acronym": "SSBSE",
+        "year": 2025,
+        "evidence": "17th Symposium on Search-Based Software Engineering (SSBSE 2025)"
+      }
+    ],
+    "conf_name_tokens": [
+      "SSBSE 2025"
+    ],
+    "conf_name_final": "SSBSE 2025",
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 1873,
+    "purpose": 669,
+    "infos": 594
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "purpose": "The email is a call for papers for the MLOps25 workshop focused on Machine Learning Operations, inviting submissions to address various challenges and advancements in the field.",
+  "is_cfp": true,
+  "coference_name": "MLOps 2025",
+  "start_date": "2025-10-25",
+  "submission_deadline": "2025-05-20",
+  "conference_website": "https://collab.di.uniba.it/mlops/",
+  "evidence_sentences": [
+    "This workshop encourages discussions on bridging the gap between data science experimentation and the reliable operation of ML components in production.",
+    "We invite submissions that address the open challenges, latest breakthroughs, and practical use cases in the rapidly evolving field of MLOps.",
+    "Submissions are encouraged on, but not limited to, the following topics:",
+    "Accepted papers will be published in the CEUR Workshop Proceedings (CEUR-WS.org).",
+    "Additionally, authors of accepted papers will be invited to submit an extended version of their work for consideration in the 'Special Issue on MLOps Advancements: Improving Development, Management, and Interpretability in AI and Machine Learning' in the journal Future Generation Computer Systems (FGCS)."
+  ]
+}

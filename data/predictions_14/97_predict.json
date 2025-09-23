@@ -1,0 +1,51 @@
+{
+  "has_body": true,
+  "purpose": "The email invites submissions for the 21st International Conference on Information Systems Security (ICISS 2025), which will take place at the Indian Institute of Technology Indore from December 16–20, 2025. It highlights the conference as a premier international forum for researchers, academicians, and industry professionals to share findings in cybersecurity and related fields. Important dates for submissions and notifications are provided, along with a link to the official conference website for further details.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Call for Papers-21st International Conference on Information Systems Security (ICISS 2025)\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Sat, 17 May 2025 04:11:34 -0000\nContent-Type:text/plain",
+      "We are pleased to invite paper submissions for the *21st International",
+      "Conference on Information Systems Security (ICISS 2025),* to be hosted by",
+      "ICISS is a premier international forum that brings together researchers,",
+      "Since its inception in 2005, ICISS has played a critical",
+      "- Submission Deadline: July 10, 2025",
+      "- Camera-ready Deadline: October 15, 2025",
+      "- Conference Dates: December 16–20, 2025",
+      "The conference will be held at IIT Indore.",
+      "We look forward to your contributions and participation in ICISS 2025!",
+      "official conference website: ICISS 2025 | Home <https://iciss.isrdc.in/>",
+      "*ICISS 2025*",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "21st International Conference on Information Systems Security (ICISS 2025)",
+        "acronym": "ICISS",
+        "year": 2025,
+        "evidence": "21st International Conference on Information Systems Security (ICISS 2025)"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "ICISS 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2070,
+    "purpose": 520,
+    "infos": 904
+  }
+}

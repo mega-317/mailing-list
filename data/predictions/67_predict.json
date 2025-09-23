@@ -1,0 +1,39 @@
+{
+  "purpose": "This email informs about the call for contributions to SEWORLD related to the ER2025 workshops.",
+  "init_mail_type": {
+    "cfp_work": true,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": false,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": true,
+    "etc": false
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 1,
+    "false_votes": 2
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+    "http://sigsoft.org/resources/seworld.html provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "has_body": true,
+  "purpose": "The email invites submissions for three workshops co-located with the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025) in Salerno, Italy, on December 1, 2025. The workshops are QuEMaLeS 2025, PATH 2025, and A-SPPI 2025, focusing on quality evaluation of machine learning software systems, advanced technology in healthcare, and software analytics, respectively. It provides important dates for submissions, notifications, and camera-ready submissions, along with detailed descriptions of each workshop's topics of interest and paper formats. The email emphasizes the need for original submissions that adhere to specific formatting guidelines and mentions that accepted papers will be published in a proceedings volume.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "workshop",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Joint Call for Papers – Workshops at PROFES 2025, Salerno, Italy, December 2025\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Tue, 10 Jun 2025 15:25:08 -0000\nContent-Type:text/plain",
+      "We are pleased to invite submissions to the following three workshops,",
+      "co-located with the 26th International Conference on Product-Focused",
+      "Software Process Improvement (PROFES 2025), to be held in Salerno, Italy,",
+      "on December 1, 2025:",
+      "- QuEMaLeS 2025 – Workshop on Quality Evaluation of Machine Learning",
+      "Software Systems",
+      "- Submission Deadline: August 9, 2025",
+      "- Notification of Acceptance: September 9, 2025",
+      "- Camera-Ready Submission: September 23, 2025",
+      "- Workshop Date: December 1, 2025",
+      "QuEMaLeS 2025",
+      "The QuEMaLeS workshop addresses the growing need for effective and",
+      "- Certification frameworks and standardization (e.g., ISO/IEC 25059)",
+      "The PATH workshop focuses on the integration of AI and secure software in",
+      "More information: https://conf.researchr.org/home/profes-2025/path-2025",
+      "A-SPPI 2025",
+      "The A-SPPI workshop provides a venue for discussing advances in software",
+      "More information: https://conf.researchr.org/home/profes-2025/a-sppi-2025",
+      "We look forward to your contributions and to seeing you in Salerno at",
+      "PROFES 2025.",
+      "Social Chair of PROFES 2025",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "PROFES 2025",
+        "acronym": "PROFES",
+        "year": 2025,
+        "evidence": "co-located with the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025), to be held in Salerno, Italy, on December 1, 2025"
+      }
+    ],
+    "conf_name_tokens": [
+      "PROFES 2025"
+    ],
+    "conf_name_final": "PROFES 2025",
+    "work_name_candidates": [
+      {
+        "raw": "QuEMaLeS 2025",
+        "acronym": "QuEMaLeS",
+        "year": 2025,
+        "evidence": "QuEMaLeS 2025 – Workshop on Quality Evaluation of Machine Learning Software Systems"
+      },
+      {
+        "raw": "PATH 2025",
+        "acronym": "PATH",
+        "year": 2025,
+        "evidence": "The PATH workshop focuses on the integration of AI and secure software in"
+      },
+      {
+        "raw": "A-SPPI 2025",
+        "acronym": "A-SPPI",
+        "year": 2025,
+        "evidence": "A-SPPI 2025"
+      }
+    ],
+    "work_tokens": [
+      "A-SPPI 2025",
+      "PATH 2025",
+      "QuEMaLeS 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4842,
+    "purpose": 762,
+    "infos": 1351
+  }
+}

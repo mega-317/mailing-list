@@ -1,0 +1,42 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the Call for Papers for the IEEE Artificial Intelligence x Software Engineering (AIxSE) conference scheduled for October 1-3, 2025, in Laguna Hills, California. It highlights the significance of AI in enhancing software engineering practices and invites authors to submit manuscripts in various formats. The email outlines the topics of interest, submission guidelines, and important deadlines for paper submissions and workshop proposals. It also mentions that accepted papers will be considered for inclusion in IEEE Xplore and for awards.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "IEEE AIxSE 2025",
+        "acronym": "AIxSE",
+        "year": 2025,
+        "evidence": "Subject:     IEEE AIxSE 2025 Call for Papers"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "AIxSE 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "IEEE Artificial Intelligence x Software Engineering (aka AIxSoftware)",
+      "October 1-3, 2025",
+      "Authors are invited to submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format.",
+      "All paper submissions will be carefully reviewed by at least three experts and reviews will be returned to the author(s) with comments to ensure the high quality of the accepted papers.",
+      "Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements.",
+      "IMPORTANT DATES",
+      "Workshop Proposals Deadline: July 22, 2025 PT",
+      "Paper Submission Deadline: July 15, 2025 PT (Extended Deadline)",
+      "You are invited to join the AIxSE community (https://www.aixse.org/community) to receive new announcements and notifications from the conference by email."
+    ]
+  }
+}

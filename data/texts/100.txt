@@ -1,0 +1,106 @@
+
+
+
+ 
+
+Subject:     [Call for Papers] MLOps25 - Workshop on Machine Learning Operations
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 15 May 2025 21:18:37 -0000
+Content-Type:text/plain
+
+
+
+
+
+MLOps25
+Workshop on Machine Learning Operations
+Event co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025), October 25-30, 2025, Bologna (Italy)
+https://collab.di.uniba.it/mlops/
+
+In recent years, the widespread integration of machine learning and deep learning models into real-world applications across various domains has exposed numerous operational challenges in model building, deployment, monitoring, and maintenance. Machine Learning Operations (MLOps) has emerged as a key approach to addressing these challenges. It encompasses practices and tools designed to streamline the entire ML lifecycle, with a focus on end-to-end automation, reproducibility, and scalability of ML workflows.
+
+This workshop encourages discussions on bridging the gap between data science experimentation and the reliable operation of ML components in production. We invite submissions that address the open challenges, latest breakthroughs, and practical use cases in the rapidly evolving field of MLOps. By bringing together researchers and practitioners, the workshop aims to foster the exchange of valuable insights and advancements from both academia and industry.
+
+Topics of Interest
+=============
+
+Submissions are encouraged on, but not limited to, the following topics:
+
+•    MLOps frameworks
+•    ML systems lifecycle management
+•    ML pipelines orchestration
+•    Practices to ensure ML model reproducibility, traceability, and explainability
+•    Continuous integration/continuous delivery (CI/CD) practices for ML models
+•    ML model monitoring and observability
+•    Application of MLOps principles to large language models (LLMOps)
+•    ML-specific architecture design and patterns
+•    Experience reports on real-world MLOps applications
+•    Challenges in applying MLOps to specific domains (e.g., healthcare and finance)
+•    Ethics and Accountability in MLOps
+•    AutoML applications in MLOps
+•    Collaboration and team dynamics in MLOps
+•    Regulatory and policy aspects of MLOps
+•    MLOps strategies for Green AI
+•    Security and data privacy in MLOps
+
+Important Dates (AoE)
+================
+
+•    Paper submission deadline: Tuesday, May 20, 2025
+•    Notification of acceptance: Thursday, June 26, 2025
+•    Camera-ready submission: Tuesday, 26 August 2025
+•    Workshop date: TBD (during ECAI 2025)
+
+Review Criteria
+===========
+
+Submissions will be evaluated based on:
+
+•    Originality and novelty
+•    Research and industrial relevance
+•    Technical quality and soundness
+•    Clarity of presentation
+
+Publication
+========
+
+Accepted papers will be published in the CEUR Workshop Proceedings (CEUR-WS.org).
+Additionally, authors of accepted papers will be invited to submit an extended version of their work for consideration in the "Special Issue on MLOps Advancements: Improving Development, Management, and Interpretability in AI and Machine Learning" in the journal Future Generation Computer Systems (FGCS), ranked Q1 in the Scimago Journal Rank (SJR).
+
+Submission Guidelines
+================
+
+We invite two types of submissions:
+•  Research Papers: Original research contributions advancing the state-of-the-art in MLOps.
+    •  Full-papers (up to 10 pages + 2 for references)
+    •  Short-papers (up to 4 pages + 1 for references)
+•  Experience Reports (up to 6 pages + 1 for references): Reports on practical applications, lessons learned, and case studies related to MLOps implementation in real-world scenarios.
+
+Submitted work must be original, previously unpublished, and not under consideration or review by any other publication venue.
+
+Formatting Instructions
+=================
+
+Submissions must follow the CEURART style required by CEUR Workshop Proceedings. Authors can use the LaTeX, Word (DOCX), or LibreOffice (ODT) templates available here. An Overleaf template is also available here. Please use the 1-column style version and ensure the use of the Libertinus font as specified in the templates.
+All submissions must be double-blind (authors' names must be omitted from the submission) and uploaded via the EasyChair submission site. Each manuscript will receive at least two evaluations from the program committee.
+
+We look forward to your contributions and to the stimulating discussions on MLOps that will unfold at the workshop!
+
+Best regards,
+The OC of MLOps25
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

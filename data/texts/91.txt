@@ -1,0 +1,58 @@
+
+
+
+ 
+
+Subject:     PhD and Postdoc Positions at CISPA/University of Stuttgart
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 04:17:19 -0000
+Content-Type:text/plain
+
+
+
+
+
+Dear colleagues,
+
+I have openings for postdocs to join my group. 
+Possible topics include AI to reason about and modify software (e.g., 
+LLM agents for finding and fixing bugs), static and dynamic program 
+analysis (e.g., to infer specifications), and test input generation 
+(e.g., to compare the behavior of old and new code via differential 
+testing).
+
+Please see https://software-lab.org/ for details and how to apply.
+
+The positions will be at CISPA, are fully funded, and will be filled as 
+soon as possible. The work place is Stuttgart, Germany.
+
+For any questions, please contact:
+Michael Pradel <[log in to unmask]>
+
+Best,
+Michael
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

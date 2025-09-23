@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for proposals for workshops and tutorials associated with the JELIA 2025 conference, which will take place from September 1-5, 2025, in Kutaisi, Georgia. The organizers invite submissions on any topic related to Artificial Intelligence, with a particular interest in workshops that explore the intersection of statistical and symbolic AI. They encourage proposals that foster dialogue between researchers in various fields of AI, in line with the conference's mission to promote research in logical aspects of AI. Interested individuals are invited to reach out to the organizer for further discussion.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The organizers of the JELIA conference are now inviting proposals for affiliated workshops and tutorials.",
+      "We welcome submissions on any topic related to Artificial Intelligence.",
+      "We are especially interested in workshops that explore the intersection of statistical and symbolic AI.",
+      "We particularly encourage proposals that aim to bridge communities and foster dialogue between researchers working in machine learning, knowledge representation, logic, and cognitive systems.",
+      "If you are considering organizing a workshop or tutorial, please feel free to reach out to me by email."
+    ]
+  }
+}

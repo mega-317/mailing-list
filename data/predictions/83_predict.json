@@ -1,0 +1,40 @@
+{
+  "purpose": "The email announces a global search for the next Dean of the School of Computing and Information Systems at Singapore Management University.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": true,
+    "info": false,
+    "etc": true
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 0,
+    "false_votes": 3
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Singapore Management University (SMU) has started a global search for its next Dean of the School of Computing and Information Systems (SCIS).",
+    "As a key member of SMU's senior management team, the next Dean will be leading a rapidly growing school at an exciting juncture of the University's development.",
+    "The deadline for applications is 10 June 2025."
+  ]
+}

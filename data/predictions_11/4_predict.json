@@ -1,0 +1,45 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 9th International Conference on Information Technology & Systems (ICITS'26) to be held in Roatán Island, Honduras, from February 16-18, 2026. It invites researchers and practitioners to submit original papers in English, Spanish, or Portuguese on various topics related to Information Technology & Systems. The email outlines submission guidelines, including formatting requirements, review processes, and publication details. Important dates for paper submission, acceptance notification, and registration are also provided.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+        "acronym": "ICITS",
+        "year": 2026,
+        "evidence": "ICITS'26 - 9th Int. Conference on Information Technology & Systems"
+      },
+      {
+        "raw": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+        "acronym": "ICITS",
+        "year": 2026,
+        "evidence": "ICITS'26 - 9th International Conference on Information Technology & Systems, to be held at Universidad Tecnológica de Honduras, Roatán Island, Honduras, between the 16th and the 18th of February 2026"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+      "Roatán Island, Honduras, 16-18 February 2026",
+      "We are pleased to invite you to submit your original papers to ICITS'26.",
+      "Submitted papers should be related with one or more of the main themes proposed for the Conference.",
+      "All submissions will be reviewed on the basis of relevance, originality, importance and clarity.",
+      "All papers will be subjected to a 'double-blind review' by at least two members of the Scientific Committee.",
+      "Paper Submission: September 28, 2025",
+      "Notification of Acceptance: November 5, 2025",
+      "Payment of Registration, to ensure the inclusion of an accepted paper in the conference proceedings: November 19, 2025."
+    ]
+  }
+}

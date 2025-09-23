@@ -1,0 +1,22 @@
+{
+  "purpose": "The email announces the 5th IEEE International Conference on Code Quality (ICCQ'25), scheduled for December 13, 2025, at Ural Federal University in Russia. It invites researchers to submit papers and abstracts by August 10, 2025, and outlines the conference's goals to improve code quality through collaboration and sharing of ideas. The email also provides important dates, submission guidelines, and information about the program committee and sponsors.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": "conference",
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": true,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Name: 5th International Conference on Code Quality (ICCQ)",
+    "Date: Dec 13, 2025",
+    "Venue: Ural Federal University, Russia",
+    "We aim to solve this problem by gathering together cutting-edge researchers and letting them share their most recent ideas on static analysis, program verification, bug detection, and software maintenance.",
+    "Paper/abstract submission: 10 Aug 2025 (anywhere on Earth)",
+    "Conference: 13 Dec 2025",
+    "Papers will be reviewed by three PC members using a double-blind review process."
+  ]
+}

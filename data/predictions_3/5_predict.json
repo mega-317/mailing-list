@@ -1,0 +1,19 @@
+{
+  "purpose": "The email is a call for papers and workshop & tutorial proposals for the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026).",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026) invites high-quality submissions of papers describing original and unpublished research results.",
+    "We encourage submissions describing various types of research, including empirical, theoretical, and tool-oriented studies.",
+    "In SANER 2026, we solicit proposals for workshops to be held in conjunction with the main conference.",
+    "The SANER 2026 Workshops & Tutorials track invites practitioners and researchers to deliver insightful tutorials on various topics related to Software Analysis, Evolution, and Reengineering."
+  ]
+}

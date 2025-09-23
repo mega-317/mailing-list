@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces the 17th Symposium on Search-Based Software Engineering (SSBSE 2025) scheduled for November 16, 2025, in Seoul. It invites high-quality research submissions focusing on the role of AI and optimization in software engineering. Key topics include novel applications of SBSE, theoretical advances, empirical evaluations, industrial experiences, and integrations with AI. Important dates for submissions and notifications are provided, along with a link for more information.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": "conference",
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": true,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Excited to announce the 17th Symposium on Search-Based Software Engineering (SSBSE 2025), taking place on 16 November 2025 in Seoul!",
+    "We invite high-quality research submissions that push the boundaries of SBSE, with a special focus this year on the transformative role of AI and optimization in software engineering.",
+    "Key topics include: Novel applications of SBSE, especially in emerging domains; Theoretical advances in search algorithms for software engineering; Rigorous empirical evaluations with reproducible results; Industrial experiences and real-world deployments; Integrations of SBSE with AI, machine learning, and cutting-edge technologies.",
+    "Submission Deadline: August 21, 2025; Notification: September 25, 2025; Camera-Ready: October 3, 2025.",
+    "Grab this chance to share your work with the global SBSE community!"
+  ]
+}

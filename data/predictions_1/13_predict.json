@@ -1,0 +1,19 @@
+{
+  "purpose": "The email provides details about the IEEE iMETA 2025 conference, including its purpose, tracks, workshops, and important dates for submissions.",
+  "is_cfp": true,
+  "coference_name": "iMETA 2025",
+  "start_date": "2025-10-14",
+  "submission_deadline": "2025-07-30",
+  "conference_website": "https://imeta-conference.org/",
+  "evidence_sentences": [
+    "The International Conference on Intelligent Metaverse Technologies & Applications (iMETA) is to bring together leading researchers, academics, and industry experts to explore the various aspects of the distributive metaverse, including its technologies, applications, and implications for various industries.",
+    "Overall, the iMETA conference aims to provide attendees with a comprehensive understanding of the communication, computing, and system requirements of the metaverse.",
+    "List of Tracks:",
+    "List of Workshops:",
+    "IEEE is a technical sponsor of iMETA 2025.",
+    "Important Dates:",
+    "Papers due: July 30, 2025",
+    "Acceptance notification: August 20, 2025",
+    "Camera-ready paper due: August 31, 2025"
+  ]
+}

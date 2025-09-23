@@ -1,0 +1,20 @@
+{
+  "purpose": "The email is a call for workshop proposals for the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026) to be held in Rio de Janeiro, Brazil. It outlines the submission requirements, review criteria, and important dates for potential workshop organizers. The workshops aim to facilitate discussions on software engineering research and practice among participants.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The workshops at the International Conference on Software Engineering 2026 (ICSE) provide a forum for groups of 20-50 participants to discuss topics in software engineering research and practice.",
+    "Workshops at ICSE 2026 will be held between Sunday, April 12, and Tuesday, April 14, or Saturday, April 18, 2026, in Rio de Janeiro, Brazil.",
+    "All proposals must not exceed 5 pages, including a maximum of 4 pages for the proposal text, references, appendices and figures, plus 1 page for the draft Call for Submissions.",
+    "Proposal Review Criteria: ICSE welcomes long-running, successful workshops.",
+    "Workshop Proposal Submissions Deadline: 23 June 2025"
+  ]
+}

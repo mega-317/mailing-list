@@ -1,0 +1,198 @@
+
+
+
+ 
+
+Subject:     [ICLP 2025 - Announcement of Accepted Workshops ] 41st International Conference on Logic Programming (ICLP’25), University of Calabria, Rende, Italy | September 12-19, 2025
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Tue, 27 May 2025 13:52:35 -0000
+Content-Type:text/plain
+
+
+
+
+
+*[apologize for multiple postings]*
+
+ICLP 2025, the 41st International Conference on Logic Programming, will be
+held at the University of Calabria, Rende, Italy, from September 12 to
+September 19, 2025.
+
+This year, we are pleased to announce that eight workshops will be
+co-located with ICLP 2025. The topics span a broad range of areas related
+to logic programming (e.g., theory, implementation, environments, language
+issues, alternative paradigms, applications), including cross-disciplinary
+areas.
+
+Below is the list of the accepted workshops, along with short descriptions
+and links to their respective websites. For comprehensive details,
+including submission procedures and important dates, please refer to the
+individual workshop websites. The calls for paper submission are open.
+
+
+   -
+
+   32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving
+   Problems with Combinatorial Explosion (RCRA 2025). Website:
+   https://rcra2025.wordpress.com
+   -
+
+   18th Workshop on Answer Set Programming and Other Computing Paradigms
+   (ASPOCP 2025). Website: https://sites.google.com/view/aspocp-2025/
+   -
+
+   12th Workshop on Probabilistic Logic Programming (PLP 2025). Website:
+   https://stoics.org.uk/~plp2025/
+   -
+
+   9th Workshop on Advances in Argumentation in Artificial Intelligence
+   (AI³ 2025). Website: https://tinyurl.com/ai3w25
+   -
+
+   Third Prolog Education Workshop (PEG 2025). Website:
+   https://prolog-lang.org/Education/PrologEducationWS2025.html
+   -
+
+   Second Annual Workshop on Prolog Improvement Proposals (PIPs). Website:
+   https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html
+   -
+
+   Workshop on Logic Programming and Legal Reasoning (LPLR 2025). Website:
+   https://lplr2025.legaltech.wales/
+   -
+
+   1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in
+   Action (CARLA). Website: https://carla-ws.github.io/web/
+
+
+------------------------------
+
+32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving
+Problems with Combinatorial Explosion (RCRA 2025)
+
+The scope of the workshop is fostering the cross-fertilization of ideas
+stemming from different areas, proposing benchmarks for new challenging
+problems, comparing models and algorithms from an experimental viewpoint,
+and, in general, comparing different approaches regarding efficiency,
+problem modelling, and ease of development.
+Website: https://rcra2025.wordpress.com
+
+------------------------------
+
+18th Workshop on Answer Set Programming and Other Computing Paradigms
+(ASPOCP 2025)
+
+Workshop on combining Answer Set Programming with Other Computing
+Paradigms, such as constraint satisfaction, quantified Boolean formulas
+(QBF), Constraint Logic Programming (CLP), first-order logic (FOL).
+Website: https://sites.google.com/view/aspocp-2025/
+
+------------------------------
+
+12th Workshop on Probabilistic Logic Programming (PLP 2025)
+
+The PLP workshop encompasses all aspects of combining logic, algorithms,
+programming, and probability. Due to logic programming's strong theoretical
+underpinnings, PLP is one of the more disciplined areas of probabilistic
+programming. It builds upon and benefits from the large body of existing
+work in logic programming, both in semantics and implementation, but also
+presents new challenges to the field.
+Website: https://stoics.org.uk/~plp2025/
+
+------------------------------
+
+9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³
+2025)
+
+Argumentation is the study of the processes and activities involving the
+production and exchange of arguments, where arguments are attempts to
+persuade someone or something by giving reasons for accepting a particular
+conclusion as evident.
+The goal of the workshop is to stimulate discussions and promote scientific
+collaboration among researchers not only directly involved in
+argumentation, but also from research fields indirectly related to
+argumentation.
+Website: https://tinyurl.com/ai3w25
+
+------------------------------
+
+Third Prolog Education Workshop (PEG 2025)
+
+The PEG workshop series is one of the initiatives of the Prolog Education
+Group 2.0 (PEG 2.0), which aims to promote the use of Prolog-like computing
+to make logical reasoning and trustworthy coding skills more universally
+available.
+PEG 2.0 builds upon a nearly 50-year history of developing educational
+materials for using logic programming languages such as Prolog and ASP to
+introduce children in primary and secondary schools to both logic and
+computing. It also includes the insights and innovations developed for
+teaching Prolog at university level in both Computing and non-Computing
+courses.
+Website: https://prolog-lang.org/Education/PrologEducationWS2025.html
+
+------------------------------
+
+Second Annual Workshop on Prolog Improvement Proposals (PIPs)
+
+The PIP workshop series offers Prolog implementers and users an opportunity
+to present short descriptions of features desired or not supported in all
+systems that they believe would benefit other systems and are thus
+candidates for PIPs. It is also a chance to become familiar and comment on
+the process of PIP creation and the current PIPs.
+Website: https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html
+
+------------------------------
+
+Workshop on Logic Programming and Legal Reasoning (LPLR 2025)
+
+Representation of legal rules and reasoning over them is a critical
+application area since laws and regulations are used in almost all human
+activities. Furthermore, corpora pertaining to laws and regulations are
+typically complex and enormous in size, and experts are usually needed in
+order to apply legal reasoning in everyday life. Thus, automating reasoning
+over legal documents by means of applying logic programming can speed up a
+process that is laborious and time consuming.
+The aim of the workshop is to give the opportunity to legal experts and
+computer scientists to present recent research results and discuss related
+ideas on this particularly active area of research.
+Website: https://lplr2025.legaltech.wales/
+
+------------------------------
+
+1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in
+Action (CARLA)
+CARLA aims to advance the field of intelligent robotics through the
+integration of large language models (LLMs), symbolic reasoning, and logic
+solvers. Addressing the demands of real-world adaptability, safety, and
+complex decision-making, the workshop explores the complementary roles of
+LLMs and symbolic systems. By combining the dynamic adaptability of LLMs
+with the precise inferential capabilities of symbolic solvers, CARLA seeks
+to promote the development of intelligent, reliable, and explainable
+robotic systems capable of effective human interaction.
+Website: https://carla-ws.github.io/web/
+
+
+Best regards,
+ICLP 2025 Chairs
+
+-- 
+------------------------------------------------------------------------------------------------------------------
+Il banner è generato automaticamente dal servizio di posta elettronica 
+dell'Università della Calabria
+ <https://www.unical.it/5x1000>
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

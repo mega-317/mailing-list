@@ -1,0 +1,21 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the call for applications for the ERCIM STM WG 2025 Award, which recognizes the best Ph.D. thesis on Security and Trust Management. It aims to promote the scientific growth of young researchers in this field and increase their visibility within the ERCIM scientific community. Applications are open to Ph.D. holders who defended their thesis in 2024, with a submission deadline of July 31, 2025.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": false,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management",
+    "One of the main goals of the WG is to promote the scientific growth of young researchers interested in the field of security and trust management.",
+    "Applications for the award in 2025 are open to all Ph.D. holders that defended their thesis during 2024 in any European University.",
+    "Theses will be evaluated by a Committee appointed from the European research community.",
+    "The ceremony for the award will be held during the 21st International Workshop on Security and Trust Management (STM 2025) on September 25-26, 2025 in Toulouse, France."
+  ]
+}

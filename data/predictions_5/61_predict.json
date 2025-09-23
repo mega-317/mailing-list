@@ -1,0 +1,21 @@
+{
+  "purpose": "The email is a call for papers for the ESOP 2026 conference, inviting contributions on various aspects of programming language research. It outlines the submission categories, important dates, and the review process for submissions. The conference encourages papers that bridge the gap between theory and practice and provides details on formatting and evaluation.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+    "ESOP seeks contributions on all aspects of programming language research including, but not limited to, the following areas:",
+    "Contributions bridging the gap between theory and practice are particularly welcome.",
+    "ESOP 2026 features a two-round submission scheme.",
+    "The paper review process will be double-blind.",
+    "Accepted papers will be published in Springer’s Lecture Notes in Computer Science series."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a 2-year postdoctoral researcher position at the University of Southern Denmark in the Software Engineering section of the Maersk Mc-Kinney Moller Institute. The successful candidate will work on the Nudge2Green research project, focusing on developing AI-driven digital nudging tools to promote sustainable food choices. The position requires collaboration with various external partners and aims to evaluate the effectiveness of these tools. The email also outlines the qualifications expected from applicants and provides details on the application process, including the deadline of June 10, 2025.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "A 2-year postdoctoral researcher position is available at the University of Southern Denmark (SDU) in the Software Engineering section of the Maersk Mc-Kinney Moller Institute (MMMI).",
+      "The successful candidate will contribute to the Nudge2Green research project, applying software development and AI methods to design digital nudging tools that promote sustainable consumer behavior in food choices.",
+      "The position is part of the Nudge2Green project, focusing on the development of intelligent software solutions to influence and support sustainable food choices among consumers.",
+      "The postdoctoral researcher will collaborate with external project partners, including Aarhus University, University of Copenhagen, the Food Organization of Denmark, and Heco et al.",
+      "We are looking for a highly motivated candidate who meets the following qualifications and characteristics: PhD (completed or soon to complete) in Software Engineering, Computer Science, Artificial Intelligence, or a closely related field.",
+      "The application deadline is 10 June 2025 at 11.59 PM / 23.59 CEST."
+    ]
+  }
+}

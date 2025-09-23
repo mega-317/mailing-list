@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces three upcoming faculty positions at UCLouvain in Belgium, targeting candidates in software engineering and security.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The Computer Science department at UCLouvain (Belgium) will soon open three full-time faculty positions targeting excellent profiles in the following domains.",
+    "Positions 1 and 2, in one or more of these areas: Software engineering, Programming systems and languages, Software dependability, including formal methods.",
+    "Position 3, in software security and cybersecurity, also broadly construed (e.g., system security, cyber-physical systems security, AI for security & security for AI, privacy, distributed systems security, etc.).",
+    "The three positions will be open to all seniority levels (assistant/associate or full).",
+    "We expect vacancies to be announced on the UCLouvain job portal in early September, with a deadline a few weeks later for a standard application package (resume, teaching/research statement, etc.)."
+  ]
+}

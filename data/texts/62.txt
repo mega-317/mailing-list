@@ -1,0 +1,161 @@
+
+
+
+ 
+
+Subject:     ETAPS 2026 - Call for Satellite Events
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Fri, 23 May 2025 14:21:18 -0000
+Content-Type:text/plain
+
+
+
+
+
+ETAPS 2026 – Call for Satellite Events
+
+29th ETAPS International Joint Conferences on Theory and Practice of Software
+Torino, Italy, April 11–16, 2026
+
+# About ETAPS
+The ETAPS International Joint Conferences on Theory and Practice of Software is
+the primary forum for academic and industrial researchers working on topics
+relating to Software Science. It has been an annual event held each spring
+since 1998. Its 29th edition, ETAPS 2026, will be held on April 11–16, 2026,
+in Torino, Italy.
+
+The ETAPS 2026 main conferences, scheduled for April 13–16, are:
+
+* ESOP: European Symposium on Programming
+* FASE: Fundamental Approaches to Software Engineering
+* FoSSaCS: Foundations of Software Science and Computation Structures
+* TACAS: Tools and Algorithms for the Construction and Analysis of Systems
+
+The ETAPS 2026 satellite events will be held on Saturday and Sunday,
+April 11–12, 2026.
+
+
+## Call for Satellite Events
+
+The ETAPS 2026 organizing committee invites proposals for satellite events
+(e.g., workshops) to complement the main conferences. They should fall within
+the scope of ETAPS.
+
+Satellite events provide an opportunity to discuss and report on emerging
+research approaches and practical experiences relevant to the theory and
+practice of software.
+
+
+## Important Dates
+
+* Deadline for proposals of satellite events: June 26, 2025
+* Notification of acceptance: July 9, 2025
+
+
+## Arrangements for Satellite Events
+
+The organizers of an ETAPS 2026 satellite event are expected to:
+
+- create and maintain a website for the event
+- form a PC and produce a call for papers for the event (if appropriate)
+- advertise the event through mailing lists etc. to complement the publicity of
+  ETAPS
+- review submissions and make acceptance decisions
+- prepare informal (pre-)proceedings for the event, if appropriate
+- prepare the event's program according to the overall schedule of ETAPS 2026
+- prepare and organize the publication of formal (post-)proceedings, if desired
+
+The ETAPS 2026 organizing committee will:
+
+- promote the event on the website and in the publicity material of ETAPS 2026
+- arrange registration for the event as a component of registration for ETAPS
+- collect a participation fee from the registrants
+- provide a meeting room of appropriate size, A/V equipment, coffee breaks, and
+  possibly lunch(es)
+
+As a rule, ETAPS will not contribute toward the travel or accommodation costs
+of invited speakers or organizers of satellite events.
+
+
+## Submission of Satellite Event Proposals
+
+Researchers and practitioners wishing to organize a satellite event are invited
+to submit their proposal to the Satellite Events Chairs:
+
+- Vincenzo Ciancia (CNR-ISTI, Pisa, Italy)
+- Luca Paolini (University of Torino, Torino, Italy)
+- Enrico Beraldo (Synesthesia, Torino, Italy)
+
+using the online application form at https://cgi.cse.unsw.edu.au/~eptcs/ETAPS/ 
+
+The following information is requested:
+
+- the name and acronym of the satellite event
+- the names and contact information of the organizers
+- the duration of the event (one or two days) and the preferred period
+  (April 11 / April 12 / April 11–12)
+- the expected number of participants
+- a brief description (120 words approximately) of the event topic for the
+  website and publicity material of ETAPS 2026
+- a brief explanation of the event topic and its relevance to ETAPS
+- a brief description of the organizer's background, including relevant
+  experience in organizing workshops and contact information.
+- an explanation of the publicity strategy and selection procedure of
+  contributions to the event; the PC chair and PC members, if known already;
+  information about past editions of the event, if applicable
+- any other relevant information, like a special event format, invited
+  speakers, demo sessions, special space and equipment requirements, etc.
+- a tentative schedule for paper submission, notification of acceptance, and
+  final versions for the (informal pre-)proceedings (the ETAPS 2026 organizing
+  committee will need the final files by January 15, 2026)
+- the plans for formal publication (no formal publication, formal proceedings
+  ready by the event, formal post-proceedings, publication venue – EPTCS or
+  elsewhere)
+
+Proposals will be evaluated by the ETAPS 2026 organizing committee based on
+their assessed benefit for prospective participants of ETAPS 2026. We invite
+prospective organizers to consult the websites of previous satellite events as
+examples:
+
+* [ETAPS 2025](https://etaps.org/2025/sat-events/)
+* [ETAPS 2024](https://etaps.org/2024/sat-events/)
+* [ETAPS 2023](https://etaps.org/2023/sat-events/)
+* [ETAPS 2022](https://etaps.org/2022/workshops)
+* [ETAPS 2021](https://etaps.org/2021/workshops)
+* [ETAPS 2020](https://etaps.org/2020/workshops)
+* [ETAPS 2019](https://etaps.org/2019/workshops)
+* [ETAPS 2018](https://etaps.org/2018/workshops)
+
+
+## Further Information and Inquiries
+
+Please contact the workshop co-chairs:
+
+- Vincenzo Ciancia (CNR-ISTI, Pisa, Italy), [log in to unmask]
+- Luca Paolini (University of Torino, Italy), [log in to unmask]
+- Enrico Beraldo (Synesthesia, Torino, Italy), [log in to unmask] 
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

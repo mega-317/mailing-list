@@ -1,0 +1,148 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the acceptance of eight workshops that will be co-located with the 41st International Conference on Logic Programming (ICLP 2025) at the University of Calabria, Italy, from September 12 to September 19, 2025. It provides a brief overview of each workshop, including their topics and links to their respective websites. The workshops cover a range of areas related to logic programming, including theory, implementation, and applications, and the calls for paper submissions are currently open.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "workshop",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: [ICLP 2025 - Announcement of Accepted Workshops ] 41st International Conference on Logic Programming (ICLP’25), University of Calabria, Rende, Italy | September 12-19, 2025\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Tue, 27 May 2025 13:52:35 -0000\nContent-Type:text/plain",
+      "ICLP 2025, the 41st International Conference on Logic Programming, will be",
+      "held at the University of Calabria, Rende, Italy, from September 12 to",
+      "September 19, 2025.",
+      "This year, we are pleased to announce that eight workshops will be",
+      "-",
+      "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving",
+      "Website:",
+      "18th Workshop on Answer Set Programming and Other Computing Paradigms",
+      "(ASPOCP 2025).",
+      "Website: https://sites.google.com/view/aspocp-2025/",
+      "12th Workshop on Probabilistic Logic Programming (PLP 2025).",
+      "Website:",
+      "https://stoics.org.uk/~plp2025/",
+      "-",
+      "9th Workshop on Advances in Argumentation in Artificial Intelligence",
+      "(AI³ 2025).",
+      "-",
+      "Third Prolog Education Workshop (PEG 2025).",
+      "Website:",
+      "https://prolog-lang.org/Education/PrologEducationWS2025.html",
+      "https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html",
+      "Workshop on Logic Programming and Legal Reasoning (LPLR 2025).",
+      "https://lplr2025.legaltech.wales/",
+      "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in",
+      "Website: https://carla-ws.github.io/web/",
+      "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving",
+      "Problems with Combinatorial Explosion (RCRA 2025)",
+      "------------------------------",
+      "18th Workshop on Answer Set Programming and Other Computing Paradigms",
+      "(ASPOCP 2025)",
+      "Workshop on combining Answer Set Programming with Other Computing",
+      "Website: https://sites.google.com/view/aspocp-2025/",
+      "12th Workshop on Probabilistic Logic Programming (PLP 2025)",
+      "Website: https://stoics.org.uk/~plp2025/",
+      "9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³",
+      "2025)",
+      "The goal of the workshop is to stimulate discussions and promote scientific",
+      "Website: https://tinyurl.com/ai3w25",
+      "Third Prolog Education Workshop (PEG 2025)",
+      "Website: https://prolog-lang.org/Education/PrologEducationWS2025.html",
+      "Second Annual Workshop on Prolog Improvement Proposals (PIPs)",
+      "Website: https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html",
+      "Workshop on Logic Programming and Legal Reasoning (LPLR 2025)",
+      "The aim of the workshop is to give the opportunity to legal experts and",
+      "Website: https://lplr2025.legaltech.wales/",
+      "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in",
+      "Website: https://carla-ws.github.io/web/",
+      "ICLP 2025 Chairs",
+      "dell'Università della Calabria",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "ICLP 2025",
+        "acronym": "ICLP",
+        "year": 2025,
+        "evidence": "41st International Conference on Logic Programming (ICLP’25), University of Calabria, Rende, Italy | September 12-19, 2025"
+      }
+    ],
+    "conf_name_tokens": [
+      "ICLP 2025"
+    ],
+    "conf_name_final": "ICLP 2025",
+    "work_name_candidates": [
+      {
+        "raw": "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving",
+        "acronym": "RCRA",
+        "year": 2025,
+        "evidence": "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving"
+      },
+      {
+        "raw": "18th Workshop on Answer Set Programming and Other Computing Paradigms (ASPOCP 2025)",
+        "acronym": "ASPOCP 2025",
+        "year": 2025,
+        "evidence": "18th Workshop on Answer Set Programming and Other Computing Paradigms (ASPOCP 2025)"
+      },
+      {
+        "raw": "12th Workshop on Probabilistic Logic Programming (PLP 2025)",
+        "acronym": "PLP 2025",
+        "year": 2025,
+        "evidence": "12th Workshop on Probabilistic Logic Programming (PLP 2025)"
+      },
+      {
+        "raw": "9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³ 2025)",
+        "acronym": "AI³ 2025",
+        "year": 2025,
+        "evidence": "9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³ 2025)"
+      },
+      {
+        "raw": "Third Prolog Education Workshop (PEG 2025)",
+        "acronym": "PEG 2025",
+        "year": 2025,
+        "evidence": "Third Prolog Education Workshop (PEG 2025)"
+      },
+      {
+        "raw": "Workshop on Logic Programming and Legal Reasoning (LPLR 2025)",
+        "acronym": "LPLR 2025",
+        "year": 2025,
+        "evidence": "Workshop on Logic Programming and Legal Reasoning (LPLR 2025)"
+      },
+      {
+        "raw": "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in",
+        "acronym": null,
+        "year": null,
+        "evidence": "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in"
+      },
+      {
+        "raw": "Second Annual Workshop on Prolog Improvement Proposals (PIPs)",
+        "acronym": "PIPs",
+        "year": null,
+        "evidence": "Second Annual Workshop on Prolog Improvement Proposals (PIPs)"
+      }
+    ],
+    "work_tokens": [
+      "AI³ 2025 2025",
+      "ASPOCP 2025 2025",
+      "LPLR 2025 2025",
+      "PEG 2025 2025",
+      "PIPs",
+      "PLP 2025 2025",
+      "RCRA 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 7920,
+    "purpose": 513,
+    "infos": 2651
+  }
+}

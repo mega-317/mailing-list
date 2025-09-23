@@ -1,0 +1,26 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a job opening for an Associate Professorship in Verification at TU Braunschweig. It encourages recipients to reach out with any questions and to share the opportunity with interested colleagues. The position is tenured and classified as W2.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "TU Braunschweig is recruiting an Associate Professor in Verification (tenured, W2)",
+      "If you have questions, do not hesitate to ask me.",
+      "If you have colleagues who may be interested, please distribute the offer."
+    ]
+  }
+}

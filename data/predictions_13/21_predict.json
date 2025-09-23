@@ -1,0 +1,29 @@
+{
+  "has_body": true,
+  "purpose": "The email serves as a call for participation in CONFEST 2025, which will take place from August 25 to August 30, 2025, in Aarhus, Denmark. It highlights the early registration deadline of July 25, 2025, and provides details about the conferences and workshops included in the event. The email also lists invited speakers and their topics, emphasizing the opportunity for attendees to engage with the latest advancements in concurrency theory, formal methods, and quantitative evaluation of systems.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "We are excited to invite you to register for CONFEST 2025, which will host three major international conferences.",
+      "The early registration deadline is July 25, 2025.",
+      "These events will take place in Aarhus, Denmark, from August 25 to August 30, offering a fantastic opportunity to follow the latest advancements, and network with researchers and practitioners in these fields.",
+      "The Early Registration deadline is July 25, 2025.",
+      "We hope to meet you in Aarhus this summer!"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a call for papers for a special issue on Agentic Artificial Intelligence (AI) in the ACM Transactions on Software Engineering and Methodology (TOSEM) scheduled for 2026. It highlights the significant impact of AI on software engineering, particularly with the emergence of Large Language Model (LLM) agents, and invites original research articles on various topics related to automation, trust, integration, and human-agent interaction in software engineering. The email provides submission deadlines and instructions for authors, as well as contact information for the editors overseeing the special issue.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 3193,
+    "purpose": 627,
+    "infos": 0
+  }
+}

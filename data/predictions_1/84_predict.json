@@ -1,0 +1,13 @@
+{
+  "purpose": "The email is a call for papers for a special issue on the conceptual and technical engineering of blockchain-based information systems.",
+  "is_cfp": true,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": "2025-09-30",
+  "conference_website": "https://www.sciencedirect.com/special-issue/319734/conceptual-and-technical-engineering-of-blockchain-based-information-systems",
+  "evidence_sentences": [
+    "Call for Papers - Special Issue",
+    "This special issue aims to advance the state of BISs and their engineering by addressing conceptual and technical challenges at different levels.",
+    "The special issue invites theoretical, conceptual, technical, and practical contributions on various topics related to Blockchain-based Information Systems (BISs)."
+  ]
+}

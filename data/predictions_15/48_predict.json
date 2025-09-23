@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email invites applicants for postdoctoral positions at the National University of Singapore (NUS) in the area of fuzz testing. These positions are part of a grant sponsored by Singapore's Cybersecurity Agency as part of the National Cybersecurity R&D programme named 'Fuzz Testing', which is funded from 2023 to 2027. The program aims to improve the reliability of modern software applications using fuzz testing techniques and will advance the state-of-the-art in testing and analysis of concurrent, distributed, and stateful software. Interested applicants are requested to provide a CV, research statement, and names of two referees, and they should have a PhD degree or be submitting their PhD thesis soon. The postdoc will be located in the Computer Science Department of NUS, which has a high academic reputation.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2647,
+    "purpose": 823,
+    "infos": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "purpose": "The email announces the SEMLA 2025 symposium and invites participation and contributions.",
+  "is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The eighth edition of the Software Engineering for Machine Learning Applications (SEMLA) symposium will take place at Polytechnique Montréal, Montréal, Canada, from June 17 to June 19, 2025.",
+    "We invite practitioners and researchers from all related fields to participate.",
+    "Poster abstract deadline: May 30th, 2025",
+    "We accept poster presentations related to any of the SEMLA topics."
+  ]
+}

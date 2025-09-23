@@ -1,0 +1,209 @@
+
+
+
+ 
+
+Subject:     Call for Workshop Proposals: 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:[log in to unmask]
+Date:Sat, 17 May 2025 12:32:27 -0000
+Content-Type:text/plain
+
+
+
+
+
+﻿48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)
+Rio de Janeiro, Brazil
+
+Link:
+https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions
+
+Call for Workshops
+
+The workshops at the International Conference on Software Engineering 2026
+(ICSE) provide a forum for groups of 20-50 participants to discuss topics
+in software engineering research and practice. ICSE Workshops can be quite
+diverse. They serve as incubators for scientific communities that form and
+share a particular research agenda. They also provide opportunities for
+researchers to exchange and discuss scientific and engineering ideas at an
+early stage, before they have matured to warrant conference or journal
+publication.
+
+Workshops at ICSE 2026 will be held between Sunday, April 12, and Tuesday,
+April 14, or Saturday, April 18, 2026, in Rio de Janeiro, Brazil. In
+general, participation in ICSE workshops is open. The workshop papers will
+be published by the *ACM*.
+
+*NOTE: Novelties introduced in this call are highlighted in bold.*
+Submissions
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions>
+
+All proposals must not exceed 5 pages, including a maximum of 4 pages for
+the proposal text, references, appendices and figures, plus 1 page for the
+draft Call for Submissions.
+
+Submissions of workshops should be in pdf format, 12 point font. Since the
+workshop submissions will not be published (they will only be used to
+gather information to decide about acceptance, and to enable advertising
+your workshop), they do not need to adhere strictly to the *ACM style*.
+
+The main body (max 4 pages) of each proposal must include the following
+information, in the order specified:
+
+   1. Workshop Title *and Acronym*
+   2. Abstract (200 words or fewer), suited for the ICSE 2026 website
+   3. Contact Information for all workshop organizers, including the main
+   contact person
+   4. Motivation and Objectives
+      - Relevance of the workshop to the field of software engineering.
+      - Anticipated goals and outcomes (e.g., open research problems to
+      pursue, validation objectives, empirical studies).
+   5. Format and Required Services
+      - Workshop format (e.g., paper presentations, keynotes, breakout
+      sessions, panel-like discussions) and plans for generating discussions.
+      - Intended length (1 or 2 days) and preferred dates (before or after
+      the main ICSE 2026 conference).
+      - Special services, logistic and/or equipment constraints.
+   6. Target Audience
+      - Expected background of the workshop attendees.
+      - Plans regarding the mix of industry and research participation.
+      - Expected minimum and maximum number of workshop participants.
+      - Plans for soliciting and selecting workshop participants, including
+      whether the workshop will be open or closed (in case of a closed
+workshop,
+      provide a justification).
+   7. Proceedings
+      - Types of contributions (position papers, research papers, short
+      papers etc. + *MANDATORY “extended abstracts”*) and their estimated
+      number and page limits. *NOTE: Workshops must include an option for
+      submission of “extended abstracts” (limited to five pages or
+less) and make
+      it explicit that those are free of APC charges. However, for them to be
+      free, the “extended abstract” term should be explicit in the call (and
+      papers should be marked as such by the proceedings chairs). Please note
+      that “short papers” are charged, but “extended abstracts” are not
+      (see https://libraries.acm.org/acmopen/article-types
+      <https://libraries.acm.org/acmopen/article-types>).*
+      - Review and evaluation process to decide about the acceptance of
+      submissions.
+      - Program committee, including tentative and already committed
+      members.
+      - Link to the preliminary website of the workshop.
+      - A proceeding chair, who will be responsible to send the list of
+      accepted papers (paper titles, authors, emails) to the publishers.
+   8. Workshop History
+      - Number of registered attendees and websites of previous editions of
+      the workshop (if any).
+   9. Organizers’ bios
+      - A brief description of each organizer’s background, including
+      relevant past experience in organizing conferences and workshops.
+
+Proposal Review Criteria
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#proposal-review-criteria>
+
+ICSE welcomes long-running, successful workshops. Therefore, the chairs may
+desk-accept proposals for workshops that have had at least 20 participants,
+on average, over at prior two years’ instances of that workshop, *but such
+proposals must be submitted via HotCRP for appreciation*. Proposals for new
+workshops should carefully consider existing workshops and co-located
+events to avoid duplication or significant overlaps as these may be
+desk-rejected. All other proposals that meet the basic requirements
+identified in the call will be evaluated by at least three members of the
+program committee. The chairs reserve the right to request the PC to
+evaluate any proposal in this manner.
+For Accepted Workshops
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#for-accepted-workshops>
+
+For all accepted workshops, ICSE 2026 requires uniform deadlines for
+workshop papers submission, notification of authors, and camera-ready
+copies, as described in the Important Dates below. *All accepted workshops
+must use the HotCRP online submission system (to be provided by the ICSE
+Organizing Team after proposal notification).*Moreover, papers must have a
+maximum length of 8 pages and all *calls for workshop papers must
+explicitly inform and allow submission of “extended abstracts” (up to five
+pages), considering ACM Open policies: ACM papers, excluding “extended
+abstracts”, need to have an OA institutional agreement or undergo article
+processing charges (APCs) to be paid by the authors (250 dollars for
+members, and 350 for non-members) in order to be published.* It is not
+possible to pay for extra pages. For workshops that will opt for
+publication in *ACM* prior to the event, the call for submissions must
+include the following statement:
+
+“The official publication date of the workshop proceedings is the date the
+proceedings are made available by *ACM*. This date may be up to two weeks
+prior to the first day of ICSE 2026. The official publication date affects
+the deadline for any patent filings related to published work.”
+
+Conditions
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#conditions>
+
+ICSE 2026 is not able to pay for registration, travel, or other
+arrangements for workshop organizers. ICSE 2026 will also not pay for
+workshop dinners. Additionally, ICSE 2026 cannot guarantee to honor
+specific requests for holding the workshop on specific dates. All
+participants, including workshop organizers, keynote speakers, and invited
+guests, must register for the workshop. One keynote speaker per workshop
+can benefit from a free workshop registration (note that the free
+registration only includes the workshop, and none of the other events are
+included; for instance, the main conference is not included in the free
+workshop registration). Workshop organizers cannot submit (refereed) papers
+to their own workshop. This restriction extends to workshop organizer’s
+currently directly supervised students, even if the particular submitted
+work does not include the workshop organizer.
+Important Dates
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#important-dates>
+
+   - Workshop Proposal Submissions Deadline: 23 June 2025
+   - Workshop Proposal Acceptance Notification: 28 July 2025
+   - Workshop Websites Online: 25 August 2025
+   - Workshop Papers Submission Deadline for all Workshops: 20 October 2025
+   - Workshop Papers Acceptance Notification: 24 November 2025
+   - Workshop Papers info to Workshop Chairs & Web Chairs: 22 December 2025
+   - Workshop Front Matter: TBA
+   - Workshop Papers Camera Ready: TBA
+
+Submission System
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submission-system>
+
+https://icse2026-workshops.hotcrp.com
+I
+<https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submission-system>CSE
+Workshops Track Chairs
+
+   - [image: Rodrigo Santos.jpeg]
+   Rodrigo SantosWorkshops Co-ChairUNIRIOBrazil
+   <https://conf.researchr.org/profile/icse-2026/rodrigosantos>
+   - [image: Antonia Bertolino.jpeg]
+   <https://conf.researchr.org/profile/icse-2026/antoniabertolino>
+   Antonia BertolinoWorkshops Co-ChairGran Sasso Science InstituteItaly
+   <https://conf.researchr.org/profile/icse-2026/antoniabertolino>
+
+Best wishes,
+------------------------------
+Prof. Rodrigo Santos
+Head of Complex Systems Engineering Lab
+Associate Professor of CS/IS/SoftEng
+LabESC | PPGI | BSI | UNIRIO
+------------------------------
+Author Profile & Networks at ORCID
+https://orcid.org/0000-0003-4749-2551
+------------------------------
+
+>
+>
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

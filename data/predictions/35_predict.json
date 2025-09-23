@@ -1,0 +1,42 @@
+{
+  "purpose": "LUT School of Engineering Sciences is hiring a Professor in Artificial Intelligence for Software Engineering.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": true,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 0,
+    "false_votes": 3
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "LUT School of Engineering Sciences is hiring a Professor in Artificial Intelligence for Software Engineering.",
+    "The position is located at the Department of Software Engineering of the LUT School of Engineering Sciences.",
+    "The professorship will be located in LUT's Lappeenranta campus, Finland.",
+    "The application form and more information on benefits, duties, and application process, https://lut.rekrytointi.com/paikat/?o=A_A&jid=1318",
+    "The closing date for applications is 11 August 2025 at 12 noon, Finnish local time (UTC + 3h)."
+  ]
+}

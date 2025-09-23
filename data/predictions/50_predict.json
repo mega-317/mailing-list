@@ -1,0 +1,44 @@
+{
+  "purpose": "The email invites submissions for the International Symposium on Sustainable Systems Technologies and Green Computing (STGC) to be held in Dubrovnik, Croatia.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "STGC 2025",
+  "start_date": "2025-10-15",
+  "submission_deadline": "2025-08-02",
+  "conference_website": "https://flta-conference.org/flta-2025/sts.php",
+  "evidence_sentences": [
+    "We are pleased to invite you to submit your original research papers, case studies, and industry insights to our upcoming symposium.",
+    "STGC is co-located with the 3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025), which will take place on October 14-17, 2025, in Dubrovnik, Croatia.",
+    "Key Dates:",
+    "- Submission Deadline: August 2, 2025",
+    "- Symposium Date: October 15, 2025",
+    "- Location: Dubrovnik, Croatia",
+    "For more details on submission guidelines and the symposium's scope, please visit our official webpage: STGC at FLTA 2025"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "purpose": "The email is a Call for Papers for the ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2026).",
+  "is_cfp": true,
+  "coference_name": "CGO 2026",
+  "start_date": null,
+  "submission_deadline": "2025-05-29",
+  "conference_website": "https://2026.cgo.org/",
+  "evidence_sentences": [
+    "The Call for Papers is out for the next International Symposium on Code Generation and Optimization (CGO’26), taking place next year in Sydney, Australia.",
+    "The first submission round is coming up, with the following deadlines: Paper Submission: 29 May 2025."
+  ]
+}

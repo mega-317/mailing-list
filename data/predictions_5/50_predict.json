@@ -1,0 +1,21 @@
+{
+  "purpose": "The email invites submissions for the International Symposium on Sustainable Systems Technologies and Green Computing (STGC) scheduled for October 15-17, 2025, in Dubrovnik, Croatia. It encourages original research papers, case studies, and industry insights on topics related to sustainable and energy-efficient software systems. Accepted papers will be published in IEEE Xplore.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are pleased to invite you to submit your original research papers, case studies, and industry insights to our upcoming symposium.",
+    "STS aims to address the growing demand for sustainable, energy-efficient, and resilient software systems by exploring innovative approaches in technology and system development.",
+    "Accepted papers will be published in IEEE Xplore in the proceedings of FLTA 2025.",
+    "Submission Deadline: August 2, 2025",
+    "Symposium Date: October 15, 2025",
+    "Location: Dubrovnik, Croatia"
+  ]
+}

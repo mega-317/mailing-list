@@ -1,0 +1,13 @@
+{
+  "purpose": "The email serves to announce the Call for Papers for the ACS/IEEE AICCSA 2025 conference and encourages submissions.",
+  "is_cfp": true,
+  "coference_name": "AICCSA 2025",
+  "start_date": "2025-10-19",
+  "submission_deadline": "2025-05-19",
+  "conference_website": "https://conferences.sigappfr.org/aiccsa2025/",
+  "evidence_sentences": [
+    "Please find below the ACS/IEEE AICCSA 2025 Call for Papers.",
+    "Feel free to distribute it to various mailing lists and social media groups.",
+    "We highly encourage you to motivate your colleagues and students to submit their research work to the ACS/IEEE AICCSA 2025."
+  ]
+}

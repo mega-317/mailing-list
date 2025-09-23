@@ -1,0 +1,78 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025), scheduled for October 14-17, 2025, in Dubrovnik, Croatia. It aims to gather researchers, academics, and industry experts to discuss the metaverse's technologies, applications, and implications. The conference will feature keynote speeches, panel discussions, and presentations, providing opportunities for networking and collaboration. It also includes various tracks and workshops focused on specific topics related to the metaverse. Accepted papers will be published in IEEEXplore, dblp, and Scopus. Important submission deadlines are provided for both late track and workshop papers.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "IEEE iMETA 2025: The 3rd International Conference on Intelligent Metaverse Technologies & Applications",
+        "acronym": "iMETA",
+        "year": 2025,
+        "evidence": "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)"
+      },
+      {
+        "raw": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse",
+        "acronym": "IDTSC",
+        "year": null,
+        "evidence": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse (IDTSC)"
+      },
+      {
+        "raw": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse",
+        "acronym": "BCIME",
+        "year": null,
+        "evidence": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse (BCIME)"
+      },
+      {
+        "raw": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems",
+        "acronym": "EASME",
+        "year": null,
+        "evidence": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems (EASME)"
+      },
+      {
+        "raw": "1st International Workshop on Generative AI for Immersive Experience Design",
+        "acronym": "GAIXR",
+        "year": null,
+        "evidence": "1st International Workshop on Generative AI for Immersive Experience Design (GAIXR)"
+      },
+      {
+        "raw": "1st International Workshop on AI-Enhanced Learning Worlds",
+        "acronym": "MetaLearn",
+        "year": null,
+        "evidence": "1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)"
+      },
+      {
+        "raw": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse",
+        "acronym": "SPAAUM",
+        "year": null,
+        "evidence": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse (SPAAUM)"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "iMETA 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
+      "14-17 October 2025 | Dubrovnik, Croatia",
+      "The International Conference on Intelligent Metaverse Technologies & Applications (iMETA) is to bring together leading researchers, academics, and industry experts to explore the various aspects of the distributive metaverse, including its technologies, applications, and implications for various industries.",
+      "Throughout the conference, there will be ample opportunities for attendees to network, share their knowledge, and collaborate on future initiatives that will drive the development of the metaverse forward.",
+      "Overall, the iMETA conference aims to provide attendees with a comprehensive understanding of the communication, computing, and system requirements of the metaverse.",
+      "All accepted papers in iMETA 2025 and the workshops co-located with it will be submitted to IEEEXplore, dblp and Scopus for inclusion.",
+      "Papers due: July 30, 2025",
+      "Acceptance notification: August 20, 2025",
+      "Camera-ready paper due: August 31, 2025"
+    ]
+  }
+}

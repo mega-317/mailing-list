@@ -1,0 +1,29 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for a special issue on Innovative Frontiers in Automated Software Engineering. It invites researchers to submit transformative research that challenges conventional assumptions and explores new perspectives in the field. The special issue aims to collect innovative ideas, visionary perspectives, and critical reflections that can reshape automated software engineering. Contributions are sought in three categories: groundbreaking new ideas, visions of the future, and reflections on past research. Topics of interest include radical approaches to automation, novel applications, and ethical implications in software engineering.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "This special issue seeks to go beyond incremental advances, welcoming transformative research that challenges conventional assumptions, explores radical new perspectives, and envisions the future of automation in software engineering.",
+      "We invite contributions that redefine the role of automation, whether through groundbreaking innovations, thought-provoking reflections on past research, or bold visions that anticipate unforeseen opportunities and challenges.",
+      "This special issue aims to collect contributions for innovative ideas, visionary perspectives, and critical reflections that can potentially reshape automated software engineering significantly.",
+      "We seek contributions beyond incremental advances to propose fundamentally new directions or offer insightful analyses of past and current research trajectories.",
+      "We invite three types of papers: Innovative, groundbreaking new ideas supported by promising initial results; Visions of the future; Reflections on the past.",
+      "Topics of interest include, but are not limited to: Radical approaches to automating software engineering tasks supported by preliminary evidence; Novel applications of automation in software engineering contexts are traditionally considered unsuitable; Bold predictions about transformative directions in automated software engineering."
+    ]
+  }
+}

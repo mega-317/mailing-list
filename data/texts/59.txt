@@ -1,0 +1,61 @@
+
+
+
+ 
+
+Subject:     SEMLA 2025 - CALL FOR PARTICIPATION & CONTRIBUTION (June 17-19, Montreal)
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Fri, 23 May 2025 14:22:26 -0000
+Content-Type:text/plain
+
+
+
+
+
+The eighth edition of the Software Engineering for Machine Learning Applications (SEMLA) symposium (https://semla.polymtl.ca) will take place at Polytechnique Montréal, Montréal, Canada, from June 17 to June 19, 2025. We have an exciting program featuring world-renowned researchers and practitioners.
+
+SEMLA brings together leading experts in software engineering and machine learning to discuss the challenges of developing complex data-intensive software systems. We invite practitioners and researchers from all related fields to participate.
+
+The theme of SEMLA 2025 is AgentOps and Intelligent Systems, focusing on two transformative areas:
+
+**AgentOps: The operationalization of intelligent agents for workflows in software engineering, interactive computing, autonomous database management, and voice-driven application control.
+
+**Intelligent Systems: LLM-integrated use cases such as code generation, data preparation, and content moderation; the impact of Digital Twins for modeling, simulating, and optimizing real-world systems, especially for sustainability.
+
+As usual, this year features leading experts from academia and industry. Our program includes talks, tutorials, and panel discussions.
+
+Program Overview
+**June 17, 2025 (AgentOps Day): Keynotes, sessions, and discussions focused on operationalizing intelligent agents.
+**June 18, 2025 (Intelligent Systems): Presentations, expert talks, and discussions on AI-enhanced systems and sustainability.
+**June 19, 2025 (Tutorials and SEMTL Meeting): Hands-on tutorials and the SEMTL meeting.
+
+More about invited speakers: https://semla.polymtl.ca/invited-speakers/
+
+
+Call for Poster Contribution
+
+Poster abstract deadline: May 30th, 2025
+
+We accept poster presentations related to any of the SEMLA topics. Accepted posters will be presented in a dedicated session, with select presenters eligible for travel grants or best poster prizes.
+
+More information about posters and submission: https://semla.polymtl.ca/call-for-posters/
+
+Registration Details Early Registration Deadline: June 6th, 2025 Register here: https://www.eventbrite.ca/e/semla-2025-tickets-1323634559599?aff=oddtdtcreator
+
+On behalf of the SEMLA 2025 Organizers
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

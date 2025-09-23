@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email serves as a call for participation in CONFEST 2025, inviting individuals to register for the event and providing details about the conferences, registration deadlines, and invited speakers. It highlights the opportunity to engage with advancements in concurrency theory, formal methods, and quantitative evaluation of systems. The early registration deadline is emphasized, along with links for more information and accommodation options.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 3739,
+    "purpose": 448,
+    "infos": 0
+  }
+}

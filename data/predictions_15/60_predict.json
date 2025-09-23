@@ -1,0 +1,51 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for participation in the 13th International Conference on Software Engineering Research and Innovation (CONISOFT 2025), scheduled to take place from October 27 to October 31, 2025, in La Paz, Mexico. It invites practitioners and researchers from academia, industry, and government to submit their work and engage in discussions that advance the field of software engineering. The conference aims to foster collaboration between academia and industry and encourages submissions that integrate theoretical and practical aspects. The submission deadline is June 15, 2025, and registration details are provided.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Call for Participation 13th International Conference on Software Engineering Research and Innovation CONISOFT\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Fri, 23 May 2025 14:22:03 -0000\nContent-Type:text/plain",
+      "13th International Conference on Software Engineering Research and Innovation",
+      "October 27 to October 31, 2025, La Paz, BCS., Mexico.",
+      "https://conisoft.org",
+      "***Submission Deadline: June 15, 2025***",
+      "#conisoft #redmis #se #softwareEngineering #mexico #IEEE #IEEEComputerSociety",
+      "Register now: https://conisoft.org/2025/#registration",
+      "The 13th International Conference on Software Engineering Research and Innovation (CONISOFT 2025) is set to take place at Universidad Autónoma de Baja California Sur La Paz, BCS., Mexico, from October 27 to October 31, 2025.",
+      "https://conisoft.org/2025/#contact",
+      "We look forward to seeing you in La Paz, Baja California Sur, Mexico, in October 2025!",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "CONISOFT 2025",
+        "acronym": "CONISOFT",
+        "year": 2025,
+        "evidence": "The 13th International Conference on Software Engineering Research and Innovation (CONISOFT 2025) is set to take place at Universidad Autónoma de Baja California Sur La Paz, BCS., Mexico, from October 27 to October 31, 2025."
+      }
+    ],
+    "conf_name_tokens": [
+      "CONISOFT 2025"
+    ],
+    "conf_name_final": "CONISOFT 2025",
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4785,
+    "purpose": 627,
+    "infos": 1001
+  }
+}

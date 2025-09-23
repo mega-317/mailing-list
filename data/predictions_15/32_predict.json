@@ -1,0 +1,68 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 22nd International Conference on Managed Programming Languages & Runtimes (MPLR'25), inviting submissions of research papers, work-in-progress papers, and industry/tool papers. It outlines the topics of interest, submission categories, and author instructions, including formatting requirements and important deadlines. The conference aims to provide a platform for discussing novel results in managed programming languages and runtime systems, with a focus on various applications from embedded systems to cloud computing.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: [CFP] MPLR’25 - 22nd International Conference on Managed Programming Languages & Runtimes\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Mon, 16 Jun 2025 05:32:53 -0000\nContent-Type:text/plain",
+      "The 22nd International Conference on Managed Programming Languages & Runtimes",
+      "MPLR 2025 submissions must conform to the ACM Policy on Prior Publication",
+      "http://www.sigplan.org/Resources/Policies/Republication",
+      "Please consider submitting to the SPLASH poster track.",
+      "`acmart-primary.zip` file that downloads from the LaTeX (Version 1.90) link",
+      "Submission Site: https://mplr25.hotcrp.com",
+      "---------------",
+      "- Camera Ready for Papers: August 25, 2025",
+      "- Conference Date: October 14, 2025",
+      "The official publication",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "MPLR 2025",
+        "acronym": "MPLR",
+        "year": 2025,
+        "evidence": "22nd International Conference on Managed Programming Languages & Runtimes"
+      }
+    ],
+    "conf_name_tokens": [
+      "MPLR 2025"
+    ],
+    "conf_name_final": "MPLR 2025",
+    "work_name_candidates": [
+      {
+        "raw": "MPLR 2025",
+        "acronym": "MPLR",
+        "year": 2025,
+        "evidence": "22nd International Conference on Managed Programming Languages & Runtimes MPLR 2025"
+      },
+      {
+        "raw": "SPLASH",
+        "acronym": "SPLASH",
+        "year": null,
+        "evidence": "Please consider submitting to the SPLASH poster track."
+      }
+    ],
+    "work_tokens": [
+      "MPLR 2025",
+      "SPLASH"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 6170,
+    "purpose": 547,
+    "infos": 810
+  }
+}

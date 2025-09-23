@@ -1,0 +1,18 @@
+{
+  "purpose": "The email announces the accepted workshops for the 41st International Conference on Logic Programming (ICLP 2025).",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "ICLP 2025, the 41st International Conference on Logic Programming, will be held at the University of Calabria, Rende, Italy, from September 12 to September 19, 2025.",
+    "This year, we are pleased to announce that eight workshops will be co-located with ICLP 2025.",
+    "Below is the list of the accepted workshops, along with short descriptions and links to their respective websites."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the availability of Postdoctoral Fellow and Research Fellow positions at the Helsinki Institute for Information Technology (HIIT). It details the duration of the positions, which can be up to three years for Postdoctoral Fellows and up to five years for Research Fellows, with negotiable starting and ending dates. The email emphasizes the commitment of Aalto University and the University of Helsinki to inclusivity and encourages applications from underrepresented groups. It also outlines the strategic focus areas for candidates, including Artificial Intelligence, Computational Health, Cybersecurity, Data Science, and Foundations of Computing. Additionally, it provides specific topics for software engineering applicants and suggests contacting principal investigators (PIs) before applying.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2539,
+    "purpose": 818,
+    "infos": 0
+  }
+}

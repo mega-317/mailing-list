@@ -1,0 +1,55 @@
+{
+  "has_body": true,
+  "purpose": "The email is a Call for Papers for the First Submission Round of EICS 2026, which is the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems. The conference will take place from June 22-26, 2025, in Trier, Germany. The submission deadline for Full Papers and Technical Notes is July 25, 2025. The conference aims to address various software quality factors and covers all stages of the engineering life-cycle of interactive systems. It invites submissions that advance the state of the art in engineering interactive systems, with a wide range of relevant topics outlined. Additionally, it provides details on the submission process, including the format and requirements for papers.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+        "acronym": "EICS",
+        "year": 2026,
+        "evidence": "EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, June 22-26, 2025 - Trier, Germany"
+      },
+      {
+        "raw": "EICS 2026",
+        "acronym": "EICS",
+        "year": 2026,
+        "evidence": "EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces"
+      },
+      {
+        "raw": "PACM EICS 2026",
+        "acronym": "PACM EICS",
+        "year": 2026,
+        "evidence": "Submission deadline for the 1st Round of PACM EICS 2026 for Full Papers and Technical Notes: July 25, 2025"
+      },
+      {
+        "raw": "Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)",
+        "acronym": "PACM - EICS",
+        "year": null,
+        "evidence": "EICS Full Papers and Technical Notes are published as articles in the Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)"
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Call for Papers for the First Submission Round of EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, June 22-26, 2025 - Trier, Germany",
+      "Submission deadline for the 1st Round of PACM EICS 2026 for Full Papers and Technical Notes: July 25, 2025",
+      "EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces, addressing one or more software quality factors, such as usability, user experience, reliability, security, etc.",
+      "Submissions advance the state of the art of the engineering of interactive systems.",
+      "Topics include, but are not limited to: Modelling, specification and analysis of interaction and interactive systems.",
+      "EICS Full Papers and Technical Notes are published as articles in the Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series).",
+      "The PACM-EICS deadline for the First Round of Full Papers and Technical Notes submissions is 25 July 2025."
+    ]
+  }
+}

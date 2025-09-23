@@ -1,0 +1,22 @@
+{
+  "has_body": true,
+  "purpose": "The email invites submissions for the 21st International Conference on Information Systems Security (ICISS 2025), which will take place at the Indian Institute of Technology Indore from December 16–20, 2025. It highlights the conference's role in fostering collaboration in the fields of cybersecurity and system security. Important dates for submissions and notifications are provided.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": "conference",
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": true,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are pleased to invite paper submissions for the *21st International Conference on Information Systems Security (ICISS 2025),* to be hosted by the Indian Institute of Technology Indore (IIT Indore), India from *December 16–20, 2025*.",
+    "ICISS is a premier international forum that brings together researchers, academicians, and industry professionals to share their latest findings and insights in the fields of cybersecurity, cryptography, system security, and hardware security.",
+    "Submission Deadline: July 10, 2025",
+    "Acceptance Notification: September 30, 2025",
+    "Camera-ready Deadline: October 15, 2025",
+    "Conference Dates: December 16–20, 2025"
+  ]
+}

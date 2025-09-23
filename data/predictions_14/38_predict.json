@@ -1,0 +1,52 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 9th Working Formal Methods Symposium (FROM 2025) scheduled for September 17-19, 2025, in Iași, Romania. It aims to gather researchers and practitioners in the field of formal methods to share new theoretical results, methods, techniques, and frameworks. The symposium will feature invited speakers and a program that includes both invited lectures and regular contributions. Important dates for paper submissions, author notifications, and registration are provided, along with details on submission requirements and topics of interest.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: FROM 2025 - 9th Working Formal Methods Symposium (CFP)\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Tue, 10 Jun 2025 15:23:23 -0000\nContent-Type:text/plain",
+      "FROM 2025 - 9th Working Formal Methods Symposium",
+      "September 17-19, 2025, Iași, România",
+      "The Working Formal Methods Symposium (FROM) aims to bring together",
+      "Paper/abstract submission deadline: June 7, 2025 June 22, 2025 (extended)",
+      "Author notification: July 15, 2025 July 22, 2025",
+      "Revised paper/abstract submission deadline: August 29, 2025",
+      "Registration deadline: September 2, 2025",
+      "Symposium dates: September 17-19, 2025",
+      "(https://style.eptcs.org/) must be submitted electronically using the",
+      "(https://easychair.org/conferences?conf=from2025).",
+      "(https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming),",
+      "More details available at: https://fromsymposium.github.io/",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "9th Working Formal Methods Symposium",
+        "acronym": "FROM",
+        "year": 2025,
+        "evidence": "FROM 2025 - 9th Working Formal Methods Symposium"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "FROM 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4458,
+    "purpose": 560,
+    "infos": 967
+  }
+}

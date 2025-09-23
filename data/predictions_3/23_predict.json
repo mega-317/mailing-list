@@ -1,0 +1,18 @@
+{
+  "purpose": "The email announces the call for papers for workshops at ISSRE 2025, with a submission deadline of July 21, 2025.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "Workshops at ISSRE provide additional opportunities for collaborating and exchanging information, for both practitioners from industry and academic researchers.",
+    "The following workshops are confirmed and will be co-located with ISSRE 2025:",
+    "- Workshop paper submission deadline: July 21th, 2025"
+  ]
+}

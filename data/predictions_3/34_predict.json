@@ -1,0 +1,18 @@
+{
+  "purpose": "The email announces a full-time Post-Doc position at the Linz Institute of Technology for conducting software engineering research.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "We are looking for a (up to three-years contract) Post-Doc for the Johannes Kepler University (JKU) Linz Institute of Technology (LIT).",
+    "The Post-Doc is expected to conduct software engineering research in the JKU / Dynatrace Austria Co-Innovation Lab.",
+    "Apply now via the link below (Deadline Aug 10) or contact me in case you have any questions."
+  ]
+}

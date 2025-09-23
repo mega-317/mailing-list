@@ -1,0 +1,32 @@
+{
+  "has_body": true,
+  "purpose": "The email announces open positions for up to four research stream assistant professors in Software Engineering and AI at the University of Victoria, with an application deadline of August 15, 2025. It invites applications from qualified candidates who hold a Ph.D. in relevant fields and have a strong research background. The positions require a commitment to teaching and mentoring students, with a focus on software engineering courses. The email emphasizes the importance of research related to Generative AI and its impact on Software Engineering. Additional details, including a link to the full job advertisement and application site, are provided.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The Faculty of Engineering and Computer Science at the University of Victoria is looking to fill up to 4 research stream assistant professor positions at the intersection of Software Engineering and AI.",
+      "Apply by August 15, 2025.",
+      "We invite applications from talented scholars for one of four tenure-track positions at the assistant professor level working at the intersection of Software Engineering and AI to commence January 1, 2026, or soon thereafter.",
+      "Qualified candidates must have a Ph.D. in Computer Science, Software Engineering, Electrical or Computer Engineering (with a research focus in Software), or an equivalent field or be within a year of completion.",
+      "The candidate must have a demonstrated record of research accomplishment, including publications in top international conference venues that may include ICSE, FSE, ASE, ICSME and ESEM, or in top journals in Software Engineering such as TOSEM, TSE, EMSE, JSS or other high-quality journals in more specific software engineering topics such as Security, Testing etc.",
+      "Applicants must have a commitment to teaching software engineering courses at the senior undergraduate level (3rd and 4th year) as part of our Bachelor of Software Engineering Program.",
+      "Given the impact of Generative AI on Software Engineering, as well as how Software Engineering will need to evolve to support the development of Generative AI infused applications, we encourage applicants that are engaged with these topics as part of their existing or future research program.",
+      "Full job ad: https://www.uvic.ca/ecs/computerscience/assets/docs/employment/cosi_seng_research-faculty-ad-2025_final.pdf including salary range and more details on UVic.",
+      "Application site: https://academicjobsonline.org/ajo/jobs/30135"
+    ]
+  }
+}

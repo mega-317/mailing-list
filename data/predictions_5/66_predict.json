@@ -1,0 +1,20 @@
+{
+  "purpose": "The email is a call for proposals for workshops and tutorials associated with the JELIA 2025 conference, inviting submissions on topics related to Artificial Intelligence. The organizers are particularly interested in workshops that explore the intersection of statistical and symbolic AI and encourage proposals that foster dialogue between different research communities. Interested parties are invited to reach out for further discussion.",
+  "is_cfp": false,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The organizers of the JELIA conference are now inviting proposals for affiliated workshops and tutorials.",
+    "We welcome submissions on any topic related to Artificial Intelligence.",
+    "We are especially interested in workshops that explore the intersection of statistical and symbolic AI.",
+    "We particularly encourage proposals that aim to bridge communities and foster dialogue between researchers working in machine learning, knowledge representation, logic, and cognitive systems.",
+    "If you are considering organizing a workshop or tutorial, please feel free to reach out to me by email."
+  ]
+}

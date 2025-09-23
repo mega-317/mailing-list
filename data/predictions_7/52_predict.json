@@ -1,0 +1,19 @@
+{
+  "purpose": "The email announces a Postdoctoral Researcher position at the Technical University of Denmark in the field of Software Architecture and Software Evaluation or Digital Twin & Digital Transformation. It invites applied researchers with relevant experience or interest in domains such as Energy, Mobility, or Climate Change to apply. The email encourages recipients to circulate the job posting within their networks.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": null,
+  "is_cfp_mail_text": false,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "There is a Postdoctoral Researcher at the Dynamical Systems section at DTU Compute.",
+    "If you're an applied researcher with a passion for practical European projects, this is your opportunity to elevate your work in Software Engineering and contribute to impactful research with real-world relevance.",
+    "Experience or interest in domains such as Energy, Mobility, or Climate Change is highly relevant.",
+    "It would be greatly appreciated if you could circulate this position among your research team or through your professional network."
+  ]
+}

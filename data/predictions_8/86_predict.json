@@ -1,0 +1,20 @@
+{
+  "purpose": "The email is a call for papers for the PROFES 2025 conference, inviting submissions of high-quality research related to software development processes and their impact on software product quality. It outlines the aims and scope of the conference, the topics of interest for submissions, and provides important deadlines and links for further information.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": "conference",
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": true,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "CALL FOR PAPERS",
+    "PROFES 2025 – 26th International Conference on Product-Focused Software Process Improvement",
+    "The PROFES 2025 Research Track invites the submission of high-quality full papers presenting original research, empirical studies, industrial experiences, and case reports related to software development processes and their impact on software product quality.",
+    "Paper submission deadline: June 13, 2025",
+    "For more details and updates, please visit the PROFES 2025 website: https://conf.researchr.org/home/profes-2025"
+  ]
+}

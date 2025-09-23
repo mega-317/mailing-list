@@ -1,0 +1,52 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for the 33rd IEEE International Conference on Enabling Technologies (WETICE 2025), which will take place from July 23–25, 2025, in Catania, Italy. It invites researchers, practitioners, and industry experts to submit original papers on topics related to collaborative intelligence and decentralized software systems. The conference aims to foster collaboration and share innovations in areas such as AI, Data Science, and Cyber-physical Technologies. The submission deadline has been extended to May 31st, and all accepted papers will be included in IEEE Xplore and other databases. The email also provides details about the conference location, keynotes, and social activities planned for attendees.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: Call for Papers - The 33rd IEEE International Conference on Enabling Technologies (WETICE 2025)\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Sat, 17 May 2025 04:03:40 -0000\nContent-Type:text/plain",
+      "33rd IEEE INTERNATIONAL CONFERENCE ON ENABLING TECHNOLOGIES: INFRASTRUCTURE FOR COLLABORATIVE ENTERPRISES (WETICE 2025)",
+      "This year, for the first time ever, WETICE will be held from July 23–25, 2025 in the lovely city of Catania (Italy), beautifully sited in the blessed land of Sicily, between the Mediterranean sea and Europe's largest active volcano, mount Etna.",
+      "Visit the WETICE 2025 Conference Website at: https://www.dmi.unict.it/wetice2025",
+      "The conference is technically sponsored by IEEE.org, IEEE Computer Society Italy Chapter and IEEE Systems, and Man and Cybernetics Society Italy Chapter, and the proceedings will be submitted for inclusion in IEEE Xplore, Scopus, DBLP, and Google Scholar.",
+      "All the registration info is available at the conference website:",
+      "https://www.dmi.unict.it/wetice2025",
+      "Submission deadline has been extended to May 31st!",
+      "We are thrilled to invite you to participate in the 33rd edition of WETICE, a leading international forum dedicated to advancing research, fostering collaboration, and sharing innovations in the rapidly evolving landscape of collaborative intelligence and decentralised software systems, bridging AI, Data Science, and Cyber-physical Technologies: software systems that are smart, autonomous, interconnected, and scalable.",
+      "https://www.ieee.org/conferences/publishing/templates.html",
+      "https://cmt3.research.microsoft.com/WETICE2025.",
+      "Submission deadline has been extended to May 31st!",
+      "WETICE 2025 Team",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2025)",
+        "acronym": "WETICE",
+        "year": 2025,
+        "evidence": "33rd IEEE INTERNATIONAL CONFERENCE ON ENABLING TECHNOLOGIES: INFRASTRUCTURE FOR COLLABORATIVE ENTERPRISES (WETICE 2025)"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "WETICE 2025"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4154,
+    "purpose": 731,
+    "infos": 1767
+  }
+}

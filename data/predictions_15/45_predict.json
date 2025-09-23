@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions, scheduled for July 7th-11th, 2025, at Kutaisi International University in Georgia. The school aims to equip participants with advanced techniques for formal reasoning and expression processing, covering topics such as access control policies, symbolic knowledge extraction, automated protocol analysis, and quantitative constraint solving. It emphasizes the integration of symbolic and statistical approaches and explores the application of regular languages in deep learning and runtime verification with SMT solving. The program includes various lectures from experts in the field and encourages interdisciplinary learning to foster research and innovation in formal methods and AI. Registration is required with a fee of 150 EUR.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2803,
+    "purpose": 848,
+    "infos": 0
+  }
+}

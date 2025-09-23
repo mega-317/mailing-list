@@ -1,0 +1,86 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the workshops that will be held in conjunction with the ER 2025 conference, highlighting their role as a collaborative forum for innovative ideas in conceptual modeling. It provides links to the respective workshops and details about the Call for Papers, including submission and notification deadlines. The email also lists the workshop chairs for any inquiries.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "workshop",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: [CFP] ER2025 - List of Workshops\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Thu, 5 Jun 2025 13:51:25 -0000\nContent-Type:text/plain",
+      "=========== Workshops at ER 2025 ===========",
+      "https://er2025.ensma.fr/workshops/",
+      "*Fundamentals of Conceptual Modeling (FCM)*",
+      "https://ae-ainf.aau.at/fcm/",
+      "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*",
+      "https://purl.org/cmls-2025",
+      "*3rd International Workshop Modeling in the Age of Large Language Models",
+      "(LLM4Modeling)*",
+      "https://www.unifr.ch/inf/digits/en/events/3rd-international-workshop-modeling-in-the-age-of-large-language-models-(llm4modeling).html",
+      "Software Development (QUAMES)*https://quames.testar.org",
+      "*Important Dates*================================",
+      "Common deadlines in all the five workshops are:",
+      "Submission Deadline: *27 June 2025*",
+      "Notification:* 28 July 2025*",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "ER 2025",
+        "acronym": "ER",
+        "year": 2025,
+        "evidence": "=========== Workshops at ER 2025 ==========="
+      }
+    ],
+    "conf_name_tokens": [
+      "ER 2025"
+    ],
+    "conf_name_final": "ER 2025",
+    "work_name_candidates": [
+      {
+        "raw": "Fundamentals of Conceptual Modeling",
+        "acronym": "FCM",
+        "year": null,
+        "evidence": "*Fundamentals of Conceptual Modeling (FCM)*"
+      },
+      {
+        "raw": "6th International Workshop on Conceptual Modeling for Life Sciences",
+        "acronym": "CMLS",
+        "year": 2025,
+        "evidence": "*6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)*"
+      },
+      {
+        "raw": "3rd International Workshop Modeling in the Age of Large Language Models",
+        "acronym": "LLM4Modeling",
+        "year": null,
+        "evidence": "*3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)*"
+      },
+      {
+        "raw": "Software Development",
+        "acronym": "QUAMES",
+        "year": null,
+        "evidence": "Software Development (QUAMES)*https://quames.testar.org"
+      }
+    ],
+    "work_tokens": [
+      "CMLS 2025",
+      "FCM",
+      "LLM4Modeling",
+      "QUAMES"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 2228,
+    "purpose": 383,
+    "infos": 948
+  }
+}

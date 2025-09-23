@@ -1,0 +1,32 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for workshop proposals for the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026) to be held in Rio de Janeiro, Brazil. It outlines the purpose of the workshops, which is to provide a forum for discussion among participants on software engineering topics. The email specifies submission guidelines, including the required content and format for proposals, as well as important dates for submission and acceptance notifications. It also highlights the conditions for accepted workshops and the responsibilities of workshop organizers.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The workshops at the International Conference on Software Engineering 2026 (ICSE) provide a forum for groups of 20-50 participants to discuss topics in software engineering research and practice.",
+      "Workshops at ICSE 2026 will be held between Sunday, April 12, and Tuesday, April 14, or Saturday, April 18, 2026, in Rio de Janeiro, Brazil.",
+      "All proposals must not exceed 5 pages, including a maximum of 4 pages for the proposal text, references, appendices and figures, plus 1 page for the draft Call for Submissions.",
+      "The main body (max 4 pages) of each proposal must include the following information, in the order specified: Workshop Title and Acronym, Abstract (200 words or fewer), Contact Information for all workshop organizers, including the main contact person, Motivation and Objectives, Format and Required Services, Target Audience, Proceedings, Workshop History, Organizers’ bios.",
+      "ICSE welcomes long-running, successful workshops.",
+      "For all accepted workshops, ICSE 2026 requires uniform deadlines for workshop papers submission, notification of authors, and camera-ready copies.",
+      "ICSE 2026 is not able to pay for registration, travel, or other arrangements for workshop organizers.",
+      "Workshop Proposal Submissions Deadline: 23 June 2025."
+    ]
+  }
+}

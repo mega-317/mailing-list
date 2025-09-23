@@ -1,0 +1,73 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for the ESOP 2026 conference, inviting contributions on various aspects of programming language research. It outlines the submission categories, important dates for the two-round submission process, and the review process. The conference encourages submissions that bridge theory and practice and provides details on formatting and evaluation criteria. Additionally, it mentions the opportunity for artifact evaluation post-paper acceptance and outlines the roles of the program committee members.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: ESOP 2026 - Second Call for Papers\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Fri, 23 May 2025 14:21:41 -0000\nContent-Type:text/plain",
+      "************************** ESOP 2026 - Call for Papers *************************",
+      "ESOP is an annual conference devoted to fundamental issues in the specification,",
+      "===============",
+      "ESOP 2026 features a two-round submission scheme.",
+      "Round 1:",
+      "* Rebuttal: July 21-23, 2025",
+      "* Notification: August 1, 2025",
+      "Round 2:",
+      "* Submission deadline: October 16, 2025",
+      "* Rebuttal: December 8-10, 2025",
+      "* Notification: December 22, 2025",
+      "The important dates are available in the Joint Call for Papers:",
+      "https://etaps.org/2026/important-dates",
+      "The papers can be submitted here: https://esop26.hotcrp.com/",
+      "be completed by the Round 2 submission deadline.",
+      "Artifact Evaluation",
+      "ESOP 2026 will have a post-paper-acceptance voluntary artifact evaluation.",
+      "Reviewing is handled exclusively by TOPLAS.",
+      "their TOPLAS submission, so that the PC chair can follow up with the TOPLAS",
+      "rebuttal period date, and the ESOP PC agrees, it may be presented at ETAPS.",
+      "http://sigsoft.org/resources/seworld.html provides more",
+      "To contribute to SEWORLD, send your submission to",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "ESOP 2026",
+        "acronym": "ESOP",
+        "year": 2026,
+        "evidence": "ESOP 2026 - Call for Papers"
+      }
+    ],
+    "conf_name_tokens": [
+      "ESOP 2026"
+    ],
+    "conf_name_final": "ESOP 2026",
+    "work_name_candidates": [
+      {
+        "raw": "ESOP 2026",
+        "acronym": "ESOP",
+        "year": 2026,
+        "evidence": "ESOP 2026 - Call for Papers"
+      }
+    ],
+    "work_tokens": [
+      "ESOP 2026"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 8200,
+    "purpose": 528,
+    "infos": 1275
+  }
+}

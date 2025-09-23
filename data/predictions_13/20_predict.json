@@ -1,0 +1,29 @@
+{
+  "has_body": true,
+  "purpose": "Télécom Paris is hiring a postdoctoral researcher for a 30-month position in software engineering and cybersecurity. The role is part of the SECUBIC project, which aims to enhance the security of binary executables that include open source components. The ACES team will develop techniques and tools using Software Heritage as a knowledge base to improve binary software composition analysis. Interested candidates can find the complete job description in both English and French, with an application deadline of 31 August 2025.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Télécom Paris, engineering school member of the Polytechnic Institute of Paris, is hiring a postdoctoral researcher, for 30 months in the field(s) of software engineering and cybersecurity.",
+      "Télécom Paris is participating in the research project SECUBIC (SEcure BInary supply Chain, https://secubic-ptcc.github.io/) to improve the security of binary executables that include open source components.",
+      "As part of the SECUBIC project, the ACES team of Télécom Paris will develop techniques and tools that leverage Software Heritage (https://www.softwareheritage.org/), the largest archive of source code in the world, as knowledge base about open source software to improve the state of the art of binary software composition analysis (SCA).",
+      "For a complete job description see: - EN: https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5 - FR: https://institutminestelecom.recruitee.com/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5",
+      "Application deadline: 31 August 2025"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a 2-year postdoctoral researcher position at the University of Southern Denmark in the Software Engineering section of the Maersk Mc-Kinney Moller Institute. The successful candidate will work on the Nudge2Green research project, focusing on developing AI-driven digital nudging tools to promote sustainable food choices. The position requires a PhD in a relevant field and offers a collaborative research environment with opportunities for professional development. The application deadline is set for June 10, 2025.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 7521,
+    "purpose": 537,
+    "infos": 0
+  }
+}

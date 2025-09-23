@@ -1,0 +1,40 @@
+{
+  "purpose": "The email is a call for proposals for workshops and tutorials associated with the JELIA 2025 conference.",
+  "init_mail_type": {
+    "cfp_work": true,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": true,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": false,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": true,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": true,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": false,
+  "c_is_cfp": true,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "JELIA 2025",
+  "start_date": "2025-09-01",
+  "submission_deadline": null,
+  "conference_website": "https://viam.science.tsu.ge/jelia2025/",
+  "evidence_sentences": [
+    "The organizers of the JELIA conference are now inviting proposals for affiliated workshops and tutorials.",
+    "We welcome submissions on any topic related to Artificial Intelligence.",
+    "We are especially interested in workshops that explore the intersection of statistical and symbolic AI."
+  ]
+}

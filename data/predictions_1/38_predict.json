@@ -1,0 +1,15 @@
+{
+  "purpose": "The email announces the 9th Working Formal Methods Symposium (FROM) and provides details about the event, including dates, topics of interest, submission guidelines, and important dates.",
+  "is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The Working Formal Methods Symposium (FROM) aims to bring together researchers and practitioners working on formal methods by contributing new theoretical results, methods, techniques, and frameworks, and/or by creating or using software tools that apply theoretical contributions.",
+    "September 17-19, 2025, Iași, România",
+    "Paper/abstract submission deadline: June 7, 2025 June 22, 2025 (extended)",
+    "Topics of Interest",
+    "Papers of up to 16 pages prepared according to the EPTCS template must be submitted electronically using the EasyChair submission system."
+  ]
+}

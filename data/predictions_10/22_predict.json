@@ -1,0 +1,21 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for participation in the 5th LATAM School in Software Engineering Research, which will take place from September 22nd to 26th, 2025, in Recife, Brazil. It invites students and young researchers from Latin American institutions to apply for this opportunity to learn about careers in Software Engineering research. The school aims to help new researchers integrate into the software engineering community and offers mentoring, keynotes, and panel discussions on relevant topics.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": false,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "It is a great pleasure to invite students and young researchers to apply for this exceptional opportunity to learn about the possibilities to pursue a career in Software Engineering (SE) research.",
+    "The main goal of the 5th edition of the LATAM school is to help new and future Software Engineering (SE) researchers become part of the larger software engineering community.",
+    "The school will enable participants to explore potential pathways and gain a deeper understanding of the challenges and opportunities in SE research.",
+    "Students will have an excellent opportunity to interact with top academic and industry researchers, learn about their careers, and discover how to disseminate results.",
+    "The LATAM School comprises activities as keynotes, panel discussions, and mentoring sessions."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "has_body": true,
+  "purpose": "The email is a Call for Papers (CfP) for the First Submission Round of EICS 2026, which is the 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems. The conference will take place from June 22-26, 2025, in Trier, Germany. The submission deadline for Full Papers and Technical Notes is July 25, 2025. The conference aims to address various software quality factors and covers all stages of the engineering life-cycle of interactive systems. It invites submissions that advance the state of the art in engineering interactive systems, with a focus on topics such as modeling, requirements engineering, and the integration of AI technologies.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "EICS 2026",
+        "acronym": "EICS",
+        "year": 2026,
+        "evidence": "EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive"
+      }
+    ],
+    "conf_name_final": null,
+    "conf_name_tokens": [
+      "EICS 2026"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "Call for Papers for the First Submission Round of EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, June 22-26, 2025 - Trier, Germany",
+      "Submission deadline for the 1st Round of PACM EICS 2026 for Full Papers and Technical Notes: July 25, 2025",
+      "EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces, addressing one or more software quality factors, such as usability, user experience, reliability, security, etc.",
+      "Submissions advance the state of the art of the engineering of interactive systems.",
+      "Topics include, but are not limited to: Modelling, specification and analysis of interaction and interactive systems, Requirements engineering for interactive systems, Methods, processes, principles and/or tools for building interactive systems."
+    ]
+  }
+}

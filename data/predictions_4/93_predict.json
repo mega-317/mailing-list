@@ -1,0 +1,22 @@
+{
+  "purpose": "The email announces the IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024) scheduled for July 24-26, 2024, in Melbourne, Australia. It provides important dates for paper submissions, notifications of acceptance, and final manuscript submissions. The conference aims to bring together various stakeholders to discuss the integration of AI and IoT technologies and invites authors to submit original papers on relevant topics.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+    "24–26 July 2024, Melbourne, Australia",
+    "Paper Submission: 8 May 2024 (FIRM)",
+    "Notification of Acceptance: 10 June 2024",
+    "Final Manuscript (Camera Ready): 3 July 2024",
+    "IEEE AIoT 2024 aims at bringing together interested parties (universities, research centers, industries and stakeholders) from around the world working in the fields of AI and Internet of Things to exchange opinions, discuss brand-new ideas, developing innovative and emerging solutions, and establishing new collaborations.",
+    "Authors are cordially invited to submit their original papers within the eHealth area."
+  ]
+}

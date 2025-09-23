@@ -1,0 +1,14 @@
+{
+  "purpose": "The email announces a call for papers for a special issue of the Information and Software Technology journal focused on the intersection of model-based software engineering and foundation models.",
+  "is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "This special issue of the Information and Software Technology journal aims to provide a venue for researchers to present insights, experiences, innovations, and solutions at the intersection of model-based software engineering and foundation models.",
+    "Submission Deadline: May 31, 2025",
+    "All submissions will undergo a rigorous reviewing process by independent reviewers who are experts in this field.",
+    "The review process will assess submissions based on several key criteria, including relevance, significance of contribution, technical quality, scholarship, potential impact, and quality of presentation."
+  ]
+}

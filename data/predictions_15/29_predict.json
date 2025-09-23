@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces open positions for up to four research stream assistant professors at the University of Victoria, focusing on Software Engineering and AI. The positions are tenure-track and are set to commence on January 1, 2026, or soon thereafter. Candidates must have a Ph.D. in relevant fields and a strong research record, including publications in top venues. Teaching commitments include undergraduate and graduate courses in software engineering, with prior teaching experience preferred. The email encourages applicants engaged with Generative AI and its impact on Software Engineering. The application deadline is August 15, 2025.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 3480,
+    "purpose": 644,
+    "infos": 0
+  }
+}

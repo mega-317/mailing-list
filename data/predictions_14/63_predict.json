@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers for a special issue on Innovative Frontiers in Automated Software Engineering. It invites researchers to submit transformative research that challenges conventional assumptions and explores new perspectives in the field. The special issue aims to collect innovative ideas, visionary perspectives, and critical reflections that can reshape automated software engineering. Contributions are sought in three categories: groundbreaking new ideas, visions of the future, and reflections on past research. Topics of interest include radical approaches to automation, novel applications, and ethical implications in automated software engineering.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "journal",
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4434,
+    "purpose": 671,
+    "infos": 0
+  }
+}

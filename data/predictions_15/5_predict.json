@@ -1,0 +1,113 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers and workshop/tutorial proposals for the 33rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026), scheduled for March 17-20, 2026, in Limassol, Cyprus. It invites high-quality submissions of original and unpublished research results in various topics related to software analysis, evolution, and reengineering. The email outlines submission instructions, important deadlines, and evaluation criteria for both papers and workshops/tutorials. Additionally, it mentions a special journal issue for selected papers and provides details about the organizing committee.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [
+      "Subject: The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026): Call for Papers and Workshop & Tutorial Proposals\nFrom: SEWORLD Moderator <[log in to unmask]>\nReply-To:SEWORLD Moderator <[log in to unmask]>\nDate:Wed, 16 Jul 2025 06:13:29 -0000\nContent-Type:text/plain",
+      "*** Call for Papers and Workshop & Tutorial Proposals ***",
+      "The 33rd IEEE International Conference on Software Analysis, Evolution and",
+      "Reengineering (SANER 2026)",
+      "17-20 March, 2026, 5* St.",
+      "Raphael Resort and Marina, Limassol, Cyprus",
+      "https://conf.researchr.org/home/saner-2026",
+      "The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and",
+      "Reengineering (SANER 2026) invites high-quality submissions of papers describing original",
+      "and unpublished research results.",
+      "Software Engineering for AI: The TSE Perspective”, 10.1109/TSE.2024.3470368).",
+      "Authors of selected research papers accepted at SANER 2026 will be invited to submit revised,",
+      "Software Engineering Journal (EMSE).",
+      "CALL FOR WORKSHOPS",
+      "In SANER 2026, we solicit proposals for workshops to be held in conjunction with the main",
+      "2026), the day before the main conference.",
+      "Should you be interested in joining SANER, please keep the deadlines below in mind.",
+      "Proposal submission: By 20th August, 2025 AoE, the workshop proposal (in the form of call",
+      "for papers) should be submitted to the workshops EasyChair page:",
+      "https://easychair.org/my/conference?conf=saner2026 .",
+      "• a link to the workshop website,",
+      "23:59h AoE):",
+      "• Abstract Submission: 12 December, 2025",
+      "• Notification: 14 January, 2026",
+      "• Camera-Ready: 20 January, 2026",
+      "Workshop PC and Submission System",
+      "No later than mid of September 2025, the workshop PC should have been finalized and the",
+      "The SANER 2026 Workshops & Tutorials track invites practitioners and researchers to deliver",
+      "https://easychair.org/my/conference?conf=saner2026.",
+      "SUBMISSION LINK",
+      "https://easychair.org/my/conference?conf=saner2026",
+      "(All deadlines are 23:59h \"Anywhere on Earth\" time)",
+      "• Abstract Submission Deadline: 9 October, 2025",
+      "• Paper Submission Deadline: 16 October, 2025",
+      "• Notifications: 9 December, 2025",
+      "• Camera-Ready: 9 January, 2026",
+      "• Abstract Submission Deadline: 10 November, 2025",
+      "• Paper Submission Deadline: 17 November, 2025",
+      "• Abstract Submission Deadline: 10 November, 2025",
+      "• Paper Submission Deadline: 17 November, 2025",
+      "• Abstract Submission Deadline: 10 November, 2025",
+      "• Paper Submission Deadline: 17 November, 2025",
+      "Reproducibility Studies and Negative Results (RENE) Track",
+      "• Abstract Submission Deadline: 10 November, 2025",
+      "• Paper Submission Deadline: 17 November, 2025",
+      "• Paper Submission Deadline: 17 November, 2025",
+      "• Paper Submission Deadline: 8 December, 2025",
+      "• Submission Deadline: 7 November, 2025",
+      "• Final Notification (Stage 1): 22 December, 2025",
+      "• Accepted Report to arXiv Submission: 9 January, 2026",
+      "Workshop & Tutorial Proposals",
+      "• Workshop Proposals Submissions: 20 August, 2025",
+      "• Workshop Proposals Notification: 27 August, 2025",
+      "• Tutorial Proposals Submissions: 12 January, 2026",
+      "• Tutorial Proposals Notification: 12 January, 2026",
+      "• Tutorial Camera-Ready Version: 16 January, 2026",
+      "http://sigsoft.org/resources/seworld.html provides more"
+    ],
+    "conf_name_candidates": [
+      {
+        "raw": "SANER 2026",
+        "acronym": "SANER",
+        "year": 2026,
+        "evidence": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)"
+      }
+    ],
+    "conf_name_tokens": [
+      "SANER 2026"
+    ],
+    "conf_name_final": "SANER 2026",
+    "work_name_candidates": [
+      {
+        "raw": "SANER 2026 Workshops & Tutorials",
+        "acronym": "SANER",
+        "year": 2026,
+        "evidence": "The SANER 2026 Workshops & Tutorials track invites practitioners and researchers to deliver"
+      },
+      {
+        "raw": "Reproducibility Studies and Negative Results (RENE) Track",
+        "acronym": "RENE",
+        "year": null,
+        "evidence": "Reproducibility Studies and Negative Results (RENE) Track"
+      }
+    ],
+    "work_tokens": [
+      "RENE",
+      "SANER 2026"
+    ],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 13958,
+    "purpose": 636,
+    "infos": 3179
+  }
+}

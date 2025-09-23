@@ -1,0 +1,24 @@
+{
+  "purpose": "The email is a call for papers for the International Conference on Software Engineering (ICSE) 2026 Research Track, inviting high-quality submissions of original and unpublished research in software engineering. The conference will take place from April 12-18, 2026, in Rio de Janeiro, Brazil, with a submission deadline of July 18, 2025. It also outlines important information regarding open access publication, submission guidelines, review criteria, and the expectations for conference attendance.",
+  "cfp_candidate": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "International Conference on Software Engineering (ICSE) Research Track",
+    "April 12-18, 2026",
+    "Submission deadline: Friday, July 18, 2025",
+    "In the research track, we invite high-quality submissions of technical research papers describing original and unpublished results of software engineering research.",
+    "Starting 2026, all articles published by ACM will be made Open Access.",
+    "Authors are encouraged to help advocate for their institutions to join ACM Open during this transition period.",
+    "Each paper submitted to the Research Track will be evaluated based on the following criteria: Novelty, Rigor, Relevance, Verifiability and Transparency, Presentation.",
+    "If a submission is accepted, at least one author of the paper is required to register for ICSE 2026 and present the paper."
+  ]
+}

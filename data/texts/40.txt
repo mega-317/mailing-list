@@ -1,0 +1,81 @@
+
+
+
+ 
+
+Subject:     Special Issue on Software Engineering in Generative Art
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 5 Jun 2025 13:58:53 -0000
+Content-Type:text/plain
+
+
+
+
+
+SI of the IEEE Computer Magazine on Software Engineering in Generative Art
+
+https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art
+
+Algorithmic artists, a.k.a generative artists, use code as a medium to 
+produce artworks. When the code executes, it can drive any number of 
+processes, from generating visuals and/or sound, to responding to user 
+interactions or choreographing movements of robotic elements, among 
+others. The code also includes some non-deterministic elements such as 
+random numbers, live data processing or inputs from the audience. There 
+exists a large number of software engineering concerns in relation to 
+this artistic practice, spanning maintenance, evolution, programming 
+abstractions and performance. For example, the “correctness” of the 
+artistic output is non-trivial to measure as output aesthetics are 
+difficult to formally quantify.  The maintenance, preservation and 
+restoration of algorithmic artworks is challenging, as they may rely on 
+outdated runtimes or libraries, on online resources that quickly become 
+unavailable, or on technology that is no longer available. It is 
+challenging to balance performance for real-time interactions and 
+domain-specific abstractions that support artistic expression with code.
+
+With this special issue, we aim to open a conversation between software 
+engineers, generative artists and caretakers of these artworks, about 
+the latest advancements at the intersection of software technology and 
+algorithmic art. We encourage the development and application of 
+software technology to strengthen all aspects of the software 
+engineering lifecycle in algorithmic art projects. We encourage the 
+authors to make their code and data publicly accessible.
+
+More details are available here:
+
+https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art
+
+
+      Important Dates
+
+  * December 15, 2025 (Submission deadline)
+  * March 15, 2026 (Feedback to authors)
+  * April 15, 2026 (Submission of revised papers)
+  * May 15, 2026 (Final notification to authors)
+
+Guest Editors
+
+Benoit Baudry <https://softwarediversity.eu/>, Université de Montréal
+
+Patricia Falcao 
+<https://www.tate.org.uk/research/studentships/patricia-falc%C3%A3o>, 
+Tate Modern
+
+Erik Fredericks <https://efredericks.github.io/>, Grand Valley State 
+University
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

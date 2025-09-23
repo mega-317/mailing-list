@@ -1,0 +1,140 @@
+
+
+
+ 
+
+Subject:     [Late Track& Workshops] IEEE iMETA 2025: The 3rd International Conference on Intelligent Metaverse Technologies & Applications, Dubrovnik, Croatia [Hybrid Conference]
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Mon, 7 Jul 2025 03:10:35 -0000
+Content-Type:text/plain
+
+
+
+
+
+*The 3rd International Conference on Intelligent Metaverse Technologies &
+Applications (iMETA 2025)*
+
+14-17 October 2025 | Dubrovnik, Croatia
+
+*Hybrid Conference*
+
+*Technically sponsored by IEEE Croatia section*
+
+*https://imeta-conference.org/* <https://imeta-conference.org/>
+
+
+
+The International Conference on Intelligent Metaverse Technologies &
+Applications (iMETA) is to bring together leading researchers, academics,
+and industry experts to explore the various aspects of the distributive
+metaverse, including its technologies, applications, and implications for
+various industries. Attendees can expect to participate in exciting keynote
+speeches, panel discussions, and presentations on cutting-edge research
+field.
+
+Throughout the conference, there will be ample opportunities for attendees
+to network, share their knowledge, and collaborate on future initiatives
+that will drive the development of the metaverse forward. We are confident
+that iMETA conference will inspire new ideas, foster innovation, and spark
+collaborations that will push the boundaries of the metaverse and its
+potential to change the world as we know it.
+
+Overall, the iMETA conference aims to provide attendees with a
+comprehensive understanding of the communication, computing, and system
+requirements of the metaverse. Through keynote speeches, panel discussions,
+and presentations, attendees will have the opportunity to engage with
+leading experts and learn about the latest developments and future trends
+in the field. The conference will also provide ample opportunities for
+networking, sharing knowledge, and collaborating with others in the
+metaverse community.
+List of Tracks:
+
+   - Track 1: Large Language Models (LLMs) in the Metaverse
+   - Track 2: Native AI for Metaverse Technologies
+   - Track 3: Security and Privacy
+   - Track 4: Networking and Communications
+   - Track 5: Systems and Computing
+   - Track 6: Multimedia and Computer Vision
+   - Track 7: Immersive Technologies and Services
+   - Track 8: Storage and Processing
+
+List of Workshops:
+
+   - 1st International Workshop on Intelligent Digital Twins for Smart
+   Cities in the Metaverse (IDTSC)
+   <https://imeta-conference.org/2025/workshops#WS1>
+   - 1st International Workshop on BCI Interfaces & Cognitive Engineering
+   in the Metaverse (BCIME)
+   <https://imeta-conference.org/2025/workshops#WS2>
+   - 1st International Workshop on Ethical AI & Secure Metaverse Ecosystems
+   (EASME) <https://imeta-conference.org/2025/workshops#WS3>
+   - 1st International Workshop on Generative AI for Immersive Experience
+   Design (GAIXR) <https://imeta-conference.org/2025/workshops#WS4>
+   - 1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)
+   <https://imeta-conference.org/2025/workshops#WS5>
+   - 1st International Workshop on Standards, Protocols, and AI Agents for
+   a Unified Metaverse (SPAAUM)
+   <https://imeta-conference.org/2025/workshops#WS6>
+
+
+
+
+
+*Publication*
+
+*IEEE is a technical sponsor of iMETA 2025*. All accepted papers in iMETA
+2025 and the workshops co-located with it will be submitted to IEEEXplore,
+dblp and Scopus for inclusion.
+
+
+
+*Important Dates:*
+
+*Late Track Submission*
+
+   - Papers due: *July 30, 2025*
+   - Acceptance notification: August 20, 2025
+   - Camera-ready paper due: August 31, 2025
+
+*Workshop Papers*
+
+   - Papers due: *July 30, 2025*
+   - Acceptance notification: August 30, 2025
+   - Camera-ready paper due: September 10, 2025
+
+
+
+*Submission Guidelines:*
+
+Manuscripts must be original, not previously published, or under review by
+another conference or journal. Submissions should adhere to the IEEE
+Conference Proceedings Format, using a double-column layout, 10-point font,
+and letter-sized paper. Manuscripts must be submitted in PDF format and
+should not exceed 6 pages for the review process. Accepted papers may
+extend to a maximum of 8 pages for the camera-ready version, subject to an
+overlength page fee.
+
+*Submission Link: **https://easychair.org/my/conference?conf=imeta2025*
+<https://easychair.org/my/conference?conf=imeta2025>
+
+
+--Regards,
+
+*IEEE iMETA 2025 Organizing Committee*
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for papers and workshop/tutorial proposals for the 33rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026), scheduled for March 17-20, 2026, in Limassol, Cyprus. It invites high-quality submissions of original and unpublished research results in various areas related to software analysis, evolution, and reengineering. The email outlines specific topics of interest, submission instructions, and important deadlines for different tracks, including research, industrial, and workshops. Additionally, it mentions a special journal issue for selected papers and provides details on the evaluation criteria for submissions.",
+  "cfp": {
+    "cfp_candidate": true,
+    "classify_cfp_purpose": "conference",
+    "is_cfp_purpose": true
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [
+      {
+        "raw": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+        "acronym": "SANER",
+        "year": 2026,
+        "evidence": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)"
+      },
+      {
+        "raw": "SANER 2026",
+        "acronym": "SANER",
+        "year": 2026,
+        "evidence": "In SANER 2026, we solicit proposals for workshops to be held in conjunction with the main conference."
+      }
+    ],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "The 33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026) invites high-quality submissions of papers describing original and unpublished research results.",
+      "We encourage submissions describing various types of research, including empirical, theoretical, and tool-oriented studies.",
+      "Topics of interest include, but are not limited to: AI for Software Engineering and Software Engineering for AI; Generative AI and LLM applied to analysis, evolution and reengineering of software; Software Maintenance and Evolution, Evolution Analysis; Software Reverse Engineering and Reengineering.",
+      "All submitted papers will undergo a rigorous peer review process and will be selected based on originality, quality, soundness, and relevance.",
+      "Authors of selected research papers accepted at SANER 2026 will be invited to submit revised, extended versions of their manuscripts for a special issue featured by Springer’s Empirical Software Engineering Journal (EMSE).",
+      "In SANER 2026, we solicit proposals for workshops to be held in conjunction with the main conference.",
+      "We are soliciting abstracts with the intention of presenting a tutorial in the following categories: Technical Tutorial and Research problem.",
+      "Should you be interested in joining SANER, please keep the deadlines below in mind."
+    ]
+  }
+}

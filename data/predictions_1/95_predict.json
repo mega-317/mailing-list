@@ -1,0 +1,14 @@
+{
+  "purpose": "The email is a call for workshop proposals for the ICSOC 2025 conference.",
+  "is_cfp": true,
+  "coference_name": "ICSOC 2025",
+  "start_date": "2025-12-01",
+  "submission_deadline": "2024-06-20",
+  "conference_website": "https://icsoc2025.hit.edu.cn/",
+  "evidence_sentences": [
+    "ICSOC is inviting applicants to submit proposals for high-quality workshops contributing to the scientific program of the main conference.",
+    "The workshop program seeks to provide venues for specialist groups to meet and hold a focused discussion on specific sub-areas within Service-Oriented Computing, and to engage in community-building activities.",
+    "Workshop proposals shall be submitted to Workshop Co-chairs, see https://icsoc2025.hit.edu.cn/19950/list.htm for the list of information to include in the proposal.",
+    "Workshop proposals submission due: 20 June 2024 (AoE)"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "purpose": "The email is a call for proposals for workshops at the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026).",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": true,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": false,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": true,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": true,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": true,
+  "c_is_cfp": true,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "ICSE 2026",
+  "start_date": "2026-04-12",
+  "submission_deadline": "2025-10-20",
+  "conference_website": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops",
+  "evidence_sentences": [
+    "The workshops at the International Conference on Software Engineering 2026 (ICSE) provide a forum for groups of 20-50 participants to discuss topics in software engineering research and practice.",
+    "Workshops at ICSE 2026 will be held between Sunday, April 12, and Tuesday, April 14, or Saturday, April 18, 2026, in Rio de Janeiro, Brazil.",
+    "All proposals must not exceed 5 pages, including a maximum of 4 pages for the proposal text, references, appendices and figures, plus 1 page for the draft Call for Submissions.",
+    "Proposal Review Criteria.",
+    "Workshop Proposal Submissions Deadline: 23 June 2025."
+  ]
+}

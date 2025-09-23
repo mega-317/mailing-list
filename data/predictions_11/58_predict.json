@@ -1,0 +1,34 @@
+{
+  "has_body": true,
+  "purpose": "The email announces a recruitment for an Associate Professor position (W2) in Software Engineering for Safety Critical Systems at TU Braunschweig, Germany. It highlights the qualifications sought in candidates, particularly in system design and analysis for safety and security requirements. The email also lists relevant research topics such as Model Checking, Static and Dynamic Program Analysis, Solver Technology, Programming Languages, and Synthesis. The sender encourages recipients to reach out with questions and to share the opportunity with interested colleagues.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "TU Braunschweig in Germany is recruiting an Associate Professor (tenured, W2)",
+      "We are seeking a candidate with a promising track record in the area of system design and analysis for safety and security requirements.",
+      "The following research topics are particularly relevant.",
+      "Model Checking,",
+      "Static Program Analysis (Abstract Interpretation, Data Flow Analysis),",
+      "Dynamic Program Analysis (Runtime Verification, Monitoring, Testing),",
+      "Solver Technology (SAT Solvers, SMT Solvers, Theorem Provers),",
+      "Programming Languages (Program Logics, Type Systems, Semantics),",
+      "Synthesis (Reactive Synthesis, Functional Synthesis, Correctness by Construction).",
+      "If you have questions, do not hesitate to ask me.",
+      "If you have colleagues who may be interested, please distribute the offer."
+    ]
+  }
+}

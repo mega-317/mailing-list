@@ -1,0 +1,19 @@
+{
+  "purpose": "The email is a call for papers and workshop/tutorial proposals for the 33rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026), scheduled for March 17-20, 2026, in Limassol, Cyprus. It invites high-quality submissions of original and unpublished research results in various topics related to software analysis, evolution, and reengineering. Additionally, it provides detailed submission instructions, important dates, and information about workshops and tutorials.",
+  "is_cfp": true,
+  "cfp_conf": null,
+  "cfp_work": null,
+  "cfp_jour": null,
+  "call_app": null,
+  "call_prop": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The 33rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026) invites high-quality submissions of papers describing original and unpublished research results.",
+    "We encourage submissions describing various types of research, including empirical, theoretical, and tool-oriented studies.",
+    "In SANER 2026, we solicit proposals for workshops to be held in conjunction with the main conference.",
+    "We are soliciting abstracts with the intention of presenting a tutorial in the following categories: 1 - Technical Tutorial: Speakers present the use of a tool or technology that aids the developers in Software Analysis, Evolution, and Reengineering."
+  ]
+}

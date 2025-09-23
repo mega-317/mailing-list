@@ -1,0 +1,43 @@
+{
+  "purpose": "The email serves to share the call for papers for accepted workshops at the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025).",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": true,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": false,
+    "info": false,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": true,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": true,
+  "b_is_cfp": true,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 2,
+    "false_votes": 1
+  },
+  "final_is_cfp": true,
+  "coference_name": "MODELS 2025",
+  "start_date": "2025-10-05",
+  "submission_deadline": "2025-07-03",
+  "conference_website": "https://2025.models-conf.com/",
+  "evidence_sentences": [
+    "MODELS 2025 will host a number of workshops during the three days before the main conference.",
+    "The workshops will provide a collaborative forum for a group of typically 15 to 30 participants to exchange recent and/or preliminary results, conduct intensive discussions on a particular topic, or coordinate efforts between representatives of a technical community.",
+    "A list of the accepted workshops is available below, with links to workshop websites.",
+    "*Thu 3 Jul 2025* Submissions Deadline",
+    "*Thu 31 Jul 2025* Notification of Authors",
+    "*Thu 7 Aug 2025* Camera-ready Deadline"
+  ]
+}

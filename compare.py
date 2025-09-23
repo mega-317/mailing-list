@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 14
+version = 15
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 
@@ -80,8 +80,7 @@ for i in range(1, 101):
     # --- 일반 필드 ---
     for field in fields_to_compare:
         label_value = label_data.get("conference_name")
-        conf_tokens = predict_data.get("infos", {}).get("conf_name_tokens", [])
-        predict_value = conf_tokens[0] if conf_tokens else None
+        predict_value = predict_data.get("infos", {}).get("conf_name_final")
         # predict_value = predict_data.get("infos")
         per_field[field]["total"] += 1
 

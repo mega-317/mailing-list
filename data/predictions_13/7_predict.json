@@ -1,0 +1,33 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for participation in the 41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025), which will take place in Auckland, New Zealand from September 7 to September 12, 2025. It invites researchers and practitioners to join for a global exchange of ideas and highlights the program features, including cutting-edge research, keynotes, panels, and networking opportunities. The email also encourages student volunteers to apply and mentions travel support for US-based attendees. Additionally, it emphasizes the conference's commitment to sustainability and inclusivity.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null,
+    "evidence_sentences": [
+      "ICSME 2025 will be held in Auckland, New Zealand, from Sunday, September 7 to Friday, September 12, 2025.",
+      "This is the first call for participation ‚Äî join us for a vibrant, global exchange of ideas in one of the most beautiful and dynamic cities in the southern hemisphere.",
+      "The ICSME 2025 program will feature: Cutting-edge research on software evolution, maintenance, and analysis.",
+      "Invited keynotes by international thought leaders.",
+      "Networking opportunities with researchers, practitioners, and students from around the globe.",
+      "Get involved, meet mentors, and experience the conference from the inside ‚û°Ô∏è Application still open!",
+      "Travel support for US-based attendees is available through generous NSF funding.",
+      "ICSME 2025 aims to be environmentally conscious and socially inclusive.",
+      "We look forward to seeing you this September in Auckland for a week of inspiration, connection, and impactful research in software evolution!"
+    ]
+  }
+}

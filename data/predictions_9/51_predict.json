@@ -1,0 +1,20 @@
+{
+  "purpose": "The email announces the 7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025), which will take place in Paris, France from November 17 to 19, 2025. It invites researchers to submit papers on formal verification techniques for autonomous systems, highlighting key challenges and encouraging collaboration. Important dates for submissions and notifications are provided, along with details on submission categories and topics of interest.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": "workshop",
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": true,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems.",
+    "Important Dates: Submission: 22nd of August 2025.",
+    "FMAS welcomes submissions that use formal methods to specify, model, or verify autonomous systems; in whole or in part.",
+    "There are four categories of submission: Vision papers, Research previews, Experience report papers, Regular papers.",
+    "FMAS 2025 will be held from the 17th to 19th of November 2025."
+  ]
+}

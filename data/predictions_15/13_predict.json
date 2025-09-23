@@ -1,0 +1,30 @@
+{
+  "has_body": true,
+  "purpose": "The email announces the 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025), scheduled for October 14-17, 2025, in Dubrovnik, Croatia. It aims to gather researchers, academics, and industry experts to discuss the metaverse's technologies, applications, and implications. The conference will feature keynote speeches, panel discussions, and presentations, providing opportunities for networking and collaboration. It also includes various tracks and workshops focused on specific topics related to the metaverse. Accepted papers will be published in IEEEXplore, dblp, and Scopus.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_tokens": [],
+    "conf_name_final": null,
+    "work_name_candidates": [],
+    "work_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 4929,
+    "purpose": 621,
+    "infos": 0
+  }
+}

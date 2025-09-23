@@ -1,0 +1,28 @@
+{
+  "has_body": true,
+  "purpose": "The email is a call for proposals for satellite events to be held in conjunction with the 29th ETAPS International Joint Conferences on Theory and Practice of Software, scheduled for April 11–16, 2026, in Torino, Italy. The organizing committee invites researchers and practitioners to submit proposals for workshops or similar events that align with the conference's themes. Important details regarding the submission process, deadlines, and expectations for event organizers are provided. The email emphasizes the opportunity for satellite events to discuss emerging research and practical experiences relevant to software science.",
+  "cfp": {
+    "cfp_candidate": false,
+    "classify_cfp_purpose": null,
+    "is_cfp_purpose": false
+  },
+  "is_cfp": null,
+  "is_joint_call": {
+    "is_joint_conf": false,
+    "is_joint_work": false
+  },
+  "infos": {
+    "infos": [],
+    "conf_name_candidates": [],
+    "conf_name_final": null,
+    "conf_name_tokens": [],
+    "start_date": null,
+    "submission_deadline": null,
+    "conference_website": null
+  },
+  "length": {
+    "mail_text": 6196,
+    "purpose": 633,
+    "infos": 0
+  }
+}

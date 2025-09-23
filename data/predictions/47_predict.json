@@ -1,0 +1,41 @@
+{
+  "purpose": "The email announces the 1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025) scheduled for September 1-3, 2025, at the University of Extremadura in Cáceres, Spain.",
+  "init_mail_type": {
+    "cfp_work": false,
+    "cfp_conf": false,
+    "cfp_jour": false,
+    "call_prop": false,
+    "call_app": true,
+    "info": true,
+    "etc": false
+  },
+  "agree_to_init_type": true,
+  "B_is_cfp": false,
+  "mail_type_C": {
+    "cfp_work": null,
+    "cfp_conf": null,
+    "cfp_jour": null,
+    "call_prop": null,
+    "call_app": null,
+    "info": null,
+    "etc": null
+  },
+  "a_is_cfp": false,
+  "b_is_cfp": false,
+  "c_is_cfp": false,
+  "vote_detail": {
+    "true_votes": 0,
+    "false_votes": 3
+  },
+  "final_is_cfp": false,
+  "coference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025)",
+    "September 1-3, 2025 - University of Extremadura, Cáceres, Spain",
+    "The University of Extremadura is pleased to announce the 1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025).",
+    "This summer school targets researchers, PhD students, and professionals interested in the integration of Large Language Models (LLMs) and Agentic AI into the field of software engineering."
+  ]
+}

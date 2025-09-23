@@ -1,0 +1,19 @@
+{
+  "purpose": "The email is a call for proposals for satellite events to complement the main conferences of the ETAPS 2026, which will take place in Torino, Italy, from April 11 to 16, 2026. It invites researchers and practitioners to submit their proposals by June 26, 2025, and outlines the responsibilities of satellite event organizers and the support provided by the ETAPS organizing committee.",
+  "cfp_candidate": false,
+  "classify_cfp_purpose": null,
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": false,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "The ETAPS 2026 organizing committee invites proposals for satellite events (e.g., workshops) to complement the main conferences.",
+    "Satellite events provide an opportunity to discuss and report on emerging research approaches and practical experiences relevant to the theory and practice of software.",
+    "Deadline for proposals of satellite events: June 26, 2025",
+    "Proposals will be evaluated by the ETAPS 2026 organizing committee based on their assessed benefit for prospective participants of ETAPS 2026."
+  ]
+}

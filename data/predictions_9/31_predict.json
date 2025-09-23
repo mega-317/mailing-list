@@ -1,0 +1,22 @@
+{
+  "purpose": "The email announces the Call for Papers (CFP) for accepted workshops at the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025), which will take place from October 5-10, 2025, in Grand Rapids, Michigan. It highlights the hybrid format of the event, allowing both in-person and virtual participation, and provides important deadlines for submissions and notifications. Additionally, it lists various workshops that will be held prior to the main conference, detailing their themes and objectives.",
+  "cfp_candidate": true,
+  "classify_cfp_purpose": "conference",
+  "classfiy_cfp_mail_text": null,
+  "is_cfp_purpose": true,
+  "is_cfp_mail_text": null,
+  "is_cfp": null,
+  "conference_name": null,
+  "start_date": null,
+  "submission_deadline": null,
+  "conference_website": null,
+  "evidence_sentences": [
+    "MODELS 2025, including the workshops, will be organized as a hybrid event with in-person and virtual participation.",
+    "MODELS 2025 will host a number of workshops during the three days before the main conference.",
+    "Please check the summary of workshops and the upcoming deadlines: https://2025.models-conf.com/track/models-2025-workshops#Accepted-workshops",
+    "*Thu 3 Jul 2025* Submissions Deadline",
+    "*Thu 31 Jul 2025* Notification of Authors",
+    "*Thu 7 Aug 2025* Camera-ready Deadline",
+    "The workshop on Model Driven Engineering, Verification and Validation (MoDeVVa) offers a forum for researchers and practitioners who are working on verification and validation (V&V) in Model-Based Systems Engineering (MBSE) and Model Driven software Engineering (MDE)."
+  ]
+}

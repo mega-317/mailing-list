@@ -3,12 +3,12 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 13
+version = 14
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 
 fields_to_compare = [
-    # "conference_name",
+    "conference_name",
     # "start_date",
     # "submission_deadline"
 ]
@@ -78,23 +78,25 @@ for i in range(1, 101):
         per_field["is_call_for_paper"]["fn"] += 1
 
     # --- 일반 필드 ---
-    # for field in fields_to_compare:
-    #     label_value = label_data.get(field)
-    #     predict_value = predict_data.get(field)
-    #     per_field[field]["total"] += 1
+    for field in fields_to_compare:
+        label_value = label_data.get("conference_name")
+        conf_tokens = predict_data.get("infos", {}).get("conf_name_tokens", [])
+        predict_value = conf_tokens[0] if conf_tokens else None
+        # predict_value = predict_data.get("infos")
+        per_field[field]["total"] += 1
 
-    #     if label_value == predict_value:
-    #         per_field[field]["matches"] += 1
-    #         continue
+        if label_value == predict_value:
+            per_field[field]["matches"] += 1
+            continue
 
-    #     # 불일치 기록
-    #     per_field[field]["errors"] += 1
-    #     if label_value is None and predict_value is not None:
-    #         per_field[field]["null_to_value"] += 1
-    #     elif label_value is not None and predict_value is None:
-    #         per_field[field]["value_to_null"] += 1
-    #     else:
-    #         per_field[field]["wrong_value"] += 1
+        # 불일치 기록
+        per_field[field]["errors"] += 1
+        if label_value is None and predict_value is not None:
+            per_field[field]["null_to_value"] += 1
+        elif label_value is not None and predict_value is None:
+            per_field[field]["value_to_null"] += 1
+        else:
+            per_field[field]["wrong_value"] += 1
 
     #     # 날짜 오차(둘 다 날짜로 파싱 성공 시)
     #     if field in {"start_date", "end_date", "submission_deadline"}:
@@ -103,12 +105,12 @@ for i in range(1, 101):
     #         if d1 and d2 and d1 != d2:
     #             per_field[field]["abs_day_errors"].append(abs((d2 - d1).days))
 
-    #     # 상세 목록에 추가
-    #     mismatched_fields.append({
-    #         "field": field,
-    #         "label_value": label_value,
-    #         "predict_value": predict_value
-    #     })
+        # 상세 목록에 추가
+        mismatched_fields.append({
+            "field": field,
+            "label_value": label_value,
+            "predict_value": predict_value
+        })
 
     if mismatched_fields:
         comparison_results.append({
@@ -170,7 +172,7 @@ for item in comparison_results:
         print(f"    라벨 값: {mismatch['label_value']}")
         print(f"    예측 값: {mismatch['predict_value']}")
 
-out_path = f"comparison_result_{version}.json"
+out_path = f"result/comparison_result_{version}.json"
 with open(out_path, "w", encoding="utf-8") as out_file:
     json.dump({
         "summary": summary,

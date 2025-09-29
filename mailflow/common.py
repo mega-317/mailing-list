@@ -2,9 +2,10 @@ from __future__ import annotations
 from typing import Annotated, Optional, List, Dict, Any, Literal
 from typing_extensions import TypedDict
 from operator import add
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, HttpUrl
 from enum import Enum
 import re, json, os
+from datetime import date
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
@@ -16,7 +17,7 @@ load_dotenv()
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 # --- Constants / Regex ---
-BATCH_SIZE = 10
+BATCH_SIZE = 5
 SENT_SPLIT = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9])|\n{2,}')
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
 
@@ -70,6 +71,28 @@ class ExtractName(BaseModel):
 
 class ConfChoice(BaseModel):
     choice: str = Field(description="verbatim from candidates")
+    
+class ConferenceDate(BaseModel):
+    """학회 시작 날짜를 추출하기 위한 스키마"""
+
+    start_date: Optional[date] = Field(
+        default = None, 
+        description="Start date of the conference or symposium")
+    
+class SubmissionDate(BaseModel):
+    """논문 제출 마감일을 추출하기 위한 스키마"""
+
+    sub_deadline: Optional[date] = Field(
+        default = None, 
+        description="Submission deadline for papers (abstract/full/rounds)")
+    
+class ConferenceUrl(BaseModel):
+    """Schema for extracting the main conference URL."""
+
+    conf_url: Optional[HttpUrl] = Field(
+        default=None,
+        description="The official homepage URL of the main conference. It must not be a link to a submission system or a publisher."
+    )
 
 # --- MailState ---
 class MailState(TypedDict):

@@ -8,16 +8,14 @@ info_flags_batch_prompt = ChatPromptTemplate.from_messages([
      "You are a strict binary classifier. "
      "Given an array of sentences, return a JSON object with a key 'flags' whose value is a boolean array "
      "of the same length, where each element indicates whether the corresponding sentence contains ANY of the following:\n"
-     "- conference/host event name (e.g., '<ACRONYM> <YEAR>', long-form names)\n"
-     "- workshop name\n"
-     "- start date of conference/workshop (YYYY-MM-DD, 'Nov 24, 2025', '24–28 November 2025', etc.)\n"
-     "- submission deadline for papers (abstract/full/rounds)\n"
-     "- official URL (http/https)\n\n"
+     "- A conference, symposium, or workshop name (e.g., 'ICSE 2025', 'International Conference on...').\n"
+     "- An official URL (e.g., 'https://...').\n"
+     "- Any key date, such as the event's start date OR various deadlines. This includes lines containing keywords like 'submission deadline', 'notification', 'registration', or specific dates like 'January 12-13, 2026'.\n\n"
      "Rules:\n"
      "- Output ONLY strict JSON with a single key 'flags'.\n"
      "- The 'flags' array MUST be the same length and order as the input list.\n"
      "- Do not include explanations or extra text."
-    ),
+     ),
     ("human",
      "SENTENCES(JSON array):\n{sentences_json}\n\n"
      "Return ONLY JSON like: {{\"flags\": [true, false, ...]}}")
@@ -32,6 +30,7 @@ def harvest_infos_node(state) -> dict:
     for i in range(0, len(sentences), BATCH_SIZE):
         batch = sentences[i:i+BATCH_SIZE]
         probe = [s[:1000] for s in batch]
+        print(probe)
         sj = json.dumps(probe, ensure_ascii=False)
         try:
             flags = info_flags_batch_chain.invoke({"sentences_json": sj}).flags or []

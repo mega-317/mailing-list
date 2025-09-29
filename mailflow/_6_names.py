@@ -5,14 +5,16 @@ from .common import ExtractName, ConfChoice, parser_chain
 ext_conf_name_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are an information extraction model.\n"
-     "Task: From the email, Extract the name of the Conference or Host Event. Ignore the name of the sub-event or workshop.\n"
-     "STRICTLY EXCLUDE journals, journal series, publishers, and venues like PACM, TOPLAS, HCI journal names, ACM DL pages, etc.\n"
+     "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences or symposiums. "
+     "Your goal is to be comprehensive and extract all plausible candidates for later filtering.\n\n"
      "Rules:\n"
-     "- Prefer '<ACRONYM> <YEAR>' if present (e.g., 'EICS 2026').\n"
-     "- If a long-form event name appears on the same line (or neighboring line) with an acronym and a year.\n"
-     "- Do not include keywords like IEEE in ACRONYM."
-     "- evidence MUST be copied verbatim from near the mention.\n"
-     "- Return STRICT JSON for the schema:\n{schema}"),
+     "1. Extract both long-form names (e.g., 'International Conference on Software Engineering') and short-form acronyms with years (e.g., 'ICSE 2025').\n"
+     "2. **CRITICAL PARSING RULE**: When filling the JSON, the 'acronym' field must contain ONLY the alphabetic abbreviation (e.g., 'FROM', 'ICSE'). The 'year' field must contain the corresponding number (e.g., 2025). **NEVER include the year inside the 'acronym' field.**\n"
+     "3. If a single piece of text contains both an acronym and a full name (e.g., 'FROM 2025 - 9th Working Formal Methods Symposium'), extract the entire text as 'raw', but correctly parse the 'acronym' ('FROM') and 'year' (2025) fields from it.\n"
+     "4. Do not include keywords like IEEE in the ACRONYM.\n"
+     "5. Do not include numbers in the ACRONYM.\n"
+     "6. evidence MUST be copied verbatim from near the mention.\n"
+     "7. Return STRICT JSON for the schema:\n{schema}"),
     ("human", "EMAIL:\n{mail_text}\n\nReturn ONLY JSON.")
 ]).partial(schema=ExtractName.model_json_schema())
 ext_conf_name_chain = parser_chain(ext_conf_name_prompt, ExtractName)
@@ -37,16 +39,15 @@ ext_work_name_chain = parser_chain(ext_work_name_prompt, ExtractName)
 final_conf_name_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a strict selector.\n"
-     "Task: Given EMAIL TEXT and a JSON array of candidate conference titles, "
-     "choose the single main/host conference mentioned in the email.\n"
-     "Rules:\n"
-     "- Choose the **host/main conference** (not a workshop, not a sub-event/track).\n"
-     "- Especially, choose the one that is mentioned in the title.\n"
-     "- Prefer the umbrella venue when candidates include an event and its sub-events.\n"
-     "- The answer MUST be **exactly one** string copied **verbatim** from the candidates list.\n"
-     "- If none is actually mentioned as the host/main venue, pick the one most clearly presented as the main venue in the email.\n"
+     "Task: Given an EMAIL TEXT and a list of candidate event titles, choose the single event that is the **primary subject** of the email's Call for Papers (CfP).\n\n"
+     "**Decision Hierarchy (Follow in this order of importance):**\n"
+     "1.  **Subject Line is King:** The event mentioned prominently in the email's 'Subject:' line is the highest priority. This is the most reliable indicator of the email's main topic.\n"
+     "2.  **Workshops Can Be the Main Subject:** The primary subject can be a conference, symposium, OR a workshop. If the email's main purpose is a CfP for a workshop (e.g., the title is 'Call for Papers for Workshop X'), then that workshop **IS** the correct choice.\n"
+     "3.  **Interpret 'Co-location' as Context:** If Candidate A is described as 'co-located with' or 'part of' Candidate B, this means Candidate A (the workshop/sub-event) is the primary subject, and Candidate B is just providing context about the location/venue. **You must choose Candidate A.** Do NOT choose the contextual (umbrella) venue.\n\n"
+     "**Output Rules:**\n"
+     "- The answer MUST be **exactly one** string copied **verbatim** from the `raw` field of one of the candidates.\n"
      "- Output ONLY strict JSON: {{\"choice\": <one-of-candidates>}} with no extra text."
-    ),
+     ),
     ("human",
      "EMAIL TEXT:\n{mail_text}\n\n"
      "CANDIDATES:\n{candidates}\n"

@@ -3,14 +3,15 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 15
+version = 18
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 
 fields_to_compare = [
     "conference_name",
-    # "start_date",
-    # "submission_deadline"
+    "start_date",
+    "submission_deadline",
+    "conference_website"
 ]
 
 def parse_date(s):
@@ -67,6 +68,7 @@ for i in range(1, 101):
             "label_value": y,
             "predict_value": yhat,
         })
+        
     # 혼동행렬
     if y is True and yhat is True:
         per_field["is_call_for_paper"]["tp"] += 1
@@ -76,11 +78,15 @@ for i in range(1, 101):
         per_field["is_call_for_paper"]["tn"] += 1
     elif y is True and yhat is False:
         per_field["is_call_for_paper"]["fn"] += 1
+        
 
     # --- 일반 필드 ---
     for field in fields_to_compare:
-        label_value = label_data.get("conference_name")
-        predict_value = predict_data.get("infos", {}).get("conf_name_final")
+        # label_value = label_data.get("conference_name")
+        # predict_value = predict_data.get("infos", {}).get("conf_name_final")
+        
+        label_value = label_data.get(field)
+        predict_value = predict_data.get(field)
         # predict_value = predict_data.get("infos")
         per_field[field]["total"] += 1
 
@@ -96,13 +102,6 @@ for i in range(1, 101):
             per_field[field]["value_to_null"] += 1
         else:
             per_field[field]["wrong_value"] += 1
-
-    #     # 날짜 오차(둘 다 날짜로 파싱 성공 시)
-    #     if field in {"start_date", "end_date", "submission_deadline"}:
-    #         d1 = parse_date(label_value)
-    #         d2 = parse_date(predict_value)
-    #         if d1 and d2 and d1 != d2:
-    #             per_field[field]["abs_day_errors"].append(abs((d2 - d1).days))
 
         # 상세 목록에 추가
         mismatched_fields.append({

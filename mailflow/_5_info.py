@@ -10,7 +10,8 @@ info_flags_batch_prompt = ChatPromptTemplate.from_messages([
      "of the same length, where each element indicates whether the corresponding sentence contains ANY of the following:\n"
      "- A conference, symposium, or workshop name (e.g., 'ICSE 2025', 'International Conference on...').\n"
      "- An official URL (e.g., 'https://...').\n"
-     "- Any key date, such as the event's start date OR various deadlines. This includes lines containing keywords like 'submission deadline', 'notification', 'registration', or specific dates like 'January 12-13, 2026'.\n\n"
+     "- Any key date, such as the event's start date OR various deadlines. This includes lines containing keywords like 'submission deadline', 'notification', 'registration', or specific dates like 'January 12-13, 2026'.\n"
+     "- A track or session title that provides context for dates (e.g., 'Research Track', 'Industrial Track', 'Important Dates').\n\n"
      "Rules:\n"
      "- Output ONLY strict JSON with a single key 'flags'.\n"
      "- The 'flags' array MUST be the same length and order as the input list.\n"
@@ -30,7 +31,6 @@ def harvest_infos_node(state) -> dict:
     for i in range(0, len(sentences), BATCH_SIZE):
         batch = sentences[i:i+BATCH_SIZE]
         probe = [s[:1000] for s in batch]
-        print(probe)
         sj = json.dumps(probe, ensure_ascii=False)
         try:
             flags = info_flags_batch_chain.invoke({"sentences_json": sj}).flags or []

@@ -8,8 +8,10 @@ ext_conf_url_prompt = ChatPromptTemplate.from_messages([
      "Task: From the EMAIL TEXT, extract the single, official **homepage URL** for the main conference.\n\n"
      "**Rules of Extraction:**\n"
      "1. Your goal is to find the main website for the event (e.g., `conference-name2025.org`, `event.github.io`).\n"
-     "2. URL must end with a slash `/`.\n"
-     "3. If no suitable homepage URL is found, return null.\n\n"
+     "2. Just Copy the URL. Do not change at all.\n"
+     "3. The output MUST be the full, complete URL. It **MUST start with 'https://' or 'http://'**.\n"
+     "4. URL must end with a slash `/`.\n"
+     "5. If no suitable homepage URL is found, return null.\n\n"
      "Return STRICT JSON for the schema:\n{schema}"),
     ("human", "EMAIL TEXT:\n{mail_text}\n\nReturn ONLY JSON.")
 ]).partial(schema=ConferenceUrl.model_json_schema()) # 스키마를 연결해줍니다.

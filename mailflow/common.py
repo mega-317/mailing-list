@@ -14,7 +14,11 @@ from langchain_core.output_parsers import PydanticOutputParser
 load_dotenv()
 
 # --- LLM ---
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+llm = ChatOpenAI(
+    model="gpt-4o-mini", 
+    temperature=0,
+    seed=42
+)
 
 # --- Constants / Regex ---
 BATCH_SIZE = 5
@@ -48,6 +52,9 @@ class BoolOut(BaseModel):
 class BoolListOut(BaseModel):
     flags: List[bool] = Field(description="Same length/ order as input")
 
+class ExtractText(BaseModel):
+    extracted_text: str = Field(description="Extracted text related to Call for Papers")
+    
 class Summary(BaseModel):
     purpose: str = Field(description="1~10문장 목적 요약")
     evidence: List[str] = Field(description="근거 문장들(메일에서 발췌)")
@@ -98,25 +105,34 @@ class ConferenceUrl(BaseModel):
 class MailState(TypedDict):
     mail_text: str
     len_mail_text: int
+    
+    extracted_text: str
+    len_extracted_text: int
+    
     purpose: str
-    len_purpose: int
-    cfp_candidate: bool
-    classify_cfp_purpose: str
-    classify_cfp_mail_text: str
-    is_cfp_purpose: bool
-    is_cfp: bool
-    has_body: bool
     evidence_sentences: List[str]
+    len_purpose: int
+    
+    cfp_candidate: bool
+    classify_cfp_target: str
+    classify_cfp_mail_text: str
+    is_cfp: bool
+    is_cfp_final: bool
+    
+    has_body: bool
     is_joint_conf: bool
     is_joint_work: bool
+    
     infos: Annotated[List[str], add]
     infos_text: Optional[str]
     len_infos_text: int
+    
     conf_name_candidates: Annotated[List[Dict[str, Any]], merge_unique_by_raw]
     conf_name_final: Optional[str]
     conf_tokens: Annotated[List[str], add]
     work_name_candidates: Annotated[List[Dict[str, Any]], merge_unique_by_raw]
     work_tokens: Annotated[List[str], add]
+    
     start_date: Optional[str]
     sub_deadline: Optional[str]
     conf_website: Optional[str]

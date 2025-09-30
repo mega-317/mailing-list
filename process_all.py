@@ -3,7 +3,7 @@ from pathlib import Path
 import glob
 from mailflow._graph_main import process_one_file, save_json
 
-version = 19
+version = 24
 TEXT_DIR = Path("./data/texts")
 OUT_DIR = Path(f"./data/predictions_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)

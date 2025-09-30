@@ -3,15 +3,15 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 19
+version = 24
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 
 fields_to_compare = [
-    "conference_name",
-    "start_date",
-    "submission_deadline",
-    "conference_website"
+    # "conference_name",
+    # "start_date",
+    # "submission_deadline",
+    # "conference_website"
 ]
 
 def parse_date(s):
@@ -57,7 +57,7 @@ for i in range(1, 101):
 
     # --- 이진: is_call_for_paper vs is_call_for_conference_paper ---
     y = label_data.get("is_call_for_paper")
-    yhat = predict_data.get("cfp").get("is_cfp_purpose")
+    yhat = predict_data.get("cfp").get("is_cfp")
     per_field["is_call_for_paper"]["total"] += 1
     if y == yhat:
         per_field["is_call_for_paper"]["matches"] += 1

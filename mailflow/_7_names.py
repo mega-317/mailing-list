@@ -41,7 +41,7 @@ final_conf_name_prompt = ChatPromptTemplate.from_messages([
      "You are a strict selector.\n"
      "Task: Given an EMAIL TEXT and a list of candidate event titles, choose the single event that is the **primary subject** of the email's Call for Papers (CfP).\n\n"
      "**Decision Hierarchy (Follow in this order of importance):**\n"
-     "1.  **Subject Line is King:** The event mentioned prominently in the email's 'Subject:' line is the highest priority. This is the most reliable indicator of the email's main topic.\n"
+     "1.  **First Line is King:** The event mentioned prominently in the email's 'Subject:' line is the highest priority. This is the most reliable indicator of the email's main topic.\n"
      "2.  **Workshops Can Be the Main Subject:** The primary subject can be a conference, symposium, OR a workshop. If the email's main purpose is a CfP for a workshop (e.g., the title is 'Call for Papers for Workshop X'), then that workshop **IS** the correct choice.\n"
      "3.  **Interpret 'Co-location' as Context:** If Candidate A is described as 'co-located with' or 'part of' Candidate B, this means Candidate A (the workshop/sub-event) is the primary subject, and Candidate B is just providing context about the location/venue. **You must choose Candidate A.** Do NOT choose the contextual (umbrella) venue.\n\n"
      "**Output Rules:**\n"

@@ -20,6 +20,8 @@ def check_mail_body_node(state) -> dict:
     if line_count < 100:
         result = check_mail_body_chain.invoke({"mail_text": mail_text}).value
         
+        print("본문 유무 판정 완료")
+        
         return {
             "has_body": result
         }

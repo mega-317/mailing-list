@@ -26,6 +26,8 @@ info_flags_batch_chain = parser_chain(info_flags_batch_prompt, BoolListOut)
 def harvest_infos_node(state) -> dict:
     mail_text = state["mail_text"]
     sentences = split_sentences(mail_text)
+    
+    print("정보 문장 추출 시작")
 
     picked = []
     for i in range(0, len(sentences), BATCH_SIZE):
@@ -38,11 +40,16 @@ def harvest_infos_node(state) -> dict:
             flags = [False] * len(batch)
         for s, f in zip(batch, flags):
             if f: picked.append(s)
+            
+    print("정보 문장 추출 종료")
+    
     return {"infos": picked}
 
 def finalize_infos_text_node(state) -> dict:
     infos_list = state.get("infos", [])
     infos_text = "\n".join(infos_list)
-    print('원문 길이: ', len(state.get("mail_text")))
-    print('추출 문장 길이: ', len(infos_text))
-    return {"infos_text": infos_text, "len_infos_text": len(infos_text)}
+    
+    return {
+        "infos_text": infos_text, 
+        "len_infos_text": len(infos_text)
+    }

@@ -2,19 +2,47 @@
 from langchain_core.prompts import ChatPromptTemplate
 from .common import ExtractName, ConfChoice, parser_chain
 
+# ext_conf_name_prompt = ChatPromptTemplate.from_messages([
+#     ("system",
+#      "You are an information extraction model.\n"
+#      "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences or symposiums. "
+#      "Your goal is to be comprehensive and extract all plausible candidates for later filtering.\n\n"
+#      "Rules:\n"
+#      "1. Extract both long-form names (e.g., 'International Conference on Software Engineering') and short-form acronyms with years (e.g., 'ICSE 2025').\n"
+#      "2. **CRITICAL PARSING RULE**: When filling the JSON, the 'acronym' field must contain ONLY the alphabetic abbreviation (e.g., 'FROM', 'ICSE'). The 'year' field must contain the corresponding number (e.g., 2025). **NEVER include the year inside the 'acronym' field.**\n"
+#      "3. If a single piece of text contains both an acronym and a full name (e.g., 'FROM 2025 - 9th Working Formal Methods Symposium'), extract the entire text as 'raw', but correctly parse the 'acronym' ('FROM') and 'year' (2025) fields from it.\n"
+#      "4. Do not include keywords like IEEE in the ACRONYM.\n"
+#      "5. Do not include numbers in the ACRONYM.\n"
+#      "6. evidence MUST be copied verbatim from near the mention.\n"
+#      "7. Return STRICT JSON for the schema:\n{schema}"),
+#     ("human", "EMAIL:\n{mail_text}\n\nReturn ONLY JSON.")
+# ]).partial(schema=ExtractName.model_json_schema())
+# ext_conf_name_chain = parser_chain(ext_conf_name_prompt, ExtractName)
 ext_conf_name_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are an information extraction model.\n"
-     "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences or symposiums. "
-     "Your goal is to be comprehensive and extract all plausible candidates for later filtering.\n\n"
-     "Rules:\n"
-     "1. Extract both long-form names (e.g., 'International Conference on Software Engineering') and short-form acronyms with years (e.g., 'ICSE 2025').\n"
-     "2. **CRITICAL PARSING RULE**: When filling the JSON, the 'acronym' field must contain ONLY the alphabetic abbreviation (e.g., 'FROM', 'ICSE'). The 'year' field must contain the corresponding number (e.g., 2025). **NEVER include the year inside the 'acronym' field.**\n"
-     "3. If a single piece of text contains both an acronym and a full name (e.g., 'FROM 2025 - 9th Working Formal Methods Symposium'), extract the entire text as 'raw', but correctly parse the 'acronym' ('FROM') and 'year' (2025) fields from it.\n"
-     "4. Do not include keywords like IEEE in the ACRONYM.\n"
-     "5. Do not include numbers in the ACRONYM.\n"
-     "6. evidence MUST be copied verbatim from near the mention.\n"
-     "7. Return STRICT JSON for the schema:\n{schema}"),
+     "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences or symposiums."
+     "## Extraction Framework\n"
+     "For each potential conference you identify, follow these steps to fill the data fields:\n\n"
+     
+     "**1. For the `raw` field:**\n"
+     "   - Capture the most complete version of the event name you can find. If it includes an acronym and year in the same phrase (e.g., 'FROM 2025 - 9th Working Formal Methods Symposium'), capture the entire phrase.\n\n"
+     
+     "**2. For the `acronym` field (CRITICAL RULES):**\n"
+     "   - The acronym is usually a capitalized abbreviation, often in parentheses (e.g., FOIS).\n"
+     "   - The acronym MUST contain ONLY alphabetic characters (A-Z).\n"
+     "   - **NEVER** include numbers or the year in this field. For 'ICSE 2025', the acronym is 'ICSE'.\n"
+     "   - Do NOT include generic prefixes like 'IEEE'.\n\n"
+     
+     "**3. For the `year` field (CRITICAL LOGIC):**\n"
+     "   - **Priority 1 (Direct Match)**: First, look for a 4-digit year (e.g., 2025) directly within the `raw` phrase.\n"
+     "   - **Priority 2 (Contextual Search)**: If not found, scan the **entire sentence** containing the name. The year is often mentioned nearby in phrases like 'held in 2025' or 'from September 8-12, 2025'.\n"
+     "   - **Priority 3 (Disambiguation)**: Numbers like '15th', '41st' are the conference **edition**, NOT the year. Do not use them for the `year` field.\n\n"
+     
+     "**4. For the `evidence` field:**\n"
+     "   - Copy a short, verbatim sentence from the original text that contains or is near the conference name to justify the extraction.\n\n"
+     
+     "Return STRICT JSON for the schema:\n{schema}"),
     ("human", "EMAIL:\n{mail_text}\n\nReturn ONLY JSON.")
 ]).partial(schema=ExtractName.model_json_schema())
 ext_conf_name_chain = parser_chain(ext_conf_name_prompt, ExtractName)

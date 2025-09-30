@@ -11,11 +11,12 @@ ext_conf_url_prompt = ChatPromptTemplate.from_messages([
      "2. Just Copy the URL. Do not change at all.\n"
      "3. The output MUST be the full, complete URL. It **MUST start with 'https://' or 'http://'**.\n"
      "4. URL must end with a slash `/`.\n"
-     "5. If no suitable homepage URL is found, return null.\n\n"
-     "Return STRICT JSON for the schema:\n{schema}"),
+     "5. If no suitable homepage URL is found, return null for value.\n\n"
+     "## CRITICAL OUTPUT FORMAT ##\n"
+     "Your output MUST BE A VALID JSON OBJECT that strictly adheres to the following structure.\n"
+     "The JSON object must have one key: `conf_url`.\n\n"),
     ("human", "EMAIL TEXT:\n{mail_text}\n\nReturn ONLY JSON.")
-]).partial(schema=ConferenceUrl.model_json_schema()) # 스키마를 연결해줍니다.
-
+])
 ext_conf_url_chain = parser_chain(ext_conf_url_prompt, ConferenceUrl)
 
 def ext_conf_url_node(state) -> dict:

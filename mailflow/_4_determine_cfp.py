@@ -22,7 +22,7 @@ cfp_candidate_prompt = ChatPromptTemplate.from_messages([
      "--- IMMEDIATE REJECTION IF PURPOSE IS ABOUT ---\n"
      "- School / Course / Summer School / PhD Position\n"
      "- Job Offering / Recruitment\n"
-     "- Call for Participation / Registration Reminder / General Announcement\n"
+     "- Call for Participation / Registration Reminder\n"
      "- Call for Workshop Proposals (i.e., organizing a workshop, not submitting papers to one)\n"
      "- Call for Demos / Tutorials / Competitions\n\n"
      

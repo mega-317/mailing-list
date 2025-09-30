@@ -86,6 +86,14 @@ class ConferenceDate(BaseModel):
         default = None, 
         description="Start date of the conference or symposium")
     
+class DeadlineInfo(BaseModel):
+    """A single deadline entry with its context and normalized date."""
+    raw_text: str = Field(description="The original sentence or phrase containing the deadline, extracted verbatim.")
+    normalized_date: str = Field(description="The extracted date from the raw_text, normalized to YYYY-MM-DD format.")
+    
+class DeadlineCandidates(BaseModel):
+    candidates: List[DeadlineInfo]
+    
 class SubmissionDate(BaseModel):
     """논문 제출 마감일을 추출하기 위한 스키마"""
 
@@ -96,7 +104,7 @@ class SubmissionDate(BaseModel):
 class ConferenceUrl(BaseModel):
     """Schema for extracting the main conference URL."""
 
-    conf_url: Optional[HttpUrl] = Field(
+    conf_url: Optional[str] = Field(
         default=None,
         description="The official homepage URL of the main conference. It must not be a link to a submission system or a publisher."
     )
@@ -135,6 +143,7 @@ class MailState(TypedDict):
     
     start_date: Optional[str]
     sub_deadline: Optional[str]
+    sub_deadline_candidate: Optional[List[str]]
     conf_website: Optional[str]
 
 # --- Chain helpers (각 모듈에서 재사용할 프롬프트 생성기) ---

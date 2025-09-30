@@ -10,7 +10,7 @@ from ._4_determine_cfp import cfp_candidate_node, classify_cfp_target_node
 from ._5_joint import is_joint_conf_node, is_joint_work_node
 from ._6_info import harvest_infos_node, finalize_infos_text_node
 from ._7_names import ext_conf_name_node, ext_work_name_node, build_conf_tokens_node, final_conf_name_node
-from ._8_dates import ext_start_date_node, ext_submission_deadline_node
+from ._8_dates import ext_start_date_node, ext_submission_deadline_node, submission_deadline_candidates_node, final_submission_deadline_node
 from ._9_url import ext_conf_url_node
 
 # --- Routers ---
@@ -43,6 +43,8 @@ graph.add_node("build_conf_tokens", build_conf_tokens_node)
 graph.add_node("final_conf_name", final_conf_name_node)
 graph.add_node("ext_start_date", ext_start_date_node)
 graph.add_node("ext_submission_deadline", ext_submission_deadline_node)
+graph.add_node("submission_deadline_candidates", submission_deadline_candidates_node)
+graph.add_node("final_submission_deadline", final_submission_deadline_node)
 graph.add_node("ext_conf_url", ext_conf_url_node)
 
 graph.add_edge(START, "check_mail_body")
@@ -80,18 +82,17 @@ graph.add_conditional_edges(
         "end": END
     }
 )
-graph.add_edge("is_joint_work", END)
-# graph.add_edge("is_joint_work", "harvest_infos")
-# graph.add_edge("harvest_infos", "finalize_infos_text")
-# graph.add_edge("finalize_infos_text", "ext_conf_name")
-# # graph.add_edge("ext_conf_name", "ext_work_name")
-# # graph.add_edge("ext_work_name", "build_conf_tokens")
-# graph.add_edge("ext_conf_name", "build_conf_tokens")
-# graph.add_edge("build_conf_tokens", "final_conf_name")
-# graph.add_edge("final_conf_name", "ext_start_date")
-# graph.add_edge("ext_start_date", "ext_submission_deadline")
-# graph.add_edge("ext_submission_deadline", "ext_conf_url")
-# graph.add_edge("ext_conf_url", END)
+# graph.add_edge("is_joint_work", END)
+graph.add_edge("is_joint_work", "harvest_infos")
+graph.add_edge("harvest_infos", "finalize_infos_text")
+graph.add_edge("finalize_infos_text", "ext_conf_name")
+graph.add_edge("ext_conf_name", "build_conf_tokens")
+graph.add_edge("build_conf_tokens", "final_conf_name")
+graph.add_edge("final_conf_name", "ext_start_date")
+graph.add_edge("ext_start_date", "submission_deadline_candidates")
+graph.add_edge("submission_deadline_candidates", "final_submission_deadline")
+graph.add_edge("final_submission_deadline", "ext_conf_url")
+graph.add_edge("ext_conf_url", END)
 
 app = graph.compile()
 
@@ -119,10 +120,11 @@ def build_init_state(mail_text: str) -> dict:
         "work_name_tokens": [],
         "start_date": None,
         "sub_deadline": None,
+        "sub_deadline_candidate": [],
         "conf_website": None,
         "len_mail_text": 0,
         "len_purpose": 0,
-        "len_extractedCFP": 0,
+        "len_extracted_text": 0,
         "len_infos_text": 0
     }
 
@@ -145,15 +147,16 @@ def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
             "infos": result.get("infos"),
             "conf_name_candidates": result.get("conf_name_candidates"),
             "conf_name_tokens": result.get("conf_tokens"),
+            "submission_deadline_candidates": result.get("sub_deadline_candidate"),
         },
         "length": {
             "mail_text": result.get("len_mail_text"),
-            "extractedCFP": result.get("len_extractedCFP"),
+            "extracted_text": result.get("len_extracted_text"),
             "infos": result.get("len_infos_text")
         },
         "conference_name": result.get("conf_name_final"),
         "start_date": result.get("start_date"),
-        "submission_deadline": result.get("sub_deadline"),    
+        "submission_deadline": result.get("sub_deadline"),   
         "conference_website": result.get("conf_website"),
     }
 

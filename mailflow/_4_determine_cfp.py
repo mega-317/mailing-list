@@ -5,43 +5,31 @@ from .common import BoolOut, CFPLabelParser, parser_chain
 # 이 메일이 CFP 메일인지 판정하는 프롬프트와 체인
 cfp_candidate_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You are an expert adjudicator for classifying academic emails. \n\n"
+     "You are an optimistic classifier. Your primary goal is to identify potential 'Call for Papers' (CFP) candidates and **aggressively avoid false negatives**. When in doubt, you MUST lean towards classifying as `true`.\n\n"
      
-     "## Overall Task\n"
-     "Your task is to determine if an email is a \"Call for Research Papers\" (CFP) based on its summary (`purpose`) and key extracted phrases (`extracted_text`).\n\n"
+     "## Decision Philosophy: Asymmetric Risk\n"
+     "A False Negative (missing a real CFP) is a critical failure. A False Positive (incorrectly flagging a non-CFP) is acceptable as it will be filtered later. Your logic must reflect this bias.\n\n"
      
-     "## Input Data\n"
-     "- `purpose`: The overall intent and context of the email.\n"
-     "- `extracted_text`: Specific, verbatim phrases from the email containing submission-related keywords.\n\n"
+     "## Decision Rules with Positive Bias:\n\n"
+     "### **1. Decisive Positive Signal (The Override)**\n"
+     "   - If the `extracted_text` contains a specific **'Submission Deadline'** for papers, the email is **always a CFP (`true`)**. \n"
+     "   - This rule overrides all other negative or ambiguous signals.\n\n"
+
+     "### **2. Strong Positive Signals**\n"
+     "   - If the `purpose` explicitly states it 'invites submissions for papers/workshops/conferences', consider it a **CFP (`true`)**.\n\n"
      
-     "## Decision Framework\n"
-     "Follow this two-step process to make a decision:\n\n"
-     
-     "**Step 1: Analyze the `purpose` (Top-Down Context Check)**\n"
-     "First, use the `purpose` to check for immediate deal-breakers. If the `purpose` primarily describes one of the following, it is NOT a research paper CFP. Return `false` immediately, regardless of the `extracted_text`.\n"
-     "--- IMMEDIATE REJECTION IF PURPOSE IS ABOUT ---\n"
-     "- School / Course / Summer School / PhD Position\n"
-     "- Job Offering / Recruitment\n"
-     "- Call for Participation / Registration Reminder\n"
-     "- Call for Workshop Proposals (i.e., organizing a workshop, not submitting papers to one)\n"
-     "- Call for Demos / Tutorials / Competitions\n\n"
-     
-     "**Step 2: Analyze the `extracted_text` (Bottom-Up Evidence Check)**\n"
-     "If the email is NOT rejected in Step 1, then analyze the `extracted_text` to find conclusive evidence of a research paper CFP. \n"
-     "--- STRONG CONFIRMATION IF EXTRACTED_TEXT CONTAINS ---\n"
-     "- Specific submission deadlines (e.g., 'Papers due', 'Submission Deadline', 'Camera-Ready Deadline')\n"
-     "- Direct invitations for research (e.g., 'We invite submissions of original research papers', 'Requesting a manuscript')\n"
-     "- Mention of specific tracks, paper formats, or page limits (e.g., 'Research Track', 'up to 6 pages in IEEE format')\n\n"
-     
-     "## Final Verdict Logic\n"
-     "- If the email is rejected in Step 1 -> `false`\n"
-     "- If the email is NOT rejected in Step 1 AND contains strong confirmation signals in Step 2 -> `true`\n"
-     "- Otherwise -> `false`\n\n"
-     
+     "### **3. Handling Caution Signals (Formerly Negative Signals)**\n"
+     "   - Keywords like 'Call for Participation' or 'announcement' in the `purpose` are **caution signals**, not immediate rejections.\n"
+     "   - **Check for contradictions**: Is the caution signal contradicted by a Decisive Positive Signal (like a deadline)? If yes, the positive signal **always wins**. \n"
+     "   - Only consider classifying as `false` if these caution signals appear **AND** there is absolutely no positive evidence.\n\n"
+
+     "### **4. Hard Exclusions (True Rejections)**\n"
+     "   - Only reject if the `purpose` is clearly and exclusively about non-CFP topics like: Job Offering, Recruitment, or a Call for Proposals to ORGANIZE an event.\n\n"
+
      "## Output Format\n"
      "Output ONLY a strict JSON object with a single boolean key 'value'. Example: {{\"value\": true}}"),
     ("human",
-     "Based on the following information, decide if this is a Call for Papers.\n\n"
+     "Based on the following information and your positive-bias philosophy, decide if this is a potential Call for Papers.\n\n"
      "### Overall Purpose:\n{purpose}\n\n"
      "### Key Extracted Text:\n{extracted_text}")
 ])

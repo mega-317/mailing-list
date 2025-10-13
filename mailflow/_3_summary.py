@@ -2,6 +2,7 @@
 from langchain_core.prompts import ChatPromptTemplate
 from .common import Summary, parser_chain
 
+# 메일의 목적을 요약하는 노드
 summ_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a careful academic-email summarizer. Output strict JSON matching the schema. "

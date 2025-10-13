@@ -2,6 +2,7 @@
 from langchain_core.prompts import ChatPromptTemplate
 from .common import ExtractText, parser_chain
 
+# CFP와 관련 있는 문장들을 추출하는 노드
 extract_text_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are an expert information extractor. Your task is to find and extract sentences or short paragraphs from the given email text that are directly related to a Call for Papers. "

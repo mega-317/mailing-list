@@ -1,6 +1,7 @@
 from langchain_core.prompts import ChatPromptTemplate
 from .common import BoolOut, CFPLabelParser, parser_chain
 
+# 메일 본문이 제대로 있는지 확인하는 노드
 check_mail_body_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a strict binary classifier.\n"

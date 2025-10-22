@@ -4,19 +4,6 @@ from .common import parser_chain, ConferenceDate, SubmissionDate, NULL_STRINGS, 
 from langchain_core.output_parsers import StrOutputParser
 import json
 
-# ext_start_date_prompt = ChatPromptTemplate.from_messages([
-#     ("system",
-#      "You are an expert at extracting specific information from text.\n"
-#      "Task: From the EMAIL TEXT, extract the main conference's start date.\n\n"
-#      "Rules:\n"
-#      "1.  The date MUST be normalized to the **YYYY-MM-DD** format.\n"
-#      "2.  You MUST extract the date the conference **begins**. Look for phrases like **'take place on', 'held from', 'during', 'dates are'** to identify the event period.\n"
-#      "3.  If the conference runs for multiple days (e.g., 'January 12-14, 2026'), extract only the first day (2026-01-12).\n"
-#      "4.  If no specific start date for the main conference is found, return null.\n\n"
-#      "Return STRICT JSON for the schema:\n{schema}"),
-#     ("human", "EMAIL TEXT:\n{mail_text}\n\nReturn ONLY JSON.")
-# ]).partial(schema=ConferenceDate.model_json_schema())
-# ext_start_date_chain = parser_chain(ext_start_date_prompt, ConferenceDate)
 ext_start_date_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a highly accurate information extraction model.\n"
@@ -55,11 +42,14 @@ deadline_candidates_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a highly accurate information extraction model. Your task is to find all potential paper submission deadlines from the given text and structure them.\n\n"
      "For each deadline phrase you find, you must perform two actions:\n"
-     "1. **Extract the raw text**: Capture the entire relevant sentence or phrase verbatim.\n"
-     "2. **Normalize the date**: Extract the date from that phrase and convert it to **YYYY-MM-DD** format.\n\n"
+     "1. **Identify the Context/Track**: Look for the nearest heading or label that describes the group this deadline belongs to (e.g., 'Round 1', 'Round 2', 'Research Track', 'Industrial Track'). This is the most important step.\n"
+     "2. **Extract the raw text**: Capture the entire relevant sentence or phrase verbatim.\n"
+     "3. **Normalize the date**: Extract the date from that phrase and convert it to **YYYY-MM-DD** format.\n\n"
+     
      "Look for dates associated with keywords like 'submission', 'deadline', 'due', 'track', 'paper', 'camera-ready', 'notification'.\n"
      "Exclude registration-only deadlines.\n\n"
-     "Your output MUST BE a JSON object with a single key 'candidates', which is a list of structured objects, each containing 'raw_text' and 'normalized_date'."),
+     "If there multiple dates are mentioned in a single phrase, choose the one that extended.\n\n"
+     "Your output MUST BE a JSON object with a single key 'candidates', which is a list of structured objects, each containing 'context_or_track', 'raw_text' and 'normalized_date'."),
     ("human", 
      "TEXT:\n{mail_text}\n\n"
      "Extract all potential deadlines and format them as a list of structured JSON objects.")
@@ -68,26 +58,38 @@ deadline_candidates_chain = parser_chain(deadline_candidates_prompt, DeadlineCan
 
 final_deadline_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You are a meticulous researcher. Your task is to identify the single most important **Research Paper Submission Deadline** by analyzing a full text and then selecting the correct date from a provided list of candidate dates.\n\n"
+     "You are a highly logical selection model. Your task is to analyze a JSON array of structured deadline candidates and select the single most relevant **paper submission deadline**.\n\n"
      
-     "## Input Data:\n"
-     "- `full_context_text`: The original email text containing all contextual clues and section headings.\n"
-     "- `candidate_dates_json`: A simple JSON array of valid, pre-normalized dates (e.g., `[\"2025-10-16\", \"2025-11-17\", ...]`) that you can choose from.\n\n"
+     "## Input Format:\n"
+     "You will receive a JSON array of objects. Each object has three keys:\n"
+     "- `context_or_track`: The heading or group this deadline belongs to (e.g., 'Round 1', 'Research Track').\n"
+     "- `raw_text`: The original context sentence.\n"
+     "- `normalized_date`: The pre-formatted date (YYYY-MM-DD).\n\n"
      
-     "## Step-by-Step Analysis Logic:\n"
-     "1.  **Identify the Most Important Section**: Your highest priority is the section labeled **'Research Track'**, 'Main Track', or 'Full Papers'. Scan the `full_context_text` to find this section.\n"
-     "2.  **Find the Deadline within that Section**: Inside that priority section, locate the phrase 'Paper Submission Deadline' or a similar term.\n"
-     "3.  **Match the Date**: Find the date mentioned on that specific line (e.g., '16 October, 2025') and find its exact `YYYY-MM-DD` equivalent in the provided `candidate_dates_json` list. This is your answer.\n"
-     "4.  **Fallback (If No Research Track)**: If no 'Research Track' is found, search the entire `full_context_text` for the most prominent general 'Paper Submission Deadline' and match its date from the `candidate_dates_json` list.\n"
-     "5.  **Final Check**: Ensure the date you choose is for a paper submission, not a notification, camera-ready, or proposal deadline.\n\n"
+     "## Hierarchical Decision Algorithm:\n"
+     "**Step 1: Filter out irrelevant candidates.**\n"
+     "   - First, create a filtered list by REMOVING any candidate where the `raw_text` is about 'author notification', 'camera-ready', 'registration', or other non-submission events.\n\n"
+     
+     "**Step 2: Select from the filtered list using strict priority.**\n"
+     "   - From the REMAINING candidates, find the best match by checking the `context_or_track` and `raw_text` fields for the following keywords **in this exact order of priority**:\n\n"
+     "   - **Priority 1 (Round 1):** Look for a candidate where `context_or_track` is **'Round 1'**. If found, select its `normalized_date` and STOP.\n\n"
+     "   - **Priority 2 (Research Track):** If no 'Round 1' is found, look for a candidate where `context_or_track` or `raw_text` mentions 'Research Track', 'Main Track', or 'Full Paper'.\n\n"
+     "   - **Priority 3 (General Submission):** If still no match, look for a candidate where `raw_text` contains general terms like 'Paper Submission' or 'Submission Deadline'.\n\n"
+     
+     "**Step 3: Determine the final date.**\n"
+     "   - Select the `normalized_date` of the candidate that matches the highest possible priority level.\n"
+     "   - If multiple candidates match the same priority level, choose the one with the **earliest** date.\n\n"
      
      "## CRITICAL OUTPUT RULES:\n"
-     "1. Your output MUST BE ONLY the selected date string from the provided list (e.g., \"2025-10-16\").\n"
-     "2. After following the analysis logic, your final output MUST BE ONLY the resulting date string in YYYY-MM-DD format (e.g., \"2025-10-16\") OR the single word NOT_FOUND.\n"
-     "3. DO NOT include your reasoning, explanations, steps, or any other text in the final output.** Only provide the single, final answer."),
+     "1. The final output must be a single, clean string.\n"
+     "2. If a date is found, output ONLY the date in YYYY-MM-DD format.\n"
+     "   - **Correct format:** 2025-05-26\n"
+     "   - **Incorrect format:** \"2025-05-26\"\n" 
+     "3. If no suitable submission deadline can be found, you MUST output the exact single word: **NOT_FOUND**.\n"),
     ("human",
-     "## Full Context Text:\n{infos_text}\n\n"
-     "## Candidate Dates (JSON Array):\n{candidate_dates}")
+     "## Full Context Text:\n{mail_text}\n\n"
+     "## Candidate Dates (JSON Array):\n{candidate_dates}\n\n"
+     "Final Answer:")
 ])
 # 체인 구성 (단순 문자열 파서 사용)
 final_deadline_chain = final_deadline_prompt | llm | StrOutputParser()
@@ -95,7 +97,8 @@ final_deadline_chain = final_deadline_prompt | llm | StrOutputParser()
 def ext_start_date_node(state) -> dict:
     
     infos_text = state["infos_text"]
-    res = ext_start_date_chain.invoke({"mail_text": infos_text})
+    mail_text = state["mail_text"]
+    res = ext_start_date_chain.invoke({"mail_text": mail_text})
     cleaned_date = res.strip()
     
     final_date = None
@@ -111,14 +114,12 @@ def ext_start_date_node(state) -> dict:
 
 def ext_submission_deadline_node(state) -> dict:
     infos_text = state.get("infos_text", "")
+    mail_text = state["mail_text"]
     conf_name = state.get("conf_name_final", "")
-    
-    if not infos_text or not conf_name:
-        return {"sub_deadline": None}
 
     # ⬇️ 체인은 이제 순수 문자열을 반환합니다.
     raw_date_str = ext_submission_deadline_chain.invoke({
-        "mail_text": infos_text,
+        "mail_text": mail_text,
     })
     
     # ⬇️ LLM이 반환한 문자열을 정리하고, 'NOT_FOUND'나 다른 null 값인지 확인합니다.
@@ -136,10 +137,9 @@ def ext_submission_deadline_node(state) -> dict:
 
 def submission_deadline_candidates_node(state) -> dict:
     infos_text = state.get("infos_text", "")
-    if not infos_text:
-        return {"sub_deadline_candidate": []}
+    mail_text = state["mail_text"]
     
-    result: DeadlineCandidates = deadline_candidates_chain.invoke({"mail_text": infos_text})
+    result: DeadlineCandidates = deadline_candidates_chain.invoke({"mail_text": mail_text})
     
     # .model_dump()를 사용해 각 DeadlineInfo 객체를 dict로 변환합니다.
     candidates_as_dicts = [info.model_dump() for info in result.candidates]
@@ -151,8 +151,7 @@ def submission_deadline_candidates_node(state) -> dict:
 def final_submission_deadline_node(state) -> dict:
     candidates = state.get("sub_deadline_candidate", [])
     infos_text = state.get("infos_text", "")
-    if not candidates:
-        return {"sub_deadline": None}
+    mail_text = state["mail_text"]
     
     # 후보 객체 리스트에서 'normalized_date' 값만 추출하여 새로운 리스트를 만듭니다.
     dates_only_list = [c['normalized_date'] for c in candidates]
@@ -163,7 +162,7 @@ def final_submission_deadline_node(state) -> dict:
     # 수정된 프롬프트에 JSON 문자열을 전달합니다.
     raw_date_str = final_deadline_chain.invoke({
         "candidate_dates": candidate_dates_json_str,
-        "infos_text": infos_text
+        "mail_text": mail_text
     })
     
     cleaned_date = raw_date_str.strip()

@@ -8,10 +8,14 @@ info_flags_batch_prompt = ChatPromptTemplate.from_messages([
      "You are a strict binary classifier. "
      "Given an array of sentences, return a JSON object with a key 'flags' whose value is a boolean array "
      "of the same length, where each element indicates whether the corresponding sentence contains ANY of the following:\n"
+     
      "- A conference, symposium, or workshop name (e.g., 'ICSE 2025', 'International Conference on...').\n"
      "- An official URL (e.g., 'https://...').\n"
-     "- Any key date, such as the event's start date OR various deadlines. This includes lines containing keywords like 'submission deadline', 'notification', 'registration', or specific dates like 'January 12-13, 2026'.\n"
-     "- A track or session title that provides context for dates (e.g., 'Research Track', 'Industrial Track', 'Important Dates').\n\n"
+     "- Any date, such as the event's start date OR various deadlines or specific dates like 'January 12-13, 2026'\n"
+     
+     "- Any lines containing keywords like 'paper', 'submission', 'notification', 'registration', 'Round'\n"
+     "- A track or session title that provides context for dates (e.g., 'Research Track', 'Industrial Track').\n\n"
+     
      "Rules:\n"
      "- Output ONLY strict JSON with a single key 'flags'.\n"
      "- The 'flags' array MUST be the same length and order as the input list.\n"

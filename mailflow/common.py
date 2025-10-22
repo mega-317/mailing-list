@@ -21,7 +21,7 @@ llm = ChatOpenAI(
 )
 
 # --- Constants / Regex ---
-BATCH_SIZE = 5
+BATCH_SIZE = 3
 SENT_SPLIT = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9])|\n{2,}')
 NULL_STRINGS = {"null", "none", "n/a", "na", "tbd", "unknown", ""}
 
@@ -63,9 +63,20 @@ class CFPLabel(str, Enum):
     conference = "conference"
     workshop = "workshop"
     journal = "journal"
+    proposal = "proposal"
 
 class CFPLabelParser(BaseModel):
     label: CFPLabel
+    
+class JointConfResult(BaseModel):
+    """Joint Conference 분석 결과를 담는 스키마."""
+    is_joint_conf: bool = Field(
+        description="여러 학회가 동등하게 나열되어 메인 학회를 정하기 어려운 경우 true"
+    )
+    conference_list: Optional[List[str]] = Field(
+        default=None,
+        description="is_joint_conf가 true일 경우, 나열된 학회/워크숍의 이름(또는 약어) 리스트"
+    )
 
 class NameCandidate(BaseModel):
     raw: str = Field(..., description="e.g., 'VMCAI 2026' or long form")
@@ -88,6 +99,7 @@ class ConferenceDate(BaseModel):
     
 class DeadlineInfo(BaseModel):
     """A single deadline entry with its context and normalized date."""
+    context_or_track: str = Field(description="The heading or group this deadline belongs to, like 'Round 1', 'Research Track', or 'Workshop'.")
     raw_text: str = Field(description="The original sentence or phrase containing the deadline, extracted verbatim.")
     normalized_date: str = Field(description="The extracted date from the raw_text, normalized to YYYY-MM-DD format.")
     
@@ -128,8 +140,8 @@ class MailState(TypedDict):
     is_cfp_final: bool
     
     has_body: bool
+    is_joint_call: bool
     is_joint_conf: bool
-    is_joint_work: bool
     
     infos: Annotated[List[str], add]
     infos_text: Optional[str]

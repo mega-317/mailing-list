@@ -2,26 +2,10 @@
 from langchain_core.prompts import ChatPromptTemplate
 from .common import ExtractName, ConfChoice, parser_chain
 
-# ext_conf_name_prompt = ChatPromptTemplate.from_messages([
-#     ("system",
-#      "You are an information extraction model.\n"
-#      "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences or symposiums. "
-#      "Your goal is to be comprehensive and extract all plausible candidates for later filtering.\n\n"
-#      "Rules:\n"
-#      "1. Extract both long-form names (e.g., 'International Conference on Software Engineering') and short-form acronyms with years (e.g., 'ICSE 2025').\n"
-#      "2. **CRITICAL PARSING RULE**: When filling the JSON, the 'acronym' field must contain ONLY the alphabetic abbreviation (e.g., 'FROM', 'ICSE'). The 'year' field must contain the corresponding number (e.g., 2025). **NEVER include the year inside the 'acronym' field.**\n"
-#      "3. If a single piece of text contains both an acronym and a full name (e.g., 'FROM 2025 - 9th Working Formal Methods Symposium'), extract the entire text as 'raw', but correctly parse the 'acronym' ('FROM') and 'year' (2025) fields from it.\n"
-#      "4. Do not include keywords like IEEE in the ACRONYM.\n"
-#      "5. Do not include numbers in the ACRONYM.\n"
-#      "6. evidence MUST be copied verbatim from near the mention.\n"
-#      "7. Return STRICT JSON for the schema:\n{schema}"),
-#     ("human", "EMAIL:\n{mail_text}\n\nReturn ONLY JSON.")
-# ]).partial(schema=ExtractName.model_json_schema())
-# ext_conf_name_chain = parser_chain(ext_conf_name_prompt, ExtractName)
 ext_conf_name_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are an information extraction model.\n"
-     "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences or symposiums."
+     "Task: From the EMAIL TEXT, extract ALL potential names and acronyms for conferences."
      "## Extraction Framework\n"
      "For each potential conference you identify, follow these steps to fill the data fields:\n\n"
      
@@ -86,14 +70,17 @@ final_conf_name_chain = parser_chain(final_conf_name_prompt, ConfChoice)
 def ext_conf_name_node(state) -> dict:
     
     infos_text = state["infos_text"]
-    res: ExtractName = ext_conf_name_chain.invoke({"mail_text": infos_text})
+    mail_text = state["mail_text"]
+    
+    res: ExtractName = ext_conf_name_chain.invoke({"mail_text": mail_text})
     cands = [c.model_dump() for c in res.Name_candidates]
     return {"conf_name_candidates": cands}
 
 def ext_work_name_node(state) -> dict:
     
     infos_text = state["infos_text"]
-    res: ExtractName = ext_work_name_chain.invoke({"mail_text": infos_text})
+    mail_text = state["mail_text"]
+    res: ExtractName = ext_work_name_chain.invoke({"mail_text": mail_text})
     cands = [c.model_dump() for c in res.Name_candidates]
     return {"work_name_candidates": cands}
 
@@ -111,6 +98,7 @@ def build_conf_tokens_node(state) -> dict:
 def final_conf_name_node(state) -> dict:
     
     info_text = state.get("infos_text")
+    mail_text = state["mail_text"]
     candidates = state.get("conf_tokens")
-    choice = final_conf_name_chain.invoke({"mail_text": info_text, "candidates": candidates}).choice
+    choice = final_conf_name_chain.invoke({"mail_text": mail_text, "candidates": candidates}).choice
     return {"conf_name_final": choice}

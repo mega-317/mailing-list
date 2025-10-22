@@ -3,15 +3,15 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 26
+version = 37
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 
 fields_to_compare = [
-    # "conference_name",
-    # "start_date",
-    # "submission_deadline",
-    # "conference_website"
+    "conference_name",
+    "start_date",
+    "submission_deadline",
+    "conference_website"
 ]
 
 def parse_date(s):

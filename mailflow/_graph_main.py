@@ -155,11 +155,8 @@ def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
         },
         "infos": {
             "conf_name_candidates": result.get("conf_name_candidates"),
-            "conf_name_tokens": result.get("conf_tokens"),
+            "conf_name_tokens": result.get("conf_name_tokens"),
             "submission_deadline_candidates": result.get("sub_deadline_candidate"),
-        },
-        "length": {
-            "mail_text": result.get("len_mail_text"),
         },
         "extracted_info": {
             "conference_name": result.get("selected_conf_name"),
@@ -167,11 +164,11 @@ def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
             "submission_deadline": result.get("sub_deadline"),   
             "conference_website": result.get("conf_url"),
         },
-        "is_cfp_final": result.get("is_cfp_final"),
-        "conference_name_final": result.get("conf_name_final"),
-        "start_date_final": result.get("start_date_final"),
-        "submission_deadline_final": result.get("sub_deadline_final"),
-        "conference_url_final": result.get("conf_url_final"),
+        "is_cfp": result.get("is_cfp_final"),
+        "conference_name": result.get("conf_name_final"),
+        "start_date": result.get("start_date_final"),
+        "submission_deadline": result.get("sub_deadline_final"),
+        "conference_website": result.get("conf_url_final"),
     }
 
 def process_one_file(txt_path: Path, keep_misspelled_key: bool = True) -> dict:

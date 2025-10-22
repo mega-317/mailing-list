@@ -52,12 +52,19 @@ final_conf_name_prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a strict selector.\n"
      "Task: Given an EMAIL TEXT and a list of candidate event titles, choose the single event that is the **primary subject** of the email's Call for Papers (CfP).\n\n"
+     
      "**Decision Hierarchy (Follow in this order of importance):**\n"
-     "1.  **First Line is King:** The event mentioned prominently in the email's 'Subject:' line is the highest priority. This is the most reliable indicator of the email's main topic.\n"
-     "2.  **Workshops Can Be the Main Subject:** The primary subject can be a conference, symposium, OR a workshop. If the email's main purpose is a CfP for a workshop (e.g., the title is 'Call for Papers for Workshop X'), then that workshop **IS** the correct choice.\n"
-     "3.  **Interpret 'Co-location' as Context:** If Candidate A is described as 'co-located with' or 'part of' Candidate B, this means Candidate A (the workshop/sub-event) is the primary subject, and Candidate B is just providing context about the location/venue. **You must choose Candidate A.** Do NOT choose the contextual (umbrella) venue.\n\n"
+     "1.  **Analyze Context (Host vs. Guest):** This is the most important rule. Scan the `EMAIL TEXT` to understand the relationships.\n"
+     "    - **If Candidate A (e.g., 'A-SPPI 2025') is described as a 'workshop' or as 'co-located with' Candidate B (e.g., 'COINSOFT 2025'), then Candidate B (the host) is the correct choice.**\n"
+     "    - Your goal is to find the **HOST (the umbrella event)**, not the workshop.\n\n"
+
+     "2.  **Subject Line Check:** If the hierarchy isn't clear, check the email's 'Subject:' line. The event mentioned most prominently there is the primary subject. (e.g., if Subject is 'CFP for COINSOFT 2025', choose 'COINSOFT 2025').\n\n"
+
+     "3.  **Default to Conference:** If still unclear, assume the event described with "
+     "'International Conference' is the correct choice over one described as 'Workshop'.\n\n"
+     
      "**Output Rules:**\n"
-     "- The answer MUST be **exactly one** string copied **verbatim** from the `raw` field of one of the candidates.\n"
+     "- The answer MUST be **exactly one** string copied **verbatim** from the `CANDIDATES` list you were given (e.g., \"COINSOFT 2025\").\n"
      "- Output ONLY strict JSON: {{\"choice\": <one-of-candidates>}} with no extra text."
      ),
     ("human",

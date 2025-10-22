@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 38
+version = 40
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 
@@ -57,14 +57,14 @@ for i in range(1, 101):
 
     # --- 이진: is_call_for_paper vs is_call_for_conference_paper ---
     y = label_data.get("is_call_for_paper")
-    yhat = predict_data.get("is_cfp_final")
+    yhat = predict_data.get("is_cfp")
     per_field["is_call_for_paper"]["total"] += 1
     if y == yhat:
         per_field["is_call_for_paper"]["matches"] += 1
     else:
         per_field["is_call_for_paper"]["errors"] += 1
         mismatched_fields.append({
-            "field": "is_call_for_paper vs is_cfp",
+            "field": "is_cfp",
             "label_value": y,
             "predict_value": yhat,
         })

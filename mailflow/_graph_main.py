@@ -12,6 +12,7 @@ from ._6_info import harvest_infos_node, finalize_infos_text_node
 from ._7_names import ext_conf_name_node, ext_work_name_node, build_conf_tokens_node, final_conf_name_node
 from ._8_dates import ext_start_date_node, ext_submission_deadline_node, submission_deadline_candidates_node, final_submission_deadline_node
 from ._9_url import ext_conf_url_node
+from ._11_final_cfp import final_cfp_node
 
 # --- Routers ---
 def cfp_candidate_router(state: MailState) -> str:
@@ -49,6 +50,7 @@ graph.add_node("ext_submission_deadline", ext_submission_deadline_node)
 graph.add_node("submission_deadline_candidates", submission_deadline_candidates_node)
 graph.add_node("final_submission_deadline", final_submission_deadline_node)
 graph.add_node("ext_conf_url", ext_conf_url_node)
+graph.add_node("final_cfp", final_cfp_node)
 
 
 graph.add_edge(START, "check_mail_body")
@@ -57,7 +59,7 @@ graph.add_conditional_edges(
     check_mail_body_router,
     {
         "go_next": "cfp_candidate",
-        "end": END
+        "end": "final_cfp"
     }
 )
 graph.add_conditional_edges(
@@ -65,7 +67,7 @@ graph.add_conditional_edges(
     cfp_candidate_router,
     {
         "go_text": "classify_cfp_target",
-        "end": END
+        "end": "final_cfp"
     }
 )
 graph.add_conditional_edges(
@@ -73,7 +75,7 @@ graph.add_conditional_edges(
     classify_cfp_router,
     {
         "go_next": "is_joint_call",
-        "end": END
+        "end": "final_cfp"
     }
 )
 graph.add_conditional_edges(
@@ -89,7 +91,7 @@ graph.add_conditional_edges(
     is_joint_conf_router,
     {
         "go_next": "ext_conf_name",
-        "end": END
+        "end": "final_cfp"
     }
 )
 graph.add_edge("ext_conf_name", "build_conf_tokens")
@@ -98,54 +100,8 @@ graph.add_edge("final_conf_name", "ext_start_date")
 graph.add_edge("ext_start_date", "submission_deadline_candidates")
 graph.add_edge("submission_deadline_candidates", "final_submission_deadline")
 graph.add_edge("final_submission_deadline", "ext_conf_url")
-graph.add_edge("ext_conf_url", END)
-
-# graph.add_edge(START, "check_mail_body")
-# graph.add_conditional_edges(
-#     "check_mail_body",
-#     check_mail_body_router,
-#     {
-#         "go_next": "extract_text",
-#         "end": END
-#     }
-# )
-# graph.add_edge("extract_text", "summarize")
-# graph.add_edge("summarize", "cfp_candidate")
-# graph.add_conditional_edges(
-#     "cfp_candidate",
-#     cfp_candidate_router,
-#     {
-#         "go_text": "classify_cfp_target",
-#         "end": END
-#     }
-# )
-# graph.add_conditional_edges(
-#     "classify_cfp_target",
-#     classify_cfp_router,
-#     {
-#         "go_next": "is_joint_conf",
-#         "end": END
-#     }
-# )
-# graph.add_conditional_edges(
-#     "is_joint_conf",
-#     is_joint_conf_router,
-#     {
-#         "go_next": "is_joint_work",
-#         "end": END
-#     }
-# )
-# # graph.add_edge("is_joint_work", END)
-# graph.add_edge("is_joint_work", "harvest_infos")
-# graph.add_edge("harvest_infos", "finalize_infos_text")
-# graph.add_edge("finalize_infos_text", "ext_conf_name")
-# graph.add_edge("ext_conf_name", "build_conf_tokens")
-# graph.add_edge("build_conf_tokens", "final_conf_name")
-# graph.add_edge("final_conf_name", "ext_start_date")
-# graph.add_edge("ext_start_date", "submission_deadline_candidates")
-# graph.add_edge("submission_deadline_candidates", "final_submission_deadline")
-# graph.add_edge("final_submission_deadline", "ext_conf_url")
-# graph.add_edge("ext_conf_url", END)
+graph.add_edge("ext_conf_url", "final_cfp")
+graph.add_edge("final_cfp", END)
 
 app = graph.compile()
 
@@ -167,8 +123,8 @@ def build_init_state(mail_text: str) -> dict:
         "infos_text": None,
         "evidence_sentences": None,
         "conf_name_candidates": [],
-        "conf_name_final": None,
-        "conf_tokens": [],
+        "conf_name_tokens": [],
+        "selected_conf_name": None,
         "work_name_candidates": [],
         "work_name_tokens": [],
         "start_date": None,
@@ -178,39 +134,44 @@ def build_init_state(mail_text: str) -> dict:
         "len_mail_text": 0,
         "len_purpose": 0,
         "len_extracted_text": 0,
-        "len_infos_text": 0
+        "len_infos_text": 0,
+        "conf_name_final": None,
+        "start_date_final": None,
+        "sub_deadline_final": None,
+        "conf_website_final": None,
     }
 
 def normalize_output(result: dict, keep_misspelled_key: bool = True) -> dict:
     return {
         "has_body": result.get("has_body"),
-        "purpose": result.get("purpose"),
-        "extracted_text": result.get("extracted_text"),
         "cfp": {
             "cfp_candidate": result.get("cfp_candidate"),
             "classify_cfp_target": result.get("classify_cfp_target"),
             "is_cfp": result.get("is_cfp"),
         },
-        "is_cfp_final": result.get("is_cfp_final"),
         "is_joint_call": {
             "is_joint_call": result.get("is_joint_call"),
             "is_joint_conf": result.get("is_joint_conf"),
         },
         "infos": {
-            "infos": result.get("infos"),
             "conf_name_candidates": result.get("conf_name_candidates"),
             "conf_name_tokens": result.get("conf_tokens"),
             "submission_deadline_candidates": result.get("sub_deadline_candidate"),
         },
         "length": {
             "mail_text": result.get("len_mail_text"),
-            "extracted_text": result.get("len_extracted_text"),
-            "infos": result.get("len_infos_text")
         },
-        "conference_name": result.get("conf_name_final"),
-        "start_date": result.get("start_date"),
-        "submission_deadline": result.get("sub_deadline"),   
-        "conference_website": result.get("conf_website"),
+        "extracted_info": {
+            "conference_name": result.get("selected_conf_name"),
+            "start_date": result.get("start_date"),
+            "submission_deadline": result.get("sub_deadline"),   
+            "conference_website": result.get("conf_url"),
+        },
+        "is_cfp_final": result.get("is_cfp_final"),
+        "conference_name_final": result.get("conf_name_final"),
+        "start_date_final": result.get("start_date_final"),
+        "submission_deadline_final": result.get("sub_deadline_final"),
+        "conference_url_final": result.get("conf_url_final"),
     }
 
 def process_one_file(txt_path: Path, keep_misspelled_key: bool = True) -> dict:

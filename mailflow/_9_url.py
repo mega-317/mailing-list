@@ -27,6 +27,8 @@ def ext_conf_url_node(state) -> dict:
     
     conf_url_str = str(res.conf_url) if res.conf_url else None
     
+    print("학회 URL 추출 완료")
+    
     return {
-        "conf_website": conf_url_str
+        "conf_url": conf_url_str
     }

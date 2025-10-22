@@ -148,15 +148,23 @@ class MailState(TypedDict):
     len_infos_text: int
     
     conf_name_candidates: Annotated[List[Dict[str, Any]], merge_unique_by_raw]
-    conf_name_final: Optional[str]
-    conf_tokens: Annotated[List[str], add]
+    conf_name_tokens: Annotated[List[str], add]
+    selected_conf_name: Optional[str]
+    
     work_name_candidates: Annotated[List[Dict[str, Any]], merge_unique_by_raw]
     work_tokens: Annotated[List[str], add]
     
     start_date: Optional[str]
-    sub_deadline: Optional[str]
+    
     sub_deadline_candidate: Optional[List[str]]
-    conf_website: Optional[str]
+    sub_deadline: Optional[str]
+    
+    conf_url: Optional[str]
+    
+    conf_name_final: Optional[str]
+    start_date_final: Optional[str]
+    sub_deadline_final: Optional[str]
+    conf_url_final: Optional[str]
 
 # --- Chain helpers (각 모듈에서 재사용할 프롬프트 생성기) ---
 def parser_chain(prompt: ChatPromptTemplate, pmodel: type[BaseModel]):

@@ -105,9 +105,8 @@ def ext_start_date_node(state) -> dict:
     if cleaned_date.lower() not in NULL_STRINGS and "not_found" not in cleaned_date.lower():
         # 날짜 형식처럼 보일 경우에만 값을 인정 (간단한 정규식 추가도 가능)
         final_date = cleaned_date
-    
-    print(f"추출된 시작일 RAW 문자열: '{res}'")
-    print(f" -> 최종 저장될 시작일: {final_date}")
+
+    print("학회 시작일 추출 완료")
     
     return {"start_date": final_date}
 
@@ -128,9 +127,6 @@ def ext_submission_deadline_node(state) -> dict:
     final_date = None
     if cleaned_date.lower() not in NULL_STRINGS and "not_found" not in cleaned_date.lower():
         final_date = cleaned_date
-
-    print(f"추출된 제출 마감일 RAW 문자열 ({conf_name}): '{raw_date_str}'")
-    print(f" -> 최종 저장될 제출 마감일: {final_date}")
     
     return {"sub_deadline": final_date}
 
@@ -172,7 +168,6 @@ def final_submission_deadline_node(state) -> dict:
     if cleaned_date and cleaned_date.lower() not in NULL_STRINGS and "not_found" not in cleaned_date.lower():
         final_date = cleaned_date
 
-    print(f"최종 선택된 제출 마감일 RAW 문자열: '{raw_date_str}'")
-    print(f" -> 최종 저장될 제출 마감일: {final_date}")
+    print("제출 마감일 추출 완료")
     
     return {"sub_deadline": final_date}

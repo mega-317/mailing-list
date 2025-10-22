@@ -93,12 +93,15 @@ def build_conf_tokens_node(state) -> dict:
         acr, yr = c.get("acronym"), c.get("year")
         if acr and yr: tokens_work.add(f"{acr} {int(yr)}")
         elif acr:      tokens_work.add(f"{acr}")
-    return {"conf_tokens": sorted(tokens_conf), "work_tokens": sorted(tokens_work)}
+    return {"conf_name_tokens": sorted(tokens_conf), "work_tokens": sorted(tokens_work)}
 
 def final_conf_name_node(state) -> dict:
     
     info_text = state.get("infos_text")
     mail_text = state["mail_text"]
-    candidates = state.get("conf_tokens")
+    candidates = state.get("conf_name_tokens")
     choice = final_conf_name_chain.invoke({"mail_text": mail_text, "candidates": candidates}).choice
-    return {"conf_name_final": choice}
+    
+    print("학회 이름 추출 완료")
+    
+    return {"selected_conf_name": choice}

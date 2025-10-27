@@ -13,6 +13,7 @@ from ._7_names import ext_conf_name_node, ext_work_name_node, build_conf_tokens_
 from ._8_dates import ext_start_date_node, ext_submission_deadline_node, submission_deadline_candidates_node, final_submission_deadline_node
 from ._9_url import ext_conf_url_node
 from ._11_final_cfp import final_cfp_node
+from ._12_participation_validation import participation_validate_node
 
 # --- Routers ---
 def cfp_candidate_router(state: MailState) -> str:
@@ -22,13 +23,21 @@ def check_mail_body_router(state: MailState) -> str:
     return "go_next" if state.get("has_body", True) else "end"
 
 def classify_cfp_router(state: MailState) -> str:
-    return "go_next" if state.get("is_cfp", False) else "end"
+    if state.get("classify_cfp_target", False) == "participation":
+        return "validate"
+    elif state.get("is_cfp", False):
+        return "go_next"
+    else:
+        return "end"
 
 def is_joint_call_router(state: MailState) -> str:
     return "joint_call" if state.get("is_joint_call", False) else "go_next"
 
 def is_joint_conf_router(state: MailState) -> str:
     return "end" if state.get("is_joint_conf", False) else "go_next"
+
+def call_for_participation_router(state: MailState) -> str:
+    return "go_next" if state.get("is_cfp", False) else "end"
 
 # --- Graph build ---
 graph = StateGraph(MailState)
@@ -51,6 +60,7 @@ graph.add_node("submission_deadline_candidates", submission_deadline_candidates_
 graph.add_node("final_submission_deadline", final_submission_deadline_node)
 graph.add_node("ext_conf_url", ext_conf_url_node)
 graph.add_node("final_cfp", final_cfp_node)
+graph.add_node("participation_validation", participation_validate_node)
 
 
 graph.add_edge(START, "check_mail_body")
@@ -73,6 +83,15 @@ graph.add_conditional_edges(
 graph.add_conditional_edges(
     "classify_cfp_target",
     classify_cfp_router,
+    {
+        "validate": "participation_validation",
+        "go_next": "is_joint_call",
+        "end": "final_cfp"
+    }
+)
+graph.add_conditional_edges(
+    "participation_validation",
+    call_for_participation_router,
     {
         "go_next": "is_joint_call",
         "end": "final_cfp"

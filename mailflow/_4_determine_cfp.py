@@ -35,6 +35,7 @@ classify_cfp_target_prompt = ChatPromptTemplate.from_messages([
      "  - workshop: a CFP for a workshop (co-located or standalone)\n"
      "  - journal: a CFP for an academic journal or special issue\n\n"
      "  - proposal: a CFP for workshop proposal (NOT for paper submission)\n"
+     "  - participation: call for participation in an event\n"
      
      "Assume every email you receive here is indeed a CFP.\n"
      "Output ONLY a strict JSON object with a single key 'label' whose value is one of the classes.\n"

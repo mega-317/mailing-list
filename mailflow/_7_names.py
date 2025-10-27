@@ -53,20 +53,24 @@ final_conf_name_prompt = ChatPromptTemplate.from_messages([
      "You are a strict selector.\n"
      "Task: Given an EMAIL TEXT and a list of candidate event titles, choose the single event that is the **primary subject** of the email's Call for Papers (CfP).\n\n"
      
-     "**Decision Hierarchy (Follow in this order of importance):**\n"
-     "1.  **Analyze Context (Host vs. Guest):** This is the most important rule. Scan the `EMAIL TEXT` to understand the relationships.\n"
-     "    - **If Candidate A (e.g., 'A-SPPI 2025') is described as a 'workshop' or as 'co-located with' Candidate B (e.g., 'COINSOFT 2025'), then Candidate B (the host) is the correct choice.**\n"
-     "    - Your goal is to find the **HOST (the umbrella event)**, not the workshop.\n\n"
+     "**Decision Hierarchy (Follow in this exact order of importance):**\n\n"
+     
+     "1.  **Subject Line is King (Highest Priority):**\n"
+     "    - First, examine the email's 'Subject:' line very carefully.\n"
+     "    - If the Subject line clearly and prominently mentions one of the `CANDIDATES` (e.g., 'CFP for MLOps25' or 'Subject: ESOP 2026 Call for Papers'), that candidate **IS** the primary subject. Select it immediately and STOP.\n"
+     "    - It does not matter if this event is a conference or a workshop; the subject line takes precedence.\n\n"
 
-     "2.  **Subject Line Check:** If the hierarchy isn't clear, check the email's 'Subject:' line. The event mentioned most prominently there is the primary subject. (e.g., if Subject is 'CFP for COINSOFT 2025', choose 'COINSOFT 2025').\n\n"
+     "2.  **Analyze Context (Host vs. Guest):**\n"
+     "    - **If, and only if,** the Subject line does not provide a clear answer, then analyze the relationships mentioned in the `EMAIL TEXT`.\n"
+     "    - If Candidate A (e.g., 'A-SPPI 2025') is described as 'co-located with' Candidate B (e.g., 'PROFES 2025'), then Candidate B (the host) is the correct choice.\n\n"
 
-     "3.  **Default to Conference:** If still unclear, assume the event described with "
-     "'International Conference' is the correct choice over one described as 'Workshop'.\n\n"
+     "3.  **Default to Conference:**\n"
+     "    - If still unclear after applying Rule 1 and Rule 2, assume the event described with 'International Conference' is the correct choice over one described as 'Workshop'.\n\n"
      
      "**Output Rules:**\n"
-     "- The answer MUST be **exactly one** string copied **verbatim** from the `CANDIDATES` list you were given (e.g., \"COINSOFT 2025\").\n"
+     "- The answer MUST be **exactly one** string copied **verbatim** from the `CANDIDATES` list you were given (e.g., \"PROFES 2025\").\n"
      "- Output ONLY strict JSON: {{\"choice\": <one-of-candidates>}} with no extra text."
-     ),
+    ),
     ("human",
      "EMAIL TEXT:\n{mail_text}\n\n"
      "CANDIDATES:\n{candidates}\n"

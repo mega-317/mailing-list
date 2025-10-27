@@ -64,6 +64,7 @@ class CFPLabel(str, Enum):
     workshop = "workshop"
     journal = "journal"
     proposal = "proposal"
+    participation = "participation"
 
 class CFPLabelParser(BaseModel):
     label: CFPLabel

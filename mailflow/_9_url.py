@@ -10,8 +10,7 @@ ext_conf_url_prompt = ChatPromptTemplate.from_messages([
      "**Rules of Extraction:**\n"
      "1. Your goal is to find the main website for the event (e.g., `conference-name2025.org`, `event.github.io`).\n"
      "2. Just Copy the URL. Do not change at all.\n"
-     "3. The output MUST be the full, complete URL. It **MUST start with 'https://' or 'http://'**.\n"
-     "4. If no suitable homepage URL is found, return null for value.\n\n"
+     "3. If no suitable homepage URL is found, return null for value.\n\n"
      "## CRITICAL OUTPUT FORMAT ##\n"
      "Your output MUST BE A VALID JSON OBJECT that strictly adheres to the following structure.\n"
      "The JSON object must have one key: `conf_url`.\n\n"),

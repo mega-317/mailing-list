@@ -1,0 +1,60 @@
+
+
+
+ 
+
+Subject:     Call for Papers - The 33rd IEEE International Conference on Enabling Technologies (WETICE 2025)
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 04:03:40 -0000
+Content-Type:text/plain
+
+
+
+
+
+33rd IEEE INTERNATIONAL CONFERENCE ON ENABLING TECHNOLOGIES: INFRASTRUCTURE FOR COLLABORATIVE ENTERPRISES (WETICE 2025)
+
+This year, for the first time ever, WETICE will be held from July 23–25, 2025 in the lovely city of Catania (Italy), beautifully sited in the blessed land of Sicily, between the Mediterranean sea and Europe's largest active volcano, mount Etna. Particularly, the conference activities will take place within a historical UNESCO World heritage site, which is a Benedictine Monastery monumental building from the XVIth century, nowadays regularly hosting classes and departments of the University of Catania.
+
+Visit the WETICE 2025 Conference Website at: https://www.dmi.unict.it/wetice2025
+
+We will feature two amazing keynotes and many paper sessions covering hot topics in several areas of computer science, data science, software technologies, and many others. Please read the full Call for Papers below for more details. We also organised fun social activities, and on last day, we’ll wrap up with an awesome excursion, to let you enjoy an unforgettable event!
+
+The conference is technically sponsored by IEEE.org, IEEE Computer Society Italy Chapter and IEEE Systems, and Man and Cybernetics Society Italy Chapter, and the proceedings will be submitted for inclusion in IEEE Xplore, Scopus, DBLP, and Google Scholar. All the registration info is available at the conference website:
+https://www.dmi.unict.it/wetice2025
+
+Submission deadline has been extended to May 31st!
+
+Call for papers:
+We are thrilled to invite you to participate in the 33rd edition of WETICE, a leading international forum dedicated to advancing research, fostering collaboration, and sharing innovations in the rapidly evolving landscape of collaborative intelligence and decentralised software systems, bridging AI, Data Science, and Cyber-physical Technologies: software systems that are smart, autonomous, interconnected, and scalable. This conference is a unique opportunity for researchers, practitioners, and industry experts to connect, exchange ideas, and contribute to the future of intelligent, decentralised, and collaborative software systems, pushing the boundaries of AI, Blockchain, IoT, and collaboration tools. WETICE focuses on collaborative methodologies and how they empower various technologies (AI, Blockchain, IoT, etc.) to create new solutions across diverse application domains. WETICE also aims at promoting fruitful discussions on the latest software technology developments, directions, problems, and requirements. The conference includes presentations, keynote sessions, and group discussions.
+
+Submissions:
+All papers will undergo anonymous revision by at least two members of the Program Committee. Proceedings will be submitted for inclusion in IEEE Xplore, Scopus, DBLP, and Google Scholar. The submissions must be original content not published or submitted for publication elsewhere. Papers must be written in English and formatted according to the guidelines at the following link:
+ https://www.ieee.org/conferences/publishing/templates.html
+Submission is now open and available at the following link:
+ https://cmt3.research.microsoft.com/WETICE2025.
+The maximum length of the paper is 6 pages, including figures and references. Authors are required to include their names and affiliations in their papers.
+
+Important Dates:
+Submission deadline has been extended to May 31st!
+Early registration ends July 11th.
+
+We’d love to see you there
+
+WETICE 2025 Team
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

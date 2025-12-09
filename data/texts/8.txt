@@ -1,0 +1,141 @@
+
+
+
+ 
+
+Subject:     Research Fellow in Edge Software Vulnerability Detection at Queen's University Belfast, UK
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 10 Jul 2025 16:15:56 -0000
+Content-Type:text/plain
+
+
+
+
+
+The application entry is:
+https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA
+
+
+You may also go to the University's Research Jobs page to find out this
+post: https://www.qub.ac.uk/sites/QUBJobVacancies/ResearchJobs/
+Research Fellow-Edge Software Vulnerability Detection
+<https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA>
+Ref: 25/112645
+School of Electronics, Electrical Engineering and Computer Science
+
+Closing date: 21-07-2025
+
+
+The detailed information is copied as follows.
+
+-----------------------------------------------------------------------
+
+The Post holder will be a highly productive, ambitious and collaborative
+member of the National Edge AI Hub (https://edgeaihub.co.uk/) research
+project at Queen's University Belfast, and the main
+activities/responsibilities include:
+
+
+
+   - Undertaking research, to support the planning and delivery of the
+   research activity, which will include:
+      - Understanding Vulnerabilities: Investigate, characterise, and
+      develop ontologies of software vulnerabilities in the edge computing
+      environment.
+      - Vulnerability Detection: Monitor and/or analyse source code (and
+      data), software behaviours, and software environment (e.g., hardware
+      failure, sensor degradation, etc.) to identify potential vulnerabilities
+      and assess their impacts.
+      - Remediation and Prevention: Predict or identify vulnerabilities
+      early, to fix them quickly and effectively, preventing potential
+      exploitation. Improve organisationsâ€™ overall security posture by
+      identifying and mitigating potential weaknesses.
+      - Anomaly Detection and Malware Detection: Investigate the software
+      quality certification/robustness to cyber disturbances, cyber-attacks, on
+      federated/distributed EC environment.
+      - Identify quality issues with AI models implementation on edge and
+      on offering mitigation strategies to resolve the challenges.
+
+
+
+*About the person:*
+
+
+
+The candidate for this role is expected to:
+
+   - Have or be about to obtain a PhD degree in Artificial Intelligence, or
+   Software Engineering, or Computer Science Recent relevant research
+   experience to include:
+      - Undertaking research in the area Artificial Intelligence, Software
+      Engineering, Edge Computing, and/or Cybersecurity.
+      - Hands-on experience with machine learning frameworks, such as
+      PyTorch, Keras, or TensorFlow or others.
+      - Solid understanding of edge intelligence and software
+      vulnerabilities.
+      - Working effectively as part of a research team in the development
+      and promotion of the research theme.
+      - Strong publication record commensurate with stage of career.
+
+
+
+To be successful at shortlisting stage, please ensure you clearly evidence
+in your application how you meet the essential and, where applicable,
+desirable criteria listed in the Candidate Information.
+
+
+
+This post is available for 2 years. Fixed term contract posts are available
+for the stated period in the first instance but in particular circumstances
+may be renewed or made permanent subject to availability of funding.
+
+
+
+*What we offer:*
+
+
+
+Beyond a competitive salary, the University offers an attractive benefits
+package including a holiday entitlement of up to 8.4 weeks a year, pension
+schemes and development opportunities. We support staff wellbeing with
+flexible working options, work-life balance initiatives and support for
+physical and mental health. You can find more detail on all of this and
+more at
+https://www.qub.ac.uk/directorates/HumanResources/pay-reward-and-benefits/
+
+
+
+Queen's University is committed to promoting equality of opportunity to
+all. We subscribe to Equality Charter Marks such as the Diversity Charter
+Mark NI and Athena Swan and have established staff networks such as iRise
+(Black, Asian, Minority Ethnic and International Staff Network) and PRISM
+(LGBTQ+) which help us progress equality.
+
+
+
+For further information on our commitment to Equality, Diversity and
+Inclusion, please visit www.qub.ac.uk/diversity.
+
+
+
+If you are an international applicant and don't already hold a visa that
+permits you to take up the role you are applying for, please use the
+information provided on our website to self-assess whether the University
+is likely to be able to support a visa application -
+http://go.qub.ac.uk/internationalstaffsupport
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

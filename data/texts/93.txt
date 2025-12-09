@@ -1,0 +1,180 @@
+
+
+
+ 
+
+Subject:     [CFP] IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024) 24–26 July 2024, Melbourne, Australia
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 04:14:43 -0000
+Content-Type:text/plain
+
+
+
+
+
+*************************************************************************************
+IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)
+24–26 July 2024, Melbourne, Australia
+https://www.ieee-aiot.org
+*************************************************************************************
+
+Submission Link: https://easychair.org/my/conference?conf=aiot2024
+
+Important Dates:
+Paper Submission: 8 May 2024 (FIRM)
+Notification of Acceptance: 10 June 2024
+Final Manuscript (Camera Ready): 3 July 2024
+
+Best Paper Award and Journal Special Issues
+Three accepted papers will be selected for best paper awards. Selected
+papers will be recommended to IEEE Internet of Things Journal (IF: 10.238)
+and Digital Communications and Networks (IF: 7.9) for potential fast-track
+publications.
+
+
+IEEE AIoT 2024 aims at bringing together interested parties (universities,
+research centers, industries and stakeholders) from around the world
+working in the fields of AI and Internet of Things to exchange opinions,
+discuss brand-new ideas, developing innovative and emerging solutions, and
+establishing new collaborations.
+
+Artificial Intelligence (AI) and the Internet of Things (IoT) are two of
+the most rapidly evolving and interdependent fields of technology. The
+convergence of these two fields is leading to the creation of an emerging
+interdisciplinary field, dubbed the Artificial Intelligence of Things
+(AIoT). The AIoT represents the integration of AI technologies into IoT
+systems and devices, enabling them to interact with their environment in
+more sophisticated and intelligent ways. By combining IoT with AI, the data
+collected by distributed nodes can be utilized by applying AI techniques
+such as machine learning and deep learning. As a result, machine learning
+capabilities are moved closer to the data source.
+
+The IEEE AIoT Conference aims to explore the integration of artificial
+intelligence (AI) technologies into the Internet of Things (IoT) systems
+and devices, enabling them to interact with their environment in more
+sophisticated and intelligent ways. The conference will focus on the
+following areas:
+l  AIoT Architectures, Frameworks, and Algorithms: Developing novel AIoT
+architectures, frameworks, and algorithms for deploying state-of-the-art
+machine learning and deep learning algorithms on IoT and edge devices,
+realising the so-called Edge AI or Edge Intelligence;
+l  AIoT Applications: Identifying and exploring new AIoT applications,
+including healthcare, smart homes, industrial automation, transportation,
+and digital agriculture;
+l  Standards and Interoperability: Developing standards and protocols for
+AIoT systems and ensuring interoperability between different platforms and
+devices; and
+l  Ethics and Security: Addressing ethical and security concerns related to
+AIoT, such as privacy, transparency, and accountability.
+
+Authors are cordially invited to submit their original papers within the
+eHealth area. The topics include but are not limited to:
+1.     1. Edge AI and Distributed Intelligence
+2.     Machine Learning for IoT Applications
+3.     Mobile deployment of LLMs
+4.     Generative AI and LLMs for IoT applications
+5.     AI-empowered Robotics and Sensing for IoT
+6.     Smart Cities: AI and IoT Solutions
+7.     Security and Privacy in AI-driven IoT Systems
+8.     5G and its Impact on AI and IoT
+9.     Blockchain Technology for Securing IoT Devices
+10.  Human-Machine Interaction in IoT Environments
+11.  IoT Sensors and Actuators: Innovations and Advances
+12.  AI-driven Data Analytics and Decision-making
+13.  Energy-Efficient AI Algorithms for IoT Devices
+14.  IoT in Healthcare: Applications and Challenges
+15.  Industrial IoT (IIoT) and AI for Manufacturing
+16.  Smart Agriculture: AI and IoT in Precision Farming
+17.  Ethical Considerations in AI-powered IoT Systems
+18.  IoT Standards and Interoperability
+19.  Robotic Process Automation (RPA) in IoT
+20.  AI-driven Automation in Supply Chain Management
+21.  IoT Analytics and Big Data Processing
+22.  AI in Edge Devices: Challenges and Solutions
+23.  Wireless Sensor Networks in AI and IoT
+24.  IoT for Environmental Monitoring and Sustainability
+25.  AI and IoT in Transportation and Logistics
+26.  Cross-domain Integration of AI and IoT Technologies
+27.  Privacy, Security, and Trustworthiness
+28.  Standardization and Interoperability
+29.  Demonstrations, Proof-of-Concepts, and Deployments
+
+Paper Format and Submission
+Perspective authors are invited to submit their papers using EDAS. A full
+paper should not have more than six (6) IEEE style pages including results,
+figures and references. One (1) extra page is allowed with an extra charge
+of $100. Papers will be reviewed with the standard reviewing procedure
+(with at least 3 independent anonymous reviews). All of the accepted papers
+will be published on IEEE Xplore®. Articles selected for publication in
+journals must meet the conditions against self-plagiarism.
+
+The submitted manuscripts shall be prepared in LaTeX or Word using the
+official IEEE templates. Final submission of the manuscript will be in PDF
+format, and make sure that the file will print on a printer that uses
+letter size (8.5 x 11) paper. The official language of the meeting is
+English.
+
+Organization Committee
+
+General Chairs:
+Wei Xiang, La Trobe University, Australia
+Carla Fabiana Chiasserini, Politecnico di Torino, Italy
+
+TPC Chairs:
+Dusit Niyato, Nanyang Technological University, Singapore
+Ruidong Li, Kanazawa University, Japan
+Prasad Kodaypak, The XMG, USA
+
+Keynote Chair:
+Song Guo, Hong Kong University of Science and Technology, China
+
+Industry Forum Chair:
+Henry Leung, University of Calgary
+
+Tutorial Chair:
+Flora Salim, University of New South Wales, Australia
+JaeSeung Song, Sejong University, South Korea
+
+Workshop Chairs:
+Teng Joon Lim, University of Sydney, Australia
+Jia Hu, University of Exter, U. K.
+
+Poster Chairs:
+Pietro Manzoni, Universidad Politécnica de Valencia, Spain
+Xiang Sun, University of Mexico, USA
+
+Publicity Chairs:
+Zhengxin Yu, Lancaster University, U. K.
+
+Publication Chairs:
+Constandinos X. Mavromoustakis, University of Nicosia, Cyprus
+Peng Cheng, La Trobe University, Australia
+
+Registration Chair:
+Wei Wang, San Diego State University
+
+Web Chair:
+Haihan Nan, Kanazawa University, Japan
+
+Financial Chair:
+Kang Han, La Trobe University, Australia
+
+Local Chair:
+Kan Yu, La Trobe University, Australia
+Phu Lai, La Trobe University, Australia
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

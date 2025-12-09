@@ -1,0 +1,123 @@
+
+
+
+ 
+
+Subject:     Call for Letter of Interest (LoI) to organize the European conference on Software Architecture (ECSA)
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 5 Jun 2025 13:58:03 -0000
+Content-Type:text/plain
+
+
+
+
+
+ECSA is the premier European conference on Software Architecture. It 
+targets advances and breakthroughs beyond the state-of-the-art in 
+Software Architecture and covers all aspects of research in the domain 
+of Software Architecture, ranging from theory to technology and their 
+applications.
+
+
+ECSA is a top ranked conference for researchers with an ‘A’ CORE 
+conference rank since its entry in 2010, and more recently according to 
+CORE2023 - see 
+http://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=CORE2023 
+<http://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=CORE2023>.
+
+
+The ECSA Steering Committee now invites the submission of Letters of 
+Interest to organize ECSA in September 2027 and onwards. More 
+information about the conference organization can be found below and at 
+the ECSA Charter and the ECSA rulebook at 
+https://ecsa-conferences.org/series/sc-documents/ 
+<https://ecsa-conferences.org/series/sc-documents/>.
+
+
+The Letters of Interest are meant to inform the ECSA Steering Committee 
+of the potential intent of teams to organize ECSA in prospective venues. 
+Please note that the submission of the letter is just the first step in 
+a more extensive evaluation procedure as indicated in the ECSA Charter.
+
+
+The Letter of Interest to organize ECSA 2027 (and onwards) must include:
+
+  *
+
+    the proposed General Chair (name and short CV, including experience
+    on organizing international conferences),
+
+  *
+
+    the location (general presentation of the potential venue and the city),
+
+  *
+
+    a preliminary list of organizations supporting the proposal,
+    including academia, research institutions, industry and other
+    relevant organizations.
+
+The proposal may also include an initial list of names for potential 
+Program Chair(s) and other Organizing Committee members, but these are 
+not binding as they are approved by the Steering Committee in a separate 
+procedure.
+
+
+Submission of the Letter of Interest:
+
+  *
+
+    Deadline: 30th June 2025 (23:59 Anywhere on Earth)
+
+  *
+
+    Procedure: Send your application by email to the SC chair, Paris
+    Avgeriou ([log in to unmask])
+
+
+Further information
+
+ECSA is held yearly in Europe around September, currently in its 
+19thedition: ECSA 2007 (Aranjuez, Spain), ECSA 2008 (Paphos, Cyprus), 
+ECSA 2009/WICSA 2009 (Cambridge, United Kingdom), ECSA 2010 (Copenhagen, 
+Denmark), ECSA 2011 (Essen, Germany), ECSA 2012/WICSA 2012 (Helsinki, 
+Finland), ECSA 2013 (Montpellier, France), ECSA 2014 (Vienna, Austria), 
+ECSA 2015 (Cavtat, Croatia), ECSA 2016 (Copenhagen, Denmark), ECSA 2017 
+(Canterbury, United Kingdom), ECSA 2018 (Madrid, Spain), ECSA 2019 
+(Paris, France), ECSA 2020 (L'Aquila, Italy, virtual), ECSA 2021 (Växjö, 
+Sweden, virtual), ECSA 2022 (Prague, Czech Republic), ECSA 2023 
+(Istanbul, Turkey), ECSA 2024 (Luxembourg), ECSA 2025 (Limassol, 
+Cyprus). Furthermore, ECSA 2026 is planned to take place in Bolzano, Italy.
+
+
+Since its first edition in 2007, the proceedings have been published by 
+Springer as volumes of the LNCS series. Information on the current 
+edition, ECSA 2025, is available at 
+https://conf.researchr.org/home/ecsa-2025 
+<https://conf.researchr.org/home/ecsa-2025>.
+
+
+ECSA is self-funded. Each year the organization of ECSA is funded from 
+the payment of registration fees and additional sponsors or actions.
+
+
+The ECSA Steering Committee fosters and selects proposals for organizing 
+ECSA. Its composition is available at 
+https://ecsa-conferences.org/series/steering-committee/ 
+<https://ecsa-conferences.org/series/steering-committee/>.
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

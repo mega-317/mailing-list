@@ -1,0 +1,92 @@
+
+
+
+ 
+
+Subject:     [CfP] Special Issue on Innovative Frontiers in Automated Software Engineering
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Fri, 23 May 2025 14:20:55 -0000
+Content-Type:text/plain
+
+
+
+
+
+Special Issue on Innovative Frontiers in Automated Software Engineering: Call for Papers 
+
+https://link.springer.com/collections/idcadeffac
+
+Submission deadline: July 21, 2025.
+
+
+
+## Overview
+
+Automation has long been at the heart of software engineering, revolutionizing how we design, develop, and maintain complex systems. As artificial intelligence and advanced computational techniques continue to evolve, we find ourselves at a pivotal moment, one that demands bold new ideas, visionary thinking, and a reexamination of the fundamental principles shaping automated software engineering.
+This special issue seeks to go beyond incremental advances, welcoming transformative research that challenges conventional assumptions, explores radical new perspectives, and envisions the future of automation in software engineering. We invite contributions that redefine the role of automation, whether through groundbreaking innovations, thought-provoking reflections on past research, or bold visions that anticipate unforeseen opportunities and challenges.
+
+
+## Aims and scope
+
+This special issue aims to collect contributions for innovative ideas, visionary perspectives, and critical reflections that can potentially reshape automated software engineering significantly. We seek contributions beyond incremental advances to propose fundamentally new directions or offer insightful analyses of past and current research trajectories.
+
+We invite three types of papers:
+
+1) Innovative, groundbreaking new ideas supported by promising initial results – This includes exciting new directions in early research stages with initial evidence, or startling new results that challenge established findings and call for fundamentally new research directions.
+
+2) Visions of the future – Bold, forward-looking ideas that may not yet have solid results but are backed by strong scientific intuition. Examples include unusual synergies with other disciplines, unexplored software engineering aspects in known problems, or summaries of highly innovative, recently funded research ideas.
+
+3) Reflections on the past – Critical reassessments of current research directions that may be misguided, as well as thoughtful analyses of key ideas in software engineering’s history—where they have led us, and which past ideas have proven right or wrong.
+
+
+
+Topics of interest include, but are not limited to:
+
+• Radical approaches to automating software engineering tasks supported by preliminary evidence
+
+• Novel applications of automation in software engineering contexts are traditionally considered unsuitable
+
+• Bold predictions about transformative directions in automated software engineering
+
+• The untapped potential of automation in emergent software domains and paradigms
+
+• Novel theoretical frameworks for rethinking fundamental aspects of automated software development
+
+• Reassessments of foundational assumptions in automated software engineering
+
+• Examination of ethical implications and unintended consequences in the evolution of automated software engineering
+
+• Reimagining correctness and verification in an era of AI-generated software
+
+• Novel approaches to handling uncertainty and ambiguity in automated software engineering
+
+• Transformative applications of large language models beyond current paradigms
+
+• Radical new perspectives on software composition and integration
+
+• Innovative socio-technical approaches that reconsider the relationship between automation and human developers
+
+• Disruptive ideas for automated testing, verification, and validation that break from established paradigms
+
+
+## Submission Guidelines: 
+Please refer to https://link.springer.com/journal/10515/submission-guidelines for the Submission Guidelines.
+
+
+Guest editors:
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

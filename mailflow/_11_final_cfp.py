@@ -5,7 +5,7 @@ def final_cfp_node(state) -> dict:
     sub_deadline = state.get("sub_deadline")
     conf_url = state.get("conf_url")
     
-    final_cfp = bool(conf_name and sub_deadline and conf_url)
+    final_cfp = bool(conf_name and sub_deadline)
     
     conf_name_final = conf_name if final_cfp else None
     start_date_final = start_date if final_cfp else None

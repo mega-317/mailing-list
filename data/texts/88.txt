@@ -1,0 +1,139 @@
+
+
+
+ 
+
+Subject:     Call for Papers: Responsible AI Special Issue Journal - Information Processing & Management
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 04:24:03 -0000
+Content-Type:text/plain
+
+
+
+
+
+Call for Papers
+
+Responsible Artificial Intelligence: Methodologies, Implications, and
+Practices
+Submission deadline: 30 October 2025
+
+Guest editors:
+
+   - Ebrahim Bagheri, University of Toronto, Professor (managing guest
+   editor), [log in to unmask]
+   - Robin Cohen, University of Waterloo, Professor, [log in to unmask]
+   - Faezeh Ensan, Toronto Metropolitan University, Assistant Professor,
+   [log in to unmask]
+   - Benjamin C. M. Fung, McGill University, Professor, [log in to unmask]
+   - Sébastien Gambs, Université du Québec à Montréal, Professor,
+   [log in to unmask]
+   - Reihaneh Rabbany, McGill University, Assistant Professor,
+   [log in to unmask]
+
+Special issue information:
+
+This special issue seeks to bring together cutting-edge research,
+methodologies, and critical reflections on Responsible Artificial
+Intelligence (RAI). The issue aims to deepen our understanding of the
+ethical, legal, technical, and societal dimensions of AI systems. As AI
+technologies permeate decision-making across industry, government, and
+society, the demand for systems that are fair, accountable, transparent,
+and trustworthy has never been more urgent.
+
+This special issue will provide a dedicated venue for interdisciplinary
+contributions addressing key challenges and opportunities in designing,
+deploying, and governing responsible AI systems.
+
+*Possible topics of submission:*
+
+Submissions are welcome on (but not limited to) the following topics:
+
+   - Fairness and Bias Mitigation in AI: Techniques for detecting,
+   measuring, and mitigating bias in data and algorithms.
+   - Adversarial AI and Red Teaming: Robustness testing, threat modeling,
+   and defense mechanisms;
+   - Interpretability and Explainability: Models and tools for transparent
+   decision-making.
+   - Trust, Reliability, and Safety: Trust calibration, assurance testing,
+   and risk management in AI.
+   - Accountability in Algorithmic Decision-Making: Legal and technical
+   frameworks for recourse and oversight.
+   - Auditing and Monitoring AI Systems: Processes for real-time evaluation
+   of deployed models.
+   - Human-Centered AI Design: Participatory design, co-creation, and
+   value-sensitive approaches.
+   - Sociotechnical and Cultural Dimensions of AI: Historical, social, and
+   cross-cultural studies of AI adoption.
+   - Environmental Impact of AI: Studies on AI’s carbon footprint and
+   sustainable development.
+   - Regulatory, Legal, and Policy Considerations: Comparative analyses of
+   AI governance and compliance.
+   - Responsible AI Education and Training: Curricula design and strategies
+   for teaching AI ethics and safety.
+   - Social Impact and Labor Implications: Research on justice, equity, and
+   human well-being in AI applications.
+
+Manuscript submission information:
+
+Important dates:
+
+Call for Papers Open: May 2025
+
+Submission Deadline: October 30, 2025
+
+Types of Submissions:
+
+We invite original, high-quality submissions that contribute substantively
+to the field of Responsible AI. These may include research articles that
+present empirical findings, theoretical contributions, or methodological
+innovations. We also welcome review articles that offer comprehensive and
+systematic surveys of specific sub-areas within responsible AI,
+synthesizing existing knowledge and identifying emerging trends,
+challenges, and opportunities for future research.
+
+Submission Guidelines:
+
+All submissions will undergo a single-blind peer-review process coordinated
+by the guest editors in coordination with the IP&M EiC.
+
+Authors must disclose any overlapping publications and provide clear
+documentation of changes in revised submissions.
+
+Submit your manuscript to the Special Issue category (VSI: ResponsibleAI)
+through the online submission system
+<https://www.editorialmanager.com/ipm/default.aspx> of *Information
+Processing & Management*. All the submissions should follow the general author
+guidelines
+<https://www.sciencedirect.com/journal/information-processing-and-management/publish/guide-for-authors>
+ of *Information Processing & Management*.
+
+Keywords:
+
+Responsible AI, AI Ethics, Algorithmic Accountability, AI Auditing, Social
+Implications of AI
+
+Best regards,
+
+*Calvin Hillis*
+Program Coordinator *- Responsible Development of Artificial Intelligence
+<https://www.torontomu.ca/responsible-ai/>*
+PhD Student - *Media & Design Innovation, Toronto Metropolitan University
+<https://www.torontomu.ca/phd-media-design-innovation/>*
+LinkedIn <https://www.linkedin.com/in/calvin-hillis-3a608ba4>
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

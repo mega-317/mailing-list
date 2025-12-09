@@ -1,0 +1,172 @@
+
+
+
+ 
+
+Subject:     PostDoc in Model-Driven Engineering @ JKU
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Tue, 27 May 2025 13:51:47 -0000
+Content-Type:text/plain
+
+
+
+
+
+Open Positions for
+
+POST-DOCTORAL RESEARCHER in MODEL-DRIVEN ENGINEERING
+
+at the Johannes Kepler University Linz, Austria.
+
+starting any time (ideally in 2025).
+
+
+
+Vision
+
+We are seeking a postdoctoral researcher to explore model-driven,
+structured engineering. Our work emphasis on tracking model changes rather
+than model states (e.g., files or snapshots). This improves our
+understanding of engineering history and enables advanced services such as
+collaborative modeling, live constraint checking, and conflict detection.
+This research lies at the intersection of modeling, version control, and
+scalable software infrastructure, with strong applications in software and
+systems engineering. More details about our work can be found here:
+
+https://www.jku.at/en/institute-of-software-systems-engineering/research/tools/designspace/
+
+The successful candidate will gain comprehensive experiences in all key
+areas of postdoctoral training, including:
+
+- Supervision and mentoring of doctoral and other students
+
+- Leading and supporting publications in high-impact venues
+
+- Designing and conducting experimental and empirical studies
+
+- Contributing to grant writing and research proposal development
+
+- Overseeing and guiding software development efforts
+
+- Connecting the dots between various student works to push the bigger
+picture
+
+- Teaching responsibilities (equivalent to 4 semester hours per week)
+
+
+
+Candidate Profile
+
+We are looking for a post-doctoral researcher who has the desire to make a
+strong impact on software engineering and model-driven engineering. The
+candidate should already have published in conferences or journals. The
+primary evaluation criterion is excellence:
+
+The successful candidate must:
+
+- hold a Doctorate/Ph.D. degree in Informatics or a related academic area
+
+- have a strong command of English
+
+- have excellent programming skills
+
+German language skills are not required.
+
+
+
+Duration and Salary
+
+The selected candidate will be appointed to a full-time position with an
+initial term of 3-4 years. An annual performance evaluation will be
+conducted each year. Subject to mutual agreement, the position may be
+extended beyond the initial term. The gross annual salary is €69,000.
+Austria offers a relatively affordable cost of living, and low-cost housing
+options for university employees may be available, depending on
+availability.
+
+
+
+Topics of Interest
+
+The postdoc position is only partially funded by a specific agency,
+allowing for considerable flexibility in the choice of research topics. Our
+group has a strong reputation in areas such as traceability, consistency
+and repair, change propagation, collaborative engineering, co-evolution,
+and variability. Additionally, there is significant local industry interest
+in addressing the broader challenges of developing software-intensive
+systems, particularly in the context of hardware/software co-modeling.
+
+
+
+University Profile
+
+The research will be conducted in Linz, Austria—a vibrant city located just
+north of the Alps. Linz offers a high quality of life and is known for
+being safe, clean, and healthy. Nearby Vienna has repeatedly been ranked
+the world’s most livable city, thanks in large part to the region’s
+welcoming atmosphere and well-balanced environment.
+
+
+
+Group Profile
+
+Our research group at the Johannes Kepler University, Linz, Austria
+consists of a dynamic, multi-national staff of researchers.
+
+https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/
+
+The working language of the institute is English. Our team includes
+internationally recognized scholars in software engineering, with accolades
+such as recognition in Communications of the ACM (2007) and Springer
+Scientometrics (May 2014), best paper awards, and Recognition of Service
+awards. We consistently publish in leading conferences (ICSE, MODELS, ICSME
+or ASE) and journals, including IEEE TSE, JSS, IST, or SoSyM. Notably, many
+of our former postdoctoral researchers have gone on to secure prestigious
+professorships worldwide.
+
+
+
+How to Apply
+
+Applications, including a detailed curriculum vitae (in English), should be
+sent to Prof. Alexander Egyed ([log in to unmask]). Please include a
+one page description of your research interests and how it connects to our
+work.
+
+
+
+We are looking forward to hearing from you!
+
+ For administrative inquiries please contact [log in to unmask]
+
+For scientific inquiries please contact [log in to unmask]
+
+-- 
+*Univ.-Prof. Dr. DI Alexander Egyed, MSc.*
+Head of Institute for Software Systems Engineering
+
+*JOHANNES KEPLER*
+*UNIVERSITY LINZ*
+Altenberger Straße 69
+SP3, 246
+4040 Linz, Austria
+P +43 732 2468 4382
+M +43 664 60 2468 440
+[log in to unmask]
+www.jku.at
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

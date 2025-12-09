@@ -1,0 +1,185 @@
+
+
+
+ 
+
+Subject:     AICCSA'25 CFP-Doha-Qatar
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 15 May 2025 21:19:44 -0000
+Content-Type:text/plain
+
+
+
+
+
+Dear colleagues,
+
+
+Please find below the ACS/IEEE AICCSA 2025 Call for Papers. Feel free to
+distribute it to various mailing lists and social media groups. We highly
+encourage you to motivate your colleagues and students to submit their
+research work to the ACS/IEEE AICCSA 2025.
+
+
+
+
+*The ACS/IEEE 22nd International Conference on Computer Systems and
+Applications (AICCSA 2025) *
+
+*19-22 October 2025 | Doha, Qatar*
+
+https://conferences.sigappfr.org/aiccsa2025/
+
+
+
+The ACS/IEEE International Conference on Computer Systems and Applications (
+AICCSA) is the premier conference covering all contemporary areas in
+computer systems and applications. It implements an international forum for
+academics, industry researchers, developers, and practitioners to report
+and share groundbreaking contributions in various IT fields that range from
+distributed computing to data science, security, and machine learning.
+AICCSA 2025 will be held in Doha, Qatar.
+
+The organizing committee members are pleased to invite you to submit
+original contributions to AICCSA 2024 through the Easychair submission
+system. Submissions may include, technical and experimental study,
+theoretical study, conceptual study, or a survey. All submissions will be
+peer-reviewed based on relevance, originality, importance, and clarity. The
+submissions should be assigned to one of the following tracks:
+
+
+
+   - Track 1: Ubiquitous, Parallel, and Distributed Computing (including
+   cloud, IoT, network, sensors, and blockchain technologies)
+   - Track 2: Security, Privacy, and Trust
+   - Track 3: Data science, knowledge engineering, and ontologies
+   (including Information Retrieval, Big Data, Databases, and Knowledge
+   Systems)
+   - Track 4: Artificial Intelligence & Cognitive Systems
+   - Track 5: Natural Language Processing
+   - Track 6: Multimedia, Computer Vision, and Image Processing
+
+
+
+*Submission Guidelines and Proceedings: *
+
+Manuscripts must be prepared in 10-point font using the IEEE 8.5″ x 11″
+two-column conference format. All papers must not exceed 8 pages and should
+be exported in PDF format and anonymous since AICCSA manages a double-blind
+review process. The papers must be submitted electronically on EasyChair at
+: https://easychair.org/conferences/?conf=aiccsa2025
+
+
+*Important Dates (Anywhere on Earth)**:*
+
+
+
+*        Main Conference*
+               • Regular paper submission deadline: *19 May, 2025*
+               • Notification to authors: *30 June, 2025*
+               • Camera-ready and copyright submission deadline: *01
+September, 2025*
+               • Authors registration deadline: *01 September, 2025*
+
+*        Tutorial Proposals*
+              • Tutorial proposals due: *30 June, 2025*
+              • Notification of acceptance:* 07 July, 2025*
+
+*       Phd Forum and Posters*
+              • Paper proposals due:* 30 June, 2025*
+              •  Notification of acceptance: *28 July, 2025*
+
+
+*Committees: *
+
+     General co-chairs
+
+             Rima Grati, UAE
+
+             Schahram Dustdar, Austria
+
+
+
+     Program Committee Chairs
+
+            Sana Sellami, France
+
+            Yannis Manolopoulos, Greece
+
+
+
+     Workshops, Special Tracks and Tutorials Chairs
+
+            Haithem Mezni, KSA
+
+            Abdallah Makhoul, France
+
+            Joe Tekli, Lebanon
+
+
+      Poster Chairs
+
+           Khouloud Salameh, UAE
+
+           Karam Bou Chaaya, France
+
+
+      PhD Symposium chairs
+
+          Ali Akouglou, USA
+
+          Saeid Hosseini, Oman
+
+          Bashar Al-Shboul, Jordan
+
+
+
+      Publication Chairs
+
+          Cihan Tunc, USA
+
+          Karam Bou Chaaya, France
+
+
+     Publicity Chair
+
+         Salma Sassi, France
+
+
+-- 
+_____________________________________________________________________
+
+www.fsegs.tn
+
+www.univ-sfax.tn
+
+*Najla Fattouch*
+
+PhD student in Computer Science at FSEGS
+
+University of Sfax, Tunisia
+
+Member of MIRACL <http://www.miracl.rnu.tn/> Laboratory
+*Mobile : (+216) 93 203 835*
+*Email*: [log in to unmask]
+Google Scholar
+<https://scholar.google.com/citations?user=tgf4hzQAAAAJ&hl=en> - *DBLP*
+<https://dblp.org/pid/267/7458.html> - *ORCID ID*
+<https://orcid.org/0000-0003-4468-4929>
+______________________________________________________________________
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+
+
+
+ 
+
+Subject:     [CfP] Special Issue on Conceptual and Technical Engineering of Blockchain-based Information Systems
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 12:31:08 -0000
+Content-Type:text/plain
+
+
+
+
+
+Call for Papers - Special Issue
+
+“Conceptual and Technical Engineering of Blockchain-based Information
+Systems”
+
+In Information Systems (Ranked Q1 on Scimago, 9.4 CiteScore,
+
+3.0 Impact Factor)
+
+https://www.sciencedirect.com/special-issue/319734/conceptual-and-technical-engineering-of-blockchain-based-information-systems
+
+______________________________________________________________
+
+Dates
+
+Submission Open Date: May 1, 2025
+
+Submission Deadline: September 30, 2025
+
+Editorial Acceptance Deadline: May 1, 2026
+
+______________________________________________________________
+
+Special Issue information
+
+Blockchain technology supports decentralized, transparent, and immutable
+transaction execution and storage. The advent of smart contracts has
+provided the opportunity to apply these characteristics for managing
+digital and real-world assets, and for  running business logic on
+blockchain platforms. As blockchain technology has advanced, adoption from
+both industry and academia has steadily increased, driving efforts to
+develop new, trustworthy Blockchain‑based Information Systems (BISs).  This
+was possible thanks to the blockchain's execution environment, offering
+additional trust guarantees to execute multi-party collaborations, and
+enhancing auditing and verification activities.  Indeed, blockchain enables
+mutually distrusting parties to share data in a trusted way, without
+requiring third-party authorities.
+
+However, the distinctive nature of this technology and its application in
+novel information systems raise new challenges from different perspectives
+and at different levels.  From a conceptual perspective, important
+challenges revolve around requirements engineering, modeling, integration,
+governance, and the evolution of BISs.  From a technical perspective, the
+development of BISs raises challenges related to data sharing, data
+management, system optimization, and the adoption of novel on- and
+off-chain solutions.
+
+This special issue aims to advance the state of BISs and their engineering
+by addressing conceptual and technical challenges at different levels.
+Responding to such challenges requires innovative research and solutions to
+strengthen the maturity of blockchain technology for information systems.
+
+The special issue invites theoretical, conceptual, technical, and practical
+contributions on various topics related to Blockchain-based Information
+Systems (BISs), including:
+
+Conceptual-oriented:
+
+   -
+
+   Models, methods, and tools for the design of BISs
+   -
+
+   Meta-models and ontologies
+   -
+
+   Challenges related to the design of BISs
+   -
+
+   Sustainability
+   -
+
+   Empirical material providing and assessing approaches to the design of
+   BISs
+   -
+
+   Field experience providing details, benefits, or challenges in the
+   design of BISs
+   -
+
+   Modeling of BISs
+   -
+
+   Innovation and re-engineering using Blockchain Technology
+   -
+
+   Blockchain-enabled business processes for specific industries (e.g.
+   Banking and Finance, Supply Chain, Retail, Government)
+   -
+
+   Governance of blockchain-based networks
+   -
+
+   Blockchain to support organizational governance
+   -
+
+   Decentralized Autonomous Organizations (DAOs)
+
+
+Technical-oriented:
+
+   -
+
+   Blockchain data management including sharing and provenance
+   -
+
+   Data privacy and confidentiality on the blockchain (e.g., encryption,
+   zero-knowledge)
+   -
+
+   Blockchain-based authentication and access control
+   -
+
+   Layer-two solutions for BISs
+   -
+
+   Off-chain solutions for BISs
+   -
+
+   Oracles for trusted data
+   -
+
+   Optimization in smart contracts (e.g., data structures)
+   -
+
+   Blockchain hybrid architectures
+   -
+
+   Cross-chain, interoperable and bridge solutions for BISs
+   -
+
+   Analysis techniques of blockchain data and BISs (e.g., data
+   visualization, process mining)
+   -
+
+   Query languages on blockchain
+   -
+
+   Data auditing and monitoring on blockchain
+
+______________________________________________________________
+
+Submission information
+
+All manuscripts should be submitted electronically through Editorial
+Manager® at https://www.editorialmanager.com/infosys/default.aspx. When
+submitting papers, please select the article type “VSI: BISs - Research
+article” or “VSI: BISs - Review article”.
+
+Authors should prepare their manuscripts according to the "Guide for
+Authors" of the Information Systems journal outlined at the journal
+website.
+
+All papers will be peer-reviewed following a regular reviewing procedure.
+
+______________________________________________________________
+
+Guest Editors
+
+Prof. Sarah Bouraga, Ph.D.
+
+ EM Normandie Business School, France
+
+[log in to unmask]
+
+Dr. Felix Härer, Ph.D.
+
+FHNW University of Applied Sciences, Switzerland
+
+[log in to unmask]
+
+Dr. Alessandro Marcelletti, Ph.D.
+
+University of Camerino, Italy
+
+[log in to unmask]
+
+-- 
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+
+
+
+ 
+
+Subject:     Professor in Artificial Intelligence for Software Engineering, LUT University, Finland
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Tue, 10 Jun 2025 15:25:54 -0000
+Content-Type:text/plain
+
+
+
+
+
+LUT School of Engineering Sciences is hiring a Professor in Artificial Intelligence for Software Engineering.
+
+The position is located at the Department of Software Engineering of the LUT School of Engineering Sciences. LUT Software Engineering is a major Software Engineering research and education unit in Finland, with over 100 researchers and teachers. The focus areas of the Department of Software Engineering include software development, digital transformation, and user-centred design. The department develops practices and software technologies that enhance software quality, increase software development productivity, and introduce new innovations in software.
+
+The professorship is situated at the assistant, associate or full professor levels of the tenure track and will be filled through an open application process for a fixed term of four years (assistant/associate professor) or permanently (full professor). The tenure track system offers researchers a possibility to advance to the next level, provided they meet the requirements in the promotion reviews.
+
+The professorship will be located in LUT's Lappeenranta campus, Finland.
+
+The candidates must present up-to-date research merits in topics related to artificial intelligence in relation to software engineering. The topics and areas of expertise of the professorship include, for example:
+
+  *   using AI to improve software engineering
+  *   effects of AI on software security, software quality, maintenance, or other areas in software development
+  *   using AI in code generation, software testing, architecture design, or other software process phases
+  *   integrating AI and machine learning into software systems
+  *   explainable and responsible AI models for software development
+  *   using design science in creating and evaluating AI tools for software development
+  *   AI agents in collaborative software development
+  *   using AI for knowledge management in software development.
+
+The duties include basic and advanced education and programme development in the key areas of software engineering. We provide international education, and all master's level education is arranged in English. The duties related to the field of research include the following:
+
+  *   high-impact international research
+  *   preparation of national and international research and education projects
+  *   planning and implementation of bachelor's, master's, and doctoral education
+  *   supervision of final theses and doctoral studies
+  *   increasing awareness in a way that serves industry and the economy
+  *   taking part in the preparation of projects in other LUT units as an expert
+  *   general administrative work related to the university's operation.
+
+The application form and more information on benefits, duties, and application process, https://lut.rekrytointi.com/paikat/?o=A_A&jid=1318
+
+The closing date for applications is 11 August 2025 at 12 noon, Finnish local time (UTC + 3h).
+
+For further information, please contact Professor Kari Smolander, [log in to unmask]<mailto:[log in to unmask]>.
+
+Read more about the Department of Software Engineering, https://www.lut.fi/en/about-lut/faculties/lut-school-engineering-sciences/software-engineering
+
+Read more about the LUT School of Engineering Sciences, https://www.lut.fi/en/about-lut/faculties/lut-school-engineering-sciences
+
+Information for international staff, https://www.lut.fi/en/about-us/come-work-us/international-staff-and-visitors
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

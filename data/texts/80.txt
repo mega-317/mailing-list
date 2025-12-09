@@ -1,0 +1,55 @@
+
+
+
+ 
+
+Subject:     Two post-doctoral positions available at UCLouvain on edge/cloud computing
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 12:32:13 -0000
+Content-Type:text/plain
+
+
+
+
+
+We invite applications for two postdoctoral positions at UCLouvain, Belgium.
+
+Key points:
+- two postdoc positions at UCLouvain, a top Belgian university, close to Brussels;
+- open to holders of a Ph.D. in computer science currently outside Belgium;
+- competitive salary and support, including access to large-scale experimental testbeds;
+- starting date flexible, funded for 1 year with possibility for extension.
+
+These two positions are thematically open to the interest and expertise of the candidates.
+
+They are offered as part of the collaborative RAINDROP project between UCLouvain and UNamur. The researcher will have the opportunity to collaborate with Ph.D. students and professors in Cloud and Systems engineering (Pr. Etienne Rivière), networking and performance modeling (Pr. Ramin Sadre), and data management and software evolution (Pr. Anthony Cleve).
+
+RAINDROP investigates how traditional cloud applications (e.g., using microservices/serverless and NoSQL databases) can be adapted to exploit distributed cloud and edge resources with high flexibility and minimum programming complexity. The focus is on interactive applications. Current research includes the autonomous adaptation and sharding of applications computation and state across sites, resource management of edge and cloud resources using performance models and queuing theory, and automated analysis and visualization of data access patterns in cloud applications.
+
+Each of the two postdoctoral researchers will have the opportunity to develop an independent research project, based on her/his interests, and under the mentoring of the three PIs. Target themes include, but are not necessarily limited to:
+
+- Middleware and runtimes to ease the programming of distributed cloud applications (e.g., under the service mesh principles or through new libraries);
+- Scheduling and resource management to assign cloud/edge resources according to applications' needs;
+- Adaptation techniques to place state and computation across cloud/edge resources;
+- Visualization and monitoring techniques to assist developers in making applications a better fit for the cloud/edge continuum;
+- Performance modeling and simulation for cloud/edge applications.
+
+Interested candidates should contact Pr. Etienne Rivière ([log in to unmask]) and Pr. Ramin Sadre ([log in to unmask]) for any question or to schedule a call to discuss research directions. Please include a CV and a link to your current publication record, as a description of your topics of interest. Upon identification of a topic of common interest, candidates will be invited to send a more complete application package.
+
+Please note that these positions are only open to candidates who are currently outside Belgium, and will be holders of a Ph.D. in computer science (or a directly-related field) at the starting time of the position, which is to be determined with the PIs. The application screening will start immediately and until the positions are filled.
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+
+
+
+ 
+
+Subject:     Research and Postdoctoral Fellow Positions - Helsinki, Finland
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 10 Jul 2025 16:13:15 -0000
+Content-Type:text/plain
+
+
+
+
+
+The Helsinki Institute for Information Technology (HIIT) invites 
+applications for Postdoctoral Fellows and Research Fellows. HIIT offers 
+a HIIT Postdoctoral Fellow position for up to three years. For more 
+senior candidates, HIIT offers a HIIT Research Fellow position for up to 
+five years. The length of the contract as well as the starting and 
+ending dates are negotiable.
+
+HIIT is hosted by Aalto University and the University of Helsinki. Aalto 
+University and the University of Helsinki are the two leading 
+universities in Finland in computer science and information technology. 
+Both are located in the Helsinki Metropolitan area, and the employing 
+university will be determined by the supervising professor. Aalto 
+University and the University of Helsinki are both committed to 
+fostering an inclusive environment with people from diverse backgrounds, 
+and researchers from underrepresented groups are particularly encouraged 
+to apply. All excellent researchers in any area of ICT can be 
+considered, but priority is given to candidates who support one (or 
+more) of the HIIT strategic focus areas:
+
+* Artificial Intelligence
+* Computational Health
+* Cybersecurity
+* Data Science
+* Foundations of Computing
+
+Software engineering applicants can find suitable topics under PIs 
+listed in Data Science such as:
+* Fabian Fagerholm: Human Factors in Software Engineering, Developer 
+Experience, Affect in Software Engineering
+* Mika M채ntyl채: Software Monitoring, Software Test Automation, 
+Automating Systematic Literature Reviews
+
+Contacting the PIs before applying is advisable but not mandatory. For 
+details see
+https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/
+
+-- 
+Prof. Mika M채ntyl채
+Software / Computer Science / University of Helsinki
+Room A229 (Exactum), P.O. Box 68, 00014 University of Helsinki, Finland
+Mobile: +358 50 577 1684
+https://mmantyla.github.io/
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 42
+version = 44
 label_dir = './data/seworld_label'
 predict_dir = f'./data/predictions_{version}'
 

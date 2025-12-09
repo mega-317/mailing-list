@@ -1,0 +1,68 @@
+
+
+
+ 
+
+Subject:     SPARTAN effort on AI agents - Postdoc Position
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Wed, 21 May 2025 23:23:49 -0000
+Content-Type:text/plain
+
+
+
+
+
+Dear All
+
+applications are invited for a postdoctoral research fellow position at 
+the National University of Singapore (NUS). The position will focus on 
+agentic AI approaches towards software engineering.  The group at NUS 
+has research expertise in program repair, fuzzing and symbolic 
+execution, and details of the research group hosting the postdoc can be 
+found from
+
+*https://nus-tss.github.io/*
+
+For this specific position, we are building on our recent work on 
+*AutoCodeRover*, an early agent for software engineering, which has 
+since been acquired as a spinoff, and the effort is being continued for 
+usage, deployment and continued learning from the efforts.  The post-doc 
+candidate will thus join our SPARTAN effort on agents at NUS
+
+*https://spartan-nus.github.io/*
+
+NUS is a leading comprehensive university in Asia providing ample 
+opportunities and environment for career growth. Only candidates who 
+have submitted PhD thesis or will be submitting soon can be considered. 
+Interested candidates can email their CV and sample publications to 
+*[log in to unmask]*
+
+Warm regards
+
+-Abhik.
+
+-- 
+Abhik Roychoudhury
+Provost's Chair Professor
+National University of Singapore
+&
+Editor-in-Chief, ACM TOSEM
+&
+Senior Scientific Advisor, SonarSource
+https://abhikrc.com
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

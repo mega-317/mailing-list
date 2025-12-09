@@ -1,0 +1,79 @@
+
+
+
+ 
+
+Subject:     ICSOC 2025 Call for Workshops Proposals
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Sat, 17 May 2025 04:12:47 -0000
+Content-Type:text/plain
+
+
+
+
+
+**Call For Workshops Proposal**
+
+23rd International Conference on Service-Oriented Computing (ICSOC 2025)
+
+December 1-4, 2025, Shenzhen, China
+
+For more details, visit the conference website: https://icsoc2025.hit.edu.cn
+
+======================================================================
+
+ICSOC is inviting applicants to submit proposals for high-quality workshops
+contributing to the scientific program of the main conference.
+
+The workshop program seeks to provide venues for specialist groups to meet
+and hold a focused discussion on specific sub-areas within Service-Oriented
+Computing, and to engage in community-building activities.
+
+The workshops should provide a discussion forum for researchers and
+industrials in topics related to the main theme of the conference, either
+on specific research themes or in emerging areas of research.
+
+Workshop proposals shall be submitted to Workshop Co-chairs, see
+https://icsoc2025.hit.edu.cn/19950/list.htm for the list of information to
+include in the proposal.
+
+**Important Dates for Submission**
+
+Workshop proposals submission due: 20 June 2024 (AoE)
+
+Notification to applicants: 27 June 2025 (AoE)
+
+Workshop date: 01 December 2025 (AoE)
+
+**Workshop chairs**
+
+Jianwen Su, University of California at Santa Barbara, CA, USA
+
+Xiao Xue, Tianjin University, China
+
+Sami Yangui, LAAS-CNRS, Toulouse, France
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

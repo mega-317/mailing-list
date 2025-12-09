@@ -1,0 +1,54 @@
+
+
+
+ 
+
+Subject:     Call for Papers – SSBSE 2025, Seoul
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 19 Jun 2025 17:15:39 -0000
+Content-Type:text/plain
+
+
+
+
+
+Excited to announce the 17th Symposium on Search-Based Software Engineering (SSBSE 2025), taking place on 16 November 2025 in Seoul! ðŸ‡°ðŸ‡· 
+
+We invite high-quality research submissions that push the boundaries of SBSE, with a special focus this year on the transformative role of AI and optimization in software engineering. 
+
+ðŸ’¡ Key topics include:
+- Novel applications of SBSE, especially in emerging domains
+- Theoretical advances in search algorithms for software engineering
+- Rigorous empirical evaluations with reproducible results
+- Industrial experiences and real-world deployments
+- Integrations of SBSE with AI, machine learning, and cutting-edge technologies
+
+ðŸ“… Important Dates:
+Submission Deadline: August 21, 2025
+Notification: September 25, 2025
+Camera-Ready: October 3, 2025
+Accepted papers will be considered for a special journal issue in the Automated Software Engineering journal. Grab this chance to share your work with the global SBSE community!
+
+ðŸ”— More info & submission: https://lnkd.in/gwxVDG5q
+hashtag#SBSE hashtag#SoftwareEngineering hashtag#AI hashtag#Optimization hashtag#CFP hashtag#Seoul2025
+
+Co-located with ASE, https://lnkd.in/gTDTsXuX 
+
+For previous proceedings, check out https://lnkd.in/gnCGdwtQ 
+
+With Man Zhang and Shin Hong.
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

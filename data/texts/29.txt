@@ -1,0 +1,53 @@
+
+
+
+ 
+
+Subject:     Open Positions: Assistant Professors in Software Engineering and AI, University of Victoria, Canada
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Thu, 19 Jun 2025 17:13:35 -0000
+Content-Type:text/plain
+
+
+
+
+
+The Faculty of Engineering and Computer Science at the University of Victoria is looking to fill up to 4 research stream assistant professor positions at the intersection of Software Engineering and AI. Apply by August 15, 2025.
+
+We invite applications from talented scholars for one of four tenure-track positions at the assistant professor level working at the intersection of Software Engineering and AI to commence January 1, 2026, or soon thereafter. Qualified candidates must have a Ph.D. in Computer Science, Software Engineering, Electrical or Computer Engineering (with a research focus in Software), or an equivalent field or be within a year of completion. The candidate must have a demonstrated record of research accomplishment, including publications in top international conference venues that may include ICSE, FSE, ASE, ICSME and ESEM, or in top journals in Software Engineering such as TOSEM, TSE, EMSE, JSS or other high-quality journals in more specific software engineering topics such as Security, Testing etc. The candidate should have a clear plan for developing an outstanding research program at the intersection of Software Engineering and AI (or related areas).
+
+Applicants must have a commitment to teaching software engineering courses at the senior undergraduate level (3rd and 4th year) as part of our Bachelor of Software Engineering Program,
+graduate software engineering courses, and be able to teach a variety of software engineering courses at the undergraduate level (1st and 2nd year). Prior teaching experience is preferred. Applicants must provide a plan for graduate student supervision, with prior experience in supervising or mentoring students considered an asset. Applicants must display the required professionalism to operate in a collegial academic environment, with evidence of collaboration considered an asset. Complementary expertise to existing faculty in the program is considered
+an asset.
+
+Given the impact of Generative AI on Software Engineering, as well as how Software Engineering will need to evolve to support the development of Generative AI infused applications, we encourage applicants that are engaged with these topics as part of their existing or future research program.
+
+Full job ad: https://www.uvic.ca/ecs/computerscience/assets/docs/employment/cosi_seng_research-faculty-ad-2025_final.pdf including salary range and more details on UVic.
+
+Application site: https://academicjobsonline.org/ajo/jobs/30135 
+
+Neil Ernst, Ph.D.
+Associate Professor
+Computer Science
+University of Victoria
+
+https://neilernst.net
+https://oac.uvic.ca/matrix/
+
+I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory I live and work, and the Songhees, Esquimalt and W̱SÁNEĆ peoples whose historical relationships with the land continue to this day.
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

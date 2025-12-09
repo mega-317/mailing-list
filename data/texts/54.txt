@@ -1,0 +1,96 @@
+
+
+
+ 
+
+Subject:     Postdoctoral Position in Software Engineering and AI for Sustainable Food Choices
+From:        SEWORLD Moderator <[log in to unmask]>
+Reply-To:SEWORLD Moderator <[log in to unmask]>
+Date:Tue, 27 May 2025 13:52:11 -0000
+Content-Type:text/plain
+
+
+
+
+
+A 2-year postdoctoral researcher position is available at the University of Southern Denmark (SDU) in the Software Engineering section of the Maersk Mc-Kinney Moller Institute (MMMI). The successful candidate will contribute to the Nudge2Green research project, applying software development and AI methods to design digital nudging tools that promote sustainable consumer behavior in food choices. Application deadline: 10 June 2025.
+
+More information and apply:
+https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/2850/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002425904
+
+Introduction
+The SDU Software Engineering section at the Maersk Mc-Kinney Moller Institute (Faculty of Engineering) invites applications for a 2-year postdoctoral position in software engineering and artificial intelligence, which will be vacant from 1 August 2025 or as soon as possible thereafter. The position is part of the Nudge2Green project, focusing on the development of intelligent software solutions to influence and support sustainable food choices among consumers.
+In this role, the postdoc will conduct cutting-edge research on AI-driven nudging tools that encourage environmentally friendly decision-making in everyday food consumption. The postdoctoral researcher will collaborate with external project partners, including Aarhus University, University of Copenhagen, the Food Organization of Denmark, and Heco et al., to exchange insights on markets, consumer behavior, sustainable food, and technical and data requirements. The collaboration with the interdisciplinary team, including experts in software engineering, artificial intelligence, and behavioral science, will facilitate evaluating the effectiveness of the digital nudging approaches and publishing the findings in high-impact venues. Moreover, the postdoc will actively support the management of SDU-led work packages, including coordinating deliverables, assisting with project reporting, and facilitating communication across the project consortium.
+
+What we offer
+We offer a dynamic and supportive research environment within an internationally recognized institute. You will join an open, collaborative team that values teamwork, professional diligence, and innovation. The Software Engineering section provides flexible work conditions and strong support for individual development, including mentorship and opportunities to expand your skills and responsibilities.
+As part of the Maersk Mc-Kinney Moller Institute, our section is involved in a variety of national and European research projects and enjoys a robust network of academic and industrial partners. This position provides an opportunity to engage with these collaborations and work on real-world challenges. We encourage and support our postdocs to publish their research in renowned journals and conferences, and to engage in knowledge exchange with colleagues and external research and industrial partners. The working language is English, and we pride ourselves on a diverse, inclusive, and inspiring workplace that fosters personal and professional growth.
+
+What we expect
+We are looking for a highly motivated candidate who meets the following qualifications and characteristics:
+
+  *   PhD (completed or soon to complete) in Software Engineering, Computer Science, Artificial Intelligence, or a closely related field.
+  *   Strong software development and programming skills, with experience in designing and implementing complex software systems.
+  *   Research experience in artificial intelligence and/or machine learning methods.
+  *   Familiarity with or interest in behavioral software systems – for example, development of applications or tools that incorporate nudging, persuasive technology, or behavior change techniques.
+  *   Experience with data-driven user modeling and AI-driven personalization (e.g., recommender systems, user profiling, or adaptive user interfaces) is highly desirable.
+  *   Knowledge of or a passion for sustainable computing or sustainability-related projects (e.g., applying computing solutions to environmental or societal challenges) will be considered an advantage.
+  *   Proficiency in English (written and spoken) and excellent communication skills.
+  *   Ability to work both independently and collaboratively in an interdisciplinary team.
+  *   A strong research record or potential, demonstrated by publications or other research outputs in relevant fields, is an advantage.
+
+Further information
+For further information about the position, please contact Associate Professor Mahyar Tourchi Moghaddam (email: [log in to unmask]<mailto:[log in to unmask]>) or Assistant Professor Mina Alipour ([log in to unmask]). If you experience technical problems with the online application process, please contact SDU’s HR support at [log in to unmask]<mailto:[log in to unmask]>.
+
+Application procedure
+Applicants are advised to carefully read SDU’s guidelines on how to apply<https://www.sdu.dk/en/service/ledige_stillinger/how_to_apply> and the specific faculty instructions<https://www.sdu.dk/en/om-sdu/fakulteterne/teknik/jobs/applyacademicstaff> for applications to the Faculty of Engineering before applying.
+Please include the following documents in English as part of your application:
+
+  *   Motivated application (cover letter).
+  *   Curriculum Vitae.
+  *   Certificates/Diplomas (Master’s and PhD degrees, including transcripts of grades in English or Danish).
+  *   Complete list of publications.
+  *   Examples of publications most relevant to the position – please attach 5 full-text publications (each as an individual PDF file, as only full-text documents will be considered in the assessment).
+
+In addition, you may include the following (highly recommended):
+
+  *   Research statement (outlining your research so far and future research plans).
+  *   Summary of teaching experience or pedagogical qualifications.
+  *   Reference letters and/or contact information for references.
+  *   Link to GitHub.
+  *   Any other documentation highlighting relevant qualifications for the position.
+
+UPLOAD GUIDE: Please note that the motivated application must be uploaded as “Cover letter”, the CV as “Resume”, and all other documents as “Miscellaneous” attachments in the SDU online recruitment system.
+The application deadline is 10 June 2025 at 11.59 PM / 23.59 CEST.
+
+
+--
+
+Best regards,
+
+Mahyar T. Moghaddam
+
+Associate Professor
+
+SDU Software Engineering
+
+The Maersk Mc-Kinney Moller Institute
+
+University of Southern Denmark
+
+LinkedIn<https://www.linkedin.com/in/mahyar-moghaddam/> <https://www.linkedin.com/in/mahyar-moghaddam/>   Profile<https://portal.findresearcher.sdu.dk/en/persons/mtmo> <https://www.linkedin.com/in/mahyar-moghaddam/>   Website<https://www.mahyarmoghaddam.com/>
+
+============================================================
+To contribute to SEWORLD, send your submission to
+mailto:[log in to unmask]
+
+http://sigsoft.org/resources/seworld.html provides more
+information on SEWORLD as well as links to a complete
+archive of messages posted to the list.
+============================================================
+
+
+
+
+
+

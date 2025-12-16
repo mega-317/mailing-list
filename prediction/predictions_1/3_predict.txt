@@ -1,0 +1,23 @@
+### 1. [SCOPE & IDENTITY]
+- **Event Name:** Nineteenth International Tbilisi Summer School in Logic and Language
+- **Location:** Kutaisi International University, Kutaisi, Georgia
+- **Co-located Events:**
+  - **Event 1:** JELIA 2025 - (https://viam.science.tsu.ge/jelia2025/)
+  - **Event 2:** TbiLLC 2025 - (https://events.illc.uva.nl/Tbilisi/Tbilisi2025/)
+
+### 2. [TIMELINE & DATES]
+- **[Nineteenth International Tbilisi Summer School in Logic and Language] Dates: September 4th-7th 2025**
+- **[JELIA 2025] Dates: Co-located with the Nineteenth International Tbilisi Summer School**
+- **[TbiLLC 2025] Dates: Co-located with the Nineteenth International Tbilisi Summer School**
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[JELIA 2025] Excursion & Dinner:** Free for all registered participants of JELIA 2025. Others have to pay 60 Euros.
+- **[Nineteenth International Tbilisi Summer School in Logic and Language] Registration:** Registration is free. For any questions, please contact [log in to unmask]
+
+### 4. [LINKS & CONTACTS]
+- **[Nineteenth International Tbilisi Summer School in Logic and Language] Website:** https://www.logic.at/tbilisi25/
+- **[JELIA 2025] Website:** https://viam.science.tsu.ge/jelia2025/
+- **[TbiLLC 2025] Website:** https://events.illc.uva.nl/Tbilisi/Tbilisi2025/
+- **[Registration & Inquiries] Contact Email:** [log in to unmask]
+- **[SEWORLD Inquiries] Submission Email:** mailto:[log in to unmask]
+- **[SEWORLD Resources] More Information:** http://sigsoft.org/resources/seworld.html

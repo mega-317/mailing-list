@@ -1,0 +1,20 @@
+### 1. [SCOPE & IDENTITY]
+- The Faculty of Engineering and Computer Science at the University of Victoria is looking to fill up to 4 research stream assistant professor positions at the intersection of Software Engineering and AI.
+
+### 2. [TIMELINE & DATES]
+- [Assistant Professors Position] Application Deadline: Apply by August 15, 2025.
+- [Assistant Professors Position] Start Date: Positions are expected to commence January 1, 2026, or soon thereafter.
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [Assistant Professors Position] Qualified candidates must have a Ph.D. in Computer Science, Software Engineering, Electrical or Computer Engineering (with a research focus in Software), or an equivalent field or be within a year of completion.
+- [Assistant Professors Position] Applicants must have a commitment to teaching software engineering courses at the senior undergraduate level (3rd and 4th year) as part of our Bachelor of Software Engineering Program, and graduate software engineering courses.
+- [Assistant Professors Position] Applicants must provide a plan for graduate student supervision, with prior experience in supervising or mentoring students considered an asset.
+- [Assistant Professors Position] Given the impact of Generative AI on Software Engineering, we encourage applicants that are engaged with these topics as part of their existing or future research program.
+
+### 4. [LINKS & CONTACTS]
+- [Assistant Professors Position] Full job ad: https://www.uvic.ca/ecs/computerscience/assets/docs/employment/cosi_seng_research-faculty-ad-2025_final.pdf including salary range and more details on UVic.
+- [Assistant Professors Position] Application site: https://academicjobsonline.org/ajo/jobs/30135 
+- [Neil Ernst] Personal Website: https://neilernst.net
+- [OAC UVic] More information: https://oac.uvic.ca/matrix
+- [SEWORLD] To contribute to SEWORLD, send your submission to mailto:[log in to unmask]
+- [SEWORLD] More information on SEWORLD: http://sigsoft.org/resources/seworld.html provides links to a complete archive of messages posted to the list.

@@ -1,0 +1,26 @@
+### 1. [SCOPE & IDENTITY]
+- The 22nd International Conference on Managed Programming Languages & Runtimes (MPLR, formerly ManLang, originally PPPJ) is a premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems, which serve as building blocks for some of the most important computing systems in use, ranging from small-scale (embedded and real-time systems) to large-scale (cloud-computing and big-data platforms) and anything in between (desktop, mobile, IoT, and wearable applications).
+
+### 2. [TIMELINE & DATES]
+- [MPLR 2025] Paper Submission Deadline: June 24, 2025 (extended)
+- [MPLR 2025] Paper Author Notification: July 28, 2025
+- [MPLR 2025] Camera Ready for Papers: August 25, 2025
+- [MPLR 2025] Conference Date: October 14, 2025
+
+All deadlines are 23:59 AoE (UTC-12h).
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [MPLR 2025] Regular research papers: describing novel contributions involving managed language platforms. Research papers will be evaluated based on their relevance, novelty, technical rigor, and contribution to the state-of-the-art. Format: up to 12 pages, excluding bibliography and appendix.
+  
+- [MPLR 2025] Work-in-progress research papers: describing hot topics or promising new ideas, with perhaps less maturity than full papers. Work-in-progress papers will be evaluated with an emphasis on novelty and the potential of the new ideas instead of technical rigor and experimental results. Format: up to 6 pages, excluding bibliography and appendix.
+
+- [MPLR 2025] Industry and tool papers: presenting technical challenges and solutions for managed language platforms in the context of deployed applications and systems. Industry and tool papers will be evaluated on their relevance, usefulness, and results. Suitability for demonstration and availability will also be considered for tool papers. Format: up to 6 pages, excluding bibliography and appendix; up to 12 pages allowed if justified by the content.
+
+- [MPLR 2025] Submissions need to use the ACM SIGPLAN format with the `sigplan` style. All submissions need to be in PDF format.
+
+### 4. [LINKS & CONTACTS]
+- [MPLR 2025] Submission Site: https://mplr25.hotcrp.com
+- [Program Contact] If you are unsure whether a particular topic falls within the scope of MPLR '25 or if you have any other questions, please do not hesitate to contact the Program Chair Tomoharu Ugawa at ugawa ci i u-tokyo ac jp.
+- [ACM Policy] MPLR 2025 submissions must conform to the ACM Policy on Prior Publication and Simultaneous Submissions and to the SIGPLAN Republication Policy. See http://www.sigplan.org/Resources/Policies/Republication.
+- [SEWORLD Contact] To contribute to SEWORLD, send your submission to mailto:[log in to unmask].
+- [SEWORLD Information] http://sigsoft.org/resources/seworld.html provides more information on SEWORLD as well as links to a complete archive of messages posted to the list.

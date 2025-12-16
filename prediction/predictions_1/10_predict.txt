@@ -1,0 +1,27 @@
+### 1. [SCOPE & IDENTITY]
+- The Helsinki Institute for Information Technology (HIIT) invites applications for Postdoctoral Fellows and Research Fellows.
+- HIIT is hosted by Aalto University and the University of Helsinki. Aalto University and the University of Helsinki are the two leading universities in Finland in computer science and information technology.
+
+### 2. [TIMELINE & DATES]
+- [HIIT Postdoctoral Fellow Position] Duration: up to three years.
+- [HIIT Research Fellow Position] Duration: up to five years.
+  - The length of the contract as well as the starting and ending dates are negotiable.
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [HIIT] Applicants are encouraged from underrepresented groups, including researchers from diverse backgrounds.
+- [HIIT] All excellent researchers in any area of ICT can be considered, but priority is given to candidates who support one (or more) of the HIIT strategic focus areas:
+  - Artificial Intelligence
+  - Computational Health
+  - Cybersecurity
+  - Data Science
+  - Foundations of Computing
+- [Data Science] Software engineering applicants can find suitable topics under PIs listed, including:
+  - Fabian Fagerholm: Human Factors in Software Engineering, Developer Experience, Affect in Software Engineering
+  - Mika Mäntylä: Software Monitoring, Software Test Automation, Automating Systematic Literature Reviews
+- [HIIT] Contacting the PIs before applying is advisable but not mandatory.
+
+### 4. [LINKS & CONTACTS]
+- [HIIT Postdoctoral and Research Fellow Positions] More details: https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/
+- [Prof. Mika Mäntylä] Contact: Mobile: +358 50 577 1684, Homepage: https://mmantyla.github.io/
+- [SEWORLD Contribution] To contribute to SEWORLD: mailto:[log in to unmask]
+- [SEWORLD Information] More information on SEWORLD: http://sigsoft.org/resources/seworld.html

@@ -1,0 +1,24 @@
+### 1. [SCOPE & IDENTITY]
+- The IEEE International Conference on Software Maintenance and Evolution (ICSME) is one of the premier academic conferences for researchers and practitioners working on the maintenance and evolution of software systems.
+- ICSME 2025 will be held in Auckland, New Zealand.
+
+### 2. [TIMELINE & DATES]
+- [ICSME 2025] Conference Dates: September 7 to September 12, 2025.
+- [ICSME 2025] Early-bird registration deadline: August 1, 2025 (AoE).
+- [ICSME 2025] Application and Reference Letters for Student Volunteers need to be submitted by July 15, 2025, at 23:59 AoE.
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [ICSME 2025] To register, visit Attending > Registration on the website.
+- [Student Volunteers] Get involved, meet mentors, and experience the conference from the inside. Application is still open!
+
+### 4. [LINKS & CONTACTS]
+- [ICSME 2025] Conference website: https://conf.researchr.org/home/icsme-2025
+- [ICSME 2025] Program overview: https://conf.researchr.org/info/icsme-2025/program-overview
+- [ICSME 2025] Keynotes information: https://conf.researchr.org/info/icsme-2025/keynotes
+- [ICSME 2025] Co-located conference SCAM: https://conf.researchr.org/home/scam-2025
+- [ICSME 2025] Co-located conference VISSOFT: https://vissoft.io/2025/
+- [ICSME 2025] Student Volunteer application: https://conf.researchr.org/attending/icsme-2025/student-volunteer
+- [ICSME 2025] Travel support for US-based attendees: https://conf.researchr.org/attending/icsme-2025/travel-support
+- [ICSME 2025] Explore Software Engineering research in New Zealand: https://conf.researchr.org/info/icsme-2025/explore-se-research-in-nz#engage-with-software-engineering-researchers-in-aotearoa-new-zealand
+- [SEWORLD] To contribute to SEWORLD, send your submission to mailto:[log in to unmask]
+- [SEWORLD] More information on SEWORLD: http://sigsoft.org/resources/seworld.html

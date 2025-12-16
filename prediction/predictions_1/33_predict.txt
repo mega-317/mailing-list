@@ -1,0 +1,23 @@
+### 1. [SCOPE & IDENTITY]
+- We are excited to share the call for papers, to the **International Conference on Engineering Digital Twins**.
+- **2nd International Conference on Engineering Digital Twins (EDTconf 2025)** co-located with **MODELS 2025**.
+
+### 2. [TIMELINE & DATES]
+- **[EDTconf 2025]** Abstract submission deadline: June 27, 2025
+- **[EDTconf 2025]** Paper submission deadline: July 02, 2025
+- **[EDTconf 2025]** Notification of acceptance: August 05, 2025
+- **[EDTconf 2025]** Camera-ready submission: August 20, 2025
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[EDTconf 2025]** Regular Papers: max 10+2 pages - Novel research contributions with substantive evaluation.
+- **[EDTconf 2025]** Vision / New Ideas Papers: max 6+1 pages - Innovative and forward-looking ideas which may not yet be fully developed or evaluated.
+- **[EDTconf 2025]** Tool Demonstration Papers: max 4+1 pages - Practical insights and tools; include appendix with demo outline.
+- **[EDTconf 2025]** Exemplar Papers: max 6+1 pages - Engineering-focused implementations or specs of DTs in certain domains.
+- **[EDTconf 2025]** Formatting: IEEE Proceedings Template (LaTeX or Word) must be used.
+- **[EDTconf 2025]** Page limits are strict. Papers must be original and not under review elsewhere. ORCID usage is recommended.
+
+### 4. [LINKS & CONTACTS]
+- **[EDTconf 2025]** Submission via EasyChair: https://easychair.org/conferences/?conf=edtconf25
+- **[EDTconf 2025]** Contact: [log in to unmask]
+- **[EDTconf 2025]** Website: www.edtconf.org
+- **[SoSyM Journal]** Authors of selected regular papers will be invited to submit extended versions to the Journal on Software and Systems Modeling (SoSyM), with at least 30% new material required.

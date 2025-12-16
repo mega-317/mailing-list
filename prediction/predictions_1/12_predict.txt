@@ -1,0 +1,24 @@
+### 1. [SCOPE & IDENTITY]
+- A special issue on Agentic AI in Software is planned in *ACM Transactions on Software Engineering and Methodology* (TOSEM) in 2026, and papers are being solicited for this purpose.
+
+### 2. [TIMELINE & DATES]
+- [TOSEM Special Issue] Paper submission deadline: November 1, 2025
+- [TOSEM Special Issue] First reviews appear: January 31, 2025
+- [TOSEM Special Issue] Revisions are due: March 31, 2026
+- [TOSEM Special Issue] Outcome of the revised papers: May 2026
+- [TOSEM Special Issue] Papers appear online in ACM Digital Library: July 2026
+- [TOSEM Special Issue] Special issue on agentic AI in TOSEM is planned: August 2026
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [TOSEM Special Issue] Authors can mention one of the following categories in the cover letter of the paper:
+  - [Auto] Automation of SE tasks via agents 
+  - [Trust] Enhancing trust in agent outputs 
+  - [Integrate] Integration of agents into existing software workflows 
+  - [A-H] Agent – human interaction in SE teams and team dynamics 
+  - [Oth] Any other agent in SE topics not covered in the preceding list.
+- [TOSEM Special Issue] Submit papers by selecting the radio button “Special issue 2025: Agentic AI in Software” in manuscriptcentral: https://mc.manuscriptcentral.com/tosem 
+
+### 4. [LINKS & CONTACTS]
+- [TOSEM Special Issue] Submission Site: https://mc.manuscriptcentral.com/tosem
+- [SEWORLD] For queries about the special issue, contact Abhik Roychoudhury (Editor-in-Chief), Foutse Khomh (Guest Editor), Denys Poshyvanyk (Guest Editor).
+- [SEWORLD] Information and resources: http://sigsoft.org/resources/seworld.html

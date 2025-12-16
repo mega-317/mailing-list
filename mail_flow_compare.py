@@ -5,7 +5,7 @@ from statistics import mean, median
 
 version = 44
 label_dir = './data/seworld_label'
-predict_dir = f'./data/predictions_{version}'
+predict_dir = f'./prediction/predictions_{version}'
 
 fields_to_compare = [
     "conference_name",

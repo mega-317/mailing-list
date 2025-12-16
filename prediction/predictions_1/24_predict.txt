@@ -1,0 +1,31 @@
+### 1. [SCOPE & IDENTITY]
+- *The 12th International Conference on Software Defined Systems (SDS2025)* is organized with IEEE Technical Sponsorship.
+- SDS2025 invites researchers, engineers, and practitioners from academia, industry, and government to explore the foundations, architectures, challenges, and breakthroughs in software-defined everything.
+- It serves as a multidisciplinary platform to showcase innovations in programmability, abstraction, virtualization, and orchestration that drive software-defined solutions across domains.
+
+### 2. [TIMELINE & DATES]
+- **[SDS2025] Submission Date: 31 August 2025**
+- **[SDS2025] Notification to Authors: 20 October 2025**
+- **[SDS2025] Camera Ready Submission: 30 October 2025**
+- **[SDS2025] Event Date: December 2-5, 2025**
+  
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[SDS2025] Manuscripts should be prepared in 10-point font using the IEEE 8.5" x 11" two-column format.**
+- **[SDS2025] All papers should be in PDF format and submitted electronically.**
+- **[SDS2025] Papers must be original unpublished research that is not currently under review for any other conference or journal.**
+- **[SDS2025] Authors of accepted papers are expected to present their work at the conference.**
+- **[SDS2025] Submission category:**
+  - **Full papers:** between 6 and 8 pages including all figures, tables, and references.
+  - **Short papers:** between 3 and 4 pages long, including position papers and industrial demos or project proposals including PhD project proposals.
+  - **Extended abstract:** High-level summary of research or project ideas (2 pages).
+  - **Abstract:** Synopsis of research including ongoing projects (500 words).
+
+### 4. [LINKS & CONTACTS]
+- **[SDS2025] Conference Homepage: https://www.gcet-conference.com/SDS2025**
+- **[SDS2025] Submission Link: https://easychair.org/conferences/?conf=sds202501**
+- **[SDS2025] IEEE Templates for Formatting: https://protect-au.mimecast.com/s/0FRWCr810kCvBLJEfz4LG3?domain=ieee.org**
+- **[SDS2025] Contact Email for Questions: [log in to unmask]**  
+- **[GCET 2025] General Co-Chairs Contacts:**
+  - *Larbi Boubchir, University of Paris 8, France*
+  - *Tamara Zhukabayeva, L.N Eurasian National University, Kazakhstan*
+  - *Jaime Lloret, Universitat Politècnica de València, Spain*

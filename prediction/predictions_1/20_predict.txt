@@ -1,0 +1,19 @@
+### 1. [SCOPE & IDENTITY]
+- **Event**: Télécom Paris is hiring a postdoctoral researcher, for 30 months in the field(s) of software engineering and cybersecurity.
+- **Research Project**: Télécom Paris is participating in the research project SECUBIC (SEcure BInary supply Chain) to improve the security of binary executables that include open source components.
+
+### 2. [TIMELINE & DATES]
+- **Application Deadline**: **[Postdoctorate Position]** Application deadline: 31 August 2025
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[Postdoctorate Position]** For a complete job description see:
+  - EN: https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5
+  - FR: https://institutminestelecom.recruitee.com/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5
+
+### 4. [LINKS & CONTACTS]
+- **[SECUBIC Project]** Website: https://secubic-ptcc.github.io/
+- **[Software Heritage]** Website: https://www.softwareheritage.org/
+- **[Postdoctorate Position]** Contact: [log in to unmask]
+- **[Stefano Zacchiroli]** Website: https://upsilon.cc/zack
+- **[SEWORLD]** Contribution Information: mailto:[log in to unmask]
+- **[SEWORLD Resources]** More information: http://sigsoft.org/resources/seworld.html

@@ -1,0 +1,21 @@
+### 1. [SCOPE & IDENTITY]
+- The email announces several opportunities for contributing to the 23rd IEEE International Conference on Software Architecture (ICSA 2026), the premier conference for software architecture. 
+- The conference will take place in Amsterdam, Netherlands, from June 22-26, 2026.
+
+### 2. [TIMELINE & DATES]
+- **[ICSA 2026] [Research Track] Abstracts Due: November 28, 2025**
+- **[ICSA 2026] [Research Track] Papers Due: December 5, 2025**
+- **[ICSA 2026] [Software Architecture in Practice Track] Abstracts Due: November 28, 2025**
+- **[ICSA 2026] [Software Architecture in Practice Track] Papers Due: December 5, 2025**
+- **[ICSA 2026] Submission Deadline for Workshop Proposals: October 3, 2025**
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[ICSA 2026] [Research Track] We invite researchers to submit papers for the Research Track. This year's theme is Architecting in Continuous Software Engineering: Evolving Roles, Enduring Principles.**
+- **[ICSA 2026] [Software Architecture in Practice Track] We are also inviting software architecture practitioners and researchers working with practitioners to submit papers for the Software Architecture in Practice Track, with a focus on context-driven solutions tailored to specific domains or organizations.**
+- **[ICSA 2026] Workshop proposals can be half-day or full-day sessions and should foster discussions on emerging trends and research in software architecture.**
+
+### 4. [LINKS & CONTACTS]
+- **[ICSA 2026] [Research Track] For submission guidelines and further details, please visit: https://conf.researchr.org/track/icsa-2026/icsa-2026-papers**
+- **[ICSA 2026] [Software Architecture in Practice Track] For submission guidelines and further details, please visit: https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track**
+- **[ICSA 2026] [Workshops] For submission guidelines and further details, please visit: https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops**
+- **[ICSA 2026] Official Website: https://conf.researchr.org/home/icsa-2026**

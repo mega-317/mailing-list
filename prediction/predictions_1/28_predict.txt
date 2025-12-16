@@ -1,0 +1,39 @@
+### 1. [SCOPE & IDENTITY]
+- **Event Name:** International Colloquium on Theoretical Aspects of Computing (ICTAC 2025)
+- **Location and Dates:** Marrakech, Morocco, November 24th to 28th, 2025
+
+### 2. [TIMELINE & DATES]
+- **[ICTAC 2025] Abstracts due (extended): July, 03rd**
+- **[ICTAC 2025] Full papers due (extended): July, 09th**
+- **[ICTAC 2025] Notification of acceptance: August, 30th**
+- **[ICTAC 2025] Camera-ready papers due: September, 15th**
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[ICTAC 2025] Topics of interest include:**
+  - Formal languages and automata
+  - Semantics of programming languages
+  - Logic in computer science
+  - Lambda calculus, type theory, and category theory
+  - Domain-specific languages
+  - Theories of concurrency and mobility
+  - Theories of distributed computing
+  - Models of objects and components
+  - Coordination models
+  - Security and privacy
+  - Static analysis
+  - Software verification
+  - Timed, hybrid, and cyber-physical systems
+  - Verification, analysis and control synthesis
+  - Software testing
+  - Program generation and transformation
+  - Model checking and theorem-proving
+  - Quantum computing
+  - Trustworthy AI
+  - Machine learning algorithms
+  - Applications and experience
+
+### 4. [LINKS & CONTACTS]
+- **[ICTAC 2025] Official Website:** https://ictac2025.digital-hub.sh/
+- **[Springer] Lecture Notes in Computer Science Publication:** All accepted papers will be published in Springer's Lecture Notes in Computer Science.
+- **[Springer] ICTAC 2025 Best Paper Award:** Springer sponsors the ICTAC 2025 Best Paper Award with a cash prize of 1.000 Euro.
+- **[Elsevier] Special issue:** There will be a special issue for selected papers from ICTAC 2025 in the Elsevier’s journal Theoretical Computer Science.

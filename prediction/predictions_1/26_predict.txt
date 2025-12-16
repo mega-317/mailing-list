@@ -1,0 +1,31 @@
+### 1. [SCOPE & IDENTITY]
+- We are looking for a highly motivated postdoc researcher to work together with us in the KKS-funded project "OPEHRA: Operationalising Human Rights in the Design of AI-supported Digital Health."
+
+### 2. [TIMELINE & DATES]
+- [OPEHRA Project] Application deadline: 03.08.2025
+- [OPEHRA Project] Starting date for the position: preferably between October 1, 2025, and December 1, 2025.
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [OPEHRA Project] Applicants are required to hold a PhD in Computer Science, or a closely related subject, with the degree completed before a decision is made on the appointment.
+- [OPEHRA Project] The candidate must have completed the PhD no more than three years before the application deadline.
+- [OPEHRA Project] The application should include:
+  - CV including relevant professional experience and knowledge.
+  - Cover letter describing qualifications and research interests (maximum 2 pages long).
+  - List of publications (specifying the applicant's role in multi-authored publications).
+  - Copy of PhD degree or information on when it is expected to be completed.
+  - Copy of doctoral thesis and other relevant publications.
+  - Two references, at least one of which is a current or former supervisor.
+- [OPEHRA Project] Attach all documents and publications to the electronic application (do not just provide links). Name each uploaded document to clearly indicate its content.
+- [OPEHRA Project] Documents that cannot be submitted electronically (e.g., books or publications) should be sent to:
+  - Karlstads universitet
+  - Hanna Ljungdahl
+  - 651 88 Karlstad
+  - State the reference number: REK. 2025/101
+
+### 4. [LINKS & CONTACTS]
+- [OPEHRA Project] More information and application link: https://kau.varbi.com/en/what:job/jobID:822208/iframeEmbedded:0/where:4
+- [Karlstad University] HR Excellence in Research award: kau.se/hrs4r
+- [Contact] Leonardo Iwaya, [log in to unmask], 0547001037
+- [Union Contact] Thomas Bragefors, SACO, +4654-7001714, [log in to unmask]
+- [Union Contact] Denita Gustavsson, OFR, +4654-7001434, [log in to unmask]
+- [Karlstad University] When you send an e-mail to Karlstad University, we will process your personal data: https://www.kau.se/en/gdpr.

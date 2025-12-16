@@ -1,0 +1,26 @@
+### 1. [SCOPE & IDENTITY]
+- **Event Name:** CONFEST 2025: 1st Call for Participation
+- **Co-located Events:** This event includes the following major conferences:
+  - CONCUR 2025: 36th International Conference on Concurrency Theory
+  - FMICS 2025: 30th International Conference on Formal Methods for Industrial Critical Systems
+  - QEST+FORMATS 2025: Joint International Conference on Quantitative Evaluation of Systems and Formal Modeling and Analysis of Timed Systems
+- **Location:** Aarhus, Denmark
+- **Dates:** August 25-30, 2025
+
+### 2. [TIMELINE & DATES]
+- **Early Registration Deadline:**
+  - **[CONFEST 2025]** The early registration deadline is July 25, 2025.
+  
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[CONFEST 2025]** Register for the event before the early registration deadline on July 25, 2025.
+- **[CONFEST 2025]** Availability of hotel booking codes and accommodation details:
+  - Some hotel booking codes are available for attendees.
+  - Other accommodation options can be found on the venue's website.
+
+### 4. [LINKS & CONTACTS]
+- **[CONFEST 2025]** Homepage: https://conferences.au.dk/confest2025
+- **[CONFEST 2025 Registration]** Registration Page: https://conferences.au.dk/confest2025/registration
+- **[CONFEST 2025 Hotel Accommodations]** Hotel Booking Codes: https://conferences.au.dk/confest2025/hotel-accommodations
+- **[Aarhus]** Other Accommodation Options: https://www.visitaarhus.com/aarhus/where-sleep/hotels
+- **[SEWORLD Contribution]** To contribute to SEWORLD, send your submission to mailto:[log in to unmask]
+- **[SEWORLD Resources]** More information on SEWORLD can be found at http://sigsoft.org/resources/seworld.html.

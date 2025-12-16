@@ -1,0 +1,25 @@
+### 1. [SCOPE & IDENTITY]
+- Excited to announce the **17th Symposium on Search-Based Software Engineering (SSBSE 2025)**, taking place on **16 November 2025** in Seoul!  
+- Co-located with **ASE**.
+
+### 2. [TIMELINE & DATES]
+- **[SSBSE 2025] Submission Deadline: August 21, 2025**
+- **[SSBSE 2025] Notification: September 25, 2025**
+- **[SSBSE 2025] Camera-Ready: October 3, 2025**
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[SSBSE 2025] We invite high-quality research submissions that push the boundaries of SBSE, with a special focus this year on the transformative role of AI and optimization in software engineering.**
+- **[SSBSE 2025] Key topics include:**
+  - Novel applications of SBSE, especially in emerging domains
+  - Theoretical advances in search algorithms for software engineering
+  - Rigorous empirical evaluations with reproducible results
+  - Industrial experiences and real-world deployments
+  - Integrations of SBSE with AI, machine learning, and cutting-edge technologies
+- **[SSBSE 2025] Accepted papers will be considered for a special journal issue in the Automated Software Engineering journal.**
+
+### 4. [LINKS & CONTACTS]
+- **[SSBSE 2025] More info & submission: https://lnkd.in/gwxVDG5q**
+- **[ASE] Co-located information: https://lnkd.in/gTDTsXuX**
+- **[Previous Proceedings] For previous proceedings, check out: https://lnkd.in/gnCGdwtQ**
+- **[SEWORLD] To contribute to SEWORLD, send your submission to mailto:[log in to unmask]**
+- **[SEWORLD] More information on SEWORLD as well as links to a complete archive of messages posted to the list: http://sigsoft.org/resources/seworld.html**

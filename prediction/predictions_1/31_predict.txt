@@ -1,0 +1,32 @@
+### 1. [SCOPE & IDENTITY]
+- **Event Name**: ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)
+- **Event Description**: MODELS 2025 will host a number of workshops during the three days before the main conference. The workshops will provide a collaborative forum for a group of typically 15 to 30 participants to exchange recent and/or preliminary results, conduct intensive discussions on a particular topic, or coordinate efforts between representatives of a technical community.
+
+### 2. [TIMELINE & DATES]
+- **[MODELS 2025]** Important dates:
+   - **[Workshops]** Submission Deadline: Thu 3 Jul 2025
+   - **[Workshops]** Notification of Authors: Thu 31 Jul 2025
+   - **[Workshops]** Camera-ready Deadline: Thu 7 Aug 2025
+   - **[MODELS 2025]** Dates: Sun 5 Oct - Tue 7 Oct 2025
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[Workshops]** Submissions are invited for several workshops which are part of MODELS 2025. Accepted papers may present their work virtually.
+  
+### 4. [LINKS & CONTACTS]
+- **[MODELS 2025]** Main Conference Website: https://2025.models-conf.com/
+- **[MODELS 2025]** List of Accepted Workshops: https://2025.models-conf.com/track/models-2025-workshops#Accepted-workshops
+
+- **[International Workshop on Collaborative and Participatory Modeling (CoPaMo 2025)]** Homepage: https://copamo.github.io/
+- **[2nd International Workshop on Sustainability and Modeling (SusMod’25)]** Homepage: https://sustainability-and-modeling.github.io/
+- **[MDE Intelligence: 7th Workshop on Artificial Intelligence and Model-driven Engineering]** Homepage: https://mde-intelligence.github.io/
+- **[Modeling Language Engineering (MLE)]** Homepage: https://mleworkshop.github.io/editions/mle2025/
+- **[MULTI 2025]** Homepage: https://multi-workshop.github.io/2025/
+- **[Models and Evolution 2025 (ME 2025)]** Homepage: https://models-and-evolution.github.io/
+- **[Second International Workshop on Model Management (MoM)]** Homepage: https://mom2025.wp.imt.fr/
+- **[LowCode 2025: Low-Code Development Platforms]** Homepage: https://lowcode-workshop.github.io/
+- **[MoDeVVa’25: Model Driven Engineering, Verification and Validation]** Homepage: https://sites.google.com/site/modevva/call-for-papers
+- **[onto:Nexus Ontological Modeling and Analysis Workshop]** Homepage: https://www.opencaesar.io/events/onto-Nexus-Workshop-2025
+- **[MoDIoT – 1st International Workshop on Model-Based Development for the IoT]** Homepage: https://modiot2025.imad.org/
+
+- **[SEWORLD]** To contribute, send your submission to: mailto:[log in to unmask]  
+- **[SEWORLD]** More information: http://sigsoft.org/resources/seworld.html

@@ -1,0 +1,32 @@
+### 1. [SCOPE & IDENTITY]
+- The *3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)* will take place in Dubrovnik, Croatia. 
+- This will be a *Hybrid Conference* technically sponsored by IEEE Croatia section.
+
+### 2. [TIMELINE & DATES]
+- [iMETA 2025] Late Track Submission:
+  - Papers due: July 30, 2025
+  - Acceptance notification: August 20, 2025
+  - Camera-ready paper due: August 31, 2025
+- [iMETA 2025] Workshop Papers:
+  - Papers due: July 30, 2025
+  - Acceptance notification: August 30, 2025
+  - Camera-ready paper due: September 10, 2025
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [iMETA 2025] Manuscripts must be original, not previously published, or under review by another conference or journal.
+- [iMETA 2025] Submissions should adhere to the IEEE Conference Proceedings Format, using a double-column layout, 10-point font, and letter-sized paper.
+- [iMETA 2025] Manuscripts must be submitted in PDF format and should not exceed 6 pages for the review process.
+- [iMETA 2025] Accepted papers may extend to a maximum of 8 pages for the camera-ready version, subject to an overlength page fee.
+
+### 4. [LINKS & CONTACTS]
+- [iMETA 2025] Conference Homepage: https://imeta-conference.org/
+- [iMETA 2025] Submission Link: https://easychair.org/my/conference?conf=imeta2025
+- [IDTSC Workshop] Workshop Homepage: https://imeta-conference.org/2025/workshops#WS1
+- [BCIME Workshop] Workshop Homepage: https://imeta-conference.org/2025/workshops#WS2
+- [EASME Workshop] Workshop Homepage: https://imeta-conference.org/2025/workshops#WS3
+- [GAIXR Workshop] Workshop Homepage: https://imeta-conference.org/2025/workshops#WS4
+- [MetaLearn Workshop] Workshop Homepage: https://imeta-conference.org/2025/workshops#WS5
+- [SPAAUM Workshop] Workshop Homepage: https://imeta-conference.org/2025/workshops#WS6
+
+--- 
+*IEEE iMETA 2025 Organizing Committee*

@@ -1,0 +1,19 @@
+### 1. [SCOPE & IDENTITY]
+- **Event**: EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems, June 22-26, 2025 - Trier, Germany
+
+### 2. [TIMELINE & DATES]
+- **[EICS 2026]** Submission deadline for the 1st Round of PACM EICS 2026 for Full Papers and Technical Notes: July 25, 2025
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[EICS 2026]** Full Papers and Technical Notes should present original and mature research work within the scope of the conference.
+- **[EICS 2026]** Technical Notes require an illustrative example of the system, and they can, but do not need to, be validated by formal user evaluations or user studies.
+- **[EICS 2026]** Full Papers and Technical Notes must be written in the ACM format.
+- **[EICS 2026]** Papers must comply with the ACM policy on Research Involving Human Participants and Subjects.
+
+### 4. [LINKS & CONTACTS]
+- **[EICS 2026]** Conference Homepage: https://eics.acm.org/2026/
+- **[EICS 2026]** Full Papers and Technical Notes submission site: https://new.precisionconference.com
+- **[EICS 2026]** ACM format guidelines: https://www.acm.org/publications/authors/submissions
+- **[EICS 2026]** ACM policy on Research Involving Human Participants and Subjects: https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects
+- **[SEWORLD]** To contribute to SEWORLD, send your submission to mailto:[log in to unmask]
+- **[SEWORLD]** More information on SEWORLD: http://sigsoft.org/resources/seworld.html

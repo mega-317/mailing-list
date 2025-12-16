@@ -1,0 +1,61 @@
+### 1. [SCOPE & IDENTITY]
+- The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)
+
+### 2. [TIMELINE & DATES]
+- [SANER 2026] Conference Dates: 17-20 March, 2026, 5* St. Raphael Resort and Marina, Limassol, Cyprus
+- [SANER 2026] Workshop Proposals Submission Deadline: By 20th August, 2025 AoE
+- [SANER 2026] Research Track Abstract Submission Deadline: 9 October, 2025
+- [SANER 2026] Research Track Paper Submission Deadline: 16 October, 2025
+- [SANER 2026] Research Track Notifications: 9 December, 2025
+- [SANER 2026] Research Track Camera-Ready: 9 January, 2026
+- [SANER 2026] Industrial Track Abstract Submission Deadline: 10 November, 2025
+- [SANER 2026] Industrial Track Paper Submission Deadline: 17 November, 2025
+- [SANER 2026] Industrial Track Notifications: 19 December, 2025
+- [SANER 2026] Industrial Track Camera-Ready: 14 January, 2026
+- [SANER 2026] Short Papers and Posters Track Abstract Submission Deadline: 10 November, 2025
+- [SANER 2026] Short Papers and Posters Track Paper Submission Deadline: 17 November, 2025
+- [SANER 2026] Short Papers and Posters Track Notifications: 19 December, 2025
+- [SANER 2026] Short Papers and Posters Track Camera-Ready: 14 January, 2026
+- [SANER 2026] Early Research Achievement (ERA) Track Abstract Submission Deadline: 10 November, 2025
+- [SANER 2026] Early Research Achievement (ERA) Track Paper Submission Deadline: 17 November, 2025
+- [SANER 2026] Early Research Achievement (ERA) Track Notifications: 19 December, 2025
+- [SANER 2026] Early Research Achievement (ERA) Track Camera-Ready: 14 January, 2026
+- [SANER 2026] Reproducibility Studies and Negative Results (RENE) Track Abstract Submission Deadline: 10 November, 2025
+- [SANER 2026] Reproducibility Studies and Negative Results (RENE) Track Paper Submission Deadline: 17 November, 2025
+- [SANER 2026] Reproducibility Studies and Negative Results (RENE) Track Notifications: 19 December, 2025
+- [SANER 2026] Reproducibility Studies and Negative Results (RENE) Track Camera-Ready: 14 January, 2026
+- [SANER 2026] Tool Demo Track Paper Submission Deadline: 17 November, 2025
+- [SANER 2026] Tool Demo Track Notifications: 19 December, 2025
+- [SANER 2026] Tool Demo Track Camera-Ready: 14 January, 2026
+- [SANER 2026] Journal-First Track Paper Submission Deadline: 8 December, 2025
+- [SANER 2026] Journal-First Track Notifications: 22 December, 2025
+- [SANER 2026] Registered Report Track Submission Deadline: 7 November, 2025
+- [SANER 2026] Registered Report Track First Notification (Reviews): 5 December, 2025
+- [SANER 2026] Registered Report Track Second Round Submission (Rebuttal & Revised Report): 12 December, 2025
+- [SANER 2026] Registered Report Track Final Notification (Stage 1): 22 December, 2025
+- [SANER 2026] Registered Report Track Accepted Report to arXiv Submission: 9 January, 2026
+- [SANER 2026] Workshop Proposals Notification: 27 August, 2025
+- [SANER 2026] Tutorial Proposals Submissions: 12 January, 2026
+- [SANER 2026] Tutorial Proposals Notification: 12 January, 2026
+- [SANER 2026] Tutorial Camera-Ready Version: 16 January, 2026
+- [SANER 2026] Workshop Abstract Submission: 12 December, 2025
+- [SANER 2026] Workshop Paper Submission: 18 December, 2025
+- [SANER 2026] Workshop Notifications: 14 January, 2026
+- [SANER 2026] Workshop Camera-Ready: 20 January, 2026
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [SANER 2026] Research Track: Submissions must be original, not published, accepted, or under review elsewhere and should not exceed 12 pages (with the last 2 pages reserved for references only).
+- [SANER 2026] Industrial Papers Track: Submissions should not exceed 12 pages (with the last 2 pages reserved for references only) for full papers; talk proposals should not exceed 2 pages.
+- [SANER 2026] Short Papers and Posters Track: Submissions should not exceed 6 pages (including all text, figures, references, and appendices); posters should not exceed 2 pages.
+- [SANER 2026] Early Research Achievement (ERA) Track: Submissions should not exceed 6 pages (with the last 1 page reserved for references only).
+- [SANER 2026] Reproducibility Studies and Negative Results (RENE) Track: Submissions should not exceed 5 pages for appendices to conference submissions or previous work and should not exceed 12 pages for new reproducibility studies and new descriptions of negative results (with the last 2 pages reserved for references only).
+- [SANER 2026] Tool Demo Track: Submissions should not exceed 5 pages.
+- [SANER 2026] Journal-First Papers Track: Submissions should not exceed 1 page (for the main submission).
+- [SANER 2026] Registered Report Track: Submissions should not exceed 7 pages (with the last 1 page reserved for references only).
+  
+### 4. [LINKS & CONTACTS]
+- [SANER 2026] Homepage: https://conf.researchr.org/home/saner-2026
+- [SANER 2026] Workshop Proposal Submission Site: https://easychair.org/my/conference?conf=saner2026
+- [SANER 2026] Submission Link: https://easychair.org/my/conference?conf=saner2026
+- [SANER] Contact for SEWORLD submissions: mailto:[log in to unmask]
+- [SEWORLD] More information: http://sigsoft.org/resources/seworld.html

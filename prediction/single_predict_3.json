@@ -1,0 +1,81 @@
+{
+  "summary": {
+    "summary": {
+      "subject": "(CFP) ICITS'26 - 9th Int. Conference on Information Technology & Systems | Roatán Island, Honduras",
+      "date": "February 16-18, 2026",
+      "location": "Roatán Island, Honduras",
+      "conference_name": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+      "organizer": "Universidad Tecnológica de Honduras",
+      "website": "https://icits.me/",
+      "invitation": "Inviting original papers for submission.",
+      "submission_languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "review_process": "All submissions will be reviewed based on relevance, originality, importance, and clarity.",
+      "topics": [
+        "Information and Knowledge Management (IKM)",
+        "Organizational Models and Information Systems (OMIS)",
+        "Software and Systems Modeling (SSM)",
+        "Software Systems, Architectures, Applications and Tools (SSAAT)",
+        "Multimedia Systems and Applications (MSA)",
+        "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+        "Intelligent and Decision Support Systems (IDSS)",
+        "Big Data Analytics and Applications (BDAA)",
+        "Human-Computer Interaction (HCI)",
+        "Ethics, Computers and Security (ECS)",
+        "Health Informatics (HIS)",
+        "Information Technologies in Education (ITE)",
+        "Media, Applied Technology and Communication (MATC)"
+      ],
+      "submission_guidelines": {
+        "English_papers": {
+          "page_limit": "12 pages",
+          "format": "Lecture Notes in Networks and Systems series",
+          "requirements": [
+            "not previously published",
+            "not under review at other venues",
+            "anonymized submissions"
+          ],
+          "submission_format": [
+            "Word",
+            "Latex",
+            "PDF"
+          ]
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": "15 pages",
+          "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+          "requirements": [
+            "not previously published",
+            "not under review at other venues",
+            "anonymized submissions"
+          ],
+          "submission_format": [
+            "Word PDF"
+          ]
+        }
+      },
+      "review_method": "Double-blind review by at least two committee members.",
+      "presentation_format": {
+        "accepted_papers": "15 minutes presentation, followed by 5 minutes of discussion",
+        "posters": "presented during the conference"
+      },
+      "publication_info": {
+        "accepted_papers": {
+          "English": "Published in Proceedings by Springer, available in SpringerLink.",
+          "Spanish_Portuguese": "Published in a Special Issue of RISTI."
+        },
+        "registration_requirement": "At least one author must register by November 5, 2025."
+      },
+      "important_dates": {
+        "paper_submission_deadline": "September 28, 2025",
+        "acceptance_notification": "November 5, 2025",
+        "registration_payment_deadline": "November 19, 2025",
+        "camera_ready_submission_deadline": "November 19, 2025"
+      },
+      "closing_note": "We look forward to seeing you in Roatán Island, Honduras."
+    }
+  }
+}

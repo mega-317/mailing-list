@@ -1,0 +1,19 @@
+### 1. [SCOPE & IDENTITY]
+- Blekinge Institute of Technology is offering a position for an **ASSOCIATE SENIOR LECTURER (TENURE TRACK) in AI for SOFTWARE ENGINEERING** in Karlskrona, Sweden.
+- The position is part of the strategic research area in IT and mobile communication, **ELLIIT**, which is a partnership between Linköping University, Lund University, Halmstad University, and Blekinge Institute of Technology.
+
+### 2. [TIMELINE & DATES]
+- **Application Deadline**: August 1, 2025.
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **Eligibility**: Eligible to be employed as an associate senior lecturer is a person who has completed a doctoral degree or has equivalent scientific competence. Preference should be given to those who were awarded a doctoral degree or attained equivalent competence no more than five years prior to the application deadline for employment as an associate senior lecturer. Persons who have been awarded a doctoral degree or attained equivalent competence earlier can be considered for employment if special reasons exist. Special reasons refer to leave due to illness, parental leave, or other similar circumstances.
+
+### 4. [LINKS & CONTACTS]
+- **Blekinge Institute of Technology** Job Information: [Associate Senior Lecturer Position](https://www.bth.se/english/vacancies/job/associate-senior-lecturer-in-ai-for-software-engineering-tenure-track-karlskrona)
+- **Contact Information**: 
+   - Prof Jürgen Börstler, Department of Software Engineering
+   - Phone: +46 (455) 38 58 67
+   - E-mail: [log in to unmask]
+   - Address: SE-371 79 Karlskrona, SWEDEN
+- **SEWORLD Contribution**: To contribute to SEWORLD, send your submission to [mailto:[log in to unmask]](mailto:[log in to unmask])
+- **SEWORLD Information**: [SEWORLD Resources](http://sigsoft.org/resources/seworld.html) provides more information on SEWORLD as well as links to a complete archive of messages posted to the list.

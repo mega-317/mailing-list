@@ -1,0 +1,20 @@
+### 1. [SCOPE & IDENTITY]
+- The email announces a Post-Doc position at the Johannes Kepler University (JKU) Linz Institute of Technology (LIT).
+
+### 2. [TIMELINE & DATES]
+- [Post-Doc Position at JKU LIT] Apply now via the link below (Deadline Aug 10).
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [Post-Doc Position at JKU LIT] Applicants should possess a Doctorate/Ph.D. degree in Computer Science or a related field.
+- [Post-Doc Position at JKU LIT] Conduct Software Engineering research focusing on Distributed Software Systems, Software Architectures, Real-Time Data Processing, Cloud Computing, and Software Performance.
+- [Post-Doc Position at JKU LIT] Experience in writing academic/scientific publications and presenting scientific work at international events is required.
+- [Post-Doc Position at JKU LIT] Candidates with hands-on experience in object-oriented programming and familiarity with Apache Spark, Apache Flink, Apache Kafka, and Kubernetes are desired.
+- [Post-Doc Position at JKU LIT] Strong proficiency (C1 level) in English (both oral and written) is necessary.
+
+### 4. [LINKS & CONTACTS]
+- [Post-Doc Position at JKU LIT] Application Link: https://tinyurl.com/CoInnovPostDoc
+- [Post-Doc Position at JKU LIT] Previous Publication 1: https://doi.org/10.1145/3629526.3645036
+- [Post-Doc Position at JKU LIT] Previous Publication 2: https://doi.org/10.1145/3629104.3666040
+- [Rick Rabiser] Contact Email: [log in to unmask]
+- [JKU/LIT] Head of Cyber-Physical Systems Lab: jku.at/lit/cps-lab
+- [JKU/LIT] Head of Christian Doppler Lab VaSiCS: jku.at/cdl-vasics

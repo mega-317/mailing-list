@@ -1,0 +1,26 @@
+### 1. [SCOPE & IDENTITY]
+- Goal: Define who and what. Identify the Host event.
+  - Name: 5th International Conference on Code Quality (ICCQ)
+  - Date: Dec 13, 2025
+  - Venue: Ural Federal University, Russia
+  - Published by: IEEE Xplore (in cooperation with IEEE Computer Society)
+
+### 2. [TIMELINE & DATES]
+- Goal: All temporal information linked to their specific events.
+  - [5th ICCQ] Paper/abstract submission: 10 Aug 2025 (anywhere on Earth)
+  - [5th ICCQ] Author notification: 1 Nov 2025
+  - [5th ICCQ] Camera-ready submissions: 25 Nov 2025
+  - [5th ICCQ] Conference: 13 Dec 2025
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- Goal: What is the user asked to do? (Paper submission, Proposal, Registration) linked to specific tracks.
+  - [5th ICCQ] Submissions must be in PDF, printable in black and white on US Letter sized paper.
+  - [5th ICCQ] All submissions must adhere to the acmart template (sigplan, 11pt, anonymous).
+  - [5th ICCQ] Submitted papers must be at least 6 and at most 20 pages long, including bibliographical references and appendices.
+  - [5th ICCQ] Submit via EasyChair: https://easychair.org/cfp/iccq25
+
+### 4. [LINKS & CONTACTS]
+- Goal: URLs and emails linked to their specific purpose/owner.
+  - [5th ICCQ] Website: https://www.iccq.ru/2025.html
+  - [5th ICCQ] Submission Site: https://easychair.org/cfp/iccq25
+  - [5th ICCQ] Questions? Please email to [log in to unmask]

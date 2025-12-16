@@ -1,0 +1,16 @@
+### 1. [SCOPE & IDENTITY]
+- VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas. We invite regular papers, tools papers, and case studies.
+- VMCAI 2026 will take place during January 12-13, 2026 as a physical (in-person) event in Rennes, France, co-located with POPL 2026.
+
+### 2. [TIMELINE & DATES]
+- [VMCAI 2026] Submission deadline: 10th September 2025.
+- [VMCAI 2026] Notification: 6th November 2025.
+- [VMCAI 2026] Event dates: January 12-13, 2026.
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [VMCAI 2026] We invite regular papers, tools papers, and case studies.
+
+### 4. [LINKS & CONTACTS]
+- [VMCAI 2026] For more information, please visit the VMCAI 2026 website: https://conf.researchr.org/home/VMCAI-2026
+- [SEWORLD] To contribute to SEWORLD, send your submission to mailto:[log in to unmask]
+- [SEWORLD] More information on SEWORLD as well as links to a complete archive of messages posted to the list: http://sigsoft.org/resources/seworld.html

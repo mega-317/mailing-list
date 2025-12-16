@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "event": "VMCAI 2026",
+    "dates": "January 12-13, 2026",
+    "location": "Rennes, France",
+    "co-located_with": "POPL 2026",
+    "call_for_papers": {
+      "types": [
+        "regular papers",
+        "tools papers",
+        "case studies"
+      ],
+      "submission_deadline": "10th September 2025",
+      "notification_date": "6th November 2025",
+      "website": "https://conf.researchr.org/home/VMCAI-2026"
+    },
+    "email_for_submissions": "mailto:[log in to unmask]"
+  }
+}

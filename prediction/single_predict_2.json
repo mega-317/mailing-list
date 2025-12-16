@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "summary": {
+      "event": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+      "location": "Universidad Tecnológica de Honduras, Roatán Island, Honduras",
+      "dates": "February 16-18, 2026",
+      "invitation": "We invite you to submit original papers.",
+      "themes": [
+        "Information and Knowledge Management",
+        "Organizational Models and Information Systems",
+        "Software and Systems Modeling",
+        "and more"
+      ],
+      "submission_guidelines": {
+        "English": {
+          "page_limit": "12 pages",
+          "format": "Lecture Notes in Networks and Systems series",
+          "previous_publication": "must not have been published before",
+          "author_identification": "must not include any information leading to authors’ identification",
+          "submission_formats": [
+            "Word",
+            "Latex",
+            "PDF"
+          ]
+        },
+        "Spanish_or_Portuguese": {
+          "page_limit": "15 pages",
+          "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+          "previous_publication": "must not have been published before",
+          "author_identification": "must not include any information leading to authors’ identification"
+        }
+      },
+      "review_process": "All papers will undergo a double-blind review by at least two members of the Scientific Committee.",
+      "presentation_format": {
+        "duration": "15 minutes",
+        "discussion": "approximately 5 minutes"
+      },
+      "important_dates": {
+        "paper_submission": "September 28, 2025",
+        "notification_of_acceptance": "November 5, 2025",
+        "camera_ready_submission": "November 19, 2025"
+      },
+      "website": "https://icits.me/"
+    }
+  }
+}

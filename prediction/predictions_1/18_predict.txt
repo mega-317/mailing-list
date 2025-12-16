@@ -1,0 +1,19 @@
+### 1. [SCOPE & IDENTITY]
+- The Computer Science department at UCLouvain (Belgium) will soon open three full-time faculty positions targeting excellent profiles in the following domains:
+  - Positions 1 and 2, in one or more of these areas:
+    - Software engineering
+    - Programming systems and languages
+    - Software dependability, including formal methods
+  - Position 3, in software security and cybersecurity, broadly construed (e.g., system security, cyber-physical systems security, AI for security & security for AI, privacy, distributed systems security, etc.).
+- The three positions will be open to all seniority levels (assistant/associate or full).
+
+### 2. [TIMELINE & DATES]
+- [UCLouvain Positions] We expect vacancies to be announced on the UCLouvain job portal in early September, with a deadline a few weeks later for a standard application package (resume, teaching/research statement, etc.).
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [UCLouvain Positions] Applications will only be accepted on the UCLouvain job portal.
+- [UCLouvain Positions] Interested potential candidates are welcome to contact the department chair at [log in to unmask] with any questions.
+
+### 4. [LINKS & CONTACTS]
+- [UCLouvain Positions] Job Portal: https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/
+- [UCLouvain Positions] Department Chair Contact: [log in to unmask]

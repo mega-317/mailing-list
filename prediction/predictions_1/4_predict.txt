@@ -1,0 +1,25 @@
+### 1. [SCOPE & IDENTITY]
+- **ICITS'26 - 9th Int. Conference on Information Technology & Systems**  
+  Roatán Island, Honduras
+
+### 2. [TIMELINE & DATES]
+- **[ICITS'26] Paper Submission: September 28, 2025**  
+- **[ICITS'26] Notification of Acceptance: November 5, 2025**  
+- **[ICITS'26] Payment of Registration, to ensure the inclusion of an accepted paper in the conference proceedings: November 19, 2025**  
+- **[ICITS'26] Camera-ready Submission: November 19, 2025**  
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[ICITS'26] Submit original papers; Papers written in English must comply with the format of the Lecture Notes in Networks and Systems series, with a 12-page limit.**  
+- **[ICITS'26] Submit original papers; Papers written in Spanish or Portuguese must comply with the format of RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação, with a 15-page limit.**  
+- **[ICITS'26] Authors of accepted papers must address all recommended changes before submitting the camera-ready version.**  
+- **[ICITS'26] Accepted papers will have 15 minutes for presentation in a Conference Work Session, followed by approximately 5 minutes of discussion.**  
+- **[ICITS'26] Authors of papers accepted as posters must create and print a poster to be exhibited during the Conference, following an A1 or A2 vertical format.**  
+- **[ICITS'26] A maximum of one paper per registration will be published. An extra fee must be paid for publication of additional papers, with a maximum of one additional paper per registration.**  
+
+### 4. [LINKS & CONTACTS]
+- **[ICITS'26] Website: https://icits.me/**  
+- **[ICITS'26] Instructions for Authors (English): See Instructions for Authors at Springer Website**  
+- **[ICITS'26] Instructions for Authors (Spanish or Portuguese): Download instructions/template for authors in Spanish or Portuguese**  
+- **[ICITS'26] ICITS'26 Team: https://icits.me/**  
+- **[SEWORLD] For contributions to SEWORLD, send your submission: mailto:[log in to unmask]**  
+- **[SEWORLD] More information on SEWORLD: http://sigsoft.org/resources/seworld.html**  

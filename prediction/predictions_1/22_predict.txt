@@ -1,0 +1,25 @@
+### 1. [SCOPE & IDENTITY]
+- **Event Name:** 5th LATAM School in Software Engineering Research  
+- **Co-location:** Co-located with CBSoft - XVI Brazilian Conference on Software: Practice and Theory.  
+- **Location and Dates:** September 22nd to 26th, Recife, PE.  
+
+### 2. [TIMELINE & DATES]
+- [5th LATAM School in Software Engineering Research] Application deadline: June 30th, 2025  
+- [5th LATAM School in Software Engineering Research] Notification date: July 20th, 2025  
+- [5th LATAM School in Software Engineering Research] Event dates: September 22nd and 23rd, 2025  
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- [5th LATAM School in Software Engineering Research] Applicants must be Ph.D., MSc students from Latin American institutions, or who received the Ph.D. degree on or after 2024, and who work in Latin American organizations/universities.    
+- [5th LATAM School in Software Engineering Research] Highly motivated undergraduate students might be accepted, provided they are working with software engineering topics.  
+- [5th LATAM School in Software Engineering Research] Provide a structured abstract of your research (1-page limit) with headings: Context/Problem, Aims, Method, and Results (Expected Results).  
+- [5th LATAM School in Software Engineering Research] Prepare a poster that outlines your research. Poster dimensions: 122cm (height) and 92cm (width).   
+- [5th LATAM School in Software Engineering Research] If applicable, include a document with a list of papers published in journals and conferences between 2022 and 2025.  
+- [5th LATAM School in Software Engineering Research] Submissions must explicitly state the names of the applicant, advisor, and affiliation.  
+- [5th LATAM School in Software Engineering Research] Submissions should be electronically made through JEMS3.
+
+### 4. [LINKS & CONTACTS]
+- [5th LATAM School in Software Engineering Research] Organization contact: Prof. Lina Garcés (USP) E-mail: [log in to unmask]  
+- [5th LATAM School in Software Engineering Research] More information about the School: https://cbsoft.sbc.org.br/2025/escola  
+- [5th LATAM School in Software Engineering Research] Submission site: https://jems3.sbc.org.br/latamschool2025  
+- [CBSoft 2025] For details about CBSoft 2025: https://cbsoft.sbc.org.br/2025/cbsoft/  
+- [CSIndex] Software Engineering top conferences and journals: https://csindexbr.org  

@@ -1,0 +1,25 @@
+### 1. [SCOPE & IDENTITY]
+- Call for Book Chapters: **System of Systems Engineering: Innovations, Challenges, and Future Directions**.  
+- This book aims to address the increasing complexity of modern engineering challenges by providing a comprehensive resource that integrates theoretical foundations, emerging technologies, and practical applications of System of Systems Engineering (SoSE).  
+- Editors:  
+  - Bedir Tekinerdogan, Wageningen University, The Netherlands  
+  - Khalil Drira, LAAS-CNRS Université de Toulouse, France  
+
+### 2. [TIMELINE & DATES]
+- **[System of Systems Engineering Book]** September 1, 2025 - Contributors submit proposed chapter abstracts/outlines  
+- **[System of Systems Engineering Book]** September 15, 2025 - Notification of Reviewed Chapter Abstracts  
+- **[System of Systems Engineering Book]** December 15, 2025 - Submission of Full Chapters  
+- **[System of Systems Engineering Book]** January 15, 2026 - Notification of Full Chapters  
+- **[System of Systems Engineering Book]** March 1, 2026 - Camera-Ready Copy of Chapters  
+
+### 3. [ACTIONABLE REQUIREMENTS]
+- **[System of Systems Engineering Book]** Contributions should be original, unpublished, and not under review elsewhere. Each chapter should be approximately 7,500 words and follow Elsevier's formatting guidelines.  
+- **[System of Systems Engineering Book]** Interested authors should submit a chapter proposal (500-1,000 words) outlining the scope, methodology, and expected contributions of the chapter.  
+
+### 4. [LINKS & CONTACTS]
+- **[System of Systems Engineering Book]** Submission Site: https://easychair.org/conferences/?conf=sose2025  
+- **[System of Systems Engineering Book]** Email for proposals and inquiries: [log in to unmask]  
+- **[Prof. Dr. Ir. Bedir Tekinerdogan]** Email: [log in to unmask]  
+- **[Prof. Dr. Ir. Bedir Tekinerdogan]** Web: http://wageningenur.nl/inf  
+- **[SEWORLD]** To contribute to SEWORLD, send your submission to [log in to unmask]  
+- **[SEWORLD]** More information on SEWORLD: http://sigsoft.org/resources/seworld.html  

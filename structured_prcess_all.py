@@ -1,11 +1,11 @@
 # process_all.py
 from pathlib import Path
 import glob
-from mailflow._graph_main import process_one_file, save_json
+from structured.graph import process_one_file, save_text
 
-version = 44
+version = 1
 TEXT_DIR = Path("./data/texts")
-OUT_DIR = Path(f"./data/predictions_{version}")  # 결과 저장 폴더
+OUT_DIR = Path(f"./prediction/predictions_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # === 배치 실행 ===
@@ -24,9 +24,9 @@ txt_files.sort(key=lambda x: x[0])
 errors = []
 for n, path in txt_files:
     try:
-        out = process_one_file(path, keep_misspelled_key=True)
-        out_name = f"{n}_predict.json"
-        save_json(out, OUT_DIR / out_name)
+        out = process_one_file(path)
+        out_name = f"{n}_predict.txt"
+        save_text(out, OUT_DIR / out_name)
         print(f"[OK] {path.name} -> {out_name}")
     except Exception as e:
         errors.append((path.name, str(e)))

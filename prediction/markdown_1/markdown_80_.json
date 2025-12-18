@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "positions": "Two postdoctoral positions",
+    "institution": "UCLouvain, Belgium",
+    "location": "Close to Brussels",
+    "eligibility": "Holders of a Ph.D. in computer science, currently outside Belgium",
+    "salary": "Competitive salary with support",
+    "funding": {
+      "duration": "1 year",
+      "possibility_of_extension": true
+    },
+    "collaboration": {
+      "project": "RAINDROP",
+      "partners": [
+        "UCLouvain",
+        "UNamur"
+      ],
+      "supervisors": [
+        "Pr. Etienne Rivière",
+        "Pr. Ramin Sadre",
+        "Pr. Anthony Cleve"
+      ]
+    },
+    "research_focus": "Adapting traditional cloud applications for distributed cloud and edge resources",
+    "themes_of_interest": [
+      "Middleware and runtimes for distributed cloud applications",
+      "Scheduling and resource management for applications",
+      "Adaptation techniques for distributing computation",
+      "Visualization and monitoring for cloud/edge applications",
+      "Performance modeling and simulation for cloud/edge applications"
+    ],
+    "application_process": {
+      "contact": [
+        "Pr. Etienne Rivière",
+        "Pr. Ramin Sadre"
+      ],
+      "requirements": [
+        "CV",
+        "Link to current publication record",
+        "Description of topics of interest"
+      ],
+      "screening_start": "Immediately",
+      "positions_filled": "Until positions are filled"
+    }
+  }
+}

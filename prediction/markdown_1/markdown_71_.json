@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "subject": "Open Faculty Positions in Computer Science at NOVA University Lisbon",
+    "from": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Mon, 19 May 2025 18:01:07 -0000",
+    "call_for_applications": {
+      "institution": "NOVA University Lisbon",
+      "department": "Department of Computer Science",
+      "positions": {
+        "count": 6,
+        "type": "full-time, tenure-track Assistant Professor",
+        "areas_of_interest": [
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Security and Privacy",
+          "Computer Systems",
+          "Programming Languages",
+          "Software Engineering",
+          "Multimodal Systems",
+          "Human-Computer Interaction"
+        ],
+        "other_areas": "Exceptional candidates in other areas of Computer Science will also be considered.",
+        "tenure_level": "Tenured-level (Associate and Full Professor) applications are also welcome."
+      },
+      "requirements": {
+        "education": "Doctoral degree in Computer Science or a closely related field.",
+        "tenure_track_candidates": "Demonstrate exceptional research potential and ability to work independently and collaboratively.",
+        "tenured_candidates": "Distinguished research record, international recognition, strong leadership skills, experience supervising graduate students."
+      },
+      "application_process": {
+        "stages": 2,
+        "first_stage": {
+          "description": "Identify suitable candidates.",
+          "required_documents": [
+            "current CV",
+            "cover letter including a short research statement",
+            "three sample publications"
+          ],
+          "submission_details": {
+            "email": "[log in to unmask]",
+            "subject": "Faculty call 2025a"
+          },
+          "deadline": "May 29, 2025"
+        },
+        "second_stage": "Formal call for candidates will be opened for those identified."
+      },
+      "additional_information": "Further details can be found at the provided link."
+    },
+    "contact_info": {
+      "name": "Miguel Goulão",
+      "position": "Professor Associado",
+      "department": "Departamento de Informática",
+      "phone": "(+351) 21 2948536  Ext: 10731",
+      "institution": {
+        "name": "FACULDADE DE CIÊNCIAS E TECNOLOGIA",
+        "university": "Universidade NOVA de Lisboa",
+        "address": "Campus de Caparica | 2829-516 Caparica | Portugal",
+        "website": "www.fct.unl.pt"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "event": "5th LATAM School in Software Engineering Research",
+    "dates": "September 22nd to 26th, 2025",
+    "location": "Recife, PE, Brazil",
+    "co_location": "XVI Brazilian Conference on Software: Practice and Theory (CBSoft 2025)",
+    "organizer": {
+      "name": "Prof. Lina Garcés",
+      "institution": "USP",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://cbsoft.sbc.org.br/2025/escola",
+    "target_audience": [
+      "Undergraduate students",
+      "MSc students",
+      "PhD students",
+      "Researchers who defended their PhD theses in 2024"
+    ],
+    "goals": [
+      "Help new and future Software Engineering researchers become part of the software engineering community",
+      "Explore potential pathways in SE research",
+      "Understand challenges and opportunities in SE research"
+    ],
+    "format": "In-person with mentoring and keynotes",
+    "mentoring": {
+      "structure": "Students will present posters and have mentoring sessions lasting approximately 30 minutes",
+      "interaction": "Students will receive feedback from renowned researchers"
+    },
+    "important_dates": {
+      "application_deadline": "June 30th, 2025",
+      "notification_date": "July 20th, 2025"
+    },
+    "eligibility": [
+      "PhD and MSc students from Latin American institutions",
+      "Undergraduate students working on software engineering topics"
+    ],
+    "application_requirements": [
+      "Structured abstract of research (1 page)",
+      "Poster outlining the research (dimensions: 122cm x 92cm)",
+      "List of publications (if any) from 2022 to 2025"
+    ],
+    "benefits": [
+      "Free registration for the School",
+      "Free participation in CBSoft",
+      "Potential financial support"
+    ],
+    "program": {
+      "keynotes": [
+        "Research methodologies in software engineering",
+        "Open science and its importance",
+        "Collaboration opportunities between industry and academia",
+        "Balancing life and health in academia"
+      ],
+      "mentoring_program": "Involves groupings by topics and personalized feedback",
+      "panel": "Panel of 3-4 researchers answering student questions"
+    }
+  }
+}

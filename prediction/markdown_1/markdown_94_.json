@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "subject": "44th International Conference on Conceptual Modeling (ER 2025)",
+    "date": "20-23 October 2025",
+    "location": "Poitiers, France",
+    "theme": "BUILDING TRUST THROUGH CONCEPTUAL MODELING",
+    "important_dates": {
+      "abstract_submission": "19 MAY 2025",
+      "full_paper_submission": "26 MAY 2025",
+      "author_notification": "30 JULY 2025",
+      "camera_ready_submission": "18 AUGUST 2025"
+    },
+    "submission_guidelines": {
+      "page_limit": "16 pages (excluding references)",
+      "style": "LNCS format",
+      "double_blind_review": true,
+      "anonymization_requirements": "Authors must remove identifying information and use anonymization services."
+    },
+    "topics_of_interest": [
+      "Foundations of conceptual modeling",
+      "Conceptual modeling for data access and management",
+      "Conceptual modeling in various fields including AI, business, ethics, and digital twins"
+    ],
+    "submission_link": "https://easychair.org/conferences/?conf=er2025",
+    "journal_issue": "Selected papers will be invited to a Special Issue in Elsevier's Data & Knowledge Engineering."
+  }
+}

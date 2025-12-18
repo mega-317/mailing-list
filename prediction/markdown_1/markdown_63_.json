@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "subject": "Special Issue on Innovative Frontiers in Automated Software Engineering: Call for Papers",
+    "from": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Fri, 23 May 2025 14:20:55 -0000",
+    "submission_deadline": "July 21, 2025",
+    "overview": "This special issue invites transformative research that challenges conventional assumptions and envisions the future of automation in software engineering. It seeks contributions that go beyond incremental advances.",
+    "aims_and_scope": "To collect innovative ideas, visionary perspectives, and critical reflections that can reshape automated software engineering significantly. Contributions sought are beyond incremental advances and should propose new directions or insightful analyses of past research.",
+    "types_of_papers": [
+      {
+        "type": "Innovative, groundbreaking new ideas",
+        "description": "Exciting new directions with initial evidence or startling results that challenge established findings."
+      },
+      {
+        "type": "Visions of the future",
+        "description": "Bold ideas backed by strong scientific intuition, exploring unexplored software engineering aspects."
+      },
+      {
+        "type": "Reflections on the past",
+        "description": "Critical reassessments of past and current research directions in software engineering."
+      }
+    ],
+    "topics_of_interest": [
+      "Radical approaches to automating software engineering tasks",
+      "Novel applications of automation in unsuitable contexts",
+      "Bold predictions about transformative directions",
+      "Untapped potential of automation in emergent domains",
+      "Novel theoretical frameworks for software development",
+      "Reassessments of foundational assumptions",
+      "Examination of ethical implications in automation evolution",
+      "Reimagining correctness and verification in AI-generated software",
+      "Handling uncertainty and ambiguity in automated software engineering",
+      "Transformative applications of large language models",
+      "Radical perspectives on software composition and integration",
+      "Innovative socio-technical approaches between automation and human developers",
+      "Disruptive ideas for automated testing, verification, and validation"
+    ],
+    "submission_guidelines": "Refer to https://link.springer.com/journal/10515/submission-guidelines for detailed guidelines.",
+    "guest_editors": "To contribute, submissions should be sent to mailto:[log in to unmask]. More information is available at http://sigsoft.org/resources/seworld.html."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "event": "SEMLA 2025",
+    "dates": "June 17-19, 2025",
+    "location": "Polytechnique Montréal, Montréal, Canada",
+    "website": "https://semla.polymtl.ca",
+    "theme": [
+      "AgentOps",
+      "Intelligent Systems"
+    ],
+    "description": "The symposium focuses on operationalizing intelligent agents and intelligent systems which integrate large language models for various applications.",
+    "program_overview": {
+      "June 17, 2025": "AgentOps Day - Keynotes, sessions, and discussions focused on operationalizing intelligent agents.",
+      "June 18, 2025": "Intelligent Systems - Presentations, expert talks, and discussions on AI-enhanced systems and sustainability.",
+      "June 19, 2025": "Tutorials and SEMTL Meeting - Hands-on tutorials and the SEMTL meeting."
+    },
+    "poster_contribution": {
+      "deadline": "May 30th, 2025",
+      "details": "Poster presentations related to SEMLA topics; accepted posters to be presented in a dedicated session with eligibility for travel grants or best poster prizes.",
+      "submission_info": "https://semla.polymtl.ca/call-for-posters/"
+    },
+    "registration": {
+      "early_deadline": "June 6th, 2025",
+      "registration_link": "https://www.eventbrite.ca/e/semla-2025-tickets-1323634559599?aff=oddtdtcreator"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "summary": {
+    "subject": "SPARTAN effort on AI agents - Postdoc Position",
+    "date": "Wed, 21 May 2025 23:23:49 -0000",
+    "from": "SEWORLD Moderator",
+    "position": {
+      "title": "Postdoctoral Research Fellow",
+      "location": "National University of Singapore (NUS)",
+      "focus": "Agentic AI approaches towards software engineering",
+      "research_expertise": [
+        "program repair",
+        "fuzzing",
+        "symbolic execution"
+      ],
+      "specific_project": {
+        "name": "AutoCodeRover",
+        "description": "An early agent for software engineering being developed for usage, deployment and continued learning."
+      },
+      "SPARTAN_effort": "Candidates will join the SPARTAN effort on agents at NUS."
+    },
+    "eligibility": {
+      "requirements": [
+        "PhD thesis submitted or to be submitted soon"
+      ]
+    },
+    "application": {
+      "instructions": "Interested candidates can email their CV and sample publications.",
+      "email": "[log in to unmask]"
+    },
+    "contacts": {
+      "sender": {
+        "name": "Abhik Roychoudhury",
+        "title": "Provost's Chair Professor",
+        "affiliation": "National University of Singapore",
+        "other_roles": [
+          "Editor-in-Chief, ACM TOSEM",
+          "Senior Scientific Advisor, SonarSource"
+        ],
+        "website": "https://abhikrc.com"
+      }
+    }
+  }
+}

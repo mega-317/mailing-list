@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "conference_name": "28th Brazilian Symposium on Formal Methods (SBMF 2025)",
+    "location": "Recife, Pernambuco, Brazil",
+    "dates": {
+      "conference_duration": "December 3-5, 2025",
+      "paper_registration_deadline": "August 1, 2025",
+      "paper_submission_deadline": "August 8, 2025",
+      "acceptance_notice": "September 26, 2025",
+      "camera_ready_deadline": "October 10, 2025"
+    },
+    "website": "http://sbmf2025.ufrpe.br/",
+    "submission_link": "https://easychair.org/conferences/?conf=sbmf2025",
+    "submission_guidelines": {
+      "categories": [
+        {
+          "type": "Regular papers",
+          "page_limit": "15 pages"
+        },
+        {
+          "type": "Short papers",
+          "page_limit": "8 pages"
+        }
+      ],
+      "requirements": "Papers must be written in English and follow Springer’s Lecture Notes in Computer Science (LNCS) format. Contributions should be original and not submitted elsewhere."
+    },
+    "scope_and_topics": [
+      "Applications of formal methods in software/hardware design, development, testing, and intelligent systems",
+      "Specification and modeling languages",
+      "Theoretical foundations of formal methods",
+      "Verification and validation techniques",
+      "Experience reports on teaching/application of formal methods"
+    ],
+    "invited_speakers": [
+      "Marsha Chechik (University of Toronto, Canada)",
+      "Augusto Sampaio (Universidade Federal de Pernambuco, Brazil)",
+      "Hans Vangheluwe (University of Antwerp, Belgium)"
+    ],
+    "committees": {
+      "general_chair": "Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)",
+      "steering_committee": [
+        "Ciprian Teodorov (ENSTA Bretagne, France)",
+        "Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)",
+        "Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)",
+        "Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)",
+        "Vince Molnár (Budapest University of Technology and Economics, Hungary)",
+        "Yoni Zohar (Bar-Ilan University, Israel)"
+      ],
+      "program_chairs": [
+        "Leopoldo Teixeira (Universidade Federal de Pernambuco, Brazil)",
+        "Maurice ter Beek (CNR-ISTI, Italy)"
+      ]
+    },
+    "publication": {
+      "post_conference": "Accepted papers will be published in a volume of LNCS and a consent-to-publish form will be required.",
+      "special_issue": "There may be a special issue of the Science of Computer Programming Journal (Elsevier) featuring selected and extended papers from the conference."
+    },
+    "contact": "For submission inquiries, email sbmf2025 '@' easychair.org"
+  }
+}

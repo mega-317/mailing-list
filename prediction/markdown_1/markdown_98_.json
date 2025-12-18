@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "subject": "Call for Papers - The 33rd IEEE International Conference on Enabling Technologies (WETICE 2025)",
+    "date": "May 17, 2025",
+    "conference_name": "WETICE 2025",
+    "dates": "July 23–25, 2025",
+    "location": "Catania, Italy",
+    "venue": "Benedictine Monastery monumental building from the XVIth century",
+    "website": "https://www.dmi.unict.it/wetice2025",
+    "submission_deadline": "May 31, 2025",
+    "early_registration_deadline": "July 11, 2025",
+    "topics_of_interest": [
+      "collaborative intelligence",
+      "decentralised software systems",
+      "artificial intelligence",
+      "data science",
+      "cyber-physical technologies",
+      "Blockchain",
+      "Internet of Things (IoT)",
+      "collaboration tools"
+    ],
+    "submission_guidelines": {
+      "original_content_required": true,
+      "language": "English",
+      "formatting_link": "https://www.ieee.org/conferences/publishing/templates.html",
+      "maximum_length": "6 pages",
+      "author_information": "Authors are required to include their names and affiliations in their papers."
+    },
+    "keynote_sessions": "Two keynotes and many paper sessions will be featured.",
+    "sponsorship": [
+      "IEEE.org",
+      "IEEE Computer Society Italy Chapter",
+      "IEEE Systems, Man and Cybernetics Society Italy Chapter"
+    ],
+    "proceedings_inclusion": [
+      "IEEE Xplore",
+      "Scopus",
+      "DBLP",
+      "Google Scholar"
+    ]
+  }
+}

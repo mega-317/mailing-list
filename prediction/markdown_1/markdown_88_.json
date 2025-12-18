@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "subject": "Call for Papers: Responsible AI Special Issue Journal - Information Processing & Management",
+    "submissionDeadline": "30 October 2025",
+    "guestEditors": [
+      {
+        "name": "Ebrahim Bagheri",
+        "institution": "University of Toronto",
+        "position": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Robin Cohen",
+        "institution": "University of Waterloo",
+        "position": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Faezeh Ensan",
+        "institution": "Toronto Metropolitan University",
+        "position": "Assistant Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Benjamin C. M. Fung",
+        "institution": "McGill University",
+        "position": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Sébastien Gambs",
+        "institution": "Université du Québec à Montréal",
+        "position": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Reihaneh Rabbany",
+        "institution": "McGill University",
+        "position": "Assistant Professor",
+        "email": "[log in to unmask]"
+      }
+    ],
+    "specialIssueDescription": "This special issue seeks to bring together cutting-edge research, methodologies, and critical reflections on Responsible Artificial Intelligence (RAI). It aims to understand the ethical, legal, technical, and societal dimensions of AI systems and to provide a venue for interdisciplinary contributions addressing challenges and opportunities in responsible AI.",
+    "topicsOfSubmission": [
+      "Fairness and Bias Mitigation in AI",
+      "Adversarial AI and Red Teaming",
+      "Interpretability and Explainability",
+      "Trust, Reliability, and Safety",
+      "Accountability in Algorithmic Decision-Making",
+      "Auditing and Monitoring AI Systems",
+      "Human-Centered AI Design",
+      "Sociotechnical and Cultural Dimensions of AI",
+      "Environmental Impact of AI",
+      "Regulatory, Legal, and Policy Considerations",
+      "Responsible AI Education and Training",
+      "Social Impact and Labor Implications"
+    ],
+    "submissionGuidelines": "Original, high-quality submissions are invited, including research articles and review articles. All submissions will undergo a single-blind peer-review process. Authors must disclose any overlapping publications.",
+    "submissionLink": "https://www.editorialmanager.com/ipm/default.aspx",
+    "keywords": [
+      "Responsible AI",
+      "AI Ethics",
+      "Algorithmic Accountability",
+      "AI Auditing",
+      "Social Implications of AI"
+    ],
+    "contactPerson": {
+      "name": "Calvin Hillis",
+      "position": "Program Coordinator - Responsible Development of Artificial Intelligence",
+      "email": "[log in to unmask]"
+    }
+  }
+}

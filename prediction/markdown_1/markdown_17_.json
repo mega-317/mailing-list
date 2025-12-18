@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "call_for_contributions": {
+      "book_title": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+      "publisher": "Elsevier",
+      "editors": [
+        {
+          "name": "Bedir Tekinerdogan",
+          "affiliation": "Wageningen University, The Netherlands"
+        },
+        {
+          "name": "Khalil Drira",
+          "affiliation": "LAAS-CNRS Université de Toulouse, France"
+        }
+      ],
+      "scope": "The book addresses the complexity of modern engineering challenges and the interdisciplinary field of System of Systems Engineering (SoSE), including its applications across industries such as aerospace, healthcare, and energy.",
+      "focus_areas": [
+        "Theoretical foundations",
+        "Emerging technologies",
+        "Practical applications"
+      ],
+      "key_topics": [
+        {
+          "theme": "Foundations of System of Systems Engineering",
+          "subtopics": [
+            "Characterization and classification of SoS",
+            "Key concepts and theoretical foundations",
+            "Historical evolution and future trajectories"
+          ]
+        },
+        {
+          "theme": "Governance and Management",
+          "subtopics": [
+            "Strategic governance and policy frameworks",
+            "Leadership and decision-making",
+            "Risk management strategies",
+            "Funding models and economic considerations"
+          ]
+        },
+        {
+          "theme": "Methodologies and Tools",
+          "subtopics": [
+            "Systems thinking and lifecycle management",
+            "Modeling and simulation approaches",
+            "Standards for interoperability",
+            "Digital thread approaches"
+          ]
+        },
+        {
+          "theme": "AI and Emerging Technologies",
+          "subtopics": [
+            "AI-driven decision-making",
+            "Machine learning applications",
+            "Integration of IoT and blockchain",
+            "Digital twins"
+          ]
+        },
+        {
+          "theme": "Human and Organizational Factors",
+          "subtopics": [
+            "Human factors in design and operation",
+            "Organizational change management",
+            "Cross-disciplinary collaboration"
+          ]
+        },
+        {
+          "theme": "Case Studies and Domain-Specific Applications",
+          "subtopics": [
+            "Defense and autonomous systems",
+            "Smart cities and transportation",
+            "Healthcare approaches",
+            "Energy systems",
+            "Environmental systems"
+          ]
+        },
+        {
+          "theme": "Emerging Challenges and Future Directions",
+          "subtopics": [
+            "Cybersecurity in complex systems",
+            "Social and ethical considerations",
+            "Monitoring frameworks for performance"
+          ]
+        }
+      ],
+      "important_dates": {
+        "abstract_submission": "September 1, 2025",
+        "notification_of_abstracts": "September 15, 2025",
+        "full_chapter_submission": "December 15, 2025",
+        "notification_of_full_chapters": "January 15, 2026",
+        "camera_ready_copy": "March 1, 2026"
+      },
+      "submission_guidelines": {
+        "requirements": "Original, unpublished contributions not under review elsewhere.",
+        "chapter_length": "Approx. 7,500 words.",
+        "co_authorship": "Encouraged.",
+        "proposal_length": "500-1,000 words."
+      },
+      "submission_link": "https://easychair.org/conferences/?conf=sose2025",
+      "contact_email": "[log in to unmask]"
+    }
+  }
+}

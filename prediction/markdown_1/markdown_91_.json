@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "subject": "PhD and Postdoc Positions at CISPA/University of Stuttgart",
+    "from": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Sat, 17 May 2025 04:17:19 -0000",
+    "positions": {
+      "type": "Postdoc",
+      "location": "CISPA, Stuttgart, Germany",
+      "funding": "fully funded",
+      "urgent": "as soon as possible",
+      "topics": [
+        "AI to reason about and modify software (e.g., LLM agents for finding and fixing bugs)",
+        "static and dynamic program analysis (e.g., to infer specifications)",
+        "test input generation (e.g., to compare the behavior of old and new code via differential testing)"
+      ]
+    },
+    "application_info": {
+      "website": "https://software-lab.org/",
+      "contact_person": "Michael Pradel",
+      "contact_email": "<[log in to unmask]>"
+    }
+  }
+}

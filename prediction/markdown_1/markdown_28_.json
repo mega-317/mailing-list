@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "subject": "Deadline Extended: CfP ICTAC'2025",
+    "from": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Thu, 19 Jun 2025 17:14:46 -0000",
+    "call_for_papers": {
+      "event": "International Colloquium on Theoretical Aspects of Computing",
+      "location": "Marrakech, Morocco",
+      "dates": "November 24th to 28th, 2025",
+      "website": "https://ictac2025.digital-hub.sh/"
+    },
+    "overview": "The ICTAC conference aims at bringing together researchers from academia, industry, and government to present research and exchange ideas in theoretical aspects of computing. It promotes research cooperation between developing and industrial countries.",
+    "topics_of_interest": [
+      "Formal languages and automata",
+      "Semantics of programming languages",
+      "Logic in computer science",
+      "Lambda calculus, type theory, and category theory",
+      "Domain-specific languages",
+      "Theories of concurrency and mobility",
+      "Theories of distributed computing",
+      "Models of objects and components",
+      "Coordination models",
+      "Security and privacy",
+      "Static analysis",
+      "Software verification",
+      "Timed, hybrid, and cyber-physical systems",
+      "Verification, analysis and control synthesis",
+      "Software testing",
+      "Program generation and transformation",
+      "Model checking and theorem-proving",
+      "Quantum computing",
+      "Trustworthy AI",
+      "Machine learning algorithms",
+      "Applications and experience"
+    ],
+    "invited_speakers": [
+      "Antoine Girard, University Paris-Saclay, CNRS, France",
+      "Klaus Havelund, NASA’s Jet Propulsion Laboratory, California Institute of Technology, USA",
+      "Joost-Pieter Katoen, RWTH Aachen University, Germany",
+      "Kim Guldstrand Larsen, Aalborg University, Denmark"
+    ],
+    "publication_details": {
+      "accepted_papers": "All accepted papers will be published in Springer's Lecture Notes in Computer Science.",
+      "best_paper_award": "Springer sponsors the ICTAC 2025 Best Paper Award with a cash prize of 1,000 Euro.",
+      "special_issue": "There will be a special issue for selected papers from ICTAC 2025 in Elsevier’s journal Theoretical Computer Science."
+    },
+    "deadlines": {
+      "abstract_submission": "July 03rd (extended)",
+      "full_paper_submission": "July 09th (extended)",
+      "notification": "August 30th",
+      "camera_ready_papers": "September 15th"
+    },
+    "general_chairs": [
+      "Ahmed Bouajjani, Université de Paris, France",
+      "Mohammed Erradi, ENSIAS, UM5R, Morocco"
+    ],
+    "program_chairs": [
+      "Zhiming Liu, Southwest University, China",
+      "Adnane Saoud, UM6P, Morocco",
+      "Heike Wehrheim, University of Oldenburg, Germany"
+    ]
+  }
+}

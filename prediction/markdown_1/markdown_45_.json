@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "event": "School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions",
+    "location": "Kutaisi International University, Kutaisi, Georgia",
+    "dates": "July 7th-11th 2025",
+    "website": "https://europroofnet.github.io/Kutaisi25/",
+    "description": "The school aims to equip participants with advanced techniques for formal reasoning and expression processing, covering topics such as access control policies, symbolic knowledge extraction, automated protocol analysis, and quantitative constraint solving.",
+    "topics": [
+      {
+        "title": "Specification and Analysis of Access Control, Obligation and Privacy Policies via the Category-Based MetaModel",
+        "presenter": "Maribel Fernandez"
+      },
+      {
+        "title": "Symbolic Knowledge Extraction and Injection: Theory and Methods",
+        "presenter": "Giovanni Ciatto"
+      },
+      {
+        "title": "Integration of Regular Languages in Deep Learning for Sequential Domains",
+        "presenter": "Elena Umili"
+      },
+      {
+        "title": "Automated Reasoning in Maude for Protocol Analysis",
+        "presenter": "Santiago Escobar"
+      },
+      {
+        "title": "Symbolic techniques for solving quantitative constraints",
+        "presenter": "Temur Kutsia"
+      },
+      {
+        "title": "Runtime Verification as contiguous formula progression and SMT solving",
+        "presenter": "Martin Leucker"
+      },
+      {
+        "title": "Towards GPU-accelerated automated reasoning",
+        "presenter": "Martin Berger"
+      }
+    ],
+    "registration_fee": "150 EUR",
+    "registration_contact": "[log in to unmask]"
+  }
+}

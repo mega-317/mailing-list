@@ -1,0 +1,70 @@
+{
+  "summary": {
+    "conference_name": "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+    "location": "Roatán Island, Honduras",
+    "dates": "16-18 February 2026",
+    "homepage": "https://icits.me/",
+    "description": "An international forum for researchers and practitioners to present and discuss recent innovations, trends, results, experiences, and concerns in Information Technology & Systems.",
+    "submission_details": {
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "review_process": "All submitted papers will undergo a double-blind review.",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": 12,
+          "format": "Lecture Notes in Networks and Systems series",
+          "identification": "No identifying information included in the initial submission."
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": 15,
+          "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+          "identification": "No identifying information included in the initial submission."
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": "15 minutes",
+          "discussion_time": "5 minutes"
+        },
+        "posters": {
+          "format": "A1 or A2 vertical",
+          "presentation_time": "7 minutes"
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Proceedings by Springer",
+          "indexing": [
+            "Scopus",
+            "WoS",
+            "DBLP",
+            "Google Scholar"
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": "Special Issue of RISTI",
+          "indexing": [
+            "ProQuest",
+            "EBSCO",
+            "Google Scholar"
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": "5th of November 2025",
+        "limit": "One paper per registration published"
+      }
+    },
+    "important_dates": {
+      "paper_submission": "September 28, 2025",
+      "notification_of_acceptance": "November 5, 2025",
+      "registration_payment_deadline": "November 19, 2025",
+      "camera_ready_submission_deadline": "November 19, 2025"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "event": "7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)",
+    "location": "Paris, France",
+    "dates": {
+      "workshop": "17th to 19th of November 2025",
+      "submission_deadline": "22nd of August 2025",
+      "notification_date": "6th of October 2025",
+      "final_version_due": "17th of October 2025"
+    },
+    "website": "https://fmasworkshop.github.io/FMAS2025/",
+    "scope": "The workshop focuses on formal verification techniques for autonomous systems, including challenges such as dynamic environments, decision-making verification, and regulatory compliance.",
+    "submission_categories": {
+      "vision_papers": "6 pages",
+      "research_previews": "6 pages",
+      "experience_reports": "15 pages",
+      "regular_papers": "15 pages"
+    },
+    "topics_of_interest": [
+      "Applicable, tool-supported Formal Methods for Autonomous Systems",
+      "Runtime Verification and reality gap issues",
+      "Verification against safety assurance",
+      "Formal specification and requirements engineering",
+      "Case Studies on formal methods challenges",
+      "Experience Reports on practical application challenges",
+      "Future directions in Formal Methods"
+    ],
+    "special_topic": "Human-AI Teams",
+    "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+    "best_paper_award": "An award will be given for the best paper.",
+    "special_issue": "A journal special issue will be organized for extended versions of accepted papers.",
+    "poster_session": "A session for demos and posters will be co-located with iFM2025.",
+    "participation": {
+      "in_person": "Required registration and payment for on-site attendance.",
+      "remote": "Free participation available."
+    }
+  }
+}

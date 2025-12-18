@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "subject": "Call for Papers: International Conference on Software Engineering (ICSE) 2026 Research Track",
+    "date": "April 12-18, 2026",
+    "location": "Rio de Janeiro, Brazil",
+    "submission_deadline": "July 18, 2025",
+    "conference_link": "https://conf.researchr.org/home/icse-2026",
+    "overview": "The ICSE conference is a prominent forum for discussing significant technical research contributions in software engineering. The research track invites submissions of original and unpublished results.",
+    "important_information": [
+      {
+        "item": "Open Access Policy",
+        "details": "From 2026, all articles published by ACM will be Open Access, with most authors potentially not needing to pay Article Processing Charges (APC)."
+      },
+      {
+        "item": "Submission Guidelines",
+        "details": "All submissions must adhere to IEEE and ACM policies regarding authorship and generative AI tools."
+      },
+      {
+        "item": "APC subsidy",
+        "details": "A temporary subsidy will reduce the APC to $250 for ACM/SIG members and $350 for non-members."
+      },
+      {
+        "item": "Dual Submission Cycles",
+        "details": "There will be two submission cycles, with the second deadline on July 18, 2025."
+      }
+    ],
+    "research_areas": [
+      "AI for Software Engineering",
+      "Analytics",
+      "Architecture and Design",
+      "Dependability and Security",
+      "Evolution",
+      "Human and Social Aspects",
+      "Requirements and Modeling",
+      "Software Engineering for AI",
+      "Testing and Analysis"
+    ],
+    "review_criteria": [
+      "Novelty",
+      "Rigor",
+      "Relevance",
+      "Verifiability and Transparency",
+      "Presentation"
+    ],
+    "conference_expectation": "At least one author of an accepted paper must register and present at ICSE 2026.",
+    "program_chairs": [
+      "Mira Mezini",
+      "Thomas Zimmermann"
+    ]
+  }
+}

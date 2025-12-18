@@ -1,0 +1,115 @@
+{
+  "summary": {
+    "conference_name": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+    "dates": "17-20 March 2026",
+    "location": "5* St. Raphael Resort and Marina, Limassol, Cyprus",
+    "website": "https://conf.researchr.org/home/saner-2026",
+    "call_for_papers": {
+      "description": "Invites high-quality submissions of original and unpublished research results.",
+      "topics_of_interest": [
+        "AI for Software Engineering and Software Engineering for AI",
+        "Generative AI and LLM applied to analysis, evolution and reengineering of software",
+        "Software Analysis, Parsing, and Fact Extraction",
+        "Software Maintenance and Evolution, Evolution Analysis",
+        "Software Reverse Engineering and Reengineering",
+        "Program Comprehension",
+        "Software Architecture Recovery and Reverse Architecting",
+        "Program Transformation and Refactoring",
+        "Mining Software Repositories and Software Analytics",
+        "Software Visualization",
+        "Software Reconstruction and Migration",
+        "Program Repair",
+        "Software Release Engineering, Continuous Integration and Delivery",
+        "Software Tools for Software Evolution and Maintenance",
+        "Human factors and legal aspects in the context of Software Analysis, Evolution and Reengineering",
+        "Empirical studies on the above topics",
+        "Education related to the above topics"
+      ],
+      "submission_instructions": {
+        "review_process": "Rigorous peer review process.",
+        "originality": "Submissions must be original, not published, accepted, or under review elsewhere.",
+        "format": "PDF format and conform to the IEEE Conference Proceedings Formatting Guidelines.",
+        "tracks": {
+          "Research Track": "Submissions should not exceed 12 pages.",
+          "Industrial Papers Track": "Submissions should not exceed 12 pages for full papers; talk proposals should not exceed 2 pages.",
+          "Short Papers and Posters Track": "Submissions should not exceed 6 pages; posters should not exceed 2 pages.",
+          "Early Research Achievement (ERA) Track": "Submissions should not exceed 6 pages.",
+          "Reproducibility Studies and Negative Results (RENE) Track": "Submissions should not exceed 5 pages for appendices; 12 pages for new studies.",
+          "Tool Demo Track": "Submissions should not exceed 5 pages.",
+          "Journal-First Papers Track": "Submissions should not exceed 1 page.",
+          "Registered Report Track": "Submissions should not exceed 7 pages."
+        },
+        "note": "Research, Short Papers and Posters, ERA, and RENE Tracks follow a double-anonymous review process."
+      },
+      "special_journal_issue": "Selected papers may be invited to submit revised versions for a special issue in Springer’s EMSE Journal.",
+      "workshops_call": {
+        "description": "Proposals for workshops to be held with the main conference.",
+        "submission_instructions": {
+          "format": "Call for papers in the form of a PDF or a public link.",
+          "deadline": "By 20th August, 2025",
+          "requirements": [
+            "A workshop title",
+            "A description of the workshop topic and scope",
+            "Indication of workshop length (half or full day)",
+            "Link to the workshop website",
+            "Contact information"
+          ]
+        }
+      },
+      "tutorials_call": {
+        "description": "Invites proposals for tutorials on topics related to Software Analysis, Evolution, and Reengineering.",
+        "categories": [
+          "Technical Tutorial",
+          "Research problem"
+        ],
+        "submission_instructions": {
+          "format": "Proposal should not exceed one page with one additional page for references.",
+          "submission_link": "https://easychair.org/my/conference?conf=saner2026"
+        }
+      },
+      "important_dates": {
+        "Research Track": {
+          "Abstract Submission Deadline": "9 October, 2025",
+          "Paper Submission Deadline": "16 October, 2025",
+          "Notifications": "9 December, 2025",
+          "Camera-Ready": "9 January, 2026"
+        },
+        "Industrial Track": {
+          "Abstract Submission Deadline": "10 November, 2025",
+          "Paper Submission Deadline": "17 November, 2025",
+          "Notifications": "19 December, 2025",
+          "Camera-Ready": "14 January, 2026"
+        },
+        "workshop_submissions": {
+          "Workshop Proposals Submissions": "20 August, 2025",
+          "Workshop Proposals Notification": "27 August, 2025"
+        }
+      },
+      "organizing_committee": [
+        {
+          "role": "General Chair",
+          "name": "Georgia Kapitsaki",
+          "affiliation": "University of Cyprus, Cyprus"
+        },
+        {
+          "role": "Local Organizing Chair",
+          "name": "George Angelos Papadopoulos",
+          "affiliation": "University of Cyprus, Cyprus"
+        },
+        {
+          "role": "Program Chairs",
+          "members": [
+            {
+              "name": "Eunjong Choi",
+              "affiliation": "Kyoto Institute of Technology, Japan"
+            },
+            {
+              "name": "Matthias Galster",
+              "affiliation": "University of Canterbury, New Zealand"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

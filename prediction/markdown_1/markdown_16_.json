@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "subject": "CfP EICS 2026 - First Submission Round",
+    "from": "SEWORLD Moderator",
+    "date": "Mon, 7 Jul 2025",
+    "event": "EICS 2026",
+    "conference_details": {
+      "date": "June 22-26, 2025",
+      "location": "Trier, Germany",
+      "website": "https://eics.acm.org/2026/"
+    },
+    "submission_details": {
+      "deadline": "July 25, 2025",
+      "submission_type": [
+        "Full Papers",
+        "Technical Notes"
+      ],
+      "submission_process": {
+        "review_process": "Papers may be accepted after submission and review, or may be recommended for revisions.",
+        "submission_platform": "https://new.precisionconference.com"
+      }
+    },
+    "conference_scope": "The conference focuses on engineering interactive computing systems and their user interfaces, including aspects like usability, user experience, reliability, and security.",
+    "topics": [
+      "Modelling, specification and analysis of interaction and interactive systems",
+      "Requirements engineering for interactive systems",
+      "Methods, processes, and tools for building interactive systems",
+      "Software architectures for interactive systems",
+      "Formal methods within interactive systems engineering",
+      "Bridging the gap between engineering and design practices",
+      "Engineering design and evaluation tools",
+      "Computational techniques for designing and evaluating interactive systems",
+      "Interactive data-driven systems",
+      "Diverse interaction techniques and devices",
+      "Engineering hardware or software integration in interactive systems",
+      "Engineering interactive systems for diverse user groups",
+      "Engineering collaborative multi-user interactive systems",
+      "Engineering interactive systems embedding AI-technologies",
+      "Applying AI technologies in methods, processes, and tools for interactive systems"
+    ],
+    "additional_resources": {
+      "newcomers_guide": "https://dl.acm.org/doi/10.1145/3300960",
+      "ACM_format": "https://www.acm.org/publications/authors/submissions",
+      "ACM_policy": "https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects"
+    },
+    "chairs": [
+      "Célia Martinie",
+      "Davide Spano"
+    ]
+  }
+}

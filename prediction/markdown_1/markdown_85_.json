@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "event": "18th ACM SIGPLAN International Conference on Software Language Engineering (SLE 2025)",
+    "dates": "12-13 June 2025",
+    "location": "Koblenz, Germany",
+    "registration_info": {
+      "registration_link": "https://conf.researchr.org/attending/staf-2025/staf-2025-registration",
+      "early_bird_deadline": "May 10th, 2025"
+    },
+    "venue": {
+      "name": "University of Koblenz",
+      "venue_link": "https://conf.researchr.org/venue/sle-2025/staf-2025-venue"
+    },
+    "keynotes": [
+      {
+        "speaker": "Thorsten Berger",
+        "affiliation": "Ruhr University Bochum, Germany",
+        "topic": "A New DSL Textbook in Town!"
+      },
+      {
+        "speaker": "Friedrich Steimann",
+        "affiliation": "Fernuniversität in Hagen, Germany",
+        "topic": "an Programming Be Liberated from the Functional Style?"
+      }
+    ],
+    "awards": [
+      "Distinguished paper",
+      "Distinguished artefact",
+      "Distinguished reviewer",
+      "Most Influential Paper",
+      "COLA Award: 2024 Journal of Computer Languages Best Paper Award"
+    ],
+    "accepted_papers": [
+      "A Model-Driven Approach to Design, Generation, and Deployment of GUI Component Libraries",
+      "AnyText: Incremental, left-recursive Parsing and Pretty-Printing from a single Grammar Definition with first-class LSP support",
+      "Boosting Parallel Parsing through Cyclic Operator Precedence Grammars",
+      "Detecting Resource Leaks on Android with Alpakka",
+      "Dynamic Dependency-Based Purity Checking",
+      "Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages",
+      "Handling Grammar Cycles in the 1997 Standard ML Definition",
+      "Integrating Model Checking into a Live Modeling Environment",
+      "Lessons Learned: Challenges of Modular Language Design",
+      "Optimal Language Design is Hard: A Case Study in ECMAScript (JavaScript) Standardization",
+      "Optimize Effect Handling for Tail-resumption with Stack Unwinding",
+      "Property-based Testing of Attribute Grammars",
+      "Scheduling the Construction and Interrogation of Scope Graphs Using Attribute Grammars",
+      "(Semantic) Feature Model Differences with (Q)SAT",
+      "TranspileJS, an Intelligent Framework for Transpiling JavaScript to WebAssembly",
+      "Variability Fault Localization by Abstract Interpretation and its Application to SPL Repair"
+    ],
+    "links": {
+      "official_website": "https://conf.researchr.org/home/sle-2025",
+      "additional_website": "https://www.sleconf.org/2025/"
+    }
+  }
+}

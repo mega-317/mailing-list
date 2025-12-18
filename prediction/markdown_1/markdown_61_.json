@@ -1,0 +1,86 @@
+{
+  "summary": {
+    "subject": "ESOP 2026 - Second Call for Papers",
+    "date": "Fri, 23 May 2025",
+    "conference": {
+      "name": "ESOP 2026",
+      "description": "An annual conference devoted to programming languages and systems.",
+      "areas_of_contribution": [
+        "programming paradigms and styles",
+        "methods and tools to specify and reason about programs and languages",
+        "programming language foundations",
+        "methods and tools for implementation, concurrency and distribution",
+        "applications and emerging topics"
+      ],
+      "important_dates": {
+        "round_1": {
+          "submission_deadline": "June 3, 2025",
+          "rebuttal_period": "July 21-23, 2025",
+          "notification_date": "August 1, 2025"
+        },
+        "round_2": {
+          "submission_deadline": "October 16, 2025",
+          "rebuttal_period": "December 8-10, 2025",
+          "notification_date": "December 22, 2025"
+        }
+      },
+      "submission_categories": {
+        "research_papers": {
+          "description": "Articles that advance the state-of-the-art on programming languages.",
+          "formats": [
+            "Springer's LNCS",
+            "ACM’s PACMPL",
+            "ACM’s TOPLAS"
+          ],
+          "page_limit": "25 pages (excluding bibliography)"
+        },
+        "experience_reports": {
+          "description": "Articles reporting on systems and techniques in practice with critical evaluation.",
+          "page_limit": "15 pages (excluding bibliography)"
+        },
+        "fresh_perspectives": {
+          "description": "Articles that promote new insights on programming languages.",
+          "page_limit": "15 pages (excluding bibliography)"
+        }
+      },
+      "review_process": "Double-blind review.",
+      "accepted_papers_publication": "Springer's Lecture Notes in Computer Science series.",
+      "submission_link": "https://esop26.hotcrp.com/",
+      "artifact_evaluation": "Post-paper-acceptance voluntary artifact evaluation.",
+      "program_committee": {
+        "chair": "Robbert Krebbers (Radboud University Nijmegen, Netherlands)",
+        "members": [
+          "Alasdair Armstrong (University of Cambridge, UK)",
+          "Aslan Askarov (Aarhus University, Denmark)",
+          "Mohamed Faouzi Atig (Uppsala University, Sweden)",
+          "Andrej Bauer (University of Ljubljana, Slovenia)",
+          "Veronique Benzaken (LMF Université Paris-Saclay, France)",
+          "Małgorzata Biernacka (University of Wrocław, Poland)",
+          "Liang-Ting Chen (Academia Sinica, Taiwan)",
+          "Raphaëlle Crubillé (Aix Marseille Univ, CNRS, LIS, France)",
+          "Deepak D'Souza (Indian Institute of Science, India)",
+          "Ankush Das (Boston University, USA)",
+          "Farzaneh Derakhshan (Illinois Institute of Technology, USA)",
+          "Emanuele D’Osualdo (University of Konstanz, Germany)",
+          "Paulo Emílio de Vilhena (Imperial College London, UK)",
+          "Francesco Gavazzo (University of Padua, Italy)",
+          "Justin Hsu (Cornell University, USA)",
+          "Ambrus Kaposi (Eötvös Loránd University, Hungary)",
+          "Sven Keidel (TU Darmstadt, Germany)",
+          "Ori Lahav (Tel Aviv University, Israel)",
+          "Christoph Matheja (University of Oldenburg and DTU Compute, Germany)",
+          "Andreia Mordido (LASIGE, University of Lisbon, Portugal)",
+          "Christopher Pulte (University of Cambridge, UK)",
+          "Jorge A. Pérez (University of Groningen, Netherlands)",
+          "Ryosuke Sato (Tokyo University of Agriculture and Technology, Japan)",
+          "Ilya Sergey (National University of Singapore, Singapore)",
+          "Kathrin Stark (Heriot-Watt University, UK)",
+          "Bernardo Toninho (NOVA FCT and NOVA LINCS, Portugal)",
+          "Jana Wagemaker (Radboud University Nijmegen, Netherlands)",
+          "John Wickerson (Imperial College London, UK)",
+          "Fabio Zanasi (University College London, UK)"
+        ]
+      }
+    }
+  }
+}

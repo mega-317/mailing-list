@@ -1,0 +1,40 @@
+{
+  "summary": {
+    "subject": "3 upcoming academic positions at UCLouvain, Belgium (2 in software engineering, 1 in security)",
+    "sender": "SEWORLD Moderator",
+    "date": "Tue, 1 Jul 2025 06:53:33 -0000",
+    "positions": [
+      {
+        "position_id": 1,
+        "domain": "Software engineering, Programming systems and languages, Software dependability including formal methods"
+      },
+      {
+        "position_id": 2,
+        "domain": "Software engineering, Programming systems and languages, Software dependability including formal methods"
+      },
+      {
+        "position_id": 3,
+        "domain": "Software security and cybersecurity, including system security, cyber-physical systems security, AI for security & security for AI, privacy, distributed systems security"
+      }
+    ],
+    "seniority_levels": "Open to all seniority levels (assistant/associate or full)",
+    "highlights": [
+      "Vibrant work environment just south of Brussels",
+      "Excellent research infrastructure and support",
+      "Moderate teaching load and access to excellent students",
+      "Competitive salaries and benefits",
+      "No need to speak French to apply (willingness to learn in a few years is appreciated)"
+    ],
+    "application_details": {
+      "vacancy_announcement": "Expected in early September",
+      "application_deadline": "A few weeks after the announcement",
+      "application_requirements": "Resume, teaching/research statement, etc.",
+      "application_portal": "UCLouvain job portal"
+    },
+    "contact": {
+      "department_chair": "Etienne Riviere",
+      "email": "[log in to unmask]"
+    },
+    "job_portal_link": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+  }
+}

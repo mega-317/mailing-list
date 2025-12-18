@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "event": "IEEE Artificial Intelligence x Software Engineering (AIxSE) 2025",
+    "dates": "October 1-3, 2025",
+    "location": "The Hills Hotel, Laguna Hills, California",
+    "format": "Hybrid",
+    "website": "http://www.AIxSE.org",
+    "co_location_events": [
+      "AIxSET",
+      "AIxHEART",
+      "AIxB"
+    ],
+    "topics_of_interest": [
+      "Software design",
+      "Requirements engineering",
+      "Automatic programming",
+      "Software development",
+      "Software testing",
+      "Software maintenance",
+      "Generative AI",
+      "Transformer based technology",
+      "Agent technology",
+      "Semantic computing",
+      "Decision making",
+      "Machine learning",
+      "Symbolic AI",
+      "Problem solving",
+      "Knowledge discovery",
+      "Knowledge integration",
+      "Multi-modal interactions"
+    ],
+    "call_for_papers": {
+      "submission_requirements": {
+        "lengths": {
+          "regular": "8 pages",
+          "short": "4 pages",
+          "poster_and_demo": "2 pages"
+        },
+        "format": "double-column IEEE format",
+        "language": "English",
+        "submission_method": "electronic via EasyChair",
+        "pdf_format": "only"
+      },
+      "review_process": "At least three experts will review submissions",
+      "presentation_requirement": "Authors must present accepted papers",
+      "originality_policy": "Submit original material owned by authors, not under review elsewhere"
+    },
+    "important_dates": {
+      "workshop_proposals_deadline": "July 22, 2025 PT",
+      "paper_submission_deadline": "July 15, 2025 PT (Extended Deadline)",
+      "paper_acceptance_date": "August 1, 2025 PT",
+      "workshop_paper_submission_deadline": "August 20, 2025 PT",
+      "registration_deadline": "September 1, 2025 PT",
+      "camera_ready_deadline": "September 1, 2025 PT"
+    },
+    "contacts": [
+      {
+        "names": [
+          "Daryush Laqab",
+          "Giovanni Pilato",
+          "Phillip Sheu"
+        ],
+        "role": "General Co-Chairs"
+      },
+      {
+        "names": [
+          "Srividya Bansal",
+          "Bryan Chou",
+          "Massimo Cossentino",
+          "Sheida Malekpour",
+          "Mustafa Sert"
+        ],
+        "role": "Program Co-Chairs"
+      }
+    ],
+    "community_invitation": "Join the AIxSE community for announcements and notifications"
+  }
+}

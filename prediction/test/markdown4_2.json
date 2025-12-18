@@ -1,0 +1,70 @@
+{
+  "summary": {
+    "conference_name": "VMCAI 2026",
+    "location": "Rennes, France",
+    "dates": "January 12-13, 2026",
+    "website": "https://conf.researchr.org/home/VMCAI-2026",
+    "invitation": "We invite regular papers, tools papers, and case studies.",
+    "submission_languages": [
+      null
+    ],
+    "topics": [
+      "Verification",
+      "Model Checking",
+      "Abstract Interpretation"
+    ],
+    "submission_guidelines": {
+      "english": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": [
+            null
+          ],
+          "zip_file_include": null
+        }
+      },
+      "spanish_portuguese": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": null,
+          "zip_file_include": null
+        }
+      }
+    },
+    "review_process": null,
+    "presentation_format": {
+      "accepted_papers": null,
+      "accepted_posters": null
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "english": {
+          "publication": null,
+          "indexing": [
+            null
+          ],
+          "access": null
+        },
+        "spanish_portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirement": null
+    },
+    "important_dates": {
+      "paper_submission": "10th September 2025",
+      "notification_of_acceptance": "6th November 2025",
+      "payment_of_registration": null,
+      "camera_ready_submission": null
+    }
+  }
+}

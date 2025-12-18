@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "subject": "Call for Participation (Main Conference + Workshops): EASE'25: 29th International Conference on Evaluation and Assessment in Software Engineering, June 17-20, 2025",
+    "date": "June 17-20, 2025",
+    "conference_details": {
+      "name": "EASE'25",
+      "focus": "Evaluation and Assessment in Software Engineering",
+      "description": "A forum for researchers and practitioners to present and discuss recent research results on empirical evaluation of software engineering technologies, practices, and tools."
+    },
+    "technical_program": {
+      "keynotes": [
+        {
+          "speaker": "Prof. Dr. Sven Apel",
+          "affiliation": "Saarland University",
+          "topic": "AI4SE: Adventures in the Promised Land",
+          "date": "June 18, 2025"
+        },
+        {
+          "speaker": "Prof. Dr. Brian Fitzgerald",
+          "affiliation": "Lero - the Irish Software Research Centre",
+          "topic": "The Rise and Rise of InnerSource",
+          "date": "June 19, 2025"
+        },
+        {
+          "speaker": "Dr. Celal Ziftci",
+          "affiliation": "Google",
+          "topic": "Beyond Code Completion: Harnessing LLMs for Complex Code Migrations in an Enterprise Setting at Google",
+          "date": "June 20, 2025"
+        }
+      ],
+      "tracks": {
+        "research_track": 57,
+        "industry_track": 13,
+        "short_papers_track": 29,
+        "ai_models_data_evaluation": 24,
+        "vision_poster_track": 2,
+        "doctoral_track": 4,
+        "journal_first_track": 2
+      }
+    },
+    "registration": {
+      "link": "https://conf.researchr.org/attending/ease-2025/registration"
+    },
+    "workshops_date": "June 17, 2025",
+    "workshops": "Five workshops will be featured on this date."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "summary": {
+    "event": "1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025)",
+    "date": "September 1-3, 2025",
+    "location": "University of Extremadura, Cáceres, Spain",
+    "website": "https://i3lab.unex.es/summer-school/",
+    "target_audience": [
+      "researchers",
+      "PhD students",
+      "professionals"
+    ],
+    "topics_covered": [
+      "LLM-based agents for software development tasks (requirements analysis, coding, testing, deployment)",
+      "Evaluation and benchmarking of agent-based systems",
+      "Human-agent collaboration in software engineering"
+    ],
+    "program_details": "Includes lectures and hands-on workshops by internationally recognized experts in AI and software engineering.",
+    "confirmed_speakers": [
+      "Davide Di Ruscio, Università degli Studi dell'Aquila, Italy",
+      "Jie Zhang, King's College London, UK",
+      "Antonio García Domínguez, University of York, UK",
+      "Jesús M. González Barahona, Universidad Rey Juan Carlos, Spain",
+      "Massimo Tisi, IMT Atlantique, Nantes, France",
+      "Merve Astekin, SINTEF Digital, Norway",
+      "Adela Nedisan Videsjorden, SINTEF Digital, Norway",
+      "Simeon Tverdal, SINTEF Digital, Norway",
+      "Olivier Perard, Oracle EMEA, Spain"
+    ],
+    "registration_details": {
+      "cost": "Free of charge",
+      "included": [
+        "all course materials",
+        "coffee breaks",
+        "daily lunches",
+        "one guided tourist activity",
+        "social dinner"
+      ],
+      "certificate": "A certificate of attendance will be provided."
+    },
+    "accommodation": {
+      "scholarships": "A limited number of accommodation scholarships are available for students."
+    },
+    "venue_description": "University of Extremadura, a historical city and UNESCO World Heritage Site, ideal for learning and networking.",
+    "co_chairs": [
+      "Prof. Dr. Roberto Rodríguez Echeverría, University of Extremadura, Spain",
+      "Prof. Dr. José María Conejero, University of Extremadura, Spain"
+    ],
+    "organization": [
+      "i3Lab by Quercus Software Engineering Group",
+      "INTIA"
+    ],
+    "sponsors": [
+      "Consejería de Economía, Empleo y Transformación Digital, Junta de Extremadura",
+      "ACM SIGSOFT"
+    ]
+  }
+}

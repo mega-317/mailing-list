@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "event": "ETAPS 2026",
+    "type": "Joint Call for Papers",
+    "dates": {
+      "main_conference": "April 13-16, 2026",
+      "satellite_events": "April 11-12, 2026"
+    },
+    "location": "Torino, Italy",
+    "website": "https://etaps.org/2026",
+    "submission_deadlines": {
+      "ESOP_round_1": "June 3, 2025",
+      "ESOP_round_2": "October 16, 2025",
+      "TACAS_FoSSaCS_FASE": "October 16, 2025",
+      "TACAS_artifact_submission": "October 30, 2025",
+      "rebuttal_period": "December 8-10, 2025",
+      "notification_dates": {
+        "ESOP": "August 1, 2025",
+        "TACAS": "December 22, 2025"
+      },
+      "final_version": "January 22, 2026",
+      "artifact_notification": "February 12, 2026"
+    },
+    "main_conferences": [
+      {
+        "name": "ESOP",
+        "page_limit": "max 25 pp"
+      },
+      {
+        "name": "FASE",
+        "page_limit": "max 18 pp"
+      },
+      {
+        "name": "FoSSaCS",
+        "page_limit": "max 18 pp"
+      },
+      {
+        "name": "TACAS",
+        "page_limit": "max 16 pp"
+      }
+    ],
+    "publication": {
+      "publisher": "Springer",
+      "format": "Gold open access",
+      "series": "Advanced Research in Computing and Software Science (ARCoSS)"
+    },
+    "awards": [
+      "Distinguished papers",
+      "Best Tool Paper Award",
+      "ETAPS Test-of-Time Award",
+      "Doctoral Dissertation Award"
+    ],
+    "submission_instructions": {
+      "requirements": [
+        "Papers must be in English",
+        "Original research",
+        "Not submitted elsewhere"
+      ],
+      "formatting": "Springer's LNCS guidelines",
+      "author_rebuttal": "Included for ESOP, TACAS, and FoSSaCS"
+    },
+    "local_organizers": [
+      "Feruccio Damiani",
+      "Maurice ter Beek",
+      "Enrico Beraldo",
+      "Barbara Boni"
+    ],
+    "city_details": {
+      "name": "Turin",
+      "description": "Known for excellent regional food, beautiful squares & architecture, and as a technology hub."
+    }
+  }
+}

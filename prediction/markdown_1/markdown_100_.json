@@ -1,0 +1,64 @@
+{
+  "summary": {
+    "event": "MLOps25 Workshop on Machine Learning Operations",
+    "co_location": "28th European Conference on Artificial Intelligence (ECAI 2025)",
+    "date": "October 25-30, 2025",
+    "location": "Bologna, Italy",
+    "website": "https://collab.di.uniba.it/mlops/",
+    "purpose": "To discuss MLOps and its challenges in model building, deployment, monitoring, and maintenance.",
+    "submission_invitation": "Researchers and practitioners are invited to submit work addressing challenges, breakthroughs, and use cases in MLOps.",
+    "topics_of_interest": [
+      "MLOps frameworks",
+      "ML systems lifecycle management",
+      "ML pipelines orchestration",
+      "Practices for ML model reproducibility, traceability, and explainability",
+      "CI/CD practices for ML models",
+      "ML model monitoring and observability",
+      "LLMOps applications",
+      "ML architecture design and patterns",
+      "Experience reports on MLOps applications",
+      "Challenges in specific domains (e.g., healthcare, finance)",
+      "Ethics and Accountability in MLOps",
+      "AutoML applications",
+      "Collaboration and team dynamics",
+      "Regulatory and policy aspects",
+      "Green AI strategies",
+      "Security and data privacy"
+    ],
+    "important_dates": {
+      "paper_submission_deadline": "May 20, 2025",
+      "notification_of_acceptance": "June 26, 2025",
+      "camera_ready_submission": "August 26, 2025",
+      "workshop_date": "To Be Determined"
+    },
+    "review_criteria": [
+      "Originality and novelty",
+      "Research and industrial relevance",
+      "Technical quality and soundness",
+      "Clarity of presentation"
+    ],
+    "publication": {
+      "accepted_papers": "Published in CEUR Workshop Proceedings",
+      "extended_version_invitation": "Consideration in a special issue in Future Generation Computer Systems"
+    },
+    "submission_guidelines": {
+      "types_of_submissions": [
+        {
+          "type": "Research Papers",
+          "details": "Original research contributions",
+          "formats": [
+            "Full-papers (up to 10 pages + 2 for references)",
+            "Short-papers (up to 4 pages + 1 for references)"
+          ]
+        },
+        {
+          "type": "Experience Reports",
+          "details": "Practical applications and case studies",
+          "format": "Up to 6 pages + 1 for references"
+        }
+      ],
+      "requirements": "Original, previously unpublished, and not under consideration elsewhere.",
+      "formatting_instructions": "Follow CEURART style, double-blind submissions"
+    }
+  }
+}

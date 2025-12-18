@@ -1,0 +1,40 @@
+{
+  "summary": {
+    "subject": "Call for Letter of Interest (LoI) to organize the European conference on Software Architecture (ECSA)",
+    "from": "SEWORLD Moderator",
+    "date": "Thu, 5 Jun 2025 13:58:03 -0000",
+    "conference": {
+      "name": "ECSA",
+      "description": "Premier European conference on Software Architecture focusing on advances and breakthroughs in the field.",
+      "ranking": "A CORE conference rank since 2010, top ranked according to CORE2023.",
+      "website": "https://ecsa-conferences.org/series/sc-documents/"
+    },
+    "call_for_interest": {
+      "purpose": "To invite submissions for Letters of Interest to organize ECSA in September 2027 and onwards.",
+      "requirements": {
+        "general_chair": {
+          "details_required": "Name and short CV, including experience on organizing international conferences."
+        },
+        "location": {
+          "details_required": "General presentation of the potential venue and the city."
+        },
+        "supporting_organizations": {
+          "details_required": "Preliminary list of supporting organizations from academia, research institutions, industry."
+        },
+        "potential_program_chair": {
+          "details": "An initial list of names for potential Program Chair(s) and other Organizing Committee members."
+        }
+      },
+      "submission_details": {
+        "deadline": "30th June 2025 (23:59 Anywhere on Earth)",
+        "procedure": "Send application by email to SC chair, Paris Avgeriou."
+      }
+    },
+    "conference_history": "ECSA has been held yearly in Europe since 2007, with various locations each year.",
+    "funding": "ECSA is self-funded through registration fees and sponsors.",
+    "steering_committee": {
+      "role": "Fosters and selects proposals for organizing ECSA.",
+      "composition_link": "https://ecsa-conferences.org/series/steering-committee/"
+    }
+  }
+}

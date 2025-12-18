@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "subject": "ICSOC 2025 Call for Workshops Proposals",
+    "conference": {
+      "name": "23rd International Conference on Service-Oriented Computing (ICSOC 2025)",
+      "dates": "December 1-4, 2025",
+      "location": "Shenzhen, China",
+      "website": "https://icsoc2025.hit.edu.cn"
+    },
+    "call_for_proposals": {
+      "description": "ICSOC is inviting applicants to submit proposals for high-quality workshops contributing to the scientific program of the main conference.",
+      "purpose": "The workshop program seeks to provide venues for specialist groups to meet and hold focused discussions on specific sub-areas within Service-Oriented Computing and engage in community-building activities.",
+      "topics": "Workshops should provide a discussion forum for researchers and industry professionals on topics related to the conference's main theme.",
+      "submission_info": {
+        "submission_type": "Workshop proposals",
+        "submission_due_date": "20 June 2024 (AoE)",
+        "notification_date": "27 June 2025 (AoE)",
+        "workshop_date": "01 December 2025 (AoE)",
+        "co_chairs": [
+          {
+            "name": "Jianwen Su",
+            "affiliation": "University of California at Santa Barbara, CA, USA"
+          },
+          {
+            "name": "Xiao Xue",
+            "affiliation": "Tianjin University, China"
+          },
+          {
+            "name": "Sami Yangui",
+            "affiliation": "LAAS-CNRS, Toulouse, France"
+          }
+        ],
+        "proposal_details_link": "https://icsoc2025.hit.edu.cn/19950/list.htm"
+      }
+    }
+  }
+}

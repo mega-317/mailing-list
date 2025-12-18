@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "subject": "CfP: IST Special Issue on “Next-Generation Model-Based Software Engineering with Foundation Models”",
+    "publication": "Information and Software Technology journal",
+    "submission_deadline": "May 31, 2025",
+    "purpose": "This special issue aims to present insights, experiences, innovations, and solutions at the intersection of model-based software engineering and foundation models.",
+    "topics_of_interest": [
+      "Use of foundation models for supporting the completion of different modeling artifacts",
+      "Use of foundation models for supporting the development of domain-specific language (DSL), abstract and concrete syntax",
+      "Use of foundation models in industrial MBE systems",
+      "Use of foundation models to support software architecture and requirement engineering",
+      "Use of foundation models to support low-code development platforms",
+      "Fine-tuned models for supporting MBE, MDE, MDD, and MDA tasks",
+      "Generation of synthetic datasets for MBE using foundation models",
+      "MBE techniques to support the development of foundation models, pre-trained models, or large language models",
+      "MBE paradigms for specifying prompt engineering techniques for large language models",
+      "Systematic literature review, systematic mapping study, and multi-vocal studies on the intersection between MBE and foundation models",
+      "Empirical studies, experience reports, and surveys on the usage of foundation models for MBE systems"
+    ],
+    "submission_instructions": "Papers should be submitted through the Editorial Manager (EM) site of IST journal: https://edu.lu/xpnxj. Reviewers can log into the platform and find the Special Issue (“VSI:Next_MBSE”) under article type selection.",
+    "guest_editors": [
+      "Claudio Di Sipio",
+      "Silvia Abrahão",
+      "Martin Weyssow",
+      "Fabio Palomba"
+    ]
+  }
+}

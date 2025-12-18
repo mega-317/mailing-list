@@ -1,0 +1,64 @@
+{
+  "summary": {
+    "subject": "Joint Call for Papers – Workshops at PROFES 2025, Salerno, Italy, December 2025",
+    "date": "Tue, 10 Jun 2025 15:25:08 -0000",
+    "workshops": [
+      {
+        "title": "QuEMaLeS 2025",
+        "focus": "Quality Evaluation of Machine Learning Software Systems",
+        "topics": [
+          "Quality models and metrics for ML-based systems",
+          "Data quality evaluation",
+          "Certification frameworks and standardization (e.g., ISO/IEC 25059)",
+          "Non-functional quality measures",
+          "Tools for evaluating ML-based software",
+          "Application-specific evaluations (e.g., healthcare, transportation)"
+        ],
+        "paper_format": {
+          "technical_experience_papers": "up to 12 pages",
+          "new_ideas_short_papers": "up to 8 pages"
+        }
+      },
+      {
+        "title": "PATH 2025",
+        "focus": "Promoting and Dealing with Advanced Technology in Healthcare",
+        "topics": [
+          "AI-driven diagnostics and decision support",
+          "Secure data management and privacy in healthcare software",
+          "Digital health platforms and IoMT",
+          "Ethical and regulatory issues in AI for healthcare",
+          "Evaluation methodologies and real-world case studies"
+        ],
+        "paper_format": {
+          "regular_papers": "up to 12 pages",
+          "short_papers": "up to 6 pages"
+        },
+        "more_information": "https://conf.researchr.org/home/profes-2025/path-2025"
+      },
+      {
+        "title": "A-SPPI 2025",
+        "focus": "Analytics for Software Product and Process Improvement",
+        "topics": [
+          "Analysis of software data to support decision making",
+          "AI and machine learning for software analytics",
+          "Empirical studies, tools, and visualizations",
+          "Teaching software analytics and process improvement"
+        ],
+        "paper_format": {
+          "full_papers": "8 to 12 pages",
+          "short_papers": "6 to 8 pages",
+          "position_papers": "4 to 6 pages",
+          "panel_proposals": "1 to 4 pages"
+        },
+        "more_information": "https://conf.researchr.org/home/profes-2025/a-sppi-2025"
+      }
+    ],
+    "important_dates": {
+      "submission_deadline": "August 9, 2025",
+      "notification_of_acceptance": "September 9, 2025",
+      "camera_ready_submission": "September 23, 2025",
+      "workshop_date": "December 1, 2025"
+    },
+    "submission_guidelines": "All submissions must be in English, original, and not under review or published elsewhere. Papers must conform to the Springer LNCS formatting guidelines. Accepted papers will be published in a Lecture Notes in Computer Science (LNCS) proceedings volume. At least one author of each accepted paper must register for the workshop and present the work."
+  }
+}

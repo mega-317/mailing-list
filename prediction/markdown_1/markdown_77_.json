@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "event": "6th Summer School on Empirical Research Methods in Software Engineering and Informatics (ERMSEI)",
+    "date": "September 1-5, 2025",
+    "location": "Centre de recherche INRIA/ IRISA, Rennes, France",
+    "target_audience": "junior researchers",
+    "goal": "To assist junior researchers in starting their empirical work in Software Engineering and Informatics using practical, hands-on exercises.",
+    "focus": "Overview of empirical research methods, rather than detailed theories, with a strong emphasis on developing participants' own research topics.",
+    "speakers": [
+      {
+        "name": "Harald St√∂rrle",
+        "affiliation": "QAware, Munich, Germany"
+      },
+      {
+        "name": "Djamel E. Khelladi",
+        "affiliation": "CNRS, Univ. Rennes, France"
+      }
+    ],
+    "topics_covered": [
+      "controlled experiments",
+      "qualitative methods",
+      "secondary research approaches",
+      "study design"
+    ],
+    "exclusions": "Will not cover statistics or specialized tools such as R."
+  }
+}

@@ -28,10 +28,10 @@ transfer_chain = json_parser_chain(structure_transfer_prompt)
 def align_structure_node(state) -> dict:
     # 1. 4.txt의 결과물(이미 처리된 JSON)을 가져옵니다. 
     # (실제 환경에서는 state에 저장되어 있거나 파일에서 로드했다고 가정)
-    reference_json = state.get("reference_summary_json", {})
+    template = state.get("template", {})
     
     # 2. JSON에서 뼈대(Template)만 추출합니다.
-    template_skeleton = create_template_from_json(reference_json)
+    template_skeleton = create_template_from_json(template)
     
     # 3. 2.txt의 텍스트(새로운 메일)를 가져옵니다.
     target_mail_text = state.get("mail_text", "")

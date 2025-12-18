@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "job_title": "Associate Professor (tenured, W2)",
+    "institution": "Technische Universität Braunschweig",
+    "location": "Braunschweig, Germany",
+    "job_field": "Software Engineering for Safety Critical Systems",
+    "application_link": "https://vacancies.tu-braunschweig.de/jobposting/d61ad0b165924c57cc54c4810ff4f91c6dc334170?ref=homepage",
+    "research_topics": [
+      "Model Checking",
+      "Static Program Analysis (Abstract Interpretation, Data Flow Analysis)",
+      "Dynamic Program Analysis (Runtime Verification, Monitoring, Testing)",
+      "Solver Technology (SAT Solvers, SMT Solvers, Theorem Provers)",
+      "Programming Languages (Program Logics, Type Systems, Semantics)",
+      "Synthesis (Reactive Synthesis, Functional Synthesis, Correctness by Construction)"
+    ],
+    "contact_person": {
+      "name": "Prof. Dr. Thomas Thüm",
+      "position": "Head of Institute",
+      "phone": "+49 531 391 2275",
+      "room": "IZ 348",
+      "email": "[log in to unmask]",
+      "institute_link": "https://www.tu-braunschweig.de/en/isf"
+    },
+    "email_date": "Fri, 23 May 2025 14:22:39 -0000",
+    "message": "If you have questions, do not hesitate to ask me. If you have colleagues who may be interested, please distribute the offer."
+  }
+}

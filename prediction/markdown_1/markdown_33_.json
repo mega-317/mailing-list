@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "subject": "CfP - 2nd International Conference on Engineering Digital Twins",
+    "event": "2nd International Conference on Engineering Digital Twins (EDTconf 2025)",
+    "dates": {
+      "conference": "October 6–7, 2025",
+      "abstract_submission_deadline": "June 27, 2025",
+      "paper_submission_deadline": "July 02, 2025",
+      "notification_of_acceptance": "August 05, 2025",
+      "camera_ready_submission": "August 20, 2025"
+    },
+    "location": "Michigan, US",
+    "website": "www.edtconf.org",
+    "scope": "The conference aims to bring together researchers and practitioners from academia and industry to improve the systematic and scalable engineering of Digital Twins across various domains including agriculture, automotive, healthcare, and smart cities.",
+    "topics_of_interest": [
+      "Modeling concepts and languages for developing DTs",
+      "AI for DTs and DTs for AI",
+      "DevOps for DTs and DTs for DevOps",
+      "Quality assurance and evaluation of DTs",
+      "Models, simulation, and co-simulation of CPS",
+      "Deployment and operation of DTs",
+      "Model consistency and evolution of DT models",
+      "Dynamic reconfiguration and optimization of DTs",
+      "Reliability, trust, and security of DTs",
+      "Architectural patterns for DTs",
+      "Virtual commissioning based on DTs",
+      "Continuous learning and improvement with DTs",
+      "Combining models and data in DTs",
+      "Case studies and empirical studies of DT development"
+    ],
+    "submission_guidelines": {
+      "regular_papers": "Max 10+2 pages for novel research contributions.",
+      "vision_new_ideas_papers": "Max 6+1 pages for innovative ideas.",
+      "tool_demonstration_papers": "Max 4+1 pages with practical insights.",
+      "exemplar_papers": "Max 6+1 pages focused on engineering DTs.",
+      "formatting": "IEEE Proceedings Template (LaTeX or Word).",
+      "submission_portal": "https://easychair.org/conferences/?conf=edtconf25",
+      "notes": [
+        "Page limits are strict.",
+        "Papers must be original.",
+        "ORCID usage is recommended."
+      ]
+    },
+    "publication_opportunity": "Authors of selected regular papers will be invited to submit extended versions to the Journal on Software and Systems Modeling (SoSyM), with new material required.",
+    "organizers": {
+      "co_chairs": [
+        "Romina Eramo (University of Teramo, IT)",
+        "Manuel Wimmer (Johannes Kepler University Linz, AT)",
+        "Steffen Zschaler (King’s College London, UK)"
+      ],
+      "publicity_co_chairs": [
+        "Claudio Gomes (Aarhus University, DK)",
+        "Vittoriano Muttillo (University of Teramo, IT)"
+      ]
+    },
+    "contact": "[log in to unmask]"
+  }
+}

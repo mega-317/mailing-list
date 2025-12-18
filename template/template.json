@@ -1,0 +1,145 @@
+{
+  "summary": {
+    "conference_name": null,
+    "location": null,
+    "dates": null,
+    "website": null,
+    "invitation": null,
+    "co-located_with": null,
+    "email_for_submissions": null,
+    "position": null,
+    "institution": null,
+    "research_focus": null,
+    "topic": null,
+    "description": null,
+    "responsibilities": [
+      null
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "call_for_papers": {
+      "types": [
+        null
+      ],
+      "submission_deadline": null,
+      "notification_date": null
+    },
+    "submission_languages": [
+      null
+    ],
+    "topics": [
+      null
+    ],
+    "submission_guidelines": {
+      "english": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": [
+            null
+          ],
+          "zip_file_include": null
+        },
+        "identification": null
+      },
+      "spanish_portuguese": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": null,
+          "zip_file_include": null
+        },
+        "identification": null
+      }
+    },
+    "review_process": null,
+    "presentation_format": {
+      "accepted_papers": null,
+      "accepted_posters": null,
+      "discussion_time": null
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "english": {
+          "publication": null,
+          "indexing": [
+            null
+          ],
+          "access": null
+        },
+        "spanish_portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirement": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "payment_of_registration": null,
+      "camera_ready_submission": null
+    },
+    "event_details": {
+      "dates": null,
+      "location": null,
+      "co_location": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null
+    },
+    "organizing_committee": {
+      "General Chair": "Georgia Kapitsaki, University of Cyprus, Cyprus",
+      "Local Organizing Chair": "George Angelos Papadopoulos, University of Cyprus, Cyprus",
+      "Program Chairs": [
+        "Eunjong Choi, Kyoto Institute of Technology, Japan",
+        "Matthias Galster, University of Canterbury, New Zealand"
+      ],
+      "Industrial Chairs": [
+        "Anne Etien, University of Lille, France",
+        "Tushar Sharma, Dalhousie University, Canada"
+      ],
+      "shortPapersAndPostersChairs": [
+        "Eleni Constantinou, University of Cyprus, Cyprus",
+        "Sandro Schulze, Anhalt University of Applied Sciences, Germany"
+      ],
+      "workshopTutorialChairs": [
+        "Marcelo De Almeida Maia, Federal University of Uberlandia, Brazil",
+        "Juri Di Rocco, University of L'Aquila, Italy"
+      ]
+    }
+  }
+}

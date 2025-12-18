@@ -1,0 +1,53 @@
+{
+  "summary": {
+    "subject": "Call for Workshop Proposals: 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+    "from": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Sat, 17 May 2025",
+    "conference_details": {
+      "name": "48th IEEE/ACM International Conference on Software Engineering",
+      "date": "April 12-14 or April 18, 2026",
+      "location": "Rio de Janeiro, Brazil",
+      "workshop_link": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions"
+    },
+    "workshop_information": {
+      "description": "Workshops provide a forum for groups of 20-50 participants to discuss topics in software engineering research and practice. They serve as incubators for scientific communities and provide opportunities for early discussions of research ideas.",
+      "publishing": "Workshop papers will be published by the ACM.",
+      "submission_details": {
+        "max_pages": 5,
+        "submission_format": "pdf, 12 point font",
+        "required_section": [
+          "Workshop Title and Acronym",
+          "Abstract (200 words or fewer)",
+          "Contact Information for organizers",
+          "Motivation and Objectives",
+          "Format and Required Services",
+          "Target Audience",
+          "Proceedings",
+          "Workshop History",
+          "Organizers' bios"
+        ]
+      }
+    },
+    "submission_deadlines": {
+      "proposal_submission": "23 June 2025",
+      "acceptance_notification": "28 July 2025",
+      "workshop_websites_online": "25 August 2025",
+      "papers_submission": "20 October 2025",
+      "papers_acceptance_notification": "24 November 2025",
+      "papers_info_to_chairs": "22 December 2025"
+    },
+    "organizers": [
+      {
+        "name": "Rodrigo Santos",
+        "role": "Workshops Co-Chair",
+        "affiliation": "UNIRIO, Brazil"
+      },
+      {
+        "name": "Antonia Bertolino",
+        "role": "Workshops Co-Chair",
+        "affiliation": "Gran Sasso Science Institute, Italy"
+      }
+    ],
+    "conditions": "ICSE 2026 will not cover registration, travel, or other arrangements for organizers. Workshop organizers cannot submit papers to their own workshop."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "subject": "SPECIAL ISSUE ON Emerging Concerns in Technical Debt Management for publication in the EMSE Journal",
+    "announcement": "A special issue focusing on Emerging Concerns in Technical Debt Management will be published in the Empirical Software Engineering (EMSE) journal.",
+    "scope": {
+      "description": "The issue invites contributions that investigate how emerging concerns in AI, data-intensive systems, and other evolving domains affect the understanding and management of Technical Debt (TD).",
+      "issues": [
+        "Data Quality and Evolution: Poor data quality can create significant 'data debt.'",
+        "Ethical and Fairness Considerations: Managing fairness and transparency in AI creates new types of debt.",
+        "Scalability Challenges: Rapidly scalable systems can incur architectural debt."
+      ],
+      "examples": [
+        "Data-driven systems relying on machine learning and analytics.",
+        "AI-enabled systems including machine learning pipelines and autonomous decision-making.",
+        "Cyber-physical systems like autonomous vehicles and robotics.",
+        "Distributed and cloud-native architectures complicating TD through evolving interfaces.",
+        "Emerging security and privacy concerns intersecting with TD."
+      ]
+    },
+    "topics_of_interest": [
+      "Manifestations of TD in new systems.",
+      "Novel methodologies to manage TD.",
+      "Case studies of real-world TD experiences.",
+      "Impact assessments of TD.",
+      "Longitudinal studies on the lifecycle of TD.",
+      "Tool evaluations for TD.",
+      "Practitioner experiences with TD."
+    ],
+    "submission_details": {
+      "format": "Authors do not need to submit using a prescribed template; accepted articles will be formatted for SpringerLink.",
+      "pre_screening": "May take several days before assignment to guest editors.",
+      "publishing": "Articles published online first and are citable by DOI."
+    },
+    "important_dates": {
+      "deadline": "June 9, 2025"
+    },
+    "contact": {
+      "guest_editors": [
+        {
+          "name": "Dr. Giammaria Giordano",
+          "affiliation": "University of Salerno, Italy",
+          "email": "[log in to unmask]",
+          "website": "https://giammariagiordano.github.io/giammaria-giordano/"
+        },
+        {
+          "name": "Dr. Zadia Codabux",
+          "affiliation": "University of Saskatchewan, Canada",
+          "email": "[log in to unmask]",
+          "website": "https://www.cs.usask.ca/faculty/zadiacodabux/"
+        },
+        {
+          "name": "Dr. Marcus Ciolkowski",
+          "affiliation": "QAware GmbH., Germany",
+          "email": "[log in to unmask]",
+          "website": "https://www.qaware.de/team/marcus-ciolkowski/"
+        },
+        {
+          "name": "Dr. Florian Deissenboeck",
+          "affiliation": "CQSE GmbH, Germany",
+          "email": "[log in to unmask]",
+          "website": "https://cqse.eu/deissenboeck"
+        },
+        {
+          "name": "Prof. Maria Teresa Baldassarre",
+          "affiliation": "University of Bari, Italy",
+          "email": "[log in to unmask]",
+          "website": "https://www.uniba.it/docenti/baldassarre-maria-teresa"
+        }
+      ]
+    }
+  }
+}

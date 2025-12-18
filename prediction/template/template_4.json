@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "conference_name": "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+    "location": "Roatán Island, Honduras",
+    "dates": "16-18 February 2026",
+    "website": "https://icits.me/",
+    "invitation": "We are pleased to invite you to submit your original papers to ICITS'26.",
+    "co-located_with": null,
+    "email_for_submissions": null,
+    "position": null,
+    "institution": "Universidad Tecnológica de Honduras",
+    "research_focus": null,
+    "topic": null,
+    "responsibilities": [
+      null
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "call_for_papers": {
+      "types": [
+        null
+      ],
+      "submission_deadline": "September 28, 2025",
+      "notification_date": "November 5, 2025"
+    },
+    "submission_languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "topics": [
+      "Information and Knowledge Management (IKM)",
+      "Organizational Models and Information Systems (OMIS)",
+      "Software and Systems Modeling (SSM)",
+      "Software Systems, Architectures, Applications and Tools (SSAAT)",
+      "Multimedia Systems and Applications (MSA)",
+      "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+      "Intelligent and Decision Support Systems (IDSS)",
+      "Big Data Analytics and Applications (BDAA)",
+      "Human-Computer Interaction (HCI)",
+      "Ethics, Computers and Security (ECS)",
+      "Health Informatics (HIS)",
+      "Information Technologies in Education (ITE)",
+      "Media, Applied Technology and Communication (MATC)"
+    ],
+    "submission_guidelines": {
+      "english": {
+        "page_limit": "12",
+        "format": "Lecture Notes in Networks and Systems series",
+        "blind_review": "Yes",
+        "submission_requirements": {
+          "anonymity": "Yes",
+          "format": [
+            "Word",
+            "Latex",
+            "PDF"
+          ],
+          "zip_file_include": "Consent to Publish form"
+        }
+      },
+      "spanish_portuguese": {
+        "page_limit": "15",
+        "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+        "blind_review": "Yes",
+        "submission_requirements": {
+          "anonymity": "Yes",
+          "format": null,
+          "zip_file_include": null
+        }
+      }
+    },
+    "review_process": "double-blind review",
+    "presentation_format": {
+      "accepted_papers": "15 minutes presentation",
+      "accepted_posters": "A1 or A2 vertical format, 7 minutes discussion"
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "english": {
+          "publication": "Proceedings by Springer",
+          "indexing": [
+            "Scopus",
+            "WoS",
+            "DBLP",
+            "Google Scholar"
+          ],
+          "access": "Available in the SpringerLink Digital Library"
+        },
+        "spanish_portuguese": {
+          "publication": "Special Issue of RISTI",
+          "indexing": [
+            "ProQuest",
+            "EBSCO",
+            "Google Scholar"
+          ]
+        }
+      },
+      "registration_requirement": "At least one author must be registered by November 5, 2025."
+    },
+    "important_dates": {
+      "paper_submission": "September 28, 2025",
+      "notification_of_acceptance": "November 5, 2025",
+      "payment_of_registration": "November 19, 2025",
+      "camera_ready_submission": "November 19, 2025"
+    },
+    "event_details": {
+      "dates": "16-18 February 2026",
+      "location": "Roatán Island, Honduras",
+      "co_location": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "subject": "Call for Papers – SSBSE 2025, Seoul",
+    "event": {
+      "name": "17th Symposium on Search-Based Software Engineering (SSBSE 2025)",
+      "date": "16 November 2025",
+      "location": "Seoul"
+    },
+    "submission": {
+      "deadline": "August 21, 2025",
+      "notification_date": "September 25, 2025",
+      "camera_ready_date": "October 3, 2025"
+    },
+    "focus": "Transformative role of AI and optimization in software engineering",
+    "key_topics": [
+      "Novel applications of SBSE in emerging domains",
+      "Theoretical advances in search algorithms for software engineering",
+      "Rigorous empirical evaluations with reproducible results",
+      "Industrial experiences and real-world deployments",
+      "Integrations of SBSE with AI, machine learning, and cutting-edge technologies"
+    ],
+    "publication": "Accepted papers will be considered for a special journal issue in the Automated Software Engineering journal.",
+    "links": {
+      "submission_info": "https://lnkd.in/gwxVDG5q",
+      "co_located_event": "https://lnkd.in/gTDTsXuX",
+      "previous_proceedings": "https://lnkd.in/gnCGdwtQ"
+    },
+    "organizers": [
+      "Man Zhang",
+      "Shin Hong"
+    ],
+    "hashtags": [
+      "#SBSE",
+      "#SoftwareEngineering",
+      "#AI",
+      "#Optimization",
+      "#CFP",
+      "#Seoul2025"
+    ]
+  }
+}

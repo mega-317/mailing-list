@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "subject": "Call for Applications: ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management",
+    "organization": "European Research Consortium in Informatics and Mathematics (ERCIM)",
+    "award": "ERCIM STM WG 2025 Award",
+    "purpose": "To recognize the best Ph.D. thesis in Security and Trust Management and promote scientific growth of young researchers.",
+    "application_deadline": "July 31, 2025",
+    "eligibility": "Ph.D. holders who defended their thesis during 2024 from any European University.",
+    "application_requirements": [
+      "Ph.D. Thesis (PDF format)",
+      "Short summary of the Thesis (in English)",
+      "Curriculum Vitae (PDF format)",
+      "Letters of support from at least two researchers (one from ERCIM STM WG Institution)"
+    ],
+    "evaluation_criteria": [
+      "Scientific quality",
+      "Originality",
+      "Clarity of presentation",
+      "Potential impact of the results"
+    ],
+    "award_ceremony": {
+      "date": "September 25-26, 2025",
+      "event": "21st International Workshop on Security and Trust Management (STM 2025)",
+      "location": "Toulouse, France",
+      "event_website": "https://www.nics.uma.es/stm2025/"
+    }
+  }
+}

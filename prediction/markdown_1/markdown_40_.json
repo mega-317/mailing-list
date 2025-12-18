@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "subject": "Special Issue on Software Engineering in Generative Art",
+    "from": "SEWORLD Moderator",
+    "date": "Thu, 5 Jun 2025 13:58:53 -0000",
+    "purpose": "Call for Papers for a special issue in the IEEE Computer Magazine focusing on the intersection of software engineering and generative art. The issue aims to foster discussions among software engineers, generative artists, and caretakers about advancements in software technology within algorithmic art.",
+    "topics": [
+      "Use of code in generative art",
+      "Software engineering concerns related to algorithmic art",
+      "Maintenance and preservation challenges of algorithmic artworks",
+      "Performance balancing for real-time interactions in artistic coding"
+    ],
+    "important_dates": {
+      "submission_deadline": "December 15, 2025",
+      "feedback_to_authors": "March 15, 2026",
+      "submission_of_revised_papers": "April 15, 2026",
+      "final_notification_to_authors": "May 15, 2026"
+    },
+    "guest_editors": [
+      {
+        "name": "Benoit Baudry",
+        "affiliation": "Université de Montréal",
+        "profile": "https://softwarediversity.eu/"
+      },
+      {
+        "name": "Patricia Falcao",
+        "affiliation": "Tate Modern",
+        "profile": "https://www.tate.org.uk/research/studentships/patricia-falc%C3%A3o"
+      },
+      {
+        "name": "Erik Fredericks",
+        "affiliation": "Grand Valley State University",
+        "profile": "https://efredericks.github.io/"
+      }
+    ],
+    "links": {
+      "call_for_papers": "https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art",
+      "submission_email": "mailto:[log in to unmask]",
+      "seworld_info": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

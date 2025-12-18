@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "event": "VMCAI 2026",
+    "topic": "Call for papers",
+    "submission_info": {
+      "submission_types": [
+        "regular papers",
+        "tools papers",
+        "case studies"
+      ],
+      "submission_deadline": "10th September 2025",
+      "notification_date": "6th November 2025"
+    },
+    "event_details": {
+      "dates": "January 12-13, 2026",
+      "location": "Rennes, France",
+      "co_location": "POPL 2026"
+    },
+    "website": "https://conf.researchr.org/home/VMCAI-2026"
+  }
+}

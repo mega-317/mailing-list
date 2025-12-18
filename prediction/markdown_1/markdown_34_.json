@@ -1,0 +1,54 @@
+{
+  "summary": {
+    "subject": "Post-Doc Position at Linz Institute of Technology (Johannes Kepler Univ. Linz, Austria) (full time, 3 years)",
+    "sender": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Mon, 16 Jun 2025 05:28:46 -0000",
+    "position": "Post-Doc",
+    "institution": "Johannes Kepler University (JKU) Linz Institute of Technology (LIT)",
+    "contract_duration": "up to three years",
+    "focus_areas": [
+      "Distributed Software Systems and Software Architectures, esp. Distributed Stream Processing Systems",
+      "Cloud Computing and Software Performance, esp. in Large, Distributed Data Systems",
+      "Real-Time, Scalable Data Processing and Querying"
+    ],
+    "job_duties": [
+      "Conduct Software Engineering research in the fields mentioned above",
+      "Lay the foundation for the next generation of highly scalable, data-driven software applications in collaboration with Dynatrace",
+      "Apply for research grants",
+      "Publish, present and disseminate research findings in journals, conferences and workshops",
+      "Collaborate with fellow JKU researchers and academic and industrial partners",
+      "(Co-)supervise Ph.D./Master’s/Bachelor’s students"
+    ],
+    "qualifications": [
+      "Strong software engineering background with experience in one or multiple focus areas",
+      "Doctorate/Ph.D. degree in Computer Science or related field",
+      "Experience and/or expertise in one of the research areas",
+      "Experience in academic/scientific publications and presenting scientific work",
+      "Hands-on experience in object-oriented programming",
+      "Experience with Apache Spark, Apache Flink, Apache Kafka and Kubernetes (desired)",
+      "Strong proficiency in English (C1 level)"
+    ],
+    "application_details": {
+      "apply_link": "https://tinyurl.com/CoInnovPostDoc",
+      "deadline": "Aug 10",
+      "contact": "Rick Rabiser"
+    },
+    "previous_publications": [
+      "https://doi.org/10.1145/3629526.3645036",
+      "https://doi.org/10.1145/3629104.3666040"
+    ],
+    "contact_information": {
+      "name": "Rick Rabiser",
+      "title": "Univ.-Prof. Mag. Dr.",
+      "labs": [
+        "Christian Doppler Lab VaSiCS",
+        "JKU/Dynatrace Co-Innovation Lab",
+        "Cyber-Physical Systems Lab"
+      ],
+      "address": "Altenberger Straße 69, 4040 Linz, Austria",
+      "phone": "+43 732 2468 4363",
+      "email": "[log in to unmask]",
+      "institution_url": "jku.at"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "conference_name": "MPLR'25",
+    "full_name": "22nd International Conference on Managed Programming Languages & Runtimes",
+    "previous_names": [
+      "ManLang",
+      "PPPJ"
+    ],
+    "date": "October 14, 2025",
+    "topics_of_interest": [
+      {
+        "category": "Languages and Compilers",
+        "subtopics": [
+          "Managed languages (e.g., Java, Scala, JavaScript, Python, Ruby, C#, F#, Clojure, Groovy, Kotlin, R, Smalltalk, Racket, Rust, Go, Lua, MATLAB, Raku, Pony)",
+          "Domain-specific languages",
+          "Language design",
+          "Compilers and interpreters",
+          "Type systems and program logics",
+          "Language interoperability",
+          "Parallelism, distribution, and concurrency"
+        ]
+      },
+      {
+        "category": "Virtual Machines",
+        "subtopics": [
+          "Portable intermediate representations (e.g., JVM, WebAssembly, RPython)",
+          "Managed runtime systems (e.g., GraalVM, Android Runtime, V8, JavaScriptCore, .NET)",
+          "VM design and optimization",
+          "VMs for mobile and embedded devices",
+          "VMs for real-time applications",
+          "Memory management and garbage collection",
+          "Hardware/software co-design",
+          "Persistence"
+        ]
+      },
+      {
+        "category": "Techniques, Tools, and Applications",
+        "subtopics": [
+          "Static and dynamic program analysis",
+          "Testing and debugging",
+          "Refactoring",
+          "Program understanding",
+          "Program synthesis",
+          "Security and privacy",
+          "Performance analysis and monitoring",
+          "Compiler and program verification and model checking"
+        ]
+      }
+    ],
+    "submission_categories": [
+      {
+        "type": "Regular research papers",
+        "description": "Describing novel contributions involving managed language platforms.",
+        "format": "up to 12 pages, excluding bibliography and appendix"
+      },
+      {
+        "type": "Work-in-progress research papers",
+        "description": "Describing hot topics or promising new ideas with less maturity than full papers.",
+        "format": "up to 6 pages, excluding bibliography and appendix"
+      },
+      {
+        "type": "Industry and tool papers",
+        "description": "Presenting technical challenges and solutions for managed language platforms in deployed applications.",
+        "format": "up to 6 pages, with up to 12 pages allowed if justified"
+      }
+    ],
+    "important_dates": {
+      "paper_submission_deadline": "June 24, 2025 (extended)",
+      "paper_author_notification": "July 28, 2025",
+      "camera_ready_for_papers": "August 25, 2025"
+    },
+    "submission_site": "https://mplr25.hotcrp.com",
+    "contact_info": {
+      "program_chair": "Tomoharu Ugawa",
+      "email": "ugawa@ci.u-tokyo.ac.jp"
+    }
+  }
+}

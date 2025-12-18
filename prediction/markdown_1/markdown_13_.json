@@ -1,0 +1,68 @@
+{
+  "summary": {
+    "conference_name": "IEEE iMETA 2025",
+    "dates": "14-17 October 2025",
+    "location": "Dubrovnik, Croatia",
+    "type": "Hybrid Conference",
+    "sponsor": "Technically sponsored by IEEE Croatia section",
+    "website": "https://imeta-conference.org/",
+    "description": "The conference aims to bring together researchers, academics, and industry experts to explore the distributive metaverse, including its technologies, applications, and implications. Attendees will engage in keynote speeches, panel discussions, and presentations on cutting-edge research.",
+    "tracks": [
+      "Track 1: Large Language Models (LLMs) in the Metaverse",
+      "Track 2: Native AI for Metaverse Technologies",
+      "Track 3: Security and Privacy",
+      "Track 4: Networking and Communications",
+      "Track 5: Systems and Computing",
+      "Track 6: Multimedia and Computer Vision",
+      "Track 7: Immersive Technologies and Services",
+      "Track 8: Storage and Processing"
+    ],
+    "workshops": [
+      {
+        "name": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse (IDTSC)",
+        "link": "https://imeta-conference.org/2025/workshops#WS1"
+      },
+      {
+        "name": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse (BCIME)",
+        "link": "https://imeta-conference.org/2025/workshops#WS2"
+      },
+      {
+        "name": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems (EASME)",
+        "link": "https://imeta-conference.org/2025/workshops#WS3"
+      },
+      {
+        "name": "1st International Workshop on Generative AI for Immersive Experience Design (GAIXR)",
+        "link": "https://imeta-conference.org/2025/workshops#WS4"
+      },
+      {
+        "name": "1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)",
+        "link": "https://imeta-conference.org/2025/workshops#WS5"
+      },
+      {
+        "name": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse (SPAAUM)",
+        "link": "https://imeta-conference.org/2025/workshops#WS6"
+      }
+    ],
+    "publication": "All accepted papers will be submitted to IEEEXplore, dblp and Scopus for inclusion.",
+    "important_dates": {
+      "late_track_submission": {
+        "papers_due": "July 30, 2025",
+        "acceptance_notification": "August 20, 2025",
+        "camera_ready_due": "August 31, 2025"
+      },
+      "workshop_papers": {
+        "papers_due": "July 30, 2025",
+        "acceptance_notification": "August 30, 2025",
+        "camera_ready_due": "September 10, 2025"
+      }
+    },
+    "submission_guidelines": {
+      "format": "IEEE Conference Proceedings Format, double-column layout, 10-point font, letter-sized paper.",
+      "manuscript_length": {
+        "review_process": "up to 6 pages",
+        "camera_ready": "maximum of 8 pages, subject to an overlength page fee"
+      },
+      "submission_link": "https://easychair.org/my/conference?conf=imeta2025"
+    }
+  }
+}

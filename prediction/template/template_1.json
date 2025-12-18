@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "conference_name": null,
+    "location": "Karlskrona, Sweden",
+    "dates": null,
+    "website": "https://www.bth.se/english/vacancies/job/associate-senior-lecturer-in-ai-for-software-engineering-tenure-track-karlskrona",
+    "invitation": null,
+    "co-located_with": null,
+    "email_for_submissions": "[log in to unmask]",
+    "call_for_papers": {
+      "types": [
+        null
+      ],
+      "submission_deadline": "August 1, 2025",
+      "notification_date": null
+    },
+    "submission_languages": [
+      null
+    ],
+    "topics": [
+      "AI in Software Engineering",
+      "Software Development Processes",
+      "Empirical Software Engineering"
+    ],
+    "submission_guidelines": {
+      "english": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": [
+            null
+          ],
+          "zip_file_include": null
+        }
+      },
+      "spanish_portuguese": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": null,
+          "zip_file_include": null
+        }
+      }
+    },
+    "review_process": null,
+    "presentation_format": {
+      "accepted_papers": null,
+      "accepted_posters": null
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "english": {
+          "publication": null,
+          "indexing": [
+            null
+          ],
+          "access": null
+        },
+        "spanish_portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirement": null
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "payment_of_registration": null,
+      "camera_ready_submission": null
+    }
+  }
+}

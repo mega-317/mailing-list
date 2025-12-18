@@ -1,0 +1,59 @@
+{
+  "summary": {
+    "conference_title": "12th International Conference on Software Defined Systems (SDS2025)",
+    "event_details": {
+      "date": "December 2-5, 2025",
+      "location": "University Lyon 1, Lyon, France",
+      "submission_link": "https://easychair.org/conferences/?conf=sds202501"
+    },
+    "important_dates": {
+      "submission_deadline": "August 31, 2025",
+      "notification_to_authors": "October 20, 2025",
+      "camera_ready_submission": "October 30, 2025"
+    },
+    "conference_theme": "Exploration of software-defined everything in various domains including networks, systems, security, cloud computing, and artificial intelligence.",
+    "submission_guidelines": {
+      "manuscript_format": "10-point font using the IEEE 8.5\" x 11\" two-column format",
+      "submission_types": [
+        {
+          "type": "full paper",
+          "length": "6-8 pages"
+        },
+        {
+          "type": "short paper",
+          "length": "3-4 pages"
+        },
+        {
+          "type": "extended abstract",
+          "length": "2 pages"
+        },
+        {
+          "type": "abstract",
+          "length": "500 words"
+        }
+      ],
+      "review_process": "All submissions are peer-reviewed by at least two reviewers."
+    },
+    "areas_of_interest": [
+      "Core Foundations of Software-Defined Systems",
+      "Software-Defined Cloud, Edge, and Fog Environments",
+      "AI-Driven and Intelligent SDS",
+      "Security, Privacy, and Trust in Software-Defined Systems",
+      "Automation, Resilience, and Adaptability",
+      "Interoperability, Standards, and DevOps",
+      "Sustainable and Responsible Software-Defined Systems",
+      "Human-Centered and Societal Perspectives",
+      "Applications and Emerging Domains",
+      "Software Engineering for Software-Defined Systems"
+    ],
+    "contact_information": {
+      "email": "[log in to unmask]",
+      "general_co_chairs": [
+        "Larbi Boubchir, University of Paris 8, France",
+        "Tamara Zhukabayeva, L.N Eurasian National University, Kazakhstan",
+        "Jaime Lloret, Universitat Politècnica de València, Spain"
+      ]
+    },
+    "additional_info": "Accepted papers will be published in conference proceedings and made accessible through major digital libraries, including IEEE Xplore."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "subject": "Postdoctoral positions in Fuzz testing",
+    "from": "SEWORLD Moderator",
+    "date": "Tue, 3 Jun 2025 02:04:05 -0000",
+    "positions": {
+      "location": "National University of Singapore (NUS)",
+      "area": "fuzz testing",
+      "sponsored_by": "Singapore's Cybersecurity Agency (CSA)",
+      "grant_duration": "2023-2027",
+      "program_name": "Fuzz Testing",
+      "focus": "improving the reliability of modern software applications using fuzz testing techniques"
+    },
+    "research_areas": [
+      "testing and analysis of concurrent software",
+      "testing and analysis of distributed software",
+      "testing and analysis of stateful software",
+      "kernel software including parts of the Linux Kernel"
+    ],
+    "collaboration": "Works on fuzzing will be alongside agentic AI based automated program repair",
+    "application_requirements": {
+      "eligibility": "PhD degree or submission of PhD thesis soon",
+      "documents_required": [
+        "CV including publications",
+        "Research statement",
+        "Names of two referees"
+      ]
+    },
+    "contact": {
+      "name": "Abhik Roychoudhury",
+      "position": "Lead PI",
+      "email": "[log in to unmask]"
+    },
+    "department": "Computer Science Department",
+    "academic_reputation": "high degree"
+  }
+}

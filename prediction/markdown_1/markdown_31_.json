@@ -1,0 +1,134 @@
+{
+  "summary": {
+    "conference": {
+      "name": "ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)",
+      "dates": "Oct 5-10, 2025",
+      "location": "Grand Rapids, Michigan, United States",
+      "website": "https://2025.models-conf.com/",
+      "event_type": "hybrid"
+    },
+    "workshops": [
+      {
+        "name": "International Workshop on Collaborative and Participatory Modeling (CoPaMo 2025)",
+        "organizers": [
+          "Istvan David",
+          "Anne Gutschmidt",
+          "Luciano Marchezan",
+          "Philippe Giabbanelli"
+        ],
+        "url": "https://copamo.github.io/"
+      },
+      {
+        "name": "2nd International Workshop on Sustainability and Modeling (SusMod’25)",
+        "organizers": [
+          "Istvan David",
+          "Arianna Fedeli",
+          "Vincenzo Stoico"
+        ],
+        "url": "https://sustainability-and-modeling.github.io/"
+      },
+      {
+        "name": "MDE Intelligence: 7th Workshop on Artificial Intelligence and Model-driven Engineering",
+        "organizers": [
+          "Lola Burgueño",
+          "Dominik Bork",
+          "Claudio Di Sipio"
+        ],
+        "url": "https://mde-intelligence.github.io/"
+      },
+      {
+        "name": "Modeling Language Engineering (MLE)",
+        "organizers": [
+          "Josselin Enet",
+          "Ivan Kurtev",
+          "Andreas Wortmann"
+        ],
+        "url": "https://mleworkshop.github.io/editions/mle2025/"
+      },
+      {
+        "name": "MULTI 2025",
+        "organizers": [
+          "Arne Lange",
+          "Fernando Macías",
+          "Pierre Maier"
+        ],
+        "url": "https://multi-workshop.github.io/2025/"
+      },
+      {
+        "name": "Models and Evolution 2025 (ME 2025)",
+        "organizers": [
+          "Wael Kessentini",
+          "Juri Di Rocco",
+          "Djamel Eddine Khelladi"
+        ],
+        "url": "https://models-and-evolution.github.io/"
+      },
+      {
+        "name": "Second International Workshop on Model Management (MoM)",
+        "organizers": [
+          "Dominique Blouin",
+          "Sylvain Guérin",
+          "Arne Lange",
+          "Moussa Amrani",
+          "Anish Bhobe",
+          "Chahrazed Boudjemila",
+          "Thomas Weber"
+        ],
+        "url": "https://mom2025.wp.imt.fr/"
+      },
+      {
+        "name": "LowCode 2025: Low-Code Development Platforms",
+        "organizers": [
+          "Luca Berardinelli",
+          "Juri Di Rocco",
+          "Dimitris Kolovos",
+          "Jean-Marie Mottu"
+        ],
+        "url": "https://lowcode-workshop.github.io/"
+      },
+      {
+        "name": "MoDeVVa’25: Model Driven Engineering, Verification and Validation",
+        "organizers": [
+          "Iulian Ober",
+          "Jens Kosiol",
+          "Saad Bin Abid",
+          "Rakshit Mittal",
+          "Juergen Dingel",
+          "Ernesto Posse"
+        ],
+        "url": "https://sites.google.com/site/modevva/call-for-papers"
+      },
+      {
+        "name": "onto:Nexus Ontological Modeling and Analysis Workshop",
+        "organizers": [
+          "Maged Elaasar",
+          "Bentley Oakes",
+          "Abdelwahab Hamou-Lhadj",
+          "Mohammad Hamdaqa"
+        ],
+        "url": "https://www.opencaesar.io/events/onto-Nexus-Workshop-2025"
+      },
+      {
+        "name": "MoDIoT – 1st International Workshop on Model-Based Development for the IoT",
+        "organizers": [
+          "Imad Berrouyne",
+          "Yann-Gaël Guéhéneuc",
+          "Hassnaa Moustafa"
+        ],
+        "url": "https://modiot2025.imad.org/"
+      }
+    ],
+    "important_dates": {
+      "submissions_deadline": "Thu 3 Jul 2025",
+      "notification_of_authors": "Thu 31 Jul 2025",
+      "camera_ready_deadline": "Thu 7 Aug 2025",
+      "workshop_dates": "Sun 5 Oct - Tue 7 Oct 2025"
+    },
+    "organizers": {
+      "workshop_co_chairs": [
+        "Shiva Nejati",
+        "Foyzul Hassan"
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "summary": {
+    "title": "JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”",
+    "call_for_papers": true,
+    "journal": "Journal of Systems and Software",
+    "submission_deadline": "30 September 2025",
+    "description": {
+      "overview": "This special issue seeks to explore the balance between the advantages of DevOps in accelerating software delivery and the challenges it poses to quality assurance, particularly regarding performance, sustainability, and reliability.",
+      "topics": [
+        "Observability and monitoring in DevOps pipelines",
+        "Application of AIOps techniques for quality assurance",
+        "Automated anomaly detection and incident prediction",
+        "Data-driven feedback loops for continuous improvement",
+        "Intelligent test automation and AI-driven defect prediction",
+        "Integration of AI into CI/CD pipelines",
+        "Infrastructure as code with intelligent performance tuning",
+        "AI methods to enhance software quality",
+        "Sustainability techniques such as energy-efficient builds",
+        "Predictive modeling for capacity planning and reliability",
+        "Use of large language models in DevOps automation",
+        "Software architecture modeling informed by operational data",
+        "Quality assurance tools for microservices",
+        "Comparative evaluations and empirical studies in quality assurance"
+      ]
+    },
+    "submission_instructions": {
+      "preparation": "Manuscripts must follow the Guide for Authors.",
+      "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+      "article_type": "VSI:Intelligent DevOps"
+    },
+    "editors": [
+      {
+        "name": "Luca Traini",
+        "position": "Assistant Professor",
+        "institution": "University of L’Aquila, L'Aquila, Italy"
+      },
+      {
+        "name": "Heng Li",
+        "position": "Assistant Professor",
+        "institution": "Polytechnique Montreal, Montréal Quebec, Canada"
+      },
+      {
+        "name": "Weiyi Shang",
+        "position": "Associate Professor",
+        "institution": "University of Waterloo, Waterloo Ontario, Canada"
+      }
+    ]
+  }
+}

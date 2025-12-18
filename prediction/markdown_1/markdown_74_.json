@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "event": "2025 OkIP International Conference on Software Engineering Research & Development (SERD)",
+    "location": "Oklahoma City, OK, USA & Online",
+    "dates": {
+      "conference": "October 1-2, 2025",
+      "submission_deadline": "July 15, 2025",
+      "author_notification": "August 1-15, 2025",
+      "camera_ready_submission": "August 7-22, 2025"
+    },
+    "website": "https://eventutor.com/e/SERD005",
+    "publication": "Extended versions of the best papers will be considered for publication in the inaugural volume of the International Journal of Software Research.",
+    "areas_of_interest": [
+      "General and Social Aspects of Software Engineering (SE)",
+      "Software Design, Testing, Evolution, and Maintenance",
+      "Formal Methods and Theoretical Foundations",
+      "Programming Languages (PLs), Systems, and Environments",
+      "Object-Oriented (OO) Design and Analysis",
+      "Service Orientation and Human Interactions",
+      "AI, Web-Based Environments, and Adaptive Systems",
+      "Automated Software Engineering",
+      "Emerging SE Technologies and Dependability",
+      "Distribution, Componentization, and Collaboration",
+      "Concurrent, Parallel, and Distributed Systems",
+      "More..."
+    ],
+    "contribution_types": [
+      {
+        "type": "Full Paper",
+        "description": "Accomplished research results (6 pages)"
+      },
+      {
+        "type": "Short Paper",
+        "description": "Work in progress/fresh developments (3 pages)"
+      },
+      {
+        "type": "Extended Abstract/Poster/Journal First",
+        "description": "Displayed/Oral presented (1 page)"
+      }
+    ],
+    "contact": {
+      "name": "Kris Zeuti",
+      "role": "OkIP Secretariat",
+      "email": "[log in to unmask]"
+    },
+    "additional_info": "For inquiries or contributions to SEWORLD, refer to the links provided."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "event": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+    "dates": "24–26 July 2024",
+    "location": "Melbourne, Australia",
+    "website": "https://www.ieee-aiot.org",
+    "submission_link": "https://easychair.org/my/conference?conf=aiot2024",
+    "important_dates": {
+      "paper_submission_deadline": "8 May 2024",
+      "notification_of_acceptance": "10 June 2024",
+      "final_manuscript_due": "3 July 2024"
+    },
+    "awards": {
+      "best_paper_award": "Three accepted papers will be selected for best paper awards.",
+      "journal_special_issues": "Selected papers will be recommended for potential fast-track publications in IEEE Internet of Things Journal and Digital Communications and Networks."
+    },
+    "conference_aim": "To bring together universities, research centers, industries, and stakeholders working in AI and IoT to exchange ideas and establish collaborations.",
+    "focus_areas": [
+      "AIoT Architectures, Frameworks, and Algorithms",
+      "AIoT Applications",
+      "Standards and Interoperability",
+      "Ethics and Security"
+    ],
+    "topics_of_interest": [
+      "Edge AI and Distributed Intelligence",
+      "Machine Learning for IoT Applications",
+      "Mobile deployment of LLMs",
+      "Generative AI and LLMs for IoT applications",
+      "AI-empowered Robotics and Sensing for IoT",
+      "Smart Cities: AI and IoT Solutions",
+      "Security and Privacy in AI-driven IoT Systems",
+      "5G and its Impact on AI and IoT",
+      "Blockchain Technology for Securing IoT Devices",
+      "Human-Machine Interaction in IoT Environments",
+      "IoT Sensors and Actuators: Innovations and Advances",
+      "AI-driven Data Analytics and Decision-making",
+      "Energy-Efficient AI Algorithms for IoT Devices",
+      "IoT in Healthcare: Applications and Challenges",
+      "Industrial IoT (IIoT) and AI for Manufacturing",
+      "Smart Agriculture: AI and IoT in Precision Farming",
+      "Ethical Considerations in AI-powered IoT Systems",
+      "IoT Standards and Interoperability",
+      "Robotic Process Automation (RPA) in IoT",
+      "AI-driven Automation in Supply Chain Management",
+      "IoT Analytics and Big Data Processing",
+      "AI in Edge Devices: Challenges and Solutions",
+      "Wireless Sensor Networks in AI and IoT",
+      "IoT for Environmental Monitoring and Sustainability",
+      "AI and IoT in Transportation and Logistics",
+      "Cross-domain Integration of AI and IoT Technologies",
+      "Privacy, Security, and Trustworthiness",
+      "Standardization and Interoperability",
+      "Demonstrations, Proof-of-Concepts, and Deployments"
+    ],
+    "paper_submission_details": {
+      "format": "EDAS",
+      "length": "Maximum six IEEE style pages",
+      "extra_page_policy": "One extra page allowed with an extra charge of $100",
+      "review_process": "Standard reviewing procedure with at least 3 independent anonymous reviews.",
+      "publication": "All accepted papers will be published on IEEE Xplore."
+    },
+    "organization_committee": {
+      "general_chairs": [
+        "Wei Xiang, La Trobe University, Australia",
+        "Carla Fabiana Chiasserini, Politecnico di Torino, Italy"
+      ],
+      "tpc_chairs": [
+        "Dusit Niyato, Nanyang Technological University, Singapore",
+        "Ruidong Li, Kanazawa University, Japan",
+        "Prasad Kodaypak, The XMG, USA"
+      ],
+      "keynote_chair": "Song Guo, Hong Kong University of Science and Technology, China",
+      "industry_forum_chair": "Henry Leung, University of Calgary",
+      "tutorial_chairs": [
+        "Flora Salim, University of New South Wales, Australia",
+        "JaeSeung Song, Sejong University, South Korea"
+      ],
+      "workshop_chairs": [
+        "Teng Joon Lim, University of Sydney, Australia",
+        "Jia Hu, University of Exeter, U.K."
+      ],
+      "poster_chairs": [
+        "Pietro Manzoni, Universidad Politécnica de Valencia, Spain",
+        "Xiang Sun, University of Mexico, USA"
+      ],
+      "publicity_chair": "Zhengxin Yu, Lancaster University, U.K.",
+      "publication_chairs": [
+        "Constandinos X. Mavromoustakis, University of Nicosia, Cyprus",
+        "Peng Cheng, La Trobe University, Australia"
+      ],
+      "registration_chair": "Wei Wang, San Diego State University",
+      "web_chair": "Haihan Nan, Kanazawa University, Japan",
+      "financial_chair": "Kang Han, La Trobe University, Australia",
+      "local_chairs": [
+        "Kan Yu, La Trobe University, Australia",
+        "Phu Lai, La Trobe University, Australia"
+      ]
+    }
+  }
+}

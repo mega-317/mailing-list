@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "event": "29th Ada-Europe International Conference on Reliable Software Technologies (AEiC 2025)",
+    "dates": "10-13 June 2025",
+    "location": "Paris, France",
+    "early_registration_deadline": "May 27, 2025",
+    "website": "www.ada-europe.org/conference2025",
+    "organized_by": [
+      "Ada-Europe",
+      "Ada-France"
+    ],
+    "cooperating_organization": "ACM SIGPLAN",
+    "sponsors": [
+      "Embedded France",
+      "AdaCore",
+      "Emenda",
+      "Systerel",
+      "Scitools",
+      "Pacte Novation",
+      "Institut Frederik Bull",
+      "Mines Paris"
+    ],
+    "conference_details": {
+      "overview": "AEiC 2025 focuses on reliable software technologies and promotes the Ada programming language through a rich program that includes keynotes, tutorials, workshops, and networking opportunities.",
+      "tutorials": [
+        {
+          "title": "Developing Bare-metal Embedded Software in SPARK Ada for 64-bit ARM Platforms",
+          "instructor": "J. Germán Rivera"
+        },
+        {
+          "title": "Multiple Double and Multiword Arithmetic",
+          "instructor": "Jan Verschelde"
+        },
+        {
+          "title": "Unleash the Power of Ada Generics",
+          "instructor": "Gautier de Montmollin"
+        },
+        {
+          "title": "Turning your Programming Language into a Modeling Language",
+          "instructor": "S. Tucker Taft"
+        },
+        {
+          "title": "Introduction to the ALiRe Package Manager",
+          "instructor": "Quentin Dauprat"
+        }
+      ],
+      "workshops": [
+        "4th ADEPT workshop 'AADL by its practitioners'",
+        "10th International Workshop on 'Challenges and New Approaches for Dependable and Cyber-Physical System Engineering' (DeCPS 2025)",
+        "2nd 'Ada Developers Workshop'"
+      ],
+      "keynote_speakers": [
+        {
+          "name": "Stefano Zacchiroli",
+          "topic": "Building a Safer Open Source Supply Chain with Software Heritage, the Great Library of Source Code",
+          "date": "June 11, 2025"
+        },
+        {
+          "name": "Tullio Vardanega",
+          "topic": "Language Ownership: Key Moments in the Lifetime of Ada",
+          "date": "June 11, 2025"
+        }
+      ],
+      "social_events": [
+        "Welcome Reception",
+        "Conference Banquet at 'Bouillon Racine'",
+        "Chill Event at Café Latin"
+      ],
+      "venue": "Mines Paris, located near Luxembourg gardens and well-connected by public transport."
+    },
+    "registration_info": {
+      "links": {
+        "registration": "http://www.ada-europe.org/conference2025/registration.html",
+        "accommodation": "https://www.ada-europe.org/conference2025/accommodation.html"
+      },
+      "fees": {
+        "early_registration_fee": "discounted until May 27",
+        "students_discount": "strong discount on conference fees"
+      }
+    },
+    "hashtags": [
+      "#AEiC2025",
+      "#AdaEurope",
+      "#AdaProgramming"
+    ]
+  }
+}

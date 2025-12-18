@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "conference_name": "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+    "location": "Roatán Island, Honduras",
+    "dates": "16-18 February 2026",
+    "website": "https://icits.me/",
+    "invitation": "We are pleased to invite you to submit your original papers to ICITS'26.",
+    "co-located_with": null,
+    "email_for_submissions": null,
+    "call_for_papers": {
+      "types": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "submission_deadline": "September 28, 2025",
+      "notification_date": "November 5, 2025",
+      "website": null
+    },
+    "submission_languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "topics": [
+      "Information and Knowledge Management (IKM)",
+      "Organizational Models and Information Systems (OMIS)",
+      "Software and Systems Modeling (SSM)",
+      "Software Systems, Architectures, Applications and Tools (SSAAT)",
+      "Multimedia Systems and Applications (MSA)",
+      "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+      "Intelligent and Decision Support Systems (IDSS)",
+      "Big Data Analytics and Applications (BDAA)",
+      "Human-Computer Interaction (HCI)",
+      "Ethics, Computers and Security (ECS)",
+      "Health Informatics (HIS)",
+      "Information Technologies in Education (ITE)",
+      "Media, Applied Technology and Communication (MATC)"
+    ],
+    "submission_guidelines": {
+      "english": {
+        "page_limit": "12",
+        "format": "Lecture Notes in Networks and Systems series",
+        "blind_review": "Yes",
+        "submission_requirements": {
+          "anonymity": "Authors’ names and affiliations should not be included in the version for evaluation",
+          "format": [
+            "Word",
+            "Latex",
+            "PDF"
+          ],
+          "zip_file_include": "Consent to Publish form"
+        }
+      },
+      "spanish_portuguese": {
+        "page_limit": "15",
+        "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+        "blind_review": "Yes",
+        "submission_requirements": {
+          "anonymity": "Authors’ names and affiliations should not be included in the version for evaluation",
+          "format": null,
+          "zip_file_include": null
+        }
+      }
+    },
+    "review_process": "Double-blind review by at least two members of the Scientific Committee.",
+    "presentation_format": {
+      "accepted_papers": "15 minutes for presentation and 5 minutes for discussion.",
+      "accepted_posters": "Must follow A1 or A2 vertical format and have 7 minute discussion."
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "english": {
+          "publication": "Proceedings by Springer",
+          "indexing": [
+            "Scopus",
+            "WoS",
+            "DBLP",
+            "Google Scholar"
+          ],
+          "access": "Available in the SpringerLink Digital Library."
+        },
+        "spanish_portuguese": {
+          "publication": "Special Issue of RISTI",
+          "indexing": [
+            "ProQuest",
+            "EBSCO",
+            "Google Scholar"
+          ]
+        }
+      },
+      "registration_requirement": "At least one author must be registered by November 5, 2025, for the paper to be published."
+    },
+    "important_dates": {
+      "paper_submission": "September 28, 2025",
+      "notification_of_acceptance": "November 5, 2025",
+      "payment_of_registration": "November 19, 2025",
+      "camera_ready_submission": "November 19, 2025"
+    }
+  }
+}

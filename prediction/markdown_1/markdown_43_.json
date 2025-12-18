@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "position": "Postdoctoral Position Available in Programming Languages Working on Fixed-Point-Oriented Programming",
+    "email": "adamsmd@nus.edu.sg",
+    "application_process": "Interested candidates should email to schedule a Zoom interview. Interviews will begin immediately.",
+    "duration": "2 to 3 years, contingent upon satisfactory progress",
+    "salary": "competitive salary",
+    "project_focus": "Fixed-point-oriented programming, simplifying algorithms in parsing, static analysis, type-checking, graph algorithms, and automata minimization.",
+    "project_details": "Development of language and implementation transforming high-level specifications into optimized Haskell modules. Involves language design, compiler development, and code optimization techniques.",
+    "white_paper": "https://michaeldadams.org/papers/fpop/fixed-point-oriented-programming.pdf",
+    "posting_date": "June 2, 2025",
+    "posting_url": "https://michaeldadams.org/hiring",
+    "professor": {
+      "name": "Michael D. Adams",
+      "homepage": "https://michaeldadams.org/",
+      "research_goals": "https://michaeldadams.org/vitae/research-statement.pdf",
+      "papers": "https://michaeldadams.org/papers/"
+    }
+  }
+}

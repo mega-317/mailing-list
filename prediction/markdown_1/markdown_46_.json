@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "event": "ER 2025",
+    "date": "June 2025",
+    "workshops": [
+      {
+        "name": "Fundamentals of Conceptual Modeling (FCM)",
+        "website": "https://ae-ainf.aau.at/fcm/"
+      },
+      {
+        "name": "6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)",
+        "website": "https://purl.org/cmls-2025"
+      },
+      {
+        "name": "3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)",
+        "website": "https://www.unifr.ch/inf/digits/en/events/3rd-international-workshop-modeling-in-the-age-of-large-language-models-(llm4modeling).html"
+      },
+      {
+        "name": "11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)",
+        "website": "https://ontocomworkshops.github.io/OntoCom2025/"
+      },
+      {
+        "name": "6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)",
+        "website": "https://quames.testar.org"
+      }
+    ],
+    "important_dates": {
+      "submission_deadline": "27 June 2025",
+      "notification_date": "28 July 2025"
+    },
+    "workshop_chairs": [
+      {
+        "name": "Anna Bernasconi",
+        "affiliation": "Politécnico de Milano, Italy"
+      },
+      {
+        "name": "Sergio de Cesare",
+        "affiliation": "University of Westminster, UK"
+      },
+      {
+        "name": "Claudenir Morais Fonseca",
+        "affiliation": "University of Twente, Netherlands"
+      }
+    ],
+    "contact_info": "ER Workshop Chairs at [log in to unmask]"
+  }
+}

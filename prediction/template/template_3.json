@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "conference_name": "Nineteenth International Tbilisi Summer School in Logic and Language",
+    "location": "Kutaisi International University, Kutaisi, Georgia",
+    "dates": "September 4th-7th 2025",
+    "website": "https://www.logic.at/tbilisi25/",
+    "invitation": null,
+    "co-located_with": [
+      "JELIA 2025",
+      "TbiLLC 2025"
+    ],
+    "email_for_submissions": "[log in to unmask]",
+    "position": null,
+    "institution": null,
+    "research_focus": null,
+    "topic": null,
+    "responsibilities": [
+      null
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": "[log in to unmask]"
+    },
+    "call_for_papers": {
+      "types": [
+        null
+      ],
+      "submission_deadline": null,
+      "notification_date": null
+    },
+    "submission_languages": [
+      null
+    ],
+    "topics": [
+      null
+    ],
+    "submission_guidelines": {
+      "english": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": [
+            null
+          ],
+          "zip_file_include": null
+        }
+      },
+      "spanish_portuguese": {
+        "page_limit": null,
+        "format": null,
+        "blind_review": null,
+        "submission_requirements": {
+          "anonymity": null,
+          "format": null,
+          "zip_file_include": null
+        }
+      }
+    },
+    "review_process": null,
+    "presentation_format": {
+      "accepted_papers": null,
+      "accepted_posters": null
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "english": {
+          "publication": null,
+          "indexing": [
+            null
+          ],
+          "access": null
+        },
+        "spanish_portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirement": null
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "payment_of_registration": null,
+      "camera_ready_submission": null
+    },
+    "event_details": {
+      "dates": "September 4th-7th 2025",
+      "location": "Kutaisi International University, Kutaisi, Georgia",
+      "co_location": [
+        "JELIA 2025",
+        "TbiLLC 2025"
+      ]
+    }
+  }
+}

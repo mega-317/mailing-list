@@ -1,0 +1,91 @@
+{
+  "summary": {
+    "conference_name": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+    "conference_dates": "17-20 March, 2026",
+    "location": "5* St. Raphael Resort and Marina, Limassol, Cyprus",
+    "website": "https://conf.researchr.org/home/saner-2026",
+    "call_for_papers": {
+      "description": "Invitation for high-quality, original, and unpublished research papers. Topics of interest include software analysis, evolution, and reengineering, covering various areas such as AI for Software Engineering, software maintenance, program comprehension, software visualization, and more.",
+      "submission_instructions": {
+        "peer_review_process": "All submissions will undergo rigorous peer review based on originality, quality, soundness, and relevance.",
+        "format_requirements": [
+          "PDF format",
+          "Conform to IEEE Conference Proceedings Formatting Guidelines"
+        ],
+        "track_requirements": {
+          "Research Track": "Max 12 pages (last 2 pages for references only)",
+          "Industrial Papers Track": "Max 12 pages (last 2 for references only) for full papers; talk proposals max 2 pages",
+          "Short Papers and Posters Track": "Max 6 pages (including all text, figures, references, and appendices); posters max 2 pages",
+          "Early Research Achievement (ERA) Track": "Max 6 pages (last 1 page for references only)",
+          "Reproducibility Studies and Negative Results (RENE) Track": "Max 5 pages for appendices; max 12 pages for new reproducibility studies",
+          "Tool Demo Track": "Max 5 pages",
+          "Journal-First Papers Track": "Max 1 page for main submission",
+          "Registered Report Track": "Max 7 pages (last 1 page for references only)"
+        },
+        "double_anonymous_review": "Applicable to Research, Short Papers and Posters, ERA, and RENE Tracks"
+      },
+      "special_journal_issue": "Authors of selected papers will be invited to submit revised versions for a special issue in Springer's Empirical Software Engineering Journal.",
+      "workshop_information": {
+        "description": "Proposals for workshops highlighting specific topics related to the conference themes are being solicited.",
+        "submission_deadline": "20th August, 2025 AoE",
+        "organization_requirements": [
+          "Include workshop title and description",
+          "Indicate whether full or half-day",
+          "Provide a link to the workshop website"
+        ]
+      },
+      "tutorial_information": {
+        "description": "Proposals for insightful tutorials on software analysis, evolution, and reengineering.",
+        "submission_instructions": {
+          "max_length": "1 page (1 additional for references)",
+          "evaluation_criteria": [
+            "Overall quality",
+            "Relevance to the SANER audience",
+            "Interest level"
+          ]
+        }
+      },
+      "important_dates": {
+        "Research Track": {
+          "Abstract Submission Deadline": "9 October, 2025",
+          "Paper Submission Deadline": "16 October, 2025",
+          "Notifications": "9 December, 2025",
+          "Camera-Ready": "9 January, 2026"
+        },
+        "Industrial Track": {
+          "Abstract Submission Deadline": "10 November, 2025",
+          "Paper Submission Deadline": "17 November, 2025",
+          "Notifications": "19 December, 2025",
+          "Camera-Ready": "14 January, 2026"
+        },
+        "workshop_and_tutorials": {
+          "Workshop Proposals Submission": "20 August, 2025",
+          "Workshop Proposals Notification": "27 August, 2025",
+          "Tutorial Proposals Submission": "12 January, 2026",
+          "Tutorial Proposals Notification": "12 January, 2026",
+          "Tutorial Camera-Ready Version": "16 January, 2026"
+        }
+      }
+    },
+    "organizing_committee": {
+      "General Chair": "Georgia Kapitsaki, University of Cyprus, Cyprus",
+      "Local Organizing Chair": "George Angelos Papadopoulos, University of Cyprus, Cyprus",
+      "Program Chairs": [
+        "Eunjong Choi, Kyoto Institute of Technology, Japan",
+        "Matthias Galster, University of Canterbury, New Zealand"
+      ],
+      "Industrial Chairs": [
+        "Anne Etien, University of Lille, France",
+        "Tushar Sharma, Dalhousie University, Canada"
+      ],
+      "shortPapersAndPostersChairs": [
+        "Eleni Constantinou, University of Cyprus, Cyprus",
+        "Sandro Schulze, Anhalt University of Applied Sciences, Germany"
+      ],
+      "workshopTutorialChairs": [
+        "Marcelo De Almeida Maia, Federal University of Uberlandia, Brazil",
+        "Juri Di Rocco, University of L'Aquila, Italy"
+      ]
+    }
+  }
+}

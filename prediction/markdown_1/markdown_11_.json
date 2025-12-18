@@ -1,0 +1,41 @@
+{
+  "summary": {
+    "subject": "Combined Call for Papers & Workshop Proposals: ICSA 2026",
+    "from": "SEWORLD Moderator <[log in to unmask]>",
+    "date": "Thu, 10 Jul 2025 16:12:04 -0000",
+    "conference": {
+      "name": "23rd IEEE International Conference on Software Architecture",
+      "abbreviation": "ICSA 2026",
+      "location": "Amsterdam, Netherlands",
+      "dates": "June 22-26, 2026"
+    },
+    "calls": [
+      {
+        "type": "Research Track",
+        "theme": "Architecting in Continuous Software Engineering: Evolving Roles, Enduring Principles",
+        "important_dates": {
+          "abstract_due": "November 28, 2025",
+          "papers_due": "December 5, 2025"
+        },
+        "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-papers"
+      },
+      {
+        "type": "Software Architecture in Practice Track",
+        "focus": "Context-driven solutions tailored to specific domains or organizations",
+        "important_dates": {
+          "abstract_due": "November 28, 2025",
+          "papers_due": "December 5, 2025"
+        },
+        "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track"
+      }
+    ],
+    "workshop_proposals": {
+      "accepting": true,
+      "details": "Propose a workshop to discuss emerging trends and research in software architecture.",
+      "submission_deadline": "October 3, 2025",
+      "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+    },
+    "official_website": "https://conf.researchr.org/home/icsa-2026",
+    "closing_statement": "We look forward to your contributions and hope to see you in Amsterdam!"
+  }
+}

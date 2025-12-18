@@ -1,0 +1,97 @@
+{
+  "summary": {
+    "event": "9th Working Formal Methods Symposium (FROM 2025)",
+    "dates": "September 17-19, 2025",
+    "location": "Iași, România",
+    "purpose": "To bring together researchers and practitioners working on formal methods by contributing new theoretical results, methods, techniques, frameworks, and/or software tools.",
+    "invited_speakers": [
+      {
+        "name": "Georgiana Caltais",
+        "affiliation": "University of Twente"
+      },
+      {
+        "name": "Jérôme Leroux",
+        "affiliation": "Laboratoire Bordelais de Recherche en Informatique (LaBRI)"
+      },
+      {
+        "name": "Rupak Majumdar",
+        "affiliation": "Max Planck Institute for Software Systems and Automated Reasoning Group, Amazon Web Services"
+      }
+    ],
+    "organizers": [
+      "Verimag, CNRS, University of Grenoble Alpes",
+      "Faculty of Computer Science, Alexandru Ioan Cuza University of Iași"
+    ],
+    "important_dates": {
+      "paper_submission_deadline": "June 22, 2025",
+      "author_notification": "July 22, 2025",
+      "revised_submission_deadline": "August 29, 2025",
+      "registration_deadline": "September 2, 2025",
+      "symposium_dates": "September 17-19, 2025"
+    },
+    "submission_guidelines": {
+      "papers": {
+        "length": "up to 16 pages",
+        "template": "EPTCS template",
+        "submission_system": "EasyChair",
+        "original_research": "must contain original research results not submitted or published elsewhere."
+      },
+      "extended_abstracts": {
+        "length": "up to 8 pages",
+        "type": "work in progress or survey previous research"
+      },
+      "selection_criteria": "based on scientific merit and relevance"
+    },
+    "topics_of_interest": {
+      "areas_and_formalisms": [
+        "Category theory in computer science",
+        "Distributed systems and concurrency",
+        "Formal languages and automata theory",
+        "Formal modeling, verification, and testing",
+        "Logic in computer science",
+        "Mathematical structures in computer science",
+        "Semantics of programming languages",
+        "Type systems"
+      ],
+      "methods": [
+        "Automated reasoning and model generation",
+        "Certified programs",
+        "Deductive verification",
+        "Model checking",
+        "Proof mining",
+        "Symbolic computation",
+        "Term rewriting",
+        "Formal Methods in ML/LLMs/AI"
+      ],
+      "applications": [
+        "Computational logic",
+        "Computer mathematics",
+        "Program analysis",
+        "Software and hardware verification"
+      ]
+    },
+    "programme_committee": [
+      "Bogdan Aman",
+      "Andrei Arusoaie",
+      "Ștefan Ciobâcă",
+      "Mădălina Erașcu",
+      "Pierre Ganty",
+      "Peter Habermehl",
+      "Dániel Horpácsi",
+      "Radu Iosif (chair)",
+      "Laurențiu Leuștean",
+      "Dorel Lucanu",
+      "Mircea Marin",
+      "David Nowak",
+      "Vlad Rusu",
+      "Arnaud Sangnier",
+      "Mihaela Sighireanu",
+      "Andrei Sipoș",
+      "Viorica Sofronie-Stokkermans",
+      "Alicia Villanueva",
+      "Tomáš Vojnar",
+      "Florian Zuleger"
+    ],
+    "further_information": "More details available at: https://fromsymposium.github.io/"
+  }
+}

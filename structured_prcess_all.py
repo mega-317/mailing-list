@@ -25,7 +25,7 @@ errors = []
 for n, path in txt_files:
     try:
         out = process_one_file(path)
-        out_name = f"markdown_{n}_.json"
+        out_name = f"markdown_{n}.json"
         save_json(out, OUT_DIR / out_name)
         print(f"[OK] {path.name} -> {out_name}")
     except Exception as e:

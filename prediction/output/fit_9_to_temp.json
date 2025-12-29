@@ -1,0 +1,303 @@
+{
+  "summary_1": {
+    "position": null,
+    "institution": "IEEE",
+    "location": "Laguna Hills, California",
+    "research_focus": "Artificial Intelligence and Software Engineering",
+    "responsibilities": [
+      "Submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format."
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": "Co-located with AIxSET, AIxHEART, AIxB",
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "application_deadline": "July 15, 2025 PT",
+    "contact_person": {
+      "name": "Daryush Laqab, Giovanni Pilato, Phillip Sheu",
+      "department": "General Co-Chairs",
+      "phone": null,
+      "email": "[log in to unmask]"
+    },
+    "application_link": "https://easychair.org/conferences?conf=aixse2025"
+  },
+  "summary_2": {
+    "event": "AIxSE 2025",
+    "topic": "Artificial Intelligence x Software Engineering",
+    "submission_info": {
+      "submission_types": [
+        "Regular papers",
+        "Short papers",
+        "Posters",
+        "Demos"
+      ],
+      "notification_date": "August 1, 2025 PT"
+    },
+    "event_details": {
+      "dates": "October 1-3, 2025",
+      "co_location": "AIxSET, AIxHEART, AIxB"
+    }
+  },
+  "summary_3": {
+    "co_located_events": [
+      {
+        "name": "AIxSET",
+        "website": null
+      },
+      {
+        "name": "AIxHEART",
+        "website": null
+      },
+      {
+        "name": "AIxB",
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null
+    }
+  },
+  "summary_4": {
+    "description": "Call for Papers for AIxSE 2025.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "All paper submissions will be carefully reviewed by at least three experts.",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "8 pages (regular), 4 pages (short), 2 pages (poster and demo)",
+          "format": "double-column IEEE format",
+          "identification": "Original material where copyright of all parts is owned by the authors."
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": "formatted in PDF",
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Submitted for inclusion into IEEE Xplore.",
+          "indexing": [
+            "IEEE Xplore"
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": "September 1, 2025 PT",
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "July 15, 2025 PT",
+      "notification_of_acceptance": "August 1, 2025 PT",
+      "registration_payment_deadline": "September 1, 2025 PT",
+      "camera_ready_submission_deadline": "September 1, 2025 PT"
+    }
+  },
+  "summary_5": {
+    "website": "http://www.AIxSE.org",
+    "call_for_papers": {
+      "description": "Authors are invited to submit manuscripts related to AI and Software Engineering.",
+      "submission_instructions": {
+        "peer_review_process": "Manuscripts will be reviewed by at least three experts.",
+        "format_requirements": [
+          "double-column IEEE format"
+        ],
+        "track_requirements": {
+          "Research Track": null,
+          "Industrial Papers Track": null,
+          "Short Papers and Posters Track": null,
+          "Early Research Achievement (ERA) Track": null,
+          "Reproducibility Studies and Negative Results (RENE) Track": null,
+          "Tool Demo Track": null,
+          "Journal-First Papers Track": null,
+          "Registered Report Track": null
+        },
+        "double_anonymous_review": null
+      },
+      "special_journal_issue": null,
+      "workshop_information": {
+        "description": null,
+        "submission_deadline": null,
+        "organization_requirements": [
+          null
+        ]
+      },
+      "tutorial_information": {
+        "description": null,
+        "submission_instructions": {
+          "max_length": null,
+          "evaluation_criteria": [
+            null
+          ]
+        }
+      },
+      "important_dates": {
+        "Research Track": {
+          "Abstract Submission Deadline": null,
+          "Paper Submission Deadline": null,
+          "Notifications": null,
+          "Camera-Ready": null
+        },
+        "Industrial Track": {
+          "Abstract Submission Deadline": null,
+          "Paper Submission Deadline": null,
+          "Notifications": null,
+          "Camera-Ready": null
+        },
+        "workshop_and_tutorials": {
+          "Workshop Proposals Submission": "July 22, 2025 PT",
+          "Workshop Proposals Notification": null,
+          "Tutorial Proposals Submission": null,
+          "Tutorial Proposals Notification": null,
+          "Tutorial Camera-Ready Version": null
+        }
+      }
+    },
+    "organizing_committee": {
+      "General Chair": "Daryush Laqab, Giovanni Pilato, Phillip Sheu",
+      "Local Organizing Chair": null,
+      "Program Chairs": [
+        "Srividya Bansal",
+        "Bryan Chou",
+        "Massimo Cossentino",
+        "Sheida Malekpour",
+        "Mustafa Sert"
+      ],
+      "Industrial Chairs": [
+        null
+      ],
+      "shortPapersAndPostersChairs": [
+        null
+      ],
+      "workshopTutorialChairs": [
+        null
+      ]
+    }
+  },
+  "summary_6": {
+    "department": null,
+    "position_type": null,
+    "note": null
+  },
+  "summary_7": {
+    "registration": {
+      "early_bird_deadline": null
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": null
+  },
+  "summary_8": {
+    "reference_number": null,
+    "closing_date": null,
+    "position_details": {
+      "role": null,
+      "main_activities_responsibilities": [
+        null
+      ]
+    },
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "contract_duration": null,
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null
+  },
+  "summary_9": {
+    "format": null,
+    "topics_of_interest": [
+      "Software design",
+      "Requirements engineering",
+      "Automatic programming",
+      "Software development",
+      "Software testing",
+      "Software maintenance",
+      "Generative AI",
+      "Transformer based technology",
+      "Agent technology",
+      "Semantic computing",
+      "Decision making",
+      "Machine learning",
+      "Symbolic AI",
+      "Knowledge and data engineering",
+      "Planning",
+      "Problem solving",
+      "Knowledge discovery",
+      "Knowledge integration",
+      "Multi-modal interactions"
+    ],
+    "call_for_papers": {
+      "submission_requirements": {
+        "submission_method": "Only electronic submission through EasyChair.",
+        "pdf_format": "Must be submitted in PDF format."
+      },
+      "presentation_requirement": null,
+      "originality_policy": "Must submit original material where copyright of all parts is owned by the authors."
+    },
+    "important_dates": {
+      "workshop_paper_submission_deadline": "August 20, 2025 PT"
+    },
+    "community_invitation": "You are invited to join the AIxSE community."
+  }
+}

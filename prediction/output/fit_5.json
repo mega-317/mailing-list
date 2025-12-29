@@ -1,0 +1,131 @@
+{
+  "summary_1": {
+    "position": null,
+    "institution": "IEEE",
+    "location": "Limassol, Cyprus",
+    "research_focus": "Software Analysis, Evolution, and Reengineering",
+    "responsibilities": [
+      "Invites high-quality submissions of papers describing original and unpublished research results."
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "application_deadline": "20th August, 2025 AoE",
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "application_link": "https://easychair.org/my/conference?conf=saner2026"
+  },
+  "summary_2": {
+    "event": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+    "topic": "Software Analysis, Evolution, and Reengineering",
+    "submission_info": {
+      "submission_types": [
+        "Research Papers",
+        "Industrial Papers",
+        "Short Papers",
+        "Posters",
+        "Early Research Achievement",
+        "Reproducibility Studies",
+        "Tool Demos",
+        "Journal-First Papers",
+        "Registered Reports",
+        "Workshop Proposals",
+        "Tutorial Proposals"
+      ],
+      "notification_date": "9 December, 2025"
+    },
+    "event_details": {
+      "dates": "17-20 March, 2026",
+      "co_location": null
+    }
+  },
+  "summary_3": {
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null
+    }
+  },
+  "summary_4": {
+    "description": null,
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "double-anonymous",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": 12,
+          "format": "PDF",
+          "identification": "Submissions must be original, not published, accepted, or under review elsewhere."
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Springer's Empirical Software Engineering Journal (EMSE)",
+          "indexing": [
+            "IEEE Digital Library"
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "16 October, 2025",
+      "notification_of_acceptance": "9 December, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "9 January, 2026"
+    }
+  }
+}

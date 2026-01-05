@@ -1,0 +1,30 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICITS'26",
+      "details": {
+        "dates": {
+          "event": "16-18 February 2026",
+          "submission_deadline": "September 28, 2025",
+          "notification_date": "November 5, 2025"
+        },
+        "location": "Roatán Island, Honduras",
+        "co_located_with": null,
+        "submission_types": [
+          {
+            "language": "English",
+            "page_limit": 12,
+            "format": "Lecture Notes in Networks and Systems series"
+          },
+          {
+            "language": "Spanish or Portuguese",
+            "page_limit": 15,
+            "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação"
+          }
+        ],
+        "website": "https://icits.me/"
+      }
+    }
+  ]
+}

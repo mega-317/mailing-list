@@ -5,22 +5,45 @@ from template_process_single import process_one_file as run_structure_transfer
 from merge_template_single import process_one_file as run_merge_process
 from template_pipeline.graph import save_json
 
+file_num = 4
+
 def run_total_pipeline(file_num: int):
     print(f"\n==== [Step 0] Initialization for File No. {file_num} ====")
     
+    # -------------------------------------------------------------------------------------------------------------
+    # # --- 경로 설정 ---
+    # input_txt_path = Path(f"./data/texts/{file_num}.txt")
+    # base_template_path = Path(f"./template/template_v1.json")
+    
+    # # 1단계 결과물 (구조화 요약) 경로
+    # fit_output_path = Path(f"./prediction/output/fit_{file_num}.json")
+    
+    # # 2단계를 위한 자유 요약본 경로
+    # free_summary_path = Path(f"./prediction/markdown_1/markdown_{file_num}_.json")
+    
+    # # [수정] 최종 결과물 저장 경로 (두 가지 버전)
+    # master_template_path = Path(f"./prediction/merge/template.json") # 계속 덮어씌워짐 (Master)
+    # history_template_path = Path(f"./prediction/merge/merge_template_{file_num}.json") # 번호별 저장 (Snapshot)
+    # -------------------------------------------------------------------------------------------------------------
+
+
     # --- 경로 설정 ---
     input_txt_path = Path(f"./data/texts/{file_num}.txt")
-    base_template_path = Path(f"./template/template_v1.json")
+    base_template_path = Path(f"./entity_pipeline/template/template_v1.json")
     
     # 1단계 결과물 (구조화 요약) 경로
-    fit_output_path = Path(f"./prediction/output/fit_{file_num}.json")
+    fit_output_path = Path(f"./entity_pipeline/output/output_{file_num}.json")
     
     # 2단계를 위한 자유 요약본 경로
-    free_summary_path = Path(f"./prediction/markdown_1/markdown_{file_num}_.json")
+    free_summary_path = Path(f"./entity_pipeline/entity_base_summ/{file_num}.json")
     
     # [수정] 최종 결과물 저장 경로 (두 가지 버전)
-    master_template_path = Path(f"./prediction/merge/template.json") # 계속 덮어씌워짐 (Master)
-    history_template_path = Path(f"./prediction/merge/merge_template_{file_num}.json") # 번호별 저장 (Snapshot)
+    master_template_path = Path(f"./entity_pipeline/result/template.json") # 계속 덮어씌워짐 (Master)
+    history_template_path = Path(f"./entity_pipeline/result/{file_num}.json") # 번호별 저장 (Snapshot)
+
+
+
+
 
     # --------------------------------------------------------------------------
     # STEP 1: Structure Transfer (텍스트 -> 템플릿에 맞춘 요약)
@@ -59,18 +82,11 @@ def run_total_pipeline(file_num: int):
     print(f"Saved Snapshot: {history_template_path.name}")
 
 if __name__ == "__main__":
-    # 8부터 100까지 반복 실행
-    for i in range(80, 101):
-        print(f"\n" + "="*60)
-        print(f">>> Processing File Number: {i}")
-        print("="*60)
-        
-        try:
-            run_total_pipeline(i)
-        except Exception as e:
-            print(f"!!! [Critical Error] File {i} failed: {e}")
-            continue
+    print(f">>> Processing File Number: {file_num}")
+    
+    try:
+        run_total_pipeline(file_num)
+    except Exception as e:
+        print(f"!!! [Critical Error] File {file_num} failed: {e}")
             
-    print("\n" + "★"*25)
-    print("모든 파이프라인 작업이 완료되었습니다!")
-    print("★"*25)
+    print("작업이 완료되었습니다")

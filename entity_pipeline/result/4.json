@@ -1,0 +1,79 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+      "details": {
+        "dates": {
+          "event": "16-18 February 2026",
+          "submission_deadline": "September 28, 2025",
+          "notification_date": "November 5, 2025"
+        },
+        "location": "Roatán Island, Honduras",
+        "website": "https://icits.me/",
+        "submission_types": [
+          {
+            "language": "English",
+            "page_limit": 12,
+            "format": "Lecture Notes in Networks and Systems series"
+          },
+          {
+            "language": "Spanish or Portuguese",
+            "page_limit": 15,
+            "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação"
+          }
+        ],
+        "acceptance": {
+          "registration_deadline": "November 19, 2025",
+          "camera_ready_submission": "November 19, 2025",
+          "publication_conditions": {
+            "single_registration": {
+              "limit": 1,
+              "extra_fee": {
+                "for_additional_paper": "allowed (maximum 1)"
+              },
+              "participation": "one author"
+            }
+          }
+        },
+        "publication": {
+          "accepted_as_paper": {
+            "indexing": [
+              "Scopus",
+              "WoS",
+              "DBLP",
+              "Google Scholar"
+            ],
+            "platform": "SpringerLink Digital Library"
+          },
+          "accepted_as_poster": {
+            "publishing": "not published",
+            "format": "A1 or A2 vertical"
+          }
+        },
+        "presentation": {
+          "duration": "15 minutes",
+          "discussion_time": "5 minutes"
+        },
+        "topics": [
+          "Information and Knowledge Management (IKM)",
+          "Organizational Models and Information Systems (OMIS)",
+          "Software and Systems Modeling (SSM)",
+          "Software Systems, Architectures, Applications and Tools (SSAAT)",
+          "Multimedia Systems and Applications (MSA)",
+          "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+          "Intelligent and Decision Support Systems (IDSS)",
+          "Big Data Analytics and Applications (BDAA)",
+          "Human-Computer Interaction (HCI)",
+          "Ethics, Computers and Security (ECS)",
+          "Health Informatics (HIS)",
+          "Information Technologies in Education (ITE)",
+          "Media, Applied Technology and Communication (MATC)"
+        ],
+        "contact": {
+          "team_email": "[log in to unmask]"
+        }
+      }
+    }
+  ]
+}

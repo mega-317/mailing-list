@@ -1,24 +1,16 @@
 {
   "extracted_entities": [
     {
-      "type": "conference",
-      "name": "41st International Conference on Logic Programming (ICLP’25)",
+      "type": "Conference",
+      "name": "41st International Conference on Logic Programming (ICLP 2025)",
       "details": {
         "dates": {
-          "conference": "September 12-19, 2025",
-          "satellite_events": null,
+          "event": "September 12-19, 2025",
           "submission_deadline": null,
-          "notification_of_acceptance": null,
-          "final_files_due": null
+          "notification_date": null
         },
         "location": "University of Calabria, Rende, Italy",
-        "main_conferences": [
-          {
-            "name": "ICLP 2025",
-            "website": null
-          }
-        ],
-        "workshops": [
+        "co_located_with": [
           {
             "name": "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion (RCRA 2025)",
             "website": "https://rcra2025.wordpress.com"
@@ -52,21 +44,10 @@
             "website": "https://carla-ws.github.io/web/"
           }
         ],
-        "call_for_proposals": "Calls for paper submission are open.",
-        "requirements": {
-          "organizers": [
-            "ICLP 2025 Chairs"
-          ],
-          "submission_information": [
-            "Refer to individual workshop websites for submission procedures and important dates."
-          ],
-          "promotion": {
-            "organizers_committee": null,
-            "registration": null,
-            "participation_fee": null
-          }
-        },
-        "additional_links": []
+        "submission_types": [
+          "Call for Papers"
+        ],
+        "website": null
       }
     }
   ]

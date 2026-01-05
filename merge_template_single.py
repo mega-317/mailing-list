@@ -19,10 +19,10 @@ from merge_temp_pipeline.graph import process_one_file, save_json
 # -------------------------------------------------------------------------------------------------
 
 
-LLM_summ_json = 7
+LLM_summ_json = 2
 
 # LLM이 스스로 요약한 메일
-LLM_summ_json_path = Path(f"./prediction/markdown_1/markdown_{LLM_summ_json}_.json")
+LLM_summ_json_path = Path(f"./entity_pipeline/entity_base_summ/{LLM_summ_json}.json")
 
 # 템플릿에 맞게 요약한 메일
 temp_summ_json_path = Path(f"./prediction/output/fit_{LLM_summ_json}.json")

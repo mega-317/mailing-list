@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Co-located",
+  "reason": "The JSON contains one primary event (ETAPS 2026) which has all the essential information and actionable data. However, it also includes multiple co-located events (Spin Symposium, Rust Verification Workshop) with their own specific dates but lacking actionable data. Thus, while ETAPS 2026 is clearly dominant, the presence of co-located events makes it functionally ambiguous, as they are considered when assessing singularity of actionable data."
+}

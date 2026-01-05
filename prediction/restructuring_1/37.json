@@ -1,0 +1,37 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Assistant Professor of Software Engineering",
+      "details": {
+        "institution": "Ulm University, Germany",
+        "deadline": "June 29, 2025",
+        "reference_number": "25079",
+        "application_portal": "https://stellenangebote.uni-ulm.de/aznsw",
+        "start_date": "As soon as possible",
+        "requirements": {
+          "degree": "Doctoral degree",
+          "teaching_aptitude": "Required",
+          "experience": [
+            "International track record in software engineering",
+            "Experience in acquiring third-party funding",
+            "Participation in collaborative research projects"
+          ],
+          "teaching_experience": {
+            "medium": [
+              "German",
+              "English"
+            ],
+            "strong_skills": "Documented teaching skills required"
+          }
+        },
+        "employment_terms": {
+          "type": "Temporary civil servant or employee",
+          "duration": "Fixed term of 6 years",
+          "extension": "Not possible except under specific conditions"
+        },
+        "diversity_statement": "Encouragement of qualified female scientists to apply and preferential consideration for severely disabled applicants."
+      }
+    }
+  ]
+}

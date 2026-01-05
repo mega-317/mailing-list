@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": false,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single / Nested / Co-located / Peer-Multi",
+  "reason": "The JSON does not contain any specific event information, submission deadlines, or dates. There is no primary event to assess against the criteria, making it unclear and non-actionable."
+}

@@ -1,0 +1,17 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "PoEM 2025 – 18th IFIP WG8.1 Working Conference on the Practice of Enterprise Modeling",
+      "details": {
+        "Call for Papers": {
+          "Submission contact": "mailto:[log in to unmask]",
+          "More information": "http://sigsoft.org/resources/seworld.html"
+        },
+        "Dates": {
+          "Announcement Date": "Sat, 17 May 2025"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICSA 2026",
+      "details": {
+        "location": "Amsterdam, Netherlands",
+        "dates": {
+          "start": "June 22, 2026",
+          "end": "June 26, 2026"
+        },
+        "tracks": [
+          {
+            "name": "Call for Papers – Research Track",
+            "details": {
+              "theme": "Architecting in Continuous Software Engineering: Evolving Roles, Enduring Principles",
+              "important_dates": {
+                "abstracts_due": "November 28, 2025",
+                "papers_due": "December 5, 2025"
+              },
+              "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-papers"
+            }
+          },
+          {
+            "name": "Call for Papers – Software Architecture in Practice Track",
+            "details": {
+              "description": "Inviting software architecture practitioners and researchers working with practitioners to submit papers, particularly context-driven solutions.",
+              "important_dates": {
+                "abstracts_due": "November 28, 2025",
+                "papers_due": "December 5, 2025"
+              },
+              "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track"
+            }
+          },
+          {
+            "name": "Call for Workshop Proposals",
+            "details": {
+              "description": "Accepting proposals for half-day or full-day workshops on emerging trends and research in software architecture.",
+              "submission_deadline": "October 3, 2025",
+              "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+            }
+          }
+        ],
+        "website": "https://conf.researchr.org/home/icsa-2026"
+      }
+    }
+  ]
+}

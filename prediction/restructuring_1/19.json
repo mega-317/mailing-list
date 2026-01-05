@@ -1,0 +1,36 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "SCHIER 2025",
+      "details": {
+        "dates": {
+          "application_deadline": "July 11, 2025",
+          "event_dates": "8–12 September 2025"
+        },
+        "location": "UCLouvain, Louvain-la-Neuve, Belgium",
+        "target_audience": [
+          "PhD students",
+          "postdocs",
+          "researchers"
+        ],
+        "highlights": [
+          "Expert-led lectures and interactive sessions on key topics and methodologies",
+          "Collaborative discussions on emerging research challenges",
+          "Networking opportunities",
+          "Special Presentation on 'Education in Quantum Computing' by Fabio Scafirimuto, IBM Quantum Education and Workforce Development EMEA Team Lead"
+        ],
+        "application_links": [
+          "https://tinyurl.com/5pbfk85e",
+          "https://tinyurl.com/3syjsypf"
+        ],
+        "additional_information": [
+          {
+            "description": "Informatics Education is a growing and vital field recognized by the EU Council.",
+            "link": "https://www.informatics-europe.org/images/documents/IE-PhD-School-Informatics-Education-Research.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Fellow position in Software Engineering for AI Systems",
+      "details": {
+        "location": "Concordia University, Montreal, Canada",
+        "term": "2 years",
+        "start_date": "September 2025 or shortly after",
+        "qualifications": [
+          "PhD in Software Engineering or related field",
+          "Proven track record of research excellence in Software Engineering"
+        ],
+        "responsibilities": [
+          "Involved in projects related to AI based systems development, analysis and deployment",
+          "Collaborate with and supervise DAS lab members",
+          "Pursue own relevant research interests"
+        ],
+        "application_link": "https://dearprof.com/positions/66b4f1c30178fa4bf77d0614/apply",
+        "email_for_cv": "[log in to unmask]",
+        "application_review_start_date": "June 30, 2025",
+        "application_status": "Accepted until position is filled",
+        "lab_info_link": "http://das.encs.concordia.ca"
+      }
+    }
+  ]
+}

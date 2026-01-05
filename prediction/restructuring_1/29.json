@@ -1,0 +1,25 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Assistant Professors in Software Engineering and AI",
+      "details": {
+        "institution": "University of Victoria, Canada",
+        "positions_available": 4,
+        "application_deadline": "August 15, 2025",
+        "start_date": "January 1, 2026",
+        "requirements": {
+          "degree": "Ph.D. in Computer Science, Software Engineering, Electrical or Computer Engineering (with a research focus in Software), or equivalent",
+          "publications": "Track record in top international conference venues (e.g., ICSE, FSE, ASE, ICSME, ESEM) or journals (e.g., TOSEM, TSE, EMSE, JSS)",
+          "teaching_commitment": "Ability to teach undergraduate (1st to 4th year) and graduate courses",
+          "experience": "Prior teaching and student supervision experience preferred",
+          "professionalism": "Required professionalism for a collegial environment"
+        },
+        "complementary_expertise": "Considered an asset",
+        "research_focus": "Engagement with Generative AI impacts on Software Engineering",
+        "job_ad_link": "https://www.uvic.ca/ecs/computerscience/assets/docs/employment/cosi_seng_research-faculty-ad-2025_final.pdf",
+        "application_site_link": "https://academicjobsonline.org/ajo/jobs/30135"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Senior Lecturer in Computer Science, Specialisation in AI Engineering",
+      "details": {
+        "institution": "Karlstad University",
+        "location": "Karlstad, Sweden",
+        "url": "https://kau.varbi.com/en/what:job/jobID:718619/iframeEmbedded:0/where:4",
+        "application_deadline": "2025-06-08",
+        "position_type": "Permanent",
+        "employment_type": "Full time",
+        "salary": "Månadslön",
+        "number_of_positions": 1,
+        "full_time_equivalent": "100%",
+        "contact_info": [
+          {
+            "name": "Anna Brunström",
+            "phone": "+46547001795"
+          },
+          {
+            "name": "Thomas Bragefors",
+            "role": "Union representative SACO",
+            "phone": "054-7001714"
+          },
+          {
+            "name": "Denita Gustavsson",
+            "role": "Union representative OFR",
+            "phone": "054-7001434"
+          }
+        ],
+        "qualification_requirements": {
+          "pedagogical_skills": "Documented",
+          "degree": "Doctoral degree or equivalent in Computer Science or AI engineering",
+          "language_requirements": {
+            "languages": [
+              "Swedish",
+              "English"
+            ],
+            "note": "Candidates not proficient in Swedish may still be considered."
+          },
+          "courses": "Completed training in higher education pedagogy preferred."
+        },
+        "assessment_criteria": {
+          "weights": {
+            "scientific_excellence": "Equal weight to pedagogical and scientific excellence.",
+            "special_weights": [
+              "Merits in teaching in computer science applied to AI Engineering.",
+              "Recent research in computer science applied to AI Engineering."
+            ],
+            "considerable_weights": [
+              "International work experience.",
+              "Contribution to new knowledge and experience.",
+              "Current collaboration with the wider community."
+            ]
+          }
+        },
+        "application_requirements": [
+          "CV",
+          "Cover letter",
+          "In-depth account of teaching experience",
+          "Certificate of completed courses in higher education pedagogy",
+          "In-depth account of research experience",
+          "Account of other relevant experience",
+          "List of publications",
+          "Language proficiency certificates",
+          "Copy of PhD degree certificate"
+        ],
+        "address_for_documents": "Karlstads universitet, Hanna Ljungdahl, 651 88 KARLSTAD"
+      }
+    }
+  ]
+}

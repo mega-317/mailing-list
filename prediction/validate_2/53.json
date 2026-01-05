@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Nested",
+  "reason": "The main event ICLP'25 has a clear start and end date, but lacks specific submission deadlines and actionable details necessary for validation. The co-located events mentioned do not compete for dominance since only the ICLP'25 event has a timeframe defined, establishing a nested relationship. However, there are no submission details for ICLP'25, making it not functionally singular."
+}

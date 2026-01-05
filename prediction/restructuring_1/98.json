@@ -1,0 +1,48 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "WETICE 2025",
+      "details": {
+        "date": {
+          "start": "July 23, 2025",
+          "end": "July 25, 2025"
+        },
+        "location": "Catania, Italy",
+        "venue": "Benedictine Monastery",
+        "website": "https://www.dmi.unict.it/wetice2025",
+        "keynotes": 2,
+        "activities": [
+          "paper sessions",
+          "social activities",
+          "excursion"
+        ],
+        "submission": {
+          "deadline": "May 31, 2025",
+          "link": "https://cmt3.research.microsoft.com/WETICE2025",
+          "requirements": [
+            "Papers must be original content not published or submitted for publication elsewhere",
+            "Papers must be written in English",
+            "Maximum length: 6 pages"
+          ],
+          "formatting_guidelines": "https://www.ieee.org/conferences/publishing/templates.html"
+        },
+        "registration": {
+          "early_registration_ends": "July 11, 2025",
+          "info_link": "https://www.dmi.unict.it/wetice2025"
+        },
+        "sponsorship": [
+          "IEEE.org",
+          "IEEE Computer Society Italy Chapter",
+          "IEEE Systems, and Man and Cybernetics Society Italy Chapter"
+        ],
+        "publication": [
+          "IEEE Xplore",
+          "Scopus",
+          "DBLP",
+          "Google Scholar"
+        ]
+      }
+    }
+  ]
+}

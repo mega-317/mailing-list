@@ -1,0 +1,32 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Papers",
+      "name": "TOSEM Special Issue on Agentic AI",
+      "details": {
+        "journal": "ACM Transactions on Software Engineering and Methodology",
+        "submission_link": "https://mc.manuscriptcentral.com/tosem",
+        "submission_categories": [
+          "[Auto] Automation of SE tasks via agents",
+          "[Trust] Enhancing trust in agent outputs",
+          "[Integrate] Integration of agents into existing software workflows",
+          "[A-H] Agent – human interaction in SE teams and team dynamics",
+          "[Oth] Any other agent in SE topics not covered in the preceding list"
+        ],
+        "submission_timelines": {
+          "paper_submission_deadline": "Nov 1, 2025",
+          "first_reviews_appear": "Jan 31, 2026",
+          "revisions_due": "March 31, 2026",
+          "outcome_of_revised_papers": "May 2026",
+          "papers_online": "July 2026",
+          "special_issue_planned": "August 2026"
+        },
+        "editor_contacts": [
+          "Abhik Roychoudhury (Editor-in-Chief)",
+          "Foutse Khomh (Guest Editor)",
+          "Denys Poshyvanyk (Guest Editor)"
+        ]
+      }
+    }
+  ]
+}

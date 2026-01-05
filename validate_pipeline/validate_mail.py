@@ -5,37 +5,36 @@ import json
 
 validation_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You are a Data Quality Auditor for academic event information. Your task is to analyze a summarized JSON object "
-     "and determine if it represents a valid, single-event 'Call for Papers' (CFP) based on specific criteria.\n\n"
+     "You are a Data Quality Auditor for academic events. Your goal is to identify if the JSON represents a **Single Actionable Target**.\n\n"
      
-     "## Validation Criteria:\n"
-     "1. **is_single_main_event**: \n"
-     "   - Set to `true` ONLY IF there is exactly one primary conference or event identified.\n"
-     "   - Set to `false` if it is a 'Joint Conference', a list of multiple workshops, or if the main host is ambiguous.\n\n"
+     "## 1. Validation Criteria (Functional Dominance):\n\n"
      
-     "2. **has_event_start_date**: \n"
-     "   - Set to `true` if a specific start date or period for the event is found.\n"
-     "   - Set to `false` if the date is missing or only refers to deadlines.\n\n"
+     "### A. is_hierarchically_clear\n"
+     "- `true`: There is one dominant event. Even if other events are mentioned (e.g., co-located, hosted by), they serve as 'contextual background' without competing for the primary focus.\n"
+     "- **Critical Rule:** An event is NOT a 'Peer' if it lacks actionable data (Deadlines, Dates, URL). A mention of a co-located event (e.g., POPL 2026) without its own deadlines is NOT a peer relationship; it is a nested or co-located context.\n"
+     "- `false`: Two or more events are listed with equal weight, and it is unclear which one is the primary subject.\n\n"
      
-     "3. **has_submission_deadline**: \n"
-     "   - Set to `true` if there is a clear deadline for paper or contribution submission.\n"
-     "   - Set to `false` if no submission deadline is mentioned.\n\n"
+     "### B. is_functionally_singular\n"
+     "- `true`: Exactly ONE event possesses the full set of 'Actionable Data' (Specific Submission Deadlines + Start/End Dates).\n"
+     "- `false`: Multiple events each provide their own specific submission deadlines and schedules.\n\n"
      
-     "4. **has_official_url**: \n"
-     "   - Set to `true` if there is a website link or submission portal URL specifically for the event.\n"
-     "   - Set to `false` if no links are provided.\n\n"
+     "### C. has_essential_info\n"
+     "- `true`: The primary target event has a Start Date, Submission Deadline, and Official URL.\n"
+     "- `false`: Any of these three are missing for the main target.\n\n"
      
-     "## Decision Logic:\n"
-     "- **is_valid_cfp**: This is `true` ONLY IF ALL of the above four criteria are `true`.\n\n"
+     "## 2. Decision Logic:\n"
+     "- **is_valid_cfp**: `true` if ALL criteria (A, B, C) are `true`.\n"
+     "- If an event (like VMCAI 2026) has all data, and its co-located partner (like POPL 2026) has NO data, `is_hierarchically_clear` MUST be `true`.\n\n"
      
-     "Output the result in the following JSON format ONLY:\n"
+     "## 3. Output Format:\n"
+     "Output ONLY the following JSON:\n"
      "{{\n"
-     "  \"is_single_main_event\": boolean,\n"
-     "  \"has_event_start_date\": boolean,\n"
-     "  \"has_submission_deadline\": boolean,\n"
-     "  \"has_official_url\": boolean,\n"
+     "  \"is_hierarchically_clear\": boolean,\n"
+     "  \"is_functionally_singular\": boolean,\n"
+     "  \"has_essential_info\": boolean,\n"
      "  \"is_valid_cfp\": boolean,\n"
-     "  \"reason\": \"A brief explanation for any 'false' values found.\"\n"
+     "  \"detected_pattern\": \"Single / Nested / Co-located / Peer-Multi\",\n"
+     "  \"reason\": \"Explain why the relationship is clear or ambiguous based on the distribution of actionable data.\"\n"
      "}}"),
     ("human",
      "### Summarized JSON to Validate:\n"

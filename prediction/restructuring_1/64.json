@@ -1,0 +1,29 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Fellow in Software Engineering",
+      "details": {
+        "institution": "University of Otago, New Zealand",
+        "project": "Automating software violation detection and repair",
+        "project_budget": "$1 million",
+        "lead_ci": "Associate Professor Sherlock Licorish",
+        "requirements": [
+          "Background in software engineering",
+          "Experience in AI or related fields"
+        ],
+        "application_link": "https://otago.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=2500780",
+        "skills_focus": [
+          "AI-inspired algorithms",
+          "Software reliability",
+          "Securing high-value software"
+        ],
+        "goals": [
+          "Develop algorithms for software violation detection and repair",
+          "Support New Zealand software developers",
+          "Upskill under-represented groups in technology"
+        ]
+      }
+    }
+  ]
+}

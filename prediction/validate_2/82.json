@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": false,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single / Nested / Co-located / Peer-Multi",
+  "reason": "The JSON does not specify a single event but rather details about an unspecified special issue without any specific start or end dates, thus lacking essential information for validation. Additionally, there are no indications of co-located or peer events that would clarify the hierarchy."
+}

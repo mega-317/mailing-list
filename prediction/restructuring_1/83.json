@@ -1,0 +1,30 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Dean of School of Computing and Information Systems",
+      "details": {
+        "organization": "Singapore Management University",
+        "description": "Global search for the next Dean of the School of Computing and Information Systems (SCIS)",
+        "requirements": [
+          "Relevant leadership experience in a research-intensive environment",
+          "Excellent personal scholarly profile",
+          "Demonstrated contributions to research in Computing and Information Systems",
+          "Ability to develop and execute a distinct vision",
+          "Inspiring and inclusive leadership"
+        ],
+        "application_documents": [
+          "Cover letter describing relevant experiences, teaching and research interests",
+          "Full curriculum vitae"
+        ],
+        "application_link": "https://candidates.perrettlaver.com/vacancies/",
+        "reference_number": "7847",
+        "contact_person": {
+          "name": "Dong Qing Yang",
+          "email": "[log in to unmask]"
+        },
+        "application_deadline": "10 June 2025"
+      }
+    }
+  ]
+}

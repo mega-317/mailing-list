@@ -1,0 +1,24 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Researcher position in Denmark",
+      "details": {
+        "organization": "Technical University of Denmark, DTU Compute",
+        "location": "Denmark",
+        "fields": [
+          "Software Architecture and Software Evaluation",
+          "Digital Twin & Digital Transformation"
+        ],
+        "desired_experience": [
+          "Energy",
+          "Mobility",
+          "Climate Change"
+        ],
+        "job_posting_link": "https://lnkd.in/dz8VSae3",
+        "application_link": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5212/?utm_medium=jobshare&utm_source=External+Job+Share",
+        "contact_email": "[log in to unmask]"
+      }
+    }
+  ]
+}

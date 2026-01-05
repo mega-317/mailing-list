@@ -1,0 +1,12 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Papers",
+      "name": "ER2025 - List of Workshops",
+      "details": {
+        "submission_info": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+        "additional_resources": "http://sigsoft.org/resources/seworld.html provides more information on SEWORLD."
+      }
+    }
+  ]
+}

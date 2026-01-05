@@ -1,0 +1,65 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Post-Doctoral Researcher in Model-Driven Engineering",
+      "details": {
+        "location": "Johannes Kepler University Linz, Austria",
+        "start_date": "ideally in 2025",
+        "duration": "initial term of 3-4 years",
+        "annual_salary": "€69,000",
+        "candidate_requirements": {
+          "degree": "Doctorate/Ph.D. in Informatics or a related area",
+          "english_proficiency": "strong command of English",
+          "programming_skills": "excellent programming skills",
+          "german_language": "not required"
+        },
+        "responsibilities": [
+          "Supervision and mentoring of doctoral students",
+          "Leading and supporting publications in high-impact venues",
+          "Designing and conducting experimental studies",
+          "Contributing to grant writing and research proposal development",
+          "Overseeing software development efforts",
+          "Teaching responsibilities (equivalent to 4 semester hours per week)"
+        ],
+        "application_details": {
+          "how_to_apply": "Applications, including a detailed curriculum vitae (in English), should be sent to Prof. Alexander Egyed.",
+          "email": "[log in to unmask]",
+          "additional_requirements": "Include a one page description of your research interests and how it connects to our work."
+        },
+        "research_focus": [
+          "traceability",
+          "consistency and repair",
+          "change propagation",
+          "collaborative engineering",
+          "co-evolution",
+          "variability"
+        ],
+        "university_profile": {
+          "location": "Linz, Austria",
+          "city_description": "safe, clean, and healthy",
+          "related_cities": {
+            "nearby": "Vienna",
+            "ranking": "world’s most livable city"
+          }
+        },
+        "group_profile": {
+          "team_structure": "dynamic, multi-national staff of researchers",
+          "working_language": "English",
+          "publication_venues": [
+            "ICSE",
+            "MODELS",
+            "ICSME",
+            "ASE"
+          ],
+          "journals": [
+            "IEEE TSE",
+            "JSS",
+            "IST",
+            "SoSyM"
+          ]
+        }
+      }
+    }
+  ]
+}

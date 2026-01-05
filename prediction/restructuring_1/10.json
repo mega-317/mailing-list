@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Fellow and Research Fellow Positions",
+      "details": {
+        "organization": "Helsinki Institute for Information Technology (HIIT)",
+        "location": "Helsinki, Finland",
+        "contract_length": {
+          "Postdoctoral Fellow": "up to 3 years",
+          "Research Fellow": "up to 5 years"
+        },
+        "negotiable_terms": "Length of the contract, starting and ending dates negotiable",
+        "employing_universities": [
+          "Aalto University",
+          "University of Helsinki"
+        ],
+        "application_invitation": "Researchers from underrepresented groups are particularly encouraged to apply.",
+        "focus_areas": [
+          "Artificial Intelligence",
+          "Computational Health",
+          "Cybersecurity",
+          "Data Science",
+          "Foundations of Computing"
+        ],
+        "software_engineering_topics": [
+          {
+            "PI": "Fabian Fagerholm",
+            "topics": [
+              "Human Factors in Software Engineering",
+              "Developer Experience",
+              "Affect in Software Engineering"
+            ]
+          },
+          {
+            "PI": "Mika Mäntylä",
+            "topics": [
+              "Software Monitoring",
+              "Software Test Automation",
+              "Automating Systematic Literature Reviews"
+            ]
+          }
+        ],
+        "contact_advice": "Contacting the PIs before applying is advisable but not mandatory.",
+        "application_link": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/"
+      }
+    }
+  ]
+}

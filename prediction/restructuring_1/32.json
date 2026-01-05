@@ -1,0 +1,71 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "MPLR'25 - 22nd International Conference on Managed Programming Languages & Runtimes",
+      "details": {
+        "topics": [
+          "Managed Languages",
+          "Domain-specific languages",
+          "Language design",
+          "Compilers and interpreters",
+          "Type systems and program logics",
+          "Language interoperability",
+          "Parallelism, distribution, and concurrency",
+          "Portable intermediate representations",
+          "Managed runtime systems",
+          "VM design and optimization",
+          "Memory management and garbage collection",
+          "Static and dynamic program analysis",
+          "Testing and debugging",
+          "Refactoring",
+          "Program understanding",
+          "Security and privacy",
+          "Performance analysis and monitoring",
+          "Compiler verification"
+        ],
+        "submission_categories": [
+          {
+            "category": "Regular research papers",
+            "description": "Describing novel contributions involving managed language platforms.",
+            "evaluation_criteria": "Relevance, novelty, technical rigor, contribution to state-of-the-art.",
+            "format": "up to 12 pages, excluding bibliography and appendix"
+          },
+          {
+            "category": "Work-in-progress research papers",
+            "description": "Describing hot topics or promising new ideas.",
+            "evaluation_criteria": "Novelty and potential of new ideas.",
+            "format": "up to 6 pages, excluding bibliography and appendix"
+          },
+          {
+            "category": "Industry and tool papers",
+            "description": "Presenting technical challenges and solutions for managed language platforms.",
+            "evaluation_criteria": "Relevance, usefulness, results; suitability for demonstration.",
+            "format": "up to 6 pages, excluding bibliography and appendix; up to 12 pages allowed if justified by content"
+          }
+        ],
+        "submission_guidelines": {
+          "format": "ACM SIGPLAN style",
+          "document_class": "acmart with sigplan option",
+          "submission_format": "PDF, double-blind reviewing."
+        },
+        "submission_site": "https://mplr25.hotcrp.com",
+        "important_dates": {
+          "paper_submission_deadline": "June 24, 2025 (extended)",
+          "paper_author_notification": "July 28, 2025",
+          "camera_ready_for_papers": "August 25, 2025",
+          "conference_date": "October 14, 2025"
+        },
+        "time_zone": "AoE (UTC-12h)",
+        "publication_details": {
+          "acm_digital_library": "Accepted submissions will be published in the ACM Digital Library.",
+          "publication_date_note": "The official publication date may affect patent filings deadlines."
+        },
+        "contact": {
+          "name": "Tomoharu Ugawa",
+          "email": "ugawa ci i u-tokyo ac jp"
+        }
+      }
+    }
+  ]
+}

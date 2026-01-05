@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ESOP 2026",
+      "details": {
+        "description": "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+        "submission_scheme": {
+          "rounds": [
+            {
+              "round": 1,
+              "submission_deadline": "June 3, 2025",
+              "rebuttal_dates": "July 21-23, 2025",
+              "notification_date": "August 1, 2025"
+            },
+            {
+              "round": 2,
+              "submission_deadline": "October 16, 2025",
+              "rebuttal_dates": "December 8-10, 2025",
+              "notification_date": "December 22, 2025"
+            }
+          ],
+          "note": "Deadlines are firm and will not be extended."
+        },
+        "important_dates_link": "https://etaps.org/2026/important-dates",
+        "submission_categories": {
+          "Research Papers": {
+            "description": "Articles that advance the state-of-the-art on the theory and practice of programming languages and systems.",
+            "format": "Springer's LNCS, ACM's PACMPL, or ACM's TOPLAS format",
+            "page_limit": "25 pages (excluding bibliography)",
+            "review_process": "Double-blind"
+          },
+          "Experience Reports": {
+            "description": "Articles reporting on systems and techniques developed in practice.",
+            "format": "Springer's LNCS",
+            "page_limit": "15 pages (excluding bibliography)",
+            "evaluation": "Must include critical evaluation of the experience reported"
+          },
+          "Fresh Perspectives": {
+            "description": "Articles that promote new insights on programming languages and systems.",
+            "format": "Springer's LNCS",
+            "page_limit": "15 pages (excluding bibliography)"
+          }
+        },
+        "submission_link": "https://esop26.hotcrp.com/"
+      }
+    }
+  ]
+}

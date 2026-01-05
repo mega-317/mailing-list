@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single event (6th Summer School on Empirical Research Methods in Software Engineering and Informatics) with clear start and end dates. However, it lacks a submission deadline, which means it does not have complete 'Actionable Data'. Thus, it is not a valid Call for Papers (CFP) despite being hierarchically clear."
+}

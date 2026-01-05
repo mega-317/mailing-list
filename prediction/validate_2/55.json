@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "There is one position (Postdoctoral Fellow in Software Engineering for AI Systems) that serves as the primary subject. However, it does not have clear actionable submission deadlines or specific closing dates. While it lists an application review start date, the 'application continuation' indicates an indefinite period, making it unclear. Thus, it lacks functional singularity."
+}

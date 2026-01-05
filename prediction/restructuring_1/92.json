@@ -1,0 +1,43 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Papers",
+      "name": "IST Special Issue on “Next-Generation Model-Based Software Engineering with Foundation Models”",
+      "details": {
+        "submission_deadline": "May 31, 2025",
+        "journal": "Information and Software Technology",
+        "submission_topics": [
+          "The use of foundation models for supporting the completion of different modeling artifacts",
+          "The use of foundation models for supporting the development of domain-specific language (DSL), abstract and concrete syntax",
+          "The use of foundation models in industrial MBE systems",
+          "The use of foundation models to support software architecture and requirement engineering",
+          "The use of foundation models to support low-code development platforms",
+          "Fine-tuned models for supporting MBE, MDE, MDD, and MDA tasks",
+          "Generation of synthetic datasets for MBE using foundation models",
+          "MBE techniques to support the development of foundation models, pre-trained models, or large language models",
+          "MBE paradigms for specifying prompt engineering techniques for large language models",
+          "Systematic literature review, systematic mapping study, and multi-vocal studies on the intersection between MBE and foundation models",
+          "Empirical studies, experience reports, and surveys on the usage of foundation models for MBE systems"
+        ],
+        "submission_instructions": [
+          {
+            "platform": "Editorial Manager (EM) site",
+            "link": "https://edu.lu/xpnxj"
+          },
+          {
+            "guidelines": "Author guidelines",
+            "link": "https://edu.lu/axctf"
+          }
+        ],
+        "contact_info": {
+          "guest_editors": [
+            "Claudio Di Sipio",
+            "Silvia Abrahão",
+            "Martin Weyssow",
+            "Fabio Palomba"
+          ]
+        }
+      }
+    }
+  ]
+}

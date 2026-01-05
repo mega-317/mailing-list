@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Book Chapters",
+      "name": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+      "details": {
+        "submission_link": "https://easychair.org/conferences/?conf=sose2025",
+        "publishers": "Elsevier",
+        "editors": [
+          {
+            "name": "Bedir Tekinerdogan",
+            "affiliation": "Wageningen University, The Netherlands"
+          },
+          {
+            "name": "Khalil Drira",
+            "affiliation": "LAAS-CNRS Université de Toulouse, France"
+          }
+        ],
+        "scope": [
+          "Design, management, and optimization of complex systems",
+          "Interdisciplinary approaches across aerospace, healthcare, energy, smart cities",
+          "Role of AI, IoT, digital twins, and blockchain"
+        ],
+        "important_dates": {
+          "chapter_abstracts_due": "September 1, 2025",
+          "notification_of_reviewed_abstracts": "September 15, 2025",
+          "full_chapters_due": "December 15, 2025",
+          "notification_of_full_chapters": "January 15, 2026",
+          "camera_ready_copy_due": "March 1, 2026"
+        },
+        "submission_guidelines": {
+          "originality": "Contributions should be original, unpublished, and not under review elsewhere.",
+          "chapter_length": "Approximately 7,500 words",
+          "co_authored_chapters": "Welcome",
+          "proposal_length": "500-1,000 words"
+        },
+        "contact_information": {
+          "email": "[log in to unmask]",
+          "phone": "+31 (0)317 485477"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Co-located",
+  "reason": "The primary event 'Joint Ontologies Workshops (JOWO)' provides essential information such as a URL and registration deadlines, but there are multiple workshops mentioned without their own actionable data, making it functionally plural despite it being clear that the co-hosted event is a secondary focus."
+}

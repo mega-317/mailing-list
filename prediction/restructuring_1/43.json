@@ -1,0 +1,35 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Position in Programming Languages",
+      "details": {
+        "description": "A postdoctoral position in programming languages focused on fixed-point-oriented programming.",
+        "application_process": "Email 'adamsmd AT nus.edu.sg' to schedule a Zoom interview.",
+        "interview_timing": "Interviews will begin immediately.",
+        "duration": "2 to 3 years, contingent upon satisfactory progress.",
+        "salary": "Competitive salary with flexible start date.",
+        "posting_date": "June 2, 2025",
+        "posting_url": "https://michaeldadams.org/hiring",
+        "research_focus": "Development of programs based on inference rules that simplify complex algorithms.",
+        "project_details": {
+          "main_aspect": "Fixed-point oriented programming.",
+          "applications": [
+            "Parsing",
+            "Static analysis",
+            "Type-checking",
+            "Graph algorithms",
+            "Automata minimization"
+          ],
+          "outcomes": "Allows many classic algorithms to be expressed in concise executable lines of code."
+        },
+        "additional_resources": {
+          "white_paper": "https://michaeldadams.org/papers/fpop/fixed-point-oriented-programming.pdf",
+          "homepage": "https://michaeldadams.org/",
+          "research_goals": "https://michaeldadams.org/vitae/research-statement.pdf",
+          "papers": "https://michaeldadams.org/papers/"
+        }
+      }
+    }
+  ]
+}

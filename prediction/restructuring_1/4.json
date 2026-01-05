@@ -1,0 +1,91 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+      "details": {
+        "location": "Roatán Island, Honduras",
+        "dates": {
+          "start": "2026-02-16",
+          "end": "2026-02-18"
+        },
+        "url": "https://icits.me/",
+        "submission": {
+          "deadline": "2025-09-28",
+          "requirements": {
+            "languages": [
+              "English",
+              "Spanish",
+              "Portuguese"
+            ],
+            "format": {
+              "English": {
+                "page_limit": "12",
+                "template": "Lecture Notes in Networks and Systems",
+                "anonymous_submission": true
+              },
+              "Spanish_or_Portuguese": {
+                "page_limit": "15",
+                "template": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+                "anonymous_submission": true
+              }
+            }
+          }
+        },
+        "acceptance": {
+          "notification_date": "2025-11-05",
+          "requirements": {
+            "registration_deadline": "2025-11-19",
+            "camera_ready_submission": "2025-11-19",
+            "publication_conditions": {
+              "single_registration": {
+                "limit": 1,
+                "extra_fee": {
+                  "for_additional_paper": "allowed (maximum 1)"
+                },
+                "participation": "one author"
+              }
+            }
+          }
+        },
+        "publication": {
+          "accepted_as_paper": {
+            "indexing": [
+              "Scopus",
+              "WoS",
+              "DBLP",
+              "Google Scholar"
+            ],
+            "platform": "SpringerLink Digital Library"
+          },
+          "accepted_as_poster": {
+            "publishing": "not published",
+            "format": "A1 or A2 vertical"
+          }
+        },
+        "presentation": {
+          "duration": "15 minutes",
+          "discussion_time": "5 minutes"
+        },
+        "topics": [
+          "Information and Knowledge Management (IKM)",
+          "Organizational Models and Information Systems (OMIS)",
+          "Software and Systems Modeling (SSM)",
+          "Software Systems, Architectures, Applications and Tools (SSAAT)",
+          "Multimedia Systems and Applications (MSA)",
+          "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+          "Intelligent and Decision Support Systems (IDSS)",
+          "Big Data Analytics and Applications (BDAA)",
+          "Human-Computer Interaction (HCI)",
+          "Ethics, Computers and Security (ECS)",
+          "Health Informatics (HIS)",
+          "Information Technologies in Education (ITE)",
+          "Media, Applied Technology and Communication (MATC)"
+        ],
+        "contact": {
+          "team_email": "[log in to unmask]"
+        }
+      }
+    }
+  ]
+}

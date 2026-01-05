@@ -1,0 +1,89 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "28th Brazilian Symposium on Formal Methods (SBMF 2025)",
+      "details": {
+        "location": "Recife - Pernambuco, Brazil",
+        "dates": {
+          "event": "December 3-5, 2025",
+          "paper_registration_deadline": "August 1, 2025",
+          "paper_submission_deadline": "August 8, 2025",
+          "acceptance_notice": "September 26, 2025",
+          "camera_ready_due": "October 10, 2025"
+        },
+        "website": "http://sbmf2025.ufrpe.br/",
+        "submission_link": "https://easychair.org/conferences/?conf=sbmf2025",
+        "submission_guidelines": {
+          "paper_types": [
+            {
+              "type": "Regular paper",
+              "page_limit": "15 pages"
+            },
+            {
+              "type": "Short paper",
+              "page_limit": "8 pages"
+            }
+          ],
+          "requirements": [
+            "Papers must not be simultaneously submitted for publication elsewhere.",
+            "Papers should be written in English.",
+            "Use Springer’s Lecture Notes in Computer Science (LNCS) format.",
+            "Provide data for reproducibility of experiments in short papers."
+          ],
+          "review_criteria": [
+            "Originality",
+            "Relevance",
+            "Technical soundness",
+            "Presentation quality"
+          ]
+        },
+        "scope_and_topics": [
+          "Applications of formal methods in software/hardware design and testing",
+          "Specification and modeling languages for formal methods",
+          "Theoretical foundations of formal methods",
+          "Verification and validation techniques",
+          "Experience reports on teaching and industrial application of formal methods"
+        ],
+        "invited_speakers": [
+          {
+            "name": "Marsha Chechik",
+            "affiliation": "University of Toronto, Canada"
+          },
+          {
+            "name": "Augusto Sampaio",
+            "affiliation": "Universidade Federal de Pernambuco, Brazil"
+          },
+          {
+            "name": "Hans Vangheluwe",
+            "affiliation": "University of Antwerp, Belgium"
+          }
+        ],
+        "committees": {
+          "general_chair": "Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)",
+          "steering_committee": [
+            "Ciprian Teodorov (ENSTA Bretagne, France)",
+            "Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)",
+            "Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)",
+            "Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)",
+            "Vince Molnár (Budapest University of Technology and Economics, Hungary)",
+            "Yoni Zohar (Bar-Ilan University, Israel)"
+          ],
+          "program_chairs": [
+            "Leopoldo Teixeira (Universidade Federal de Pernambuco, Brazil)",
+            "Maurice ter Beek (CNR-ISTI, Italy)"
+          ]
+        },
+        "publication": {
+          "details": "Accepted papers will be published in a volume of LNCS.",
+          "conditions": [
+            "At least one author must be registered by the camera-ready submission deadline.",
+            "The registered author must attend the symposium and present the paper."
+          ],
+          "special_issue": "To be confirmed: a special issue in Science of Computer Programming Journal (Elsevier) with selected papers."
+        },
+        "contact": "All questions about submissions should be emailed to sbmf2025 '@' easychair.org."
+      }
+    }
+  ]
+}

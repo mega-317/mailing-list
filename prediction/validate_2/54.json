@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single postdoctoral position, which has all necessary actionable data including an application deadline, start date, and submission link. There are no competing events or peer entities mentioned, making the primary target clear."
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single / Nested / Co-located / Peer-Multi",
+  "reason": "While the event 'SLE 2025' is mentioned with start dates and an early bird registration deadline, it lacks specific submission deadlines and an official submission link. Therefore, it does not meet the criteria for having actionable data, which impacts both functional singularity and essential information status. Hence, it cannot be considered a valid CFP."
+}

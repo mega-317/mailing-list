@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON clearly indicates that VMCAI 2026 is the primary event with all necessary actionable data, while POPL 2026 is merely mentioned as a co-located event without any actionable information. This establishes a clear hierarchical structure with VMCAI 2026 as the dominant event."
+}

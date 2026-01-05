@@ -1,0 +1,35 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "PROFES 2025",
+      "details": {
+        "date": "December 1–3, 2025",
+        "location": "Complesso San Michele, Salerno, Italy",
+        "website": "https://conf.researchr.org/home/profes-2025",
+        "call_for_papers": {
+          "submission_deadline": "June 13, 2025",
+          "submission_website": "https://conf.researchr.org/track/profes-2025/profes-2025-research-papers",
+          "aims_and_scope": "The International Conference on Product-Focused Software Process Improvement (PROFES) is one of the leading international forums for software engineering professionals to present and discuss innovation, trends, experiences, and challenges in the field of software process and product quality improvement.",
+          "topics_of_interest": [
+            "Process modeling, management, assessment, and improvement",
+            "Value- and feedback-driven software development, agile and lean methods and processes",
+            "Processes for (digital) software product innovation",
+            "Software analytics and empirical research with actionable insights on software products and processes",
+            "Predictive models for software engineering tasks",
+            "Infrastructure and processes for iterative or incremental software delivery",
+            "Continuous deployment and release planning",
+            "Product quality models for software, systems, and services",
+            "Project management techniques, including global and/or distributed development",
+            "Software engineering processes for AI-enabled systems, including MLOps",
+            "AI and data-driven techniques for software process improvement (AI4SE)",
+            "Methods for developing cloud-based systems and services, including monolithic to cloud-native migration",
+            "Software development for Cyber-Physical Systems",
+            "Processes and methods for COTS and open-source development",
+            "Service engineering processes and software business models"
+          ]
+        }
+      }
+    }
+  ]
+}

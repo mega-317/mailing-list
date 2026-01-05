@@ -1,0 +1,29 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral position in Computer Science, OPEHRA",
+      "details": {
+        "organization": "Karlstad University",
+        "location": "Karlstad, Sweden",
+        "link": "https://kau.varbi.com/en/what:job/jobID:822208/iframeEmbedded:0/where:4",
+        "application_deadline": "03.08.2025",
+        "employment_type": "Temporary position",
+        "duration": "Fixed-term full-time employment of 2 years",
+        "starting_period": "Between October 1, 2025 and December 1, 2025",
+        "qualifications": [
+          "PhD in Computer Science or a closely related subject",
+          "PhD should be completed within three years before the application deadline"
+        ],
+        "assessment_criteria": [
+          "Experience in impact and risk assessments related to digital health systems",
+          "Interdisciplinary research experience",
+          "Experience with qualitative research methods",
+          "Familiarity with European legal frameworks (AI Act, GDPR, Human Rights law)",
+          "Publications in high-impact journals"
+        ],
+        "duty": "Conduct research in AI-based systems for digital health, develop AI literacy materials, and contribute to teaching activities (up to 20% of working time)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "Nineteenth International Tbilisi Summer School in Logic and Language",
+      "details": {
+        "location": "Kutaisi International University, Kutaisi, Georgia",
+        "dates": "September 4th-7th 2025",
+        "registration": {
+          "cost": "Free",
+          "inquiries_contact": "[log in to unmask]"
+        },
+        "website": "https://www.logic.at/tbilisi25/",
+        "lecturers": [
+          {
+            "name": "M. Baaz",
+            "topic": "Gödels Logics"
+          },
+          {
+            "name": "M. Gamsakhurdia",
+            "topic": "Gödels Logics"
+          },
+          {
+            "name": "S. Ghilardi",
+            "topic": "Categorical Logic: A Gentle Introduction"
+          },
+          {
+            "name": "M. Jibladze",
+            "topic": "TBA"
+          },
+          {
+            "name": "V. Marra",
+            "topic": "TBA"
+          },
+          {
+            "name": "F. Honsell",
+            "topic": "Constructive Type Theories and Logical Frameworks"
+          }
+        ],
+        "excursion_dinner": {
+          "cost": "Free for all registered participants of JELIA 2025",
+          "other_participants_cost": "60 Euros"
+        },
+        "co_located_events": [
+          {
+            "event_name": "JELIA 2025",
+            "website": "https://viam.science.tsu.ge/jelia2025/"
+          },
+          {
+            "event_name": "TbiLLC 2025",
+            "website": "https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single event (2025 Summer School on Informatics Education Research) with complete actionable data including application deadlines, event dates, and a submission link. There are no competing events listed, making the hierarchical clarity definitive."
+}

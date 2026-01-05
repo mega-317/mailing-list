@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "Although there is a single job posting for a postdoctoral researcher, it lacks essential actionable data such as a specific closing date and submission guidelines. As a result, it cannot be considered a valid call for proposals (CFP) despite being hierarchically clear."
+}

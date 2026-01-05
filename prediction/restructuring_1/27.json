@@ -1,0 +1,30 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "SSBSE 2025",
+      "details": {
+        "date": "16 November 2025",
+        "location": "Seoul",
+        "submission_deadline": "August 21, 2025",
+        "notification_date": "September 25, 2025",
+        "camera_ready_date": "October 3, 2025",
+        "key_topics": [
+          "Novel applications of SBSE, especially in emerging domains",
+          "Theoretical advances in search algorithms for software engineering",
+          "Rigorous empirical evaluations with reproducible results",
+          "Industrial experiences and real-world deployments",
+          "Integrations of SBSE with AI, machine learning, and cutting-edge technologies"
+        ],
+        "journal_consideration": "Accepted papers will be considered for a special journal issue in the Automated Software Engineering journal.",
+        "submission_link": "https://lnkd.in/gwxVDG5q",
+        "co_located_with": {
+          "event": "ASE",
+          "link": "https://lnkd.in/gTDTsXuX"
+        },
+        "previous_proceedings_link": "https://lnkd.in/gnCGdwtQ",
+        "contact": "mailto:[log in to unmask]"
+      }
+    }
+  ]
+}

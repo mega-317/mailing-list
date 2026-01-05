@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents one dominant event (PROFES 2025) with complete actionable data including submission deadline, start/end dates, and an official URL. There are no other events competing for primary focus, making it a clear single actionable target."
+}

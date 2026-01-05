@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "There is a single event, JELIA 2025, which has all the required actionable data: it has specific dates (1-5 September 2025), a website URL (https://viam.science.tsu.ge/jelia2025/), and though a submission deadline is not explicitly stated, it is implied through the context of 'Call for Workshop and Tutorial Proposals.' There are no competing events or nested contexts here."
+}

@@ -1,0 +1,38 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "VMCAI 2026",
+      "details": {
+        "dates": {
+          "conference": "January 12-13, 2026",
+          "satellite_events": null,
+          "submission_deadline": "10th September 2025",
+          "notification_of_acceptance": "6th November 2025",
+          "final_files_due": null
+        },
+        "location": "Rennes, France",
+        "main_conferences": [
+          "POPL 2026"
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            null
+          ],
+          "submission_information": [
+            "Regular papers, tools papers, and case studies"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://conf.researchr.org/home/VMCAI-2026"
+        ]
+      }
+    }
+  ]
+}

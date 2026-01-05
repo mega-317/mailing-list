@@ -1,0 +1,25 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "21st International Conference on Information Systems Security (ICISS 2025)",
+      "details": {
+        "host": "Indian Institute of Technology Indore (IIT Indore), India",
+        "conference_dates": "December 16–20, 2025",
+        "important_dates": {
+          "submission_deadline": "July 10, 2025",
+          "acceptance_notification": "September 30, 2025",
+          "camera_ready_deadline": "October 15, 2025"
+        },
+        "website": "https://iciss.isrdc.in/",
+        "field_focus": [
+          "cybersecurity",
+          "cryptography",
+          "system security",
+          "hardware security"
+        ],
+        "description": "A premier international forum that brings together researchers, academicians, and industry professionals to share their latest findings and insights."
+      }
+    }
+  ]
+}

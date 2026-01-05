@@ -1,0 +1,56 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Research Fellow in Edge Software Vulnerability Detection",
+      "details": {
+        "organization": "Queen's University Belfast, UK",
+        "application_link": "https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA",
+        "ref_number": "25/112645",
+        "closing_date": "21-07-2025",
+        "duration": "2 years, fixed term contract",
+        "responsibilities": [
+          "Understand vulnerabilities in edge computing environments.",
+          "Monitor software behaviours and environments to identify potential vulnerabilities.",
+          "Predict and identify vulnerabilities early for effective remediation.",
+          "Investigate software quality certification against cyber disturbances.",
+          "Identify quality issues with AI models and offer mitigation strategies."
+        ],
+        "requirements": {
+          "phd_required": true,
+          "fields_of_study": [
+            "Artificial Intelligence",
+            "Software Engineering",
+            "Computer Science"
+          ],
+          "experience": [
+            "Research in AI, Software Engineering, Edge Computing, or Cybersecurity.",
+            "Hands-on experience with machine learning frameworks like PyTorch, Keras, or TensorFlow.",
+            "Solid understanding of edge intelligence and software vulnerabilities.",
+            "Effective teamwork in research.",
+            "Strong publication record."
+          ]
+        },
+        "benefits": {
+          "salary": "competitive",
+          "holiday_entitlement": "up to 8.4 weeks a year",
+          "pension_schemes": true,
+          "development_opportunities": true,
+          "flexible_working": true,
+          "wellbeing_initiatives": true
+        },
+        "equality_commitment": {
+          "charter_marks": [
+            "Diversity Charter Mark NI",
+            "Athena Swan"
+          ],
+          "support_networks": [
+            "iRise (Black, Asian, Minority Ethnic and International Staff Network)",
+            "PRISM (LGBTQ+)"
+          ]
+        },
+        "international_applicants_link": "http://go.qub.ac.uk/internationalstaffsupport"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE AIxSE 2025",
+      "details": {
+        "dates": {
+          "event": "October 1-3, 2025",
+          "workshop_proposal_deadline": "July 22, 2025 PT",
+          "paper_submission_deadline": "July 15, 2025 PT (Extended Deadline)",
+          "paper_acceptance": "August 1, 2025 PT",
+          "workshop_paper_submission_deadline": "August 20, 2025 PT",
+          "registration_deadline": "September 1, 2025 PT",
+          "camera_ready_deadline": "September 1, 2025 PT"
+        },
+        "location": "The Hills Hotel, Laguna Hills, California",
+        "type": "Hybrid",
+        "related_events": [
+          "Co-located with AIxSET",
+          "AIxHEART",
+          "AIxB"
+        ],
+        "submission_instructions": {
+          "manuscript_format": "8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format",
+          "language": "English",
+          "submission_method": "Electronic submission through EasyChair",
+          "submission_link": "https://easychair.org/conferences?conf=aixse2025",
+          "accepted_formats": "PDF"
+        },
+        "paper_evaluation": {
+          "review_process": "At least three experts will review submissions",
+          "presentation_requirement": "Authors of accepted papers must present at the conference",
+          "originality_policy": "Only original material where copyright is owned by authors and not under review elsewhere"
+        },
+        "awards": {
+          "quality_papers": "Distinguished quality papers will qualify for best paper/poster awards",
+          "publication": "Selected papers will be published in internationally renowned journals"
+        },
+        "link": "http://www.AIxSE.org",
+        "community_invitation": {
+          "link": "https://www.aixse.org/community",
+          "description": "Join the AIxSE community to receive announcements and notifications"
+        },
+        "contacts": [
+          "Daryush Laqab",
+          "Giovanni Pilato",
+          "Phillip Sheu (General Co-Chairs)",
+          "Srividya Bansal",
+          "Bryan Chou",
+          "Massimo Cossentino",
+          "Sheida Malekpour",
+          "Mustafa Sert (Program Co-Chairs)"
+        ],
+        "contact_email": "[log in to unmask]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "The event ER2025 is mentioned, but it lacks multiple essential pieces of actionable data, including dates and submission deadlines. While it is identified as the primary event, the absence of necessary details prevents it from being functionally singular and valid."
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "The main event (LLMA4SE 2025) has a defined start and end date, along with an official website, but it lacks a submission deadline, which disqualifies it from being functionally singular despite the presence of essential information."
+}

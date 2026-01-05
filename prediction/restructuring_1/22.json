@@ -1,0 +1,55 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "5th LATAM School in Software Engineering Research",
+      "details": {
+        "dates": {
+          "school_dates": "September 22nd to 23rd, 2025",
+          "notification_date": "July 20th, 2025",
+          "application_deadline": "June 30th, 2025"
+        },
+        "location": "Recife, Pernambuco, Brazil",
+        "co_location": "Co-located with CBSoft - XVI Brazilian Conference on Software: Practice and Theory",
+        "eligibility": [
+          "Ph.D., MSc students from Latin American institutions",
+          "Researches in Software Engineering topics",
+          "Ph.D. degree holders post-2024",
+          "Highly motivated undergraduate students may be accepted"
+        ],
+        "application_requirements": [
+          "Structured abstract of research (1-page limit)",
+          "Poster outlining research (dimensions 122cm x 92cm)",
+          "List of publications (optional)"
+        ],
+        "submission_link": "https://jems3.sbc.org.br/latamschool2025",
+        "benefits": [
+          "Free registration for the School (including lunch and coffee break)",
+          "Free participation in the CBsoft",
+          "Potential financial support for some participants"
+        ],
+        "website": "https://cbsoft.sbc.org.br/2025/escola",
+        "sponsorship": {
+          "provider": "ACM SIGSOFT"
+        },
+        "program_details": {
+          "mentoring": {
+            "structure": "Grouped by software engineering topics, each student will have at least one mentor",
+            "poster_presentation": "10-minute lightning talk",
+            "mentoring_session_duration": "Approximately 30 minutes"
+          },
+          "keynote_topics": [
+            "Research methodologies",
+            "Open science",
+            "Industry research",
+            "Life balance and health"
+          ],
+          "panel": {
+            "participants": "3-4 experienced researchers",
+            "format": "Question-driven by attendees"
+          }
+        }
+      }
+    }
+  ]
+}

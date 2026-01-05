@@ -1,0 +1,58 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+      "details": {
+        "location": "Rio de Janeiro, Brazil",
+        "workshop_dates": {
+          "start": "2026-04-12",
+          "end": "2026-04-14, 2026-04-18"
+        },
+        "submission_links": [
+          "https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions"
+        ],
+        "requirements": {
+          "submission_format": "PDF",
+          "max_pages": 5,
+          "font_size": "12 point",
+          "ACM_style": "not required for proposals"
+        },
+        "proposal_content": [
+          "Workshop Title and Acronym",
+          "Abstract (200 words or fewer)",
+          "Contact Information for all workshop organizers",
+          "Motivation and Objectives",
+          "Format and Required Services",
+          "Target Audience",
+          "Proceedings",
+          "Workshop History",
+          "Organizers’ bios"
+        ],
+        "important_dates": {
+          "workshop_proposal_submission_deadline": "2025-06-23",
+          "workshop_proposal_acceptance_notification": "2025-07-28",
+          "workshop_websites_online": "2025-08-25",
+          "workshop_papers_submission_deadline": "2025-10-20",
+          "workshop_papers_acceptance_notification": "2025-11-24",
+          "workshop_papers_info_to_chairs": "2025-12-22"
+        },
+        "submission_system": {
+          "link": "https://icse2026-workshops.hotcrp.com"
+        },
+        "chairs": [
+          {
+            "name": "Rodrigo Santos",
+            "institution": "UNIRIO, Brazil",
+            "profile_link": "https://conf.researchr.org/profile/icse-2026/rodrigosantos"
+          },
+          {
+            "name": "Antonia Bertolino",
+            "institution": "Gran Sasso Science Institute, Italy",
+            "profile_link": "https://conf.researchr.org/profile/icse-2026/antoniabertolino"
+          }
+        ]
+      }
+    }
+  ]
+}

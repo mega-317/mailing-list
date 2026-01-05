@@ -1,0 +1,31 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoc in Software Engineering and Open Source Security",
+      "details": {
+        "organization": "Télécom Paris, Polytechnic Institute of Paris",
+        "duration": "30 months",
+        "fields": [
+          "Software Engineering",
+          "Cybersecurity"
+        ],
+        "research_project": {
+          "name": "SECUBIC",
+          "url": "https://secubic-ptcc.github.io/",
+          "description": "Project to improve the security of binary executables that include open source components."
+        },
+        "tools_and_techniques": {
+          "description": "Develop techniques and tools leveraging Software Heritage.",
+          "software_heritage_url": "https://www.softwareheritage.org/"
+        },
+        "job_description_links": {
+          "english": "https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5",
+          "french": "https://institutminestelecom.recruitee.com/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5"
+        },
+        "application_deadline": "31 August 2025",
+        "contact": "[log in to unmask]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "JELIA 2025",
+      "details": {
+        "date": "1-5 September 2025",
+        "location": "Kutaisi, Georgia",
+        "website": "https://viam.science.tsu.ge/jelia2025/",
+        "call_for_proposals": {
+          "type": "Workshops and Tutorials",
+          "description": "Proposals are welcomed on any topic related to Artificial Intelligence.",
+          "focus": "Intersection of statistical and symbolic AI, combining strengths of data-driven approaches with logical reasoning.",
+          "contact_email": "[log in to unmask]"
+        }
+      }
+    }
+  ]
+}

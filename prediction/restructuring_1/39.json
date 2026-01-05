@@ -1,0 +1,48 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Post Doctoral Researcher in Human-Centered AI for Software Engineering",
+      "details": {
+        "organization": "Department of Electrical and Computer Engineering, Aarhus University",
+        "funding_source": "Innovation Fund Denmark Grand Solutions project 'AI4SE1DK - Human-Centered Adoption of Artificial Intelligence for Software Engineering in Denmark'",
+        "employment_duration": "Two years",
+        "start_date": "1st of November 2025, or very shortly afterwards",
+        "profile_requirements": {
+          "degree": "PhD in Computer Science or related field",
+          "qualifications": [
+            "Solid research experience in applied AI, particularly with Large Language Models",
+            "Solid programming expertise in Python",
+            "Main author in at least one journal publication in the area of AI4SE at a high impact journal",
+            "Experience with publishing in journals and conferences",
+            "Fast learner with interests in multidisciplinary research",
+            "Excellent English skills, both orally and written",
+            "Ability to collaborate effectively within a multidisciplinary and multicultural team",
+            "Inclusive and open-minded"
+          ],
+          "optional_experience": "Prior research experience in an industrial software development setting"
+        },
+        "place_of_work": "Helsingforsgade 10, 8200 Aarhus N, Denmark",
+        "contact_information": {
+          "project_leader": "Professor Emilia Mendes",
+          "email": "[log in to unmask]"
+        },
+        "application_details": {
+          "deadline": "10 August 2025",
+          "application_procedure": "Shortlisting will be used, details of the assessment process will be communicated to applicants",
+          "referee_information": "Referee's contact information should be provided if applicable",
+          "application_content": [
+            "curriculum vitae",
+            "degree certificate",
+            "complete list of publications",
+            "statement of future research plans",
+            "teaching portfolio",
+            "verified information on previous teaching experience"
+          ],
+          "submission_method": "Via Aarhus University's recruitment system"
+        },
+        "research_context": "The project focuses on applying Large Language Models within the context of software project management and collaboration with industry."
+      }
+    }
+  ]
+}

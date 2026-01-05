@@ -1,0 +1,70 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "5th International Conference on Code Quality (ICCQ)",
+      "details": {
+        "date": "Dec 13, 2025",
+        "venue": "Ural Federal University, Russia",
+        "website": "https://www.iccq.ru/2025.html",
+        "published_by": "IEEE Xplore (in cooperation with IEEE Computer Society)",
+        "important_dates": {
+          "paper_submission": "10 Aug 2025",
+          "author_notification": "1 Nov 2025",
+          "camera_ready_submissions": "25 Nov 2025",
+          "conference_day": "13 Dec 2025"
+        },
+        "program_committee": [
+          "Alexander Legalov (Chair), HSE University",
+          "Sara Abbaspour, Mälardalen University",
+          "Rabe Abdalkareem, Omar al-Mukhtar University",
+          "Mohammad Alshayeb, King Fahd University of Petroleum and Minerals",
+          "Thomas Ball, Microsoft Research",
+          "William J. Bowman, University of British Columbia",
+          "Jacques Carette, McMaster University",
+          "Bernhard Egger, Seoul National University",
+          "Umar Farooq, Louisiana State University",
+          "Eduardo Fernandes, University of Southern Denmark",
+          "Javier Luis Cánovas Izquierdo, Universitat Oberta de Catalunya",
+          "Ranjit Jhala, University of California, San Diego",
+          "Antoine Miné, Sorbonne Université",
+          "Murali Krishna Ramanathan, Amazon Web Services",
+          "Francis Palma, University of New Brunswick",
+          "Amr Sabry, Indiana University",
+          "Bjorn De Sutter, Ghent University",
+          "G. Gary Tan, Pennsylvania State University",
+          "Didier Verna, EPITA",
+          "Guowei Yang, University of Queensland",
+          "Vadim Zaytsev, University of Twente",
+          "Jian Zhang, Nanyang Technological University"
+        ],
+        "submission_requirements": {
+          "criteria": [
+            "Novelty: Presents new ideas and results.",
+            "Importance: Contributes to advancement of knowledge.",
+            "Evidence: Provides sufficient supporting evidence.",
+            "Clarity: Clearly presents contributions and results."
+          ],
+          "review_process": "Double-blind review by three PC members.",
+          "format": {
+            "type": "PDF",
+            "page_size": "US Letter",
+            "template": "acmart (sigplan, 11pt, anonymous)",
+            "length": {
+              "min": 6,
+              "max": 20
+            }
+          },
+          "submission_link": "https://easychair.org/cfp/iccq25"
+        },
+        "sponsors": [
+          "IEEE",
+          "Ural Federal University",
+          "HSE",
+          "Innopolis University"
+        ],
+        "contact_email": "[log in to unmask]"
+      }
+    }
+  ]
+}

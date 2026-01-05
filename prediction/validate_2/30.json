@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON clearly focuses on the ERCIM STM WG 2025 Award, which has all the necessary actionable data: a specific submission deadline (July 31, 2025), event dates (September 25-26, 2025), and an official URL. There are no co-located or peer events that could confuse the primary focus."
+}

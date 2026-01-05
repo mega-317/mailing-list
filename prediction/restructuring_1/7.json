@@ -1,0 +1,46 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+      "details": {
+        "dates": {
+          "start": "2025-09-07",
+          "end": "2025-09-12"
+        },
+        "location": "Auckland, New Zealand",
+        "website": "https://conf.researchr.org/home/icsme-2025",
+        "registration": {
+          "early_bird_deadline": "2025-08-01"
+        },
+        "program_highlights": [
+          "Cutting-edge research on software evolution, maintenance, and analysis",
+          "Invited keynotes by international thought leaders",
+          "Co-located conferences: SCAM (https://conf.researchr.org/home/scam-2025) and VISSOFT (https://vissoft.io/2025/)",
+          "Panels, tool demos, and community activities",
+          "Networking opportunities with researchers, practitioners, and students from around the globe",
+          "Conference reception and cultural activities"
+        ],
+        "program_overview_link": "https://conf.researchr.org/info/icsme-2025/program-overview",
+        "student_volunteers": {
+          "application_link": "https://conf.researchr.org/attending/icsme-2025/student-volunteer",
+          "submission_deadline": "2025-07-15T23:59:00AoE"
+        },
+        "travel_support": {
+          "description": "Travel support for US-based attendees",
+          "link": "https://conf.researchr.org/attending/icsme-2025/travel-support"
+        },
+        "logistics": {
+          "sustainability_efforts": "Environmentally conscious and socially inclusive arrangements",
+          "discount_codes": "Provided upon registration",
+          "accessibility": "For LGBTQ+, disabled, and neurodiverse communities"
+        },
+        "exploration": {
+          "description": "Contact NZ software engineering researchers for engagement",
+          "link": "https://conf.researchr.org/info/icsme-2025/explore-se-research-in-nz#engage-with-software-engineering-researchers-in-aotearoa-new-zealand"
+        },
+        "sponsors": "Sponsored by the IEEE Computer Society, supported by IEEE TCSE and other organizations"
+      }
+    }
+  ]
+}

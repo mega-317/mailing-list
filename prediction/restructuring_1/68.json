@@ -1,0 +1,25 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Associate Professorship in Verification",
+      "details": {
+        "institution": "TU Braunschweig",
+        "position": "Associate Professor (tenured, W2)",
+        "link": "https://vacancies.tu-braunschweig.de/jobposting/d61ad0b165924c57cc54c4810ff4f91c6dc334170?ref=homepage",
+        "contact": {
+          "name": "Prof. Dr. Roland Meyer",
+          "email": "[log in to unmask]",
+          "phone": "+49 (0)531 391 9524",
+          "fax": "+49 (0)531 391 9529"
+        },
+        "address": {
+          "street": "Mühlenpfordtstr. 23",
+          "postal_code": "38106",
+          "city": "Braunschweig"
+        },
+        "website": "https://www.tu-bs.de/tcs"
+      }
+    }
+  ]
+}

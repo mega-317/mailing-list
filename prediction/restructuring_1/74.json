@@ -1,0 +1,57 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "2025 OkIP International Conference on Software Engineering Research & Development (SERD)",
+      "details": {
+        "location": "Oklahoma City, OK, USA & Online",
+        "dates": {
+          "conference_date": "October 1-2, 2025",
+          "submission_deadline": "July 15, 2025",
+          "author_notification": "August 1-15, 2025",
+          "camera_ready_submission": "August 7-22, 2025"
+        },
+        "submission_links": {
+          "conference_link": "https://eventutor.com/e/SERD005",
+          "program_link": "https://eventutor.com/event/67/program",
+          "committee_link": "https://eventutor.com/event/67/page/175-committee"
+        },
+        "areas_of_interest": [
+          "General and Social Aspects of Software Engineering (SE)",
+          "Software Design, Testing, Evolution, and Maintenance",
+          "Formal Methods and Theoretical Foundations",
+          "Programming Languages (PLs), Systems, and Environments",
+          "Object-Oriented (OO) Design and Analysis",
+          "Service Orientation and Human Interactions",
+          "AI, Web-Based Environments, and Adaptive Systems",
+          "Automated Software Engineering",
+          "Emerging SE Technologies and Dependability",
+          "Distribution, Componentization, and Collaboration",
+          "Concurrent, Parallel, and Distributed Systems"
+        ],
+        "contribution_types": [
+          {
+            "type": "Full Paper",
+            "description": "Accomplished research results",
+            "pages": 6
+          },
+          {
+            "type": "Short Paper",
+            "description": "Work in progress/fresh developments",
+            "pages": 3
+          },
+          {
+            "type": "Extended Abstract/Poster/Journal First",
+            "description": "Displayed/Oral presented",
+            "pages": 1
+          }
+        ],
+        "contact": {
+          "name": "Kris Zeuti",
+          "role": "OkIP Secretariat",
+          "email": "[log in to unmask]"
+        }
+      }
+    }
+  ]
+}

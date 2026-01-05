@@ -1,0 +1,17 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE International Conference on Artificial Intelligence of Things (IEEE AIoT 2025)",
+      "details": {
+        "dates": "Dec. 3-5, 2025",
+        "location": "Osaka, Japan",
+        "call_for_proposals": {
+          "type": "Workshop Proposals",
+          "submission_email": "[log in to unmask]",
+          "further_information_link": "http://sigsoft.org/resources/seworld.html"
+        }
+      }
+    }
+  ]
+}

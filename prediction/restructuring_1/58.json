@@ -1,0 +1,28 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opportunity",
+      "name": "Associate Professorship (W2): Software Engineering for Safety Critical Systems",
+      "details": {
+        "organization": "TU Braunschweig",
+        "location": "Germany",
+        "link": "https://vacancies.tu-braunschweig.de/jobposting/d61ad0b165924c57cc54c4810ff4f91c6dc334170?ref=homepage",
+        "job_type": "tenured, W2",
+        "requirements": [
+          "Model Checking",
+          "Static Program Analysis (Abstract Interpretation, Data Flow Analysis)",
+          "Dynamic Program Analysis (Runtime Verification, Monitoring, Testing)",
+          "Solver Technology (SAT Solvers, SMT Solvers, Theorem Provers)",
+          "Programming Languages (Program Logics, Type Systems, Semantics)",
+          "Synthesis (Reactive Synthesis, Functional Synthesis, Correctness by Construction)"
+        ],
+        "contact_person": "Prof. Dr. Thomas Thüm",
+        "contact_email": "[log in to unmask]",
+        "phone": "+49 531 391 2275",
+        "institute": "Institut für Softwaretechnik und Fahrzeuginformatik",
+        "department": "Institute of Software Engineering and Automotive Informatics",
+        "address": "Universitätsplatz 2, 38106 Braunschweig, Germany"
+      }
+    }
+  ]
+}

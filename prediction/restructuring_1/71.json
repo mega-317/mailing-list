@@ -1,0 +1,72 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Open Faculty Positions in Computer Science",
+      "details": {
+        "institution": "NOVA University Lisbon",
+        "positions": [
+          {
+            "title": "Assistant Professor",
+            "position_type": "full-time, tenure-track",
+            "areas_of_interest": [
+              "Artificial Intelligence",
+              "Machine Learning",
+              "Security and Privacy",
+              "Computer Systems",
+              "Programming Languages",
+              "Software Engineering",
+              "Multimodal Systems",
+              "Human-Computer Interaction"
+            ],
+            "requirements": [
+              {
+                "level": "Tenure-track",
+                "qualifications": [
+                  "Doctoral degree in Computer Science or closely related field",
+                  "Exceptional research potential",
+                  "Ability to work independently and collaboratively"
+                ]
+              },
+              {
+                "level": "Tenured",
+                "qualifications": [
+                  "Distinguished research record",
+                  "International recognition",
+                  "Strong leadership skills",
+                  "Experience supervising graduate students"
+                ]
+              }
+            ],
+            "application_process": {
+              "stages": [
+                {
+                  "stage": 1,
+                  "action": "Submit via email",
+                  "email_subject": "Faculty call 2025a",
+                  "requirements": [
+                    "Current CV",
+                    "Cover letter with a short research statement",
+                    "Three sample publications"
+                  ],
+                  "deadline": "May 29, 2025",
+                  "continuation": "Applications accepted until positions are filled"
+                },
+                {
+                  "stage": 2,
+                  "action": "Formal call to selected candidates"
+                }
+              ]
+            },
+            "links": [
+              {
+                "description": "More Information",
+                "url": "https://www.di.fct.unl.pt/noticias/2025/03/recruitment-tenured-and-tenure-track-computer-science-faculty-members"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

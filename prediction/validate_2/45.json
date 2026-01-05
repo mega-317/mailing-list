@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "There is one primary event with a start and end date, and an official website. However, it lacks actionable data such as a submission deadline, which makes it not functionally singular. Therefore, while the primary event is clear, the lack of complete actionable data disqualifies it as a valid call for papers."
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": false,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "There is no dominant event and no actionable data. The JSON contains information about a job position rather than an event, thus failing to provide necessary event details such as start dates or submission deadlines."
+}

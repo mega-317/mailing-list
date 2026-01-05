@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single dominant event (AIxSE) with all required actionable data (submission deadlines, event dates, and official URL). The co-located events listed (AIxSET, AIxHEART, AIxB) do not have actionable data of their own and serve merely as context, supporting clarity in the primary focus on AIxSE."
+}

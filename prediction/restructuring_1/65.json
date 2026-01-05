@@ -1,0 +1,21 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2026)",
+      "details": {
+        "location": "Sydney, Australia",
+        "dates": {
+          "first_submission_deadline": "29 May 2025",
+          "author_rebuttal_period": "8–10 July 2025",
+          "paper_notification": "21 July 2025"
+        },
+        "links": {
+          "call_for_papers": "https://2026.cgo.org/track/cgo-2026-papers",
+          "conference_website": "https://2026.cgo.org/"
+        },
+        "description": "CGO provides a premier venue to bring together researchers and practitioners working at the interface of hardware and software on a wide range of optimization and code generation techniques and related issues."
+      }
+    }
+  ]
+}

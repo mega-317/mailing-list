@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single / Nested / Co-located / Peer-Multi",
+  "reason": "The data represents a single postdoctoral position with application details but lacks specific submission deadlines, impactful critical data such as an official URL, and is ambiguous in actionable elements. It cannot be classified as valid due to the absence of essential information."
+}

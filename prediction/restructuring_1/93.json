@@ -1,0 +1,145 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+      "details": {
+        "dates": {
+          "event": "24–26 July 2024",
+          "paper_submission": "8 May 2024",
+          "notification_of_acceptance": "10 June 2024",
+          "final_manuscript": "3 July 2024"
+        },
+        "location": "Melbourne, Australia",
+        "website": "https://www.ieee-aiot.org",
+        "submission_link": "https://easychair.org/my/conference?conf=aiot2024",
+        "awards": {
+          "best_paper_awards": "Three accepted papers will be selected for best paper awards",
+          "journal_publication": [
+            {
+              "journal": "IEEE Internet of Things Journal",
+              "impact_factor": 10.238
+            },
+            {
+              "journal": "Digital Communications and Networks",
+              "impact_factor": 7.9
+            }
+          ]
+        },
+        "focus_areas": [
+          "AIoT Architectures, Frameworks, and Algorithms",
+          "AIoT Applications",
+          "Standards and Interoperability",
+          "Ethics and Security"
+        ],
+        "paper_submission_format": {
+          "format": "LaTeX or Word with IEEE templates",
+          "page_limit": 6,
+          "extra_page_fee": "$100",
+          "review_process": "standard reviewing procedure with at least 3 independent anonymous reviews",
+          "publication": "accepted papers will be published on IEEE Xplore"
+        },
+        "organization_committee": {
+          "general_chairs": [
+            {
+              "name": "Wei Xiang",
+              "affiliation": "La Trobe University, Australia"
+            },
+            {
+              "name": "Carla Fabiana Chiasserini",
+              "affiliation": "Politecnico di Torino, Italy"
+            }
+          ],
+          "topic_chairs": [
+            {
+              "name": "Dusit Niyato",
+              "affiliation": "Nanyang Technological University, Singapore"
+            },
+            {
+              "name": "Ruidong Li",
+              "affiliation": "Kanazawa University, Japan"
+            },
+            {
+              "name": "Prasad Kodaypak",
+              "affiliation": "The XMG, USA"
+            }
+          ],
+          "keynote_chair": {
+            "name": "Song Guo",
+            "affiliation": "Hong Kong University of Science and Technology, China"
+          },
+          "industry_forum_chair": {
+            "name": "Henry Leung",
+            "affiliation": "University of Calgary"
+          },
+          "tutorial_chairs": [
+            {
+              "name": "Flora Salim",
+              "affiliation": "University of New South Wales, Australia"
+            },
+            {
+              "name": "JaeSeung Song",
+              "affiliation": "Sejong University, South Korea"
+            }
+          ],
+          "workshop_chairs": [
+            {
+              "name": "Teng Joon Lim",
+              "affiliation": "University of Sydney, Australia"
+            },
+            {
+              "name": "Jia Hu",
+              "affiliation": "University of Exeter, U.K."
+            }
+          ],
+          "poster_chairs": [
+            {
+              "name": "Pietro Manzoni",
+              "affiliation": "Universidad Politécnica de Valencia, Spain"
+            },
+            {
+              "name": "Xiang Sun",
+              "affiliation": "University of Mexico, USA"
+            }
+          ],
+          "publicity_chair": {
+            "name": "Zhengxin Yu",
+            "affiliation": "Lancaster University, U.K."
+          },
+          "publication_chairs": [
+            {
+              "name": "Constandinos X. Mavromoustakis",
+              "affiliation": "University of Nicosia, Cyprus"
+            },
+            {
+              "name": "Peng Cheng",
+              "affiliation": "La Trobe University, Australia"
+            }
+          ],
+          "registration_chair": {
+            "name": "Wei Wang",
+            "affiliation": "San Diego State University"
+          },
+          "web_chair": {
+            "name": "Haihan Nan",
+            "affiliation": "Kanazawa University, Japan"
+          },
+          "financial_chair": {
+            "name": "Kang Han",
+            "affiliation": "La Trobe University, Australia"
+          },
+          "local_chairs": [
+            {
+              "name": "Kan Yu",
+              "affiliation": "La Trobe University, Australia"
+            },
+            {
+              "name": "Phu Lai",
+              "affiliation": "La Trobe University, Australia"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

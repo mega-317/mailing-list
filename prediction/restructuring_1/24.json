@@ -1,0 +1,47 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "12th International Conference on Software Defined Systems (SDS2025)",
+      "details": {
+        "date": {
+          "start": "2025-12-02",
+          "end": "2025-12-05"
+        },
+        "location": "Lyon, France",
+        "venue": "University Lyon 1, Lyon, France",
+        "submission_details": {
+          "submission_link": "https://easychair.org/conferences/?conf=sds202501",
+          "submission_date": "2025-08-31",
+          "notification_to_authors": "2025-10-20",
+          "camera_ready_submission": "2025-10-30"
+        },
+        "website": "https://www.gcet-conference.com/SDS2025",
+        "topics": [
+          "Core Foundations of Software-Defined Systems",
+          "Software-Defined Cloud, Edge, and Fog Environments",
+          "AI-Driven and Intelligent SDS",
+          "Security, Privacy, and Trust in Software-Defined Systems",
+          "Automation, Resilience, and Adaptability",
+          "Interoperability, Standards, and DevOps",
+          "Sustainable and Responsible Software-Defined Systems",
+          "Human-Centered and Societal Perspectives",
+          "Applications and Emerging Domains",
+          "Software Engineering for Software-Defined Systems"
+        ],
+        "submission_guidelines": {
+          "content_format": "10-point font using the IEEE 8.5\" x 11\" two-column format",
+          "submission_types": {
+            "full_paper": "6 to 8 pages",
+            "short_paper": "3 to 4 pages",
+            "extended_abstract": "2 pages",
+            "abstract": "500 words"
+          },
+          "review_process": "All submissions are peer-reviewed by at least two reviewers.",
+          "accepted_papers": "Accepted papers will appear in the SDS 2025 Proceedings and submitted to IEEE Xplore."
+        },
+        "contact": "For questions, please email [log in to unmask]."
+      }
+    }
+  ]
+}

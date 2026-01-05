@@ -1,0 +1,71 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "AICCSA 2025",
+      "details": {
+        "dates": {
+          "main_conference": {
+            "start": "19 October 2025",
+            "end": "22 October 2025"
+          },
+          "important_dates": {
+            "regular_paper_submission_deadline": "19 May 2025",
+            "notification_to_authors": "30 June 2025",
+            "camera_ready_submission_deadline": "01 September 2025",
+            "authors_registration_deadline": "01 September 2025",
+            "tutorial_proposals_due": "30 June 2025",
+            "tutorial_notification_of_acceptance": "07 July 2025",
+            "phd_forum_paper_proposals_due": "30 June 2025",
+            "phd_forum_notification_of_acceptance": "28 July 2025"
+          }
+        },
+        "location": "Doha, Qatar",
+        "website": "https://conferences.sigappfr.org/aiccsa2025/",
+        "submission_system": "https://easychair.org/conferences/?conf=aiccsa2025",
+        "submission_guidelines": {
+          "format": "IEEE 8.5″ x 11″ two-column conference format",
+          "page_limit": "8 pages",
+          "anonymity": "true"
+        },
+        "tracks": [
+          "Ubiquitous, Parallel, and Distributed Computing",
+          "Security, Privacy, and Trust",
+          "Data Science, Knowledge Engineering, and Ontologies",
+          "Artificial Intelligence & Cognitive Systems",
+          "Natural Language Processing",
+          "Multimedia, Computer Vision, and Image Processing"
+        ],
+        "committees": {
+          "general_co_chairs": [
+            "Rima Grati, UAE",
+            "Schahram Dustdar, Austria"
+          ],
+          "program_committee_chairs": [
+            "Sana Sellami, France",
+            "Yannis Manolopoulos, Greece"
+          ],
+          "workshops_special_tracks_and_tutorials_chairs": [
+            "Haithem Mezni, KSA",
+            "Abdallah Makhoul, France",
+            "Joe Tekli, Lebanon"
+          ],
+          "poster_chairs": [
+            "Khouloud Salameh, UAE",
+            "Karam Bou Chaaya, France"
+          ],
+          "phd_symposium_chairs": [
+            "Ali Akouglou, USA",
+            "Saeid Hosseini, Oman",
+            "Bashar Al-Shboul, Jordan"
+          ],
+          "publication_chairs": [
+            "Cihan Tunc, USA",
+            "Karam Bou Chaaya, France"
+          ],
+          "publicity_chair": "Salma Sassi, France"
+        }
+      }
+    }
+  ]
+}

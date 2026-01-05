@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "The primary event (IEEE AIoT 2025) has both start and end dates, and an official website, yet it lacks a specific submission deadline. Therefore, while it is hierarchically clear, it does not meet the functional singularity due to the absence of crucial actionable data (submission deadline)."
+}

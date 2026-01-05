@@ -1,0 +1,43 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Post-Doc Position at Linz Institute of Technology",
+      "details": {
+        "institution": "Johannes Kepler University",
+        "duration": "up to three-years contract",
+        "location": "Linz, Austria",
+        "focus_areas": [
+          "Distributed Software Systems and Software Architectures",
+          "Cloud Computing and Software Performance",
+          "Real-Time, Scalable Data Processing and Querying"
+        ],
+        "job_duties": [
+          "Conduct Software Engineering research",
+          "Lay the foundation for scalable, data-driven software applications",
+          "Apply for research grants",
+          "Publish and present research findings",
+          "Collaborate with researchers and industry partners",
+          "(Co-)supervise Ph.D./Master’s/Bachelor’s students"
+        ],
+        "qualifications": [
+          "Strong software engineering background",
+          "Doctorate/Ph.D. degree in Computer Science or related field",
+          "Expertise in at least one of the research areas",
+          "Experience in academic/scientific publication",
+          "Hands-on experience in object-oriented programming",
+          "Familiarity with Apache Spark, Flink, Kafka, and Kubernetes desired",
+          "Strong proficiency in English (C1 level)"
+        ],
+        "application_details": {
+          "apply_link": "https://tinyurl.com/CoInnovPostDoc",
+          "deadline": "Aug 10"
+        },
+        "related_publications": [
+          "https://doi.org/10.1145/3629526.3645036",
+          "https://doi.org/10.1145/3629104.3666040"
+        ]
+      }
+    }
+  ]
+}

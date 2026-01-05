@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "The International Symposium on Sustainable Systems Technologies and Green Computing (STGC)",
+      "details": {
+        "dates": {
+          "symposium_date": "October 15, 2025",
+          "submission_deadline": "August 2, 2025",
+          "conference_duration": "October 15-17, 2025"
+        },
+        "location": "Dubrovnik, Croatia",
+        "website": "https://flta-conference.org/flta-2025/sts.php",
+        "sponsor": "IEEE Croatia Section",
+        "topics": [
+          "Energy-Efficient Software Engineering",
+          "Sustainable Architectures",
+          "AI for Sustainability",
+          "IoT-Enabled Sustainability",
+          "Green Computing",
+          "Scalability and Adaptability",
+          "Blockchain for Sustainability",
+          "Technology, Sociology, and Economy for Sustainable Development",
+          "Software Engineering for Sustainability"
+        ],
+        "publication": "Accepted papers will be published in IEEE Xplore in the proceedings of FLTA 2025."
+      }
+    },
+    {
+      "type": "Conference",
+      "name": "3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025)",
+      "details": {
+        "dates": {
+          "conference_duration": "October 14-17, 2025"
+        },
+        "location": "Dubrovnik, Croatia",
+        "website": "https://flta-conference.org/flta-2025/sts.php"
+      }
+    }
+  ]
+}

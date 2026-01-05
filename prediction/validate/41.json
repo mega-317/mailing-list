@@ -1,8 +1,0 @@
-{
-  "is_single_main_event": false,
-  "has_event_start_date": true,
-  "has_submission_deadline": true,
-  "has_official_url": true,
-  "is_valid_cfp": false,
-  "reason": "There are multiple conferences (ESOP, FASE, FoSSaCS, TACAS) listed as part of the event, indicating it is a joint call for papers rather than a single main event."
-}

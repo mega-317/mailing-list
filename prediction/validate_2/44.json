@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single conference event (ECSA) that has all required actionable data including a submission deadline, a clear official URL, and explicitly details the process for submitting letters of interest. There are no other events mentioned that compete for focus, making the hierarchical structure clear."
+}

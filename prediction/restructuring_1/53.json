@@ -1,0 +1,46 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "41st International Conference on Logic Programming (ICLP 2025)",
+      "details": {
+        "location": "University of Calabria, Rende, Italy",
+        "dates": "September 12-19, 2025",
+        "workshops": [
+          {
+            "name": "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion (RCRA 2025)",
+            "website": "https://rcra2025.wordpress.com"
+          },
+          {
+            "name": "18th Workshop on Answer Set Programming and Other Computing Paradigms (ASPOCP 2025)",
+            "website": "https://sites.google.com/view/aspocp-2025/"
+          },
+          {
+            "name": "12th Workshop on Probabilistic Logic Programming (PLP 2025)",
+            "website": "https://stoics.org.uk/~plp2025/"
+          },
+          {
+            "name": "9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³ 2025)",
+            "website": "https://tinyurl.com/ai3w25"
+          },
+          {
+            "name": "Third Prolog Education Workshop (PEG 2025)",
+            "website": "https://prolog-lang.org/Education/PrologEducationWS2025.html"
+          },
+          {
+            "name": "Second Annual Workshop on Prolog Improvement Proposals (PIPs)",
+            "website": "https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html"
+          },
+          {
+            "name": "Workshop on Logic Programming and Legal Reasoning (LPLR 2025)",
+            "website": "https://lplr2025.legaltech.wales/"
+          },
+          {
+            "name": "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action (CARLA)",
+            "website": "https://carla-ws.github.io/web/"
+          }
+        ]
+      }
+    }
+  ]
+}

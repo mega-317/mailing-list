@@ -1,0 +1,54 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "EASE'25: 29th International Conference on Evaluation and Assessment in Software Engineering",
+      "details": {
+        "dates": "June 17-20, 2025",
+        "location": "Not specified",
+        "registration_link": "https://conf.researchr.org/attending/ease-2025/registration",
+        "keynotes": [
+          {
+            "speaker": "Prof. Dr. Sven Apel",
+            "affiliation": "Saarland University",
+            "topic": "AI4SE: Adventures in the Promised Land",
+            "date": "June 18, 2025"
+          },
+          {
+            "speaker": "Prof. Dr. Brian Fitzgerald",
+            "affiliation": "Lero - the Irish Software Research Centre",
+            "topic": "The Rise and Rise of InnerSource",
+            "date": "June 19, 2025"
+          },
+          {
+            "speaker": "Dr. Celal Ziftci",
+            "affiliation": "Google",
+            "topic": "Beyond Code Completion: Harnessing LLMs for Complex Code Migrations in an Enterprise Setting at Google",
+            "date": "June 20, 2025"
+          }
+        ],
+        "tracks": {
+          "research": 57,
+          "industry": 13,
+          "short_papers": 29,
+          "AI_models_data_evaluation": 24,
+          "vision_poster": 2,
+          "doctoral": 4,
+          "journal_first": 2
+        },
+        "workshops": {
+          "date": "June 17, 2025",
+          "number_of_workshops": 5
+        }
+      }
+    },
+    {
+      "type": "Call for Participation",
+      "name": "Submission to SEWORLD",
+      "details": {
+        "submission_email": "mailto:[log in to unmask]",
+        "more_info_link": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  ]
+}

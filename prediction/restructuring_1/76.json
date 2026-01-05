@@ -1,0 +1,29 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoc Positions at KFUPM",
+      "details": {
+        "position_count": 2,
+        "location": "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+        "fields": [
+          "Secure Software Development/Software Security",
+          "Artificial Intelligence in Software Engineering"
+        ],
+        "duration": "2 years",
+        "extension": "Possibility of extension for an additional two years based on performance and mutual agreement",
+        "qualifications": [
+          "Must have, or be near completion of, a Ph.D. in Computer Science, Software Engineering, or a closely related field",
+          "Candidates currently holding postdoc positions are encouraged to apply"
+        ],
+        "contact": {
+          "name": "Prof. Mohammad Alshayeb",
+          "email": "[log in to unmask]",
+          "website": "http://www.alshayeb.com",
+          "phone": "+(966) 13-860-4874"
+        },
+        "application_method": "Send CV or inquiries to the contact email"
+      }
+    }
+  ]
+}

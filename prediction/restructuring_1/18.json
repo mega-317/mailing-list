@@ -1,0 +1,62 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Faculty Positions at UCLouvain",
+      "details": {
+        "department": "Computer Science",
+        "location": "UCLouvain, Belgium",
+        "positions": [
+          {
+            "title": "Position 1",
+            "focus": [
+              "Software engineering",
+              "Programming systems and languages",
+              "Software dependability"
+            ]
+          },
+          {
+            "title": "Position 2",
+            "focus": [
+              "Software engineering",
+              "Programming systems and languages",
+              "Software dependability"
+            ]
+          },
+          {
+            "title": "Position 3",
+            "focus": [
+              "Software security and cybersecurity"
+            ]
+          }
+        ],
+        "seniority_levels": [
+          "assistant",
+          "associate",
+          "full"
+        ],
+        "application_details": {
+          "vacancy_announcement": "Early September 2025",
+          "application_deadline": "A few weeks after announcement",
+          "application_requirements": [
+            "resume",
+            "teaching statement",
+            "research statement"
+          ],
+          "application_link": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+        },
+        "contact": {
+          "email": "[log in to unmask]",
+          "note": "Contact department chair for questions"
+        },
+        "highlights": [
+          "Vibrant work environment just south of Brussels",
+          "Excellent research infrastructure and support",
+          "Moderate teaching load and access to excellent students",
+          "Competitive salaries and benefits",
+          "No need to speak French to apply; willingness to learn in a few years preferred"
+        ]
+      }
+    }
+  ]
+}

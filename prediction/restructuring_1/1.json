@@ -1,0 +1,27 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Associate Senior Lecturer (Tenure Track) in AI for Software Engineering",
+      "details": {
+        "institution": "Blekinge Institute of Technology",
+        "location": "Karlskrona, Sweden",
+        "focus": "Using and developing generative AI to improve software development processes and the quality of software artefacts.",
+        "responsibilities": [
+          "Research, teaching, and supervision in software engineering",
+          "Participate in research and educational activities",
+          "Application for external research funding",
+          "Course development and student supervision at various educational levels"
+        ],
+        "initial_research_percentage": "60%",
+        "resources": "Funding for one doctoral student",
+        "eligibility": [
+          "Completion of a doctoral degree or equivalent scientific competence",
+          "Preference for candidates who earned their doctoral degree within the last five years"
+        ],
+        "deadline": "August 1, 2025",
+        "link": "https://www.bth.se/english/vacancies/job/associate-senior-lecturer-in-ai-for-software-engineering-tenure-track-karlskrona"
+      }
+    }
+  ]
+}

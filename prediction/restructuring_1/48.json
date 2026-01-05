@@ -1,0 +1,32 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral positions in Fuzz Testing",
+      "details": {
+        "institution": "National University of Singapore (NUS)",
+        "program": "Fuzz Testing (sponsored by Singapore's Cybersecurity Agency)",
+        "funding_period": "2023-2027",
+        "start_date": "1 July 2023",
+        "requirements": {
+          "degree": "PhD or imminent submission of PhD thesis",
+          "documents_required": [
+            "CV, including publications",
+            "Research statement",
+            "Names of two referees"
+          ]
+        },
+        "contact_person": {
+          "name": "Abhik Roychoudhury",
+          "position": "Lead PI",
+          "email": "[log in to unmask]"
+        },
+        "links": [
+          "https://nus-tss.github.io/fuzzing/",
+          "https://spartan-nus.github.io/coderover-s.html"
+        ],
+        "location": "Computer Science Department, NUS"
+      }
+    }
+  ]
+}

@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 1
+version = 2
 label_dir = './data/seworld_label'
-predict_dir = f'./prediction/validate'
+predict_dir = f'./prediction/validate_2'
 
 fields_to_compare = [
     "conference_name",

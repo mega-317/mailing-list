@@ -1,0 +1,74 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ETAPS 2026",
+      "details": {
+        "event_dates": "April 11-16, 2026",
+        "location": "Torino, Italy",
+        "website": "https://etaps.org/2026",
+        "important_dates": {
+          "submission deadlines": {
+            "ESOP round 1": "June 3, 2025",
+            "ESOP round 2": "October 16, 2025",
+            "TACAS, FoSSaCS, FASE": "October 16, 2025",
+            "TACAS mandatory artifact submission": "October 30, 2025",
+            "Rebuttal ESOP, FoSSaCS, TACAS": "December 8-10, 2025",
+            "Notification ESOP round 1": "August 1, 2025",
+            "Paper notification and TACAS artifact notification": "December 22, 2025",
+            "Artifact submission deadline for accepted papers": "January 8, 2026",
+            "Paper final version": "January 22, 2026",
+            "Artifact notification ESOP, FASE, FoSSaCS, TACAS": "February 12, 2026"
+          },
+          "main_conference_dates": "April 13-16, 2026",
+          "satellite_event_dates": "April 11-12, 2026"
+        },
+        "publication_info": {
+          "publisher": "Springer's LNCS series",
+          "open_access": true
+        },
+        "awards": [
+          "Best Tool Paper Award",
+          "EAPLS, EASST, and EATCS Best ETAPS Papers",
+          "Doctoral Dissertation Award",
+          "ETAPS Test-of-Time Award",
+          "ETAPS Rance Cleaveland Test-of-Time Tool Award"
+        ],
+        "submissions": {
+          "ESOP": {
+            "formats": [
+              "Regular research papers max 25 pp",
+              "Experience reports max 15 pp",
+              "Fresh perspectives max 15 pp"
+            ],
+            "details_link": "https://etaps.org/2026/esop"
+          },
+          "FASE": {
+            "formats": [
+              "Regular research papers max 18 pp",
+              "New ideas and emerging results max 8 pp",
+              "Tool demonstration and data showcase papers max 8 pp"
+            ]
+          },
+          "FoSSaCS": {
+            "formats": [
+              "Regular research papers max 18 pp"
+            ]
+          },
+          "TACAS": {
+            "formats": [
+              "Regular research papers max 16 pp",
+              "Tool demonstration papers max 6 pp"
+            ]
+          }
+        },
+        "organizers": [
+          "Feruccio Damiani",
+          "Maurice ter Beek",
+          "Enrico Beraldo",
+          "Barbara Boni"
+        ]
+      }
+    }
+  ]
+}

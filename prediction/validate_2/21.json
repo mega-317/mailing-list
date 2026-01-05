@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Co-located",
+  "reason": "The JSON represents a main event (CONCUR 2025) alongside multiple co-located events, but it lacks specific submission details and actionable data, which means the main event does not meet the criteria for a single actionable target. The presence of additional events complicates functional singularity."
+}

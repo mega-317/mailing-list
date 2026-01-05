@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "There is a single event represented (a job posting) with its submission link provided. However, it lacks essential information such as the closing date, which is necessary for it to be considered valid."
+}

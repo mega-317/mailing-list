@@ -1,0 +1,46 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "International Conference on Software Engineering (ICSE) 2026",
+      "details": {
+        "date": "April 12-18, 2026",
+        "location": "Rio de Janeiro, Brazil",
+        "website": "https://conf.researchr.org/home/icse-2026",
+        "submission_deadlines": {
+          "first_cycle": {
+            "submission_date": "July 18, 2025",
+            "author_response_period": {
+              "start_date": "September 23, 2025",
+              "end_date": "September 25, 2025"
+            },
+            "notification_date": "October 17, 2025",
+            "revision_due": "November 14, 2025",
+            "final_decision_date": "December 19, 2025"
+          }
+        },
+        "submission_requirements": [
+          "Must follow the 'IEEE Submission and Peer Review Policy'",
+          "Must comply with the 'ACM Policy on Authorship'"
+        ],
+        "review_process": "Double-anonymous review process",
+        "open_access_info": {
+          "start_year": 2026,
+          "ACM_OPEN_agreements_impact": [
+            "Most authors will not have to pay Article Processing Charges (APC)",
+            "Authors not covered may need to pay, but there are waivers and discounts available"
+          ],
+          "fixed_APC_choices": {
+            "for_ACM_SIG_members": 250,
+            "for_non_members": 350
+          }
+        },
+        "scope": "Inviting high-quality submissions of technical research papers on original and unpublished software engineering results.",
+        "additional_important_points": [
+          "Submissions cannot reveal authors' identities and must adhere to anonymity guidelines.",
+          "One author from accepted papers must register to present at the conference."
+        ]
+      }
+    }
+  ]
+}

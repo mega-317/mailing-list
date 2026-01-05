@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single postdoc position offer, but it lacks critical actionable data such as specific submission deadlines and important dates, thus failing the requirements for a valid Call for Proposals (CFP). Although it has a contact person and a general application method, without specific deadlines or dates, it cannot be considered functionally singular."
+}

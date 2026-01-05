@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON presents a single event, the International Conference on Software Engineering (ICSE) 2026, which has all necessary actionable data including submission deadlines, start/end dates, and an official URL. There are no competing events or ambiguity present."
+}

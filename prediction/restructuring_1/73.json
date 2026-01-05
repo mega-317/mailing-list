@@ -1,0 +1,165 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "29th Ada-Europe International Conference on Reliable Software Technologies (AEiC 2025)",
+      "details": {
+        "dates": "10-13 June 2025",
+        "location": "Paris, France",
+        "website": "http://www.ada-europe.org/conference2025",
+        "early_registration_deadline": "May 27, 2025",
+        "registration_fee": {
+          "general": "discounted until May 27, 2025",
+          "ada_developers_workshop": "25 EUR"
+        },
+        "program": [
+          {
+            "date": "June 10, 2025",
+            "activities": [
+              "4 half-day tutorials",
+              "1 full-day tutorial",
+              "welcome reception"
+            ]
+          },
+          {
+            "date": "June 11, 2025",
+            "activities": [
+              "core technical program",
+              "conference banquet"
+            ]
+          },
+          {
+            "date": "June 12, 2025",
+            "activities": [
+              "core technical program",
+              "post conference chill-out"
+            ]
+          },
+          {
+            "date": "June 13, 2025",
+            "activities": [
+              "3 full-day workshops"
+            ]
+          }
+        ],
+        "venue": {
+          "name": "Mines Paris",
+          "description": "Located along the Luxembourg gardens, close to public transport."
+        },
+        "invited_speakers": [
+          {
+            "name": "Stefano Zacchiroli",
+            "institution": "Télécom Paris, France",
+            "topic": "Building a Safer Open Source Supply Chain with Software Heritage, the Great Library of Source Code",
+            "date": "June 11, 2025"
+          },
+          {
+            "name": "Tullio Vardanega",
+            "institution": "University of Padua, Italy",
+            "topic": "Language Ownership: Key Moments in the Lifetime of Ada",
+            "date": "June 11, 2025"
+          }
+        ],
+        "tutorials": [
+          {
+            "title": "Developing Bare-metal Embedded Software in SPARK Ada for 64-bit ARM Platforms",
+            "presenter": "J. Germán Rivera",
+            "date": "June 10, 2025",
+            "duration": "full-day"
+          },
+          {
+            "title": "Multiple Double and Multiword Arithmetic",
+            "presenter": "Jan Verschelde",
+            "date": "June 10, 2025",
+            "duration": "half-day"
+          },
+          {
+            "title": "Unleash the Power of Ada Generics",
+            "presenter": "Gautier de Montmollin",
+            "date": "June 10, 2025",
+            "duration": "half-day"
+          },
+          {
+            "title": "Turning your Programming Language into a Modeling Language",
+            "presenter": "S. Tucker Taft",
+            "date": "June 10, 2025",
+            "duration": "half-day"
+          },
+          {
+            "title": "Introduction to the ALiRe Package Manager",
+            "presenter": "Quentin Dauprat",
+            "date": "June 10, 2025",
+            "duration": "half-day"
+          }
+        ],
+        "workshops": [
+          {
+            "title": "4th ADEPT workshop",
+            "description": "AADL by its practitioners.",
+            "link": "http://www.ada-europe.org/conference2025/workshop_adept.html",
+            "date": "June 13, 2025"
+          },
+          {
+            "title": "10th International Workshop on Challenges and New Approaches for Dependable and Cyber-Physical System Engineering (DeCPS 2025)",
+            "link": "http://www.ada-europe.org/conference2025/decps.html",
+            "date": "June 13, 2025"
+          },
+          {
+            "title": "2nd Ada Developers Workshop",
+            "description": "An informal gathering for developers to meet and share insights.",
+            "link": "http://www.ada-europe.org/conference2025/workshop_adadev.html",
+            "date": "June 13, 2025"
+          }
+        ],
+        "social_events": [
+          {
+            "name": "Welcome Reception",
+            "date": "June 10, 2025",
+            "details": "Early evening, details to be announced."
+          },
+          {
+            "name": "Conference Banquet",
+            "location": "Bouillon Racine",
+            "date": "June 11, 2025",
+            "description": "A typical Parisian restaurant."
+          },
+          {
+            "name": "Chill Event",
+            "location": "Café Latin",
+            "date": "June 12, 2025",
+            "details": "Casual café dinner."
+          }
+        ],
+        "hashtags": [
+          "#AEiC2025",
+          "#AdaEurope",
+          "#AdaProgramming"
+        ],
+        "organizers": [
+          {
+            "name": "Ada-Europe",
+            "website": "http://www.ada-europe.org/"
+          },
+          {
+            "name": "Ada-France",
+            "website": "https://www.ada-france.org/"
+          },
+          {
+            "name": "ACM SIGPLAN",
+            "website": "http://www.sigplan.org/"
+          }
+        ],
+        "sponsors": [
+          "Embedded France",
+          "AdaCore",
+          "Emenda",
+          "Systerel",
+          "Scitools",
+          "Pacte Novation",
+          "Institut Frederik Bull",
+          "Mines Paris"
+        ]
+      }
+    }
+  ]
+}

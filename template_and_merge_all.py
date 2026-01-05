@@ -10,7 +10,7 @@ def run_total_pipeline(file_num: int):
     
     # --- 경로 설정 ---
     input_txt_path = Path(f"./data/texts/{file_num}.txt")
-    base_template_path = Path(f"./prediction/merge/template.json")
+    base_template_path = Path(f"./template/template_v1.json")
     
     # 1단계 결과물 (구조화 요약) 경로
     fit_output_path = Path(f"./prediction/output/fit_{file_num}.json")

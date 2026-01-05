@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON clearly focuses on the '2nd International Conference on Engineering Digital Twins (EDTconf 2025)' which has all actionable data including submission deadlines and specific event dates. The mention of the co-located event 'MODELS 2025' provides context but is not presented with its own actionable data, establishing EDTconf 2025 as the dominant event."
+}

@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "13th International Conference on Software Engineering Research and Innovation (CONISOFT 2025)",
+      "details": {
+        "date_range": {
+          "start": "2025-10-27",
+          "end": "2025-10-31"
+        },
+        "location": "La Paz, BCS, Mexico",
+        "organizers": [
+          "Software Engineering Mexican Network (REDMIS)",
+          "Universidad Autónoma de Baja California Sur",
+          "IEEE",
+          "IEEE Computer Society"
+        ],
+        "website": "https://conisoft.org",
+        "submission_deadline": "2025-06-15",
+        "registration_link": "https://conisoft.org/2025/#registration",
+        "registration_fees": {
+          "1_paper": {
+            "price_usd": 200,
+            "price_mxn": 4000
+          },
+          "additional_paper": {
+            "price_usd": 100,
+            "price_mxn": 2000
+          },
+          "third_paper": {
+            "note": "Must pay full fee"
+          }
+        },
+        "topics": [
+          "Core Themes in Software Engineering",
+          "Empirical Software Engineering",
+          "Formal methods",
+          "Trends in Software Engineering",
+          "Interaction with Other Disciplines",
+          "Software Engineering Education (SEE)",
+          "Industry and Government Experiences",
+          "Dependability, Security, and Privacy",
+          "Testing, Analysis, and Maintenance",
+          "Software Engineering for AI"
+        ]
+      }
+    }
+  ]
+}

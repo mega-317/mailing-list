@@ -1,0 +1,33 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "6th Summer School on Empirical Research Methods in Software Engineering and Informatics (ERMSEI)",
+      "details": {
+        "dates": "September 1-5, 2025",
+        "location": "Centre de recherche INRIA/ IRISA, Rennes, France",
+        "goal": "To get junior researchers started on using empirical research methods on software engineering topics.",
+        "focus": "Practical, hands-on exercises and overview of major research methods.",
+        "speakers": [
+          "Harald St√∂rrle, QAware, Munich, Germany",
+          "Djamel E. Khelladi, CNRS, Univ. Rennes, France"
+        ],
+        "topics_covered": [
+          "Controlled experiments",
+          "Qualitative methods",
+          "Secondary research approaches",
+          "Study design"
+        ],
+        "prerequisites": "No specific prerequisites mentioned, but targeted at junior researchers seeking support."
+      }
+    },
+    {
+      "type": "Call for Participation",
+      "name": "Call for Participation to SEWORLD",
+      "details": {
+        "submission_info": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+        "more_information": "http://sigsoft.org/resources/seworld.html provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+      }
+    }
+  ]
+}

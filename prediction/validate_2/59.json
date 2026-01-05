@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single event, SEMLA 2025, which has a clear dominant focus and includes all essential actionable data: start and end dates, submission deadline, and registration link. There are no co-located or peer events mentioned, affirming the singular nature of this call for participation."
+}

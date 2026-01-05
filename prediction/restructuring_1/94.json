@@ -1,0 +1,53 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "44th International Conference on Conceptual Modeling (ER 2025)",
+      "details": {
+        "dates": {
+          "start_date": "20 October 2025",
+          "end_date": "23 October 2025",
+          "submission_deadlines": {
+            "abstract_submission": "19 May 2025",
+            "full_paper_submission": "26 May 2025",
+            "author_notification": "30 July 2025",
+            "camera_ready_submission": "18 August 2025"
+          }
+        },
+        "location": "Poitiers, France",
+        "theme": "Building Trust Through Conceptual Modeling",
+        "website": "https://er2025.ensma.fr/",
+        "submission_guidelines": {
+          "link": "https://easychair.org/conferences/?conf=er2025",
+          "details": {
+            "page_limit": "16 pages",
+            "double_blind": true,
+            "style": "LNCS",
+            "keywords": [
+              "human-centred modeling",
+              "model explainability",
+              "trustworthy systems",
+              "AI-assisted modeling",
+              "data integration"
+            ]
+          }
+        },
+        "special_issue": {
+          "journal": "Data & Knowledge Engineering",
+          "impact_factor": "2.7"
+        },
+        "organization": {
+          "general_chairs": [
+            "Ladjel Bellatreche, ISAE-ENSMA, Poitiers, France",
+            "Oscar Pastor, Universitat Politècnica de València"
+          ],
+          "program_chairs": [
+            "Shazia Sadiq, The University of Queensland, Australia",
+            "Dominik Bork, TU Wien, Austria",
+            "Roman Lukyanenko, University of Virginia, USA"
+          ]
+        }
+      }
+    }
+  ]
+}

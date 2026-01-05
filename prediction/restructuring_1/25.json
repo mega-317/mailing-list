@@ -1,0 +1,34 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoc Position in Trustworthy Distributed Software Systems",
+      "details": {
+        "organization": "DistriNet research group, KU Leuven",
+        "location": "Leuven, Belgium",
+        "position_type": "Full-time salaried position (fixed-term contract)",
+        "application_link": "https://www.kuleuven.be/personeel/jobsite/jobs/60496661",
+        "job_ref": "BAP-2025-367",
+        "requirements": {
+          "degree": "PhD in Computer Science",
+          "publication_track_record": "Proven track record in relevant international peer-reviewed conferences or journals (ACM, IEEE, ...)",
+          "skills": [
+            "Fluent English written and oral communication skills",
+            "Ability to independently plan, execute and report on work",
+            "Experience with grant writing or obtaining personal research grants (a plus)",
+            "Experience collaborating with industry partners (a plus)",
+            "Team player and collaborator",
+            "Open-minded with curiosity to explore new ideas and technologies"
+          ]
+        },
+        "benefits": [
+          "Flexible working hours",
+          "Opportunity to grow research experience by coaching PhD researchers and managing projects",
+          "Access to a network of research experts and university resources",
+          "Opportunity to publish and present work at international academic conferences"
+        ],
+        "interview_info": "Shortlisted candidates will be interviewed on a rolling basis."
+      }
+    }
+  ]
+}

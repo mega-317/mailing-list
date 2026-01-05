@@ -1,0 +1,54 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Papers",
+      "name": "JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”",
+      "details": {
+        "submission_deadline": "30 September 2025",
+        "submission_instructions": {
+          "guide_for_authors": "https://www.sciencedirect.com/journal/journal-of-systems-and-software/publish/guide-for-authors",
+          "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+          "article_type": "VSI:Intelligent DevOps"
+        },
+        "description": "This special issue aims to consolidate the latest research and advancements on the topic of Intelligent DevOps for performance, sustainability, and reliability. It targets various sub-topics related to DevOps practices and their impact on software quality.",
+        "relevant_sub_topics": [
+          "Observability and monitoring in DevOps pipelines",
+          "Application of AIOps techniques to support quality assurance",
+          "Automated anomaly detection, incident prediction, and root cause analysis",
+          "Data-driven feedback loops for continuous improvement",
+          "Intelligent test automation and AI-driven defect prediction",
+          "Integration of AI and data analytics tools into CI/CD workflows",
+          "Infrastructure as code solutions with intelligent self-adaptation",
+          "Enhancing software quality through AI",
+          "Sustainability techniques in software engineering",
+          "Model-based performance analysis",
+          "Automation in DevOps processes with large language models",
+          "Software architecture informed by operational data",
+          "Quality assurance tools for microservices",
+          "Comparative evaluations of quality assurance methodologies"
+        ],
+        "editors": [
+          {
+            "name": "Luca Traini",
+            "position": "Assistant Professor",
+            "affiliation": "University of L’Aquila, L'Aquila, Italy"
+          },
+          {
+            "name": "Heng Li",
+            "position": "Assistant Professor",
+            "affiliation": "Polytechnique Montreal, Montréal Quebec, Canada"
+          },
+          {
+            "name": "Weiyi Shang",
+            "position": "Associate Professor",
+            "affiliation": "University of Waterloo, Waterloo Ontario, Canada"
+          }
+        ],
+        "main_journal": {
+          "name": "Journal of Systems and Software",
+          "link": "https://www.sciencedirect.com/journal/journal-of-systems-and-software"
+        }
+      }
+    }
+  ]
+}

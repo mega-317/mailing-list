@@ -1,0 +1,84 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ETAPS 2026",
+      "details": {
+        "dates": {
+          "conference": "April 11-16, 2026",
+          "satellite_events": "April 11-12, 2026",
+          "submission_deadline": {
+            "ESOP_round_1": "June 3, 2025",
+            "ESOP_round_2": "October 16, 2025",
+            "TACAS_FoSSaCS_FASE": "October 16, 2025",
+            "TACAS_mandatory_artifact_submission": "October 30, 2025",
+            "artifact_submission_deadline": "January 8, 2026",
+            "final_files_due": "January 22, 2026"
+          },
+          "notification_of_acceptance": {
+            "ESOP_round_1": "August 1, 2025",
+            "general": "December 22, 2025",
+            "artifact_notification": "February 12, 2026"
+          }
+        },
+        "location": "Turin, Italy",
+        "main_conferences": [
+          {
+            "name": "ESOP: European Symposium on Programming",
+            "PC_chair": "Robbert Krebbers, Radboud University",
+            "AE_chair": "Michael Sammler, ISTA"
+          },
+          {
+            "name": "FASE: Fundamental Approaches to Software Engineering",
+            "PC_chairs": [
+              "Elvira Albert, Complutense University of Madrid",
+              "Corina Pasareanu, NASA Ames"
+            ],
+            "AE_chair": "TBD"
+          },
+          {
+            "name": "FoSSaCS: Foundations of Software Science and Computation Structures",
+            "PC_chairs": [
+              "Nathalie Bertrand, Rennes University",
+              "Stefan Milius, Friedrich-Alexander Universitaet"
+            ],
+            "AE_chair": "Guillermo Alberto Perez, University of Antwerp"
+          },
+          {
+            "name": "TACAS: Tools and Algorithms for the Construction and Analysis of Systems",
+            "PC_chairs": [
+              "Sebastian Junges, Radboud University",
+              "Guy Katz, Hebrew University"
+            ],
+            "AE_chairs": [
+              "Guy Amir, Cornell University",
+              "Matthias Volk, Eindhoven University of Technology"
+            ]
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Feruccio Damiani",
+            "Maurice ter Beek",
+            "Enrico Beraldo",
+            "Barbara Boni"
+          ],
+          "submission_information": [
+            "Submissions must be in English, original research, unpublished, and not submitted elsewhere.",
+            "All accepted papers will appear in Springer proceedings and must adhere to formatting guidelines."
+          ],
+          "promotion": {
+            "organizers_committee": "Feruccio Damiani, Maurice ter Beek, Enrico Beraldo, Barbara Boni",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://etaps.org/2026",
+          "https://turismotorino.org/en"
+        ]
+      }
+    }
+  ]
+}

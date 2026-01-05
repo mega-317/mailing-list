@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": false,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single / Nested / Co-located / Peer-Multi",
+  "reason": "The JSON provided does not represent an event with actionable data such as specific submission deadlines or event dates. Without these, it cannot be determined which, if any, event is the primary focus, thus failing both the functional singularity and hierarchical clarity criteria."
+}

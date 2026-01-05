@@ -1,0 +1,15 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "Petri Nets 2025",
+      "details": {
+        "date": "2025",
+        "location": "Paris",
+        "call_for_participation": true,
+        "submission_email": "mailto:[log in to unmask]",
+        "more_information_link": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  ]
+}

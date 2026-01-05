@@ -1,0 +1,47 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Professor in Artificial Intelligence for Software Engineering",
+      "details": {
+        "organization": "LUT School of Engineering Sciences",
+        "location": "Lappeenranta campus, Finland",
+        "application_process": "Open application process for a fixed term of four years (assistant/associate professor) or permanently (full professor)",
+        "promotion": "Tenure track system with promotion reviews",
+        "requirements": [
+          "Up-to-date research merits in artificial intelligence related to software engineering",
+          "Expertise in topics such as AI in code generation, software testing, architecture design, AI agents in collaborative software development"
+        ],
+        "duties": [
+          "Basic and advanced education and programme development in software engineering",
+          "High-impact international research",
+          "Preparation of national/international research and education projects",
+          "Planning and implementation of bachelor’s, master’s, and doctoral education",
+          "Supervision of final theses and doctoral studies",
+          "Increasing industry awareness",
+          "General administrative tasks"
+        ],
+        "application_link": "https://lut.rekrytointi.com/paikat/?o=A_A&jid=1318",
+        "closing_date": "11 August 2025 at 12 noon, Finnish local time (UTC + 3h)",
+        "contact": {
+          "name": "Professor Kari Smolander",
+          "email": "[log in to unmask]"
+        },
+        "additional_links": [
+          {
+            "description": "Department of Software Engineering",
+            "url": "https://www.lut.fi/en/about-lut/faculties/lut-school-engineering-sciences/software-engineering"
+          },
+          {
+            "description": "LUT School of Engineering Sciences",
+            "url": "https://www.lut.fi/en/about-lut/faculties/lut-school-engineering-sciences"
+          },
+          {
+            "description": "Information for international staff",
+            "url": "https://www.lut.fi/en/about-us/come-work-us/international-staff-and-visitors"
+          }
+        ]
+      }
+    }
+  ]
+}

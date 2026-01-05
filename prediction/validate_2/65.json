@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The JSON represents a single event (CGO 2026) with all the essential actionable data: it has a submission link, specific submission deadlines, and an official website. There are no competing events or co-located events mentioned, ensuring clarity in the focus on CGO 2026."
+}

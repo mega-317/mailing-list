@@ -1,0 +1,64 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Emerging Concerns in Technical Debt Management",
+      "details": {
+        "publication": "Empirical Software Engineering (EMSE)",
+        "scope": "Focuses on Technical Debt (TD) in the context of AI, data-intensive systems, and emerging security concerns.",
+        "topics_of_interest": [
+          "Manifestations of TD in data-driven, AI-enabled, cyber-physical, or distributed systems.",
+          "Novel methodologies to measure, analyze, or manage TD in these contexts.",
+          "Case studies showcasing real-world experiences with TD in modern systems.",
+          "Impact assessments of TD on performance, maintainability, scalability, or security.",
+          "Longitudinal studies tracking the evolution and lifecycle of TD in emerging domains.",
+          "Tool evaluations that address TD detection, management, or mitigation in innovative ways.",
+          "Studies on practitioner experiences with TD in AI and data-intensive systems."
+        ],
+        "submission_requirements": {
+          "template": "Not required to use a prescribed template.",
+          "acceptance": "Upon acceptance, source files to be formatted for SpringerLink."
+        },
+        "important_dates": {
+          "submission_deadline": "June 9, 2025"
+        },
+        "guest_editors": [
+          {
+            "name": "Dr. Giammaria Giordano",
+            "affiliation": "University of Salerno, Italy",
+            "email": "[log in to unmask]",
+            "website": "https://giammariagiordano.github.io/giammaria-giordano/"
+          },
+          {
+            "name": "Dr. Zadia Codabux",
+            "affiliation": "University of Saskatchewan, Canada",
+            "email": "[log in to unmask]",
+            "website": "https://www.cs.usask.ca/faculty/zadiacodabux/"
+          },
+          {
+            "name": "Dr. Marcus Ciolkowski",
+            "affiliation": "QAware GmbH, Germany",
+            "email": "[log in to unmask]",
+            "website": "https://www.qaware.de/team/marcus-ciolkowski/"
+          },
+          {
+            "name": "Dr. Florian Deissenboeck",
+            "affiliation": "CQSE GmbH, Germany",
+            "email": "[log in to unmask]",
+            "website": "https://cqse.eu/deissenboeck"
+          },
+          {
+            "name": "Prof. Maria Teresa Baldassarre",
+            "affiliation": "University of Bari, Italy",
+            "email": "[log in to unmask]",
+            "website": "https://www.uniba.it/docenti/baldassarre-maria-teresa"
+          }
+        ],
+        "publication_format": {
+          "type": "Online-first",
+          "citable_by": "DoI (digital object identifier)"
+        }
+      }
+    }
+  ]
+}

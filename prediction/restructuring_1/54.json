@@ -1,0 +1,58 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Position in Software Engineering and AI for Sustainable Food Choices",
+      "details": {
+        "institution": "University of Southern Denmark (SDU), Maersk Mc-Kinney Moller Institute (MMMI)",
+        "application_deadline": "10 June 2025 at 11.59 PM / 23.59 CEST",
+        "start_date": "1 August 2025 or as soon as possible thereafter",
+        "project": "Nudge2Green",
+        "collaborating_institutions": [
+          "Aarhus University",
+          "University of Copenhagen",
+          "Food Organization of Denmark",
+          "Heco et al."
+        ],
+        "requirements": {
+          "education": "PhD in Software Engineering, Computer Science, Artificial Intelligence, or closely related field",
+          "skills": [
+            "Strong software development and programming skills",
+            "Research experience in AI and/or machine learning methods",
+            "Familiarity with behavioral software systems",
+            "Experience with data-driven user modeling and AI-driven personalization",
+            "Knowledge or interest in sustainable computing"
+          ],
+          "language": "Proficiency in English (written and spoken)",
+          "collaboration": "Ability to work both independently and collaboratively"
+        },
+        "application_documents": [
+          "Motivated application (cover letter)",
+          "Curriculum Vitae",
+          "Certificates/Diplomas (Master’s and PhD degrees)",
+          "Complete list of publications",
+          "Examples of 5 full-text publications relevant to the position"
+        ],
+        "contact_people": [
+          {
+            "name": "Mahyar Tourchi Moghaddam",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Mina Alipour",
+            "email": "[log in to unmask]"
+          },
+          {
+            "role": "HR support",
+            "email": "[log in to unmask]"
+          }
+        ],
+        "application_guidelines": [
+          "Standard application process at SDU",
+          "Faculty-specific instructions for applications to the Faculty of Engineering"
+        ],
+        "more_info_link": "https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/2850/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002425904"
+      }
+    }
+  ]
+}

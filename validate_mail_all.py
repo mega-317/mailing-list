@@ -3,9 +3,9 @@ from pathlib import Path
 import glob
 from validate_pipeline.graph import process_one_file, save_json
 
-version = 1
+version = 2
 INPUT_DIR = Path("./prediction/flex_summ_1")
-OUT_DIR = Path(f"./prediction/validate")  # 결과 저장 폴더
+OUT_DIR = Path(f"./prediction/validate_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # === 배치 실행 ===

@@ -1,0 +1,76 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Papers",
+      "name": "Responsible AI Special Issue Journal",
+      "details": {
+        "submission_deadline": "30 October 2025",
+        "call_for_papers_open": "May 2025",
+        "guest_editors": [
+          {
+            "name": "Ebrahim Bagheri",
+            "affiliation": "University of Toronto",
+            "title": "Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Robin Cohen",
+            "affiliation": "University of Waterloo",
+            "title": "Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Faezeh Ensan",
+            "affiliation": "Toronto Metropolitan University",
+            "title": "Assistant Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Benjamin C. M. Fung",
+            "affiliation": "McGill University",
+            "title": "Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Sébastien Gambs",
+            "affiliation": "Université du Québec à Montréal",
+            "title": "Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Reihaneh Rabbany",
+            "affiliation": "McGill University",
+            "title": "Assistant Professor",
+            "email": "[log in to unmask]"
+          }
+        ],
+        "topics_of_submission": [
+          "Fairness and Bias Mitigation in AI",
+          "Adversarial AI and Red Teaming",
+          "Interpretability and Explainability",
+          "Trust, Reliability, and Safety",
+          "Accountability in Algorithmic Decision-Making",
+          "Auditing and Monitoring AI Systems",
+          "Human-Centered AI Design",
+          "Sociotechnical and Cultural Dimensions of AI",
+          "Environmental Impact of AI",
+          "Regulatory, Legal, and Policy Considerations",
+          "Responsible AI Education and Training",
+          "Social Impact and Labor Implications"
+        ],
+        "submission_guidelines": {
+          "review_process": "single-blind peer-review",
+          "submission_link": "https://www.editorialmanager.com/ipm/default.aspx",
+          "general_author_guidelines": "https://www.sciencedirect.com/journal/information-processing-and-management/publish/guide-for-authors"
+        },
+        "keywords": [
+          "Responsible AI",
+          "AI Ethics",
+          "Algorithmic Accountability",
+          "AI Auditing",
+          "Social Implications of AI"
+        ]
+      }
+    }
+  ]
+}

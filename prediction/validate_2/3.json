@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single / Nested",
+  "reason": "The main event 'Nineteenth International Tbilisi Summer School in Logic and Language' has all essential information including dates and a website, making it the dominant focus. However, it lacks actionable submission information (e.g., submission details, guidelines), which means it is not functionally singular even though it is clear as the primary event. Additionally, the co-located events 'JELIA 2025' and 'TbiLLC 2025' provide URLs but do not have their own standalone deadlines or detailed submission information."
+}

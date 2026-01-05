@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": false,
+  "is_valid_cfp": false,
+  "detected_pattern": "Single",
+  "reason": "The JSON presents a single event (PoEM 2025) but lacks a specific Submission Deadline and Official URL. However, since it is the only event mentioned and there are no peers, it is hierarchically clear despite the missing actionable data."
+}

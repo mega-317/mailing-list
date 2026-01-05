@@ -1,0 +1,19 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Assistant Professor Position",
+      "details": {
+        "institution": "University of Coimbra",
+        "location": "Portugal",
+        "field": "Informatics Engineering",
+        "focus_areas": [
+          "Dependability",
+          "Software Engineering"
+        ],
+        "application_deadline": "August 7, 2025",
+        "application_portal": "https://apply.uc.pt/IT136-25-15300"
+      }
+    }
+  ]
+}

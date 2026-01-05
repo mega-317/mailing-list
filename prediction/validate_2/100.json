@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The main event, 'MLOps25', has all the actionable data (submission deadlines, start/end dates, and a URL). The co-located event, 'ECAI 2025', is mentioned but lacks its own actionable data, confirming the hierarchy where 'MLOps25' is the primary focus."
+}

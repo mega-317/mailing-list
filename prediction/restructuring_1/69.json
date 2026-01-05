@@ -1,0 +1,28 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Research Fellow Position",
+      "details": {
+        "organization": "National University of Singapore (NUS)",
+        "focus": "Agentic AI approaches towards software engineering",
+        "research_group": {
+          "name": "SPARTAN effort on agents",
+          "link": "https://spartan-nus.github.io/"
+        },
+        "requirements": {
+          "eligibility": "Candidates who have submitted PhD thesis or will be submitting soon",
+          "application": "Email CV and sample publications to [log in to unmask]"
+        },
+        "additional_info": {
+          "research_expertise": [
+            "Program repair",
+            "Fuzzing",
+            "Symbolic execution"
+          ],
+          "link_to_research_group": "https://nus-tss.github.io/"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": false,
+  "has_essential_info": true,
+  "is_valid_cfp": false,
+  "detected_pattern": "Co-located",
+  "reason": "While ICSME 2025 is dominant and has essential information, there are no defined submission guidelines or a submission link. Additionally, co-located events (SCAM and VISSOFT) do not have actionable submission data, confirming ICSME's dominance but indicating the functional singularity criterion is unmet due to the lack of a singular, actionable target."
+}

@@ -1,0 +1,42 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoctoral Positions at UCLouvain",
+      "details": {
+        "location": "UCLouvain, Belgium",
+        "positions_available": 2,
+        "eligibility": {
+          "degree": "Ph.D. in computer science or a directly-related field",
+          "current_location": "Candidates must be currently outside Belgium"
+        },
+        "salary": "Competitive salary and support, including access to large-scale experimental testbeds",
+        "start_date": "Flexible, to be determined with the PIs",
+        "funding_duration": "1 year with possibility for extension",
+        "screening_start": "Immediately and until positions are filled",
+        "contact_persons": [
+          {
+            "name": "Pr. Etienne Rivière",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Pr. Ramin Sadre",
+            "email": "[log in to unmask]"
+          }
+        ],
+        "application_requirements": [
+          "CV",
+          "Link to current publication record",
+          "Description of topics of interest"
+        ],
+        "research_topics": [
+          "Middleware and runtimes for distributed cloud applications",
+          "Scheduling and resource management",
+          "Adaptation techniques for cloud/edge resources",
+          "Visualization and monitoring techniques for cloud/edge applications",
+          "Performance modeling and simulation for cloud/edge applications"
+        ]
+      }
+    }
+  ]
+}

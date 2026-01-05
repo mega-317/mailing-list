@@ -1,0 +1,8 @@
+{
+  "is_hierarchically_clear": true,
+  "is_functionally_singular": true,
+  "has_essential_info": true,
+  "is_valid_cfp": true,
+  "detected_pattern": "Single",
+  "reason": "The main event 'ER 2025 Workshops' has its own submission deadline, start date, and official URL providing the necessary actionable data. The co-located events are mentioned as context but do not have their own actionable data, ensuring that 'ER 2025 Workshops' is the clear dominant event."
+}

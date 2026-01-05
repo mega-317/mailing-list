@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Call for Papers",
+      "name": "Special Issue on Innovative Frontiers in Automated Software Engineering",
+      "details": {
+        "submission_deadline": "July 21, 2025",
+        "submission_link": "https://link.springer.com/collections/idcadeffac",
+        "submission_guidelines_link": "https://link.springer.com/journal/10515/submission-guidelines",
+        "aims_and_scope": "This special issue aims to collect contributions for innovative ideas, visionary perspectives, and critical reflections that can potentially reshape automated software engineering significantly.",
+        "types_of_papers": [
+          {
+            "type": "Innovative ideas",
+            "description": "Groundbreaking new ideas supported by promising initial results."
+          },
+          {
+            "type": "Visions of the future",
+            "description": "Bold, forward-looking ideas that may not yet have solid results but are backed by strong scientific intuition."
+          },
+          {
+            "type": "Reflections on the past",
+            "description": "Critical reassessments of current research directions and thoughtful analyses of key ideas in software engineering’s history."
+          }
+        ],
+        "topics_of_interest": [
+          "Radical approaches to automating software engineering tasks supported by preliminary evidence",
+          "Novel applications of automation in software engineering contexts",
+          "Bold predictions about transformative directions in automated software engineering",
+          "The untapped potential of automation in emergent software domains and paradigms",
+          "Novel theoretical frameworks for rethinking fundamental aspects of automated software development",
+          "Reassessments of foundational assumptions in automated software engineering",
+          "Examination of ethical implications and unintended consequences",
+          "Reimagining correctness and verification in an era of AI-generated software",
+          "Novel approaches to handling uncertainty and ambiguity",
+          "Transformative applications of large language models",
+          "Radical new perspectives on software composition and integration",
+          "Innovative socio-technical approaches concerning automation",
+          "Disruptive ideas for automated testing, verification, and validation."
+        ],
+        "guest_editors": "To be disclosed; contributions can be sent to SEWORLD."
+      }
+    }
+  ]
+}

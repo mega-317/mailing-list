@@ -1,0 +1,60 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Workshop",
+      "name": "7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)",
+      "details": {
+        "location": "Paris, France",
+        "dates": {
+          "start": "2025-11-17",
+          "end": "2025-11-19"
+        },
+        "website": "https://fmasworkshop.github.io/FMAS2025/",
+        "submission_dates": {
+          "submission_deadline": "2025-08-22",
+          "notification_date": "2025-10-06",
+          "final_version_due": "2025-10-17"
+        },
+        "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+        "categories": {
+          "vision_papers": {
+            "page_limit": 6,
+            "description": "describe directions for research into Formal Methods for Autonomous Systems"
+          },
+          "research_previews": {
+            "page_limit": 6,
+            "description": "describe well-defined research ideas that are in their early stages"
+          },
+          "experience_reports": {
+            "page_limit": 15,
+            "description": "report on practical experiences in applying Formal Methods to Autonomous Systems"
+          },
+          "regular_papers": {
+            "page_limit": 15,
+            "description": "describe completed applications of Formal Methods"
+          }
+        },
+        "additional_notes": {
+          "best_paper_award": "The best paper will be honored based on reviews and discussions.",
+          "special_issue": "A journal special issue will collect extensions of accepted papers.",
+          "poster_session": "Demos and posters session co-located with iFM2025."
+        },
+        "co_located_event": {
+          "name": "International Conference on Integrated Formal Methods (iFM) 2025",
+          "website": "https://ifm2025.ens.psl.eu/"
+        },
+        "contact_info": {
+          "email": "[log in to unmask]"
+        },
+        "social_links": {
+          "BlueSky": "https://bsky.app/profile/fmasworkshop.bsky.social",
+          "Mastodon": "https://mastodon.acm.org/@FMASWorkshop",
+          "LinkedIn": "https://www.linkedin.com/groups/10019224/"
+        },
+        "hashtags": [
+          "#FMAS2025"
+        ]
+      }
+    }
+  ]
+}

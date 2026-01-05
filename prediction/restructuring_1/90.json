@@ -1,0 +1,21 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Research Associate / Postdoctoral Research Assistant for Project JusTN0W",
+      "details": {
+        "organization": "Durham University Computer Science",
+        "description": "Contribute to developing a framework and software prototype for an AI-based compliance control system applying NLP and LLMs.",
+        "key_responsibilities": "Analyze the compliance of treaties and agreements, particularly relevant to Article 6 of the Paris Agreement.",
+        "application_link": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25000444&tz=GMT%2B01%3A00&tzname=Europe%2FLondon",
+        "closing_date": "26-May-2025, 11:59:00 PM",
+        "contact_person": {
+          "name": "Dr Nelly Bencomo",
+          "position": "Associate Professor in CS",
+          "email": "[log in to unmask]",
+          "website": "http://www.nellybencomo.me"
+        }
+      }
+    }
+  ]
+}

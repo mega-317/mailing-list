@@ -1,0 +1,106 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "CONFEST 2025",
+      "details": {
+        "dates": {
+          "start": "August 25, 2025",
+          "end": "August 30, 2025"
+        },
+        "location": "Aarhus, Denmark",
+        "website": "https://conferences.au.dk/confest2025",
+        "early_registration_deadline": "July 25, 2025",
+        "registration_link": "https://conferences.au.dk/confest2025/registration",
+        "hotel_information": {
+          "booking_codes": "https://conferences.au.dk/confest2025/hotel-accommodations",
+          "other_options": "https://www.visitaarhus.com/aarhus/where-sleep/hotels"
+        },
+        "conferences": [
+          {
+            "name": "CONCUR 2025",
+            "description": "36th International Conference on Concurrency Theory"
+          },
+          {
+            "name": "FMICS 2025",
+            "description": "30th International Conference on Formal Methods for Industrial Critical Systems"
+          },
+          {
+            "name": "QEST+FORMATS 2025",
+            "description": "Joint International Conference on Quantitative Evaluation of Systems and Formal Modeling and Analysis of Timed Systems"
+          }
+        ],
+        "number_of_invited_talks": 8,
+        "number_of_presentations": 75,
+        "workshops": [
+          {
+            "name": "BMQL 2025",
+            "description": "1st IW on Behavioural Metrics and Quantitative Logics"
+          },
+          {
+            "name": "Express/SOS 2025",
+            "description": "combined IW on Expressiveness in Concurrency and Structural Operational Semantics"
+          },
+          {
+            "name": "FMQC 2025",
+            "description": "IW on Formal Methods in Quantum Computing"
+          },
+          {
+            "name": "PFQA 2025",
+            "description": "Colloquium on Principles of Formal Quantitative Analysis"
+          },
+          {
+            "name": "Radical 2025",
+            "description": "4th IW on Recent Advances in Concurrency and Logic"
+          },
+          {
+            "name": "SynCoP 2025",
+            "description": "10th IW on Synthesis of Complex Parameters"
+          }
+        ],
+        "invited_speakers": [
+          {
+            "name": "Alessandro Abate",
+            "affiliation": "U of Oxford, UK",
+            "topic": "Neural synthesis for verification and control of stochastic systems - certificates and abstractions"
+          },
+          {
+            "name": "Christel Baier",
+            "affiliation": "TU Dresden, Germany",
+            "topic": "Linear Temporal Logic with Standpoint Modalities"
+          },
+          {
+            "name": "Lu Feng",
+            "affiliation": "University of Virginia, USA",
+            "topic": "Runtime Safety for Learning-Enabled Cyber-Physical Systems: From Predictive Monitoring to Adaptive Shielding"
+          },
+          {
+            "name": "Arnd Hartmanns",
+            "affiliation": "U of Twente, NL",
+            "topic": "Sound and Modest Approaches to Quantitative Model Checking from Sea to Space"
+          },
+          {
+            "name": "Chris Heunen",
+            "affiliation": "U of Edinburgh, UK",
+            "topic": "Towards categorical quantum concurrency theory"
+          },
+          {
+            "name": "Christoph Matheja",
+            "affiliation": "U of Oldenburg, Germany and DTU Denmark",
+            "topic": "Automating Proof Rules for Probabilistic Programs"
+          },
+          {
+            "name": "Ina Schieferdecker",
+            "affiliation": "Independent Researcher, Germany",
+            "topic": "Empowering Testing with AI - Navigating the growing field of research on AI for software testing"
+          },
+          {
+            "name": "Jiri Srba",
+            "affiliation": "Aalborg University, Denmark",
+            "topic": "On-the-Fly Verification: Advancements in Dependency Graphs"
+          }
+        ]
+      }
+    }
+  ]
+}

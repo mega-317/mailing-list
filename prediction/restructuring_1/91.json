@@ -1,0 +1,23 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "Postdoc Positions at CISPA/University of Stuttgart",
+      "details": {
+        "topics": [
+          "AI to reason about and modify software",
+          "static and dynamic program analysis",
+          "test input generation"
+        ],
+        "location": "Stuttgart, Germany",
+        "funding": "Fully funded",
+        "application_link": "https://software-lab.org/",
+        "contact": {
+          "name": "Michael Pradel",
+          "email": "[log in to unmask]"
+        },
+        "application_status": "Positions to be filled as soon as possible"
+      }
+    }
+  ]
+}

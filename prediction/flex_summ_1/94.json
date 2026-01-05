@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Poitiers, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=er2025",
+      "submission_guidelines": "Authors must submit manuscripts using the LNCS style and limit their papers to 16 pages, excluding references. A double-blind review process will be followed.",
+      "submission_details": [
+        {
+          "type": "Full paper abstracts submission (mandatory)",
+          "deadline": "19 MAY 2025"
+        },
+        {
+          "type": "Full paper submission",
+          "deadline": "26 MAY 2025"
+        },
+        {
+          "type": "Author notification",
+          "deadline": "30 JULY 2025"
+        },
+        {
+          "type": "Camera-ready papers and author registration",
+          "deadline": "18 AUGUST 2025"
+        }
+      ]
+    },
+    "contact_person": null,
+    "website": "https://er2025.ensma.fr/",
+    "event": "44th International Conference on Conceptual Modeling (ER 2025)",
+    "dates": {
+      "event_dates": "20-23 October 2025",
+      "important_dates": [
+        {
+          "event": "Full paper abstracts submission (mandatory)",
+          "date": "19 MAY 2025"
+        },
+        {
+          "event": "Full paper submission",
+          "date": "26 MAY 2025"
+        },
+        {
+          "event": "Author notification",
+          "date": "30 JULY 2025"
+        },
+        {
+          "event": "Camera-ready papers and author registration",
+          "date": "18 AUGUST 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The conference provides a vibrant forum for discussing and extending the state-of-the-art conceptual modeling foundations, emerging and future challenges, and the pivotal role conceptual modeling plays in a variety of applications. This year’s theme focuses on the important role conceptual modeling plays in creating systems that are trustworthy, inclusive, and transparent.",
+    "submission_details": null,
+    "publication_details": {
+      "publisher": "Springer",
+      "series": "LNCS",
+      "special_issue": {
+        "journal": "Elsevier's Data & Knowledge Engineering",
+        "impact_factor": "2.7"
+      }
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Human-centred and inclusive modeling",
+      "Model explainability and transparency",
+      "Role of modeling in engendering trust and building trustworthy systems",
+      "Automated and AI-assisted conceptual modeling",
+      "Complexity management of large conceptual models",
+      "Domain-specific modeling",
+      "Evolution, exchange, integration, and transformation of models",
+      "Quality paradigms and metrics",
+      "Conceptual modeling in AI, data mining, and machine learning"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "ISAE-ENSMA",
+        "location": "Poitiers, France"
+      },
+      {
+        "name": "Universitat Politècnica de València",
+        "location": null
+      },
+      {
+        "name": "The University of Queensland",
+        "location": "Australia"
+      },
+      {
+        "name": "TU Wien",
+        "location": "Austria"
+      },
+      {
+        "name": "University of Virginia",
+        "location": "USA"
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "name": "Ladjel Bellatreche",
+        "affiliation": "ISAE-ENSMA, Poitiers, France"
+      },
+      {
+        "name": "Oscar Pastor",
+        "affiliation": "Universitat Politècnica de València"
+      },
+      {
+        "name": "Shazia Sadiq",
+        "affiliation": "The University of Queensland, Australia"
+      },
+      {
+        "name": "Dominik Bork",
+        "affiliation": "TU Wien, Austria"
+      },
+      {
+        "name": "Roman Lukyanenko",
+        "affiliation": "University of Virginia, USA"
+      }
+    ],
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

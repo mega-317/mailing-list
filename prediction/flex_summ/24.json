@@ -1,0 +1,203 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Lyon, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Encourages interdisciplinary research contributions",
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=sds202501",
+      "submission_dates": {
+        "submission_deadline": "31 August 2025",
+        "notification_to_authors": "20 October 2025",
+        "camera_ready_submission": "30 October 2025"
+      },
+      "submission_guidelines": "Papers should be prepared in 10-point font using the IEEE 8.5\" x 11\" two-column format.",
+      "paper_types": [
+        {
+          "type": "full paper",
+          "length": "6 to 8 pages"
+        },
+        {
+          "type": "short paper",
+          "length": "3 to 4 pages"
+        },
+        {
+          "type": "extended abstract",
+          "length": "2 pages"
+        },
+        {
+          "type": "abstract",
+          "length": "500 words"
+        }
+      ]
+    },
+    "contact_person": {
+      "name": null,
+      "email": "[log in to unmask]"
+    },
+    "website": "https://www.gcet-conference.com/SDS2025",
+    "event": "The 12th International Conference on Software Defined Systems (SDS2025)",
+    "dates": {
+      "event_dates": "December 2-5, 2025",
+      "venue": "University Lyon 1, Lyon, France"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "Conference focused on software-defined everything and its applications across various fields including networking, systems, security, and AI.",
+    "submission_details": null,
+    "publication_details": {
+      "accepted_papers": "Will be published in the conference proceedings and made accessible through major digital libraries including IEEE Xplore."
+    },
+    "important_dates": [
+      {
+        "date": "31 August 2025",
+        "event": "Submission Deadline"
+      },
+      {
+        "date": "20 October 2025",
+        "event": "Notification to Authors"
+      },
+      {
+        "date": "30 October 2025",
+        "event": "Camera Ready Submission"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      {
+        "area": "1. Core Foundations of Software-Defined Systems",
+        "topics": [
+          "Software-Defined Networking (SDN)",
+          "Network Function Virtualization (NFV)",
+          "Decoupling and programmability",
+          "Policy-driven control",
+          "Orchestration platforms"
+        ]
+      },
+      {
+        "area": "2. Software-Defined Cloud, Edge, and Fog Environments",
+        "topics": [
+          "Architectures for cloud-edge continuum",
+          "Edge-native orchestration",
+          "Serverless models",
+          "Lightweight virtualization"
+        ]
+      },
+      {
+        "area": "3. AI-Driven and Intelligent SDS",
+        "topics": [
+          "AI/ML for optimization",
+          "Federated learning",
+          "Reinforcement learning",
+          "Trustworthy AI in automation"
+        ]
+      },
+      {
+        "area": "4. Security, Privacy, and Trust in Software-Defined Systems",
+        "topics": [
+          "Secure identity management",
+          "Zero trust architectures",
+          "AI-based threat detection"
+        ]
+      },
+      {
+        "area": "5. Automation, Resilience, and Adaptability",
+        "topics": [
+          "Self-healing systems",
+          "Digital twins",
+          "Disaster recovery"
+        ]
+      },
+      {
+        "area": "6. Interoperability, Standards, and DevOps",
+        "topics": [
+          "Interoperability",
+          "Infrastructure-as-Code",
+          "APIs and protocols",
+          "Benchmarks"
+        ]
+      },
+      {
+        "area": "7. Sustainable and Responsible Software-Defined Systems",
+        "topics": [
+          "Energy-aware design",
+          "Lifecycle management"
+        ]
+      },
+      {
+        "area": "8. Human-Centered and Societal Perspectives",
+        "topics": [
+          "Human-in-the-loop interfaces",
+          "Ethics and transparency"
+        ]
+      },
+      {
+        "area": "9. Applications and Emerging Domains",
+        "topics": [
+          "SDS for smart cities",
+          "Software-defined robotics"
+        ]
+      },
+      {
+        "area": "10. Software Engineering for Software-Defined Systems",
+        "topics": [
+          "Design patterns",
+          "Validation environments"
+        ]
+      }
+    ],
+    "community_invitation": "Encourages contributions from academia, industry, and government.",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "University of Paris 8",
+        "country": "France"
+      },
+      {
+        "name": "L.N Eurasian National University",
+        "country": "Kazakhstan"
+      },
+      {
+        "name": "Universitat Politècnica de València",
+        "country": "Spain"
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "name": "Larbi Boubchir",
+        "institution": "University of Paris 8, France"
+      },
+      {
+        "name": "Tamara Zhukabayeva",
+        "institution": "L.N Eurasian National University, Kazakhstan"
+      },
+      {
+        "name": "Jaime Lloret",
+        "institution": "Universitat Politècnica de València, Spain"
+      }
+    ],
+    "call_for_contributions": "Welcomes high-quality research and case studies in various areas.",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

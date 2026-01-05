@@ -1,0 +1,88 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Catania",
+    "location": "Catania, Italy",
+    "department": null,
+    "research_focus": "Collaborative intelligence and decentralised software systems",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Technically sponsored by IEEE.org, IEEE Computer Society Italy Chapter, IEEE Systems, and Man and Cybernetics Society Italy Chapter",
+    "eligibility": "Researchers, practitioners, and industry experts",
+    "submission_info": {
+      "submission_link": "https://cmt3.research.microsoft.com/WETICE2025",
+      "submission_guidelines": "Papers must be original content not published or submitted for publication elsewhere, written in English, and formatted according to the IEEE guidelines at: https://www.ieee.org/conferences/publishing/templates.html",
+      "submission_details": {
+        "maximum_length": "6 pages",
+        "author_requirements": "Authors must include their names and affiliations in their papers."
+      }
+    },
+    "contact_person": null,
+    "website": "https://www.dmi.unict.it/wetice2025",
+    "event": "33rd IEEE International Conference on Enabling Technologies (WETICE 2025)",
+    "dates": {
+      "event_dates": "July 23–25, 2025",
+      "submission_deadline": "May 31, 2025",
+      "early_registration_ends": "July 11, 2025"
+    },
+    "co_located_events": null,
+    "registration": {
+      "registration_link": "https://www.dmi.unict.it/wetice2025"
+    },
+    "description": "WETICE 2025 is a leading international forum dedicated to advancing research, fostering collaboration, and sharing innovations in collaborative intelligence and decentralized software systems. The conference focuses on collaborative methodologies and the empowerment of various technologies such as AI, Blockchain, and IoT.",
+    "submission_details": null,
+    "publication_details": {
+      "proceedings_submission": "Proceedings will be submitted for inclusion in IEEE Xplore, Scopus, DBLP, and Google Scholar."
+    },
+    "important_dates": [
+      {
+        "event": "Submission deadline",
+        "date": "May 31, 2025"
+      },
+      {
+        "event": "Early registration ends",
+        "date": "July 11, 2025"
+      }
+    ],
+    "program_highlights": [
+      "Keynote sessions",
+      "Paper presentations",
+      "Group discussions",
+      "Excursions"
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AI",
+      "Blockchain",
+      "IoT",
+      "Decentralised software systems",
+      "Collaborative methodologies"
+    ],
+    "community_invitation": "We invite researchers, practitioners, and industry experts to participate.",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "University of Catania",
+        "location": "Catania, Italy"
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "In-person conference with keynotes, sessions, and excursions",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": "Focus on advancing research and fostering collaboration in software technologies and AI.",
+    "chairs": null,
+    "call_for_contributions": "Authors are invited to submit papers on hot topics in several areas of computer science, data science, and software technologies.",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": "https://www.dmi.unict.it/wetice2025"
+  }
+}

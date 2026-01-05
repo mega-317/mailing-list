@@ -1,0 +1,167 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Doha, Qatar",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_guidelines": "Manuscripts must be prepared in 10-point font using the IEEE 8.5\" x 11\" two-column conference format. All papers must not exceed 8 pages and should be exported in PDF format and anonymous since AICCSA manages a double-blind review process.",
+      "submission_link": "https://easychair.org/conferences/?conf=aiccsa2025"
+    },
+    "contact_person": null,
+    "website": "https://conferences.sigappfr.org/aiccsa2025/",
+    "event": "ACS/IEEE 22nd International Conference on Computer Systems and Applications (AICCSA 2025)",
+    "dates": {
+      "event_dates": "19-22 October 2025",
+      "important_dates": [
+        {
+          "description": "Regular paper submission deadline",
+          "date": "19 May, 2025"
+        },
+        {
+          "description": "Notification to authors",
+          "date": "30 June, 2025"
+        },
+        {
+          "description": "Camera-ready and copyright submission deadline",
+          "date": "01 September, 2025"
+        },
+        {
+          "description": "Authors registration deadline",
+          "date": "01 September, 2025"
+        },
+        {
+          "description": "Tutorial proposals due",
+          "date": "30 June, 2025"
+        },
+        {
+          "description": "Notification of acceptance for tutorial proposals",
+          "date": "07 July, 2025"
+        },
+        {
+          "description": "Paper proposals for PhD forum due",
+          "date": "30 June, 2025"
+        },
+        {
+          "description": "Notification of acceptance for PhD forum",
+          "date": "28 July, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The ACS/IEEE International Conference on Computer Systems and Applications (AICCSA) is the premier conference covering all contemporary areas in computer systems and applications. It implements an international forum for academics, industry researchers, developers, and practitioners to report and share groundbreaking contributions in various IT fields that range from distributed computing to data science, security, and machine learning.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Ubiquitous, Parallel, and Distributed Computing (including cloud, IoT, network, sensors, and blockchain technologies)",
+      "Security, Privacy, and Trust",
+      "Data science, knowledge engineering, and ontologies (including Information Retrieval, Big Data, Databases, and Knowledge Systems)",
+      "Artificial Intelligence & Cognitive Systems",
+      "Natural Language Processing",
+      "Multimedia, Computer Vision, and Image Processing"
+    ],
+    "community_invitation": "We highly encourage you to motivate your colleagues and students to submit their research work to the ACS/IEEE AICCSA 2025.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": {
+      "general_co_chairs": [
+        {
+          "name": "Rima Grati",
+          "location": "UAE"
+        },
+        {
+          "name": "Schahram Dustdar",
+          "location": "Austria"
+        }
+      ],
+      "program_committee_chairs": [
+        {
+          "name": "Sana Sellami",
+          "location": "France"
+        },
+        {
+          "name": "Yannis Manolopoulos",
+          "location": "Greece"
+        }
+      ],
+      "workshops_special_tracks_chairs": [
+        {
+          "name": "Haithem Mezni",
+          "location": "KSA"
+        },
+        {
+          "name": "Abdallah Makhoul",
+          "location": "France"
+        },
+        {
+          "name": "Joe Tekli",
+          "location": "Lebanon"
+        }
+      ],
+      "poster_chairs": [
+        {
+          "name": "Khouloud Salameh",
+          "location": "UAE"
+        },
+        {
+          "name": "Karam Bou Chaaya",
+          "location": "France"
+        }
+      ],
+      "phd_symposium_chairs": [
+        {
+          "name": "Ali Akouglou",
+          "location": "USA"
+        },
+        {
+          "name": "Saeid Hosseini",
+          "location": "Oman"
+        },
+        {
+          "name": "Bashar Al-Shboul",
+          "location": "Jordan"
+        }
+      ],
+      "publication_chairs": [
+        {
+          "name": "Cihan Tunc",
+          "location": "USA"
+        },
+        {
+          "name": "Karam Bou Chaaya",
+          "location": "France"
+        }
+      ],
+      "publicity_chair": {
+        "name": "Salma Sassi",
+        "location": "France"
+      }
+    },
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

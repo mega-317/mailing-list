@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": true,
+  "has_submission_deadline": true,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "The event is co-located with another conference (International Conference on Integrated Formal Methods), which indicates it is not a single main event."
+}

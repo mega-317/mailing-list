@@ -1,0 +1,188 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Grand Rapids, Michigan, United States",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://2025.models-conf.com/",
+    "event": "ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+    "dates": {
+      "event_start_date": "2025-10-05",
+      "event_end_date": "2025-10-10",
+      "hybrid_event": true
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "MODELS, the ACM/IEEE International Conference on Model-Driven Engineering Languages and Systems, is the premier conference series for model-driven software and systems engineering, organized with support of ACM SIGSOFT and IEEE TCSE. MODELS 2025 will host a number of workshops providing a collaborative forum for participants.",
+    "submission_details": {
+      "accepted_workshops_link": "https://2025.models-conf.com/track/models-2025-workshops#Accepted-workshops",
+      "workshops": [
+        {
+          "title": "International Workshop on Collaborative and Participatory Modeling (CoPaMo 2025)",
+          "url": "https://copamo.github.io/",
+          "organizers": [
+            "Istvan David",
+            "Anne Gutschmidt",
+            "Luciano Marchezan",
+            "Philippe Giabbanelli"
+          ],
+          "description": "Collaborative modeling is a key enabler to engineering complex systems."
+        },
+        {
+          "title": "2nd International Workshop on Sustainability and Modeling (SusMod’25)",
+          "url": "https://sustainability-and-modeling.github.io/",
+          "organizers": [
+            "Istvan David",
+            "Arianna Fedeli",
+            "Vincenzo Stoico"
+          ],
+          "description": "This workshop aims to unearth visceral links between sustainability and MDE."
+        },
+        {
+          "title": "MDE Intelligence: 7th Workshop on Artificial Intelligence and Model-driven Engineering",
+          "url": "https://mde-intelligence.github.io/",
+          "organizers": [
+            "Lola Burgueño",
+            "Dominik Bork",
+            "Claudio Di Sipio"
+          ],
+          "description": "Discusses the incorporation of AI techniques in Model-Driven Engineering."
+        },
+        {
+          "title": "Modeling Language Engineering (MLE)",
+          "url": "https://mleworkshop.github.io/editions/mle2025/",
+          "organizers": [
+            "Josselin Enet",
+            "Ivan Kurtev",
+            "Andreas Wortmann"
+          ],
+          "description": "Aims to discuss the challenges associated with the engineering of modeling languages."
+        },
+        {
+          "title": "MULTI 2025",
+          "url": "https://multi-workshop.github.io/2025/",
+          "organizers": [
+            "Arne Lange",
+            "Fernando Macías",
+            "Pierre Maier"
+          ],
+          "description": "Provides a platform for exchanging ideas on multi-level modeling."
+        },
+        {
+          "title": "Models and Evolution 2025 (ME 2025)",
+          "url": "https://models-and-evolution.github.io/",
+          "organizers": [
+            "Wael Kessentini",
+            "Juri Di Rocco",
+            "Djamel Eddine Khelladi"
+          ],
+          "description": "Focuses on the evolution of models in MDE."
+        },
+        {
+          "title": "Second International Workshop on Model Management (MoM)",
+          "url": "https://mom2025.wp.imt.fr/",
+          "organizers": [
+            "Dominique Blouin",
+            "Sylvain Guérin",
+            "Arne Lange",
+            "Moussa Amrani",
+            "Anish Bhobe",
+            "Chahrazed Boudjemila",
+            "Thomas Weber"
+          ],
+          "description": "Aims to improve state-of-the-art in Model Management."
+        },
+        {
+          "title": "LowCode 2025: Low-Code Development Platforms",
+          "url": "https://lowcode-workshop.github.io/",
+          "organizers": [
+            "Luca Berardinelli",
+            "Juri Di Rocco",
+            "Dimitris Kolovos",
+            "Jean-Marie Mottu"
+          ],
+          "description": "Explores collaboration between low-code platforms and MDE."
+        },
+        {
+          "title": "MoDeVVa’25: Model Driven Engineering, Verification and Validation",
+          "url": "https://sites.google.com/site/modevva/call-for-papers",
+          "organizers": [
+            "Iulian Ober",
+            "Jens Kosiol",
+            "Saad Bin Abid",
+            "Rakshit Mittal",
+            "Juergen Dingel",
+            "Ernesto Posse"
+          ],
+          "description": "Focuses on verification and validation in MBSE and MDE."
+        },
+        {
+          "title": "onto:Nexus Ontological Modeling and Analysis Workshop",
+          "url": "https://www.opencaesar.io/events/onto-Nexus-Workshop-2025",
+          "organizers": [
+            "Maged Elaasar",
+            "Bentley Oakes",
+            "Abdelwahab Hamou-Lhadj",
+            "Mohammad Hamdaqa"
+          ],
+          "description": "Discussion space for ontological modeling in model-based engineering."
+        },
+        {
+          "title": "MoDIoT – 1st International Workshop on Model-Based Development for the IoT",
+          "url": "https://modiot2025.imad.org/",
+          "organizers": [
+            "Imad Berrouyne",
+            "Yann-Gaël Guéhéneuc",
+            "Hassnaa Moustafa"
+          ],
+          "description": "Discussion on model-based development addressing challenges of IoT."
+        }
+      ]
+    },
+    "publication_details": null,
+    "important_dates": {
+      "submission_deadline": "2025-07-03",
+      "notification_of_authors": "2025-07-31",
+      "camera_ready_deadline": "2025-08-07"
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "hybrid",
+    "program_committee": [
+      {
+        "role": "Co-Chair",
+        "names": [
+          "Shiva Nejati",
+          "Foyzul Hassan"
+        ]
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

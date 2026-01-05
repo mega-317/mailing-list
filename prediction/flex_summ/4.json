@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Universidad Tecnológica de Honduras",
+    "location": "Roatán Island, Honduras",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_details": {
+        "languages": [
+          "English",
+          "Spanish",
+          "Portuguese"
+        ],
+        "format_requirements": {
+          "English": {
+            "page_limit": 12,
+            "format": "Lecture Notes in Networks and Systems"
+          },
+          "Spanish_or_Portuguese": {
+            "page_limit": 15,
+            "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação"
+          }
+        },
+        "review_process": "double-blind review",
+        "submission_method": "papers must be uploaded in a ZIP file to the conference management system",
+        "camera_ready": "only include authors' names and affiliations in the camera-ready version"
+      },
+      "topics_of_interest": [
+        "Information and Knowledge Management (IKM)",
+        "Organizational Models and Information Systems (OMIS)",
+        "Software and Systems Modeling (SSM)",
+        "Software Systems, Architectures, Applications and Tools (SSAAT)",
+        "Multimedia Systems and Applications (MSA)",
+        "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+        "Intelligent and Decision Support Systems (IDSS)",
+        "Big Data Analytics and Applications (BDAA)",
+        "Human-Computer Interaction (HCI)",
+        "Ethics, Computers and Security (ECS)",
+        "Health Informatics (HIS)",
+        "Information Technologies in Education (ITE)",
+        "Media, Applied Technology and Communication (MATC)"
+      ]
+    },
+    "contact_person": null,
+    "website": "https://icits.me/",
+    "event": "ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+    "dates": {
+      "event_dates": "16-18 February 2026",
+      "important_dates": [
+        {
+          "event": "Paper Submission",
+          "date": "September 28, 2025"
+        },
+        {
+          "event": "Notification of Acceptance",
+          "date": "November 5, 2025"
+        },
+        {
+          "event": "Payment of Registration",
+          "date": "November 19, 2025"
+        },
+        {
+          "event": "Camera-ready Submission",
+          "date": "November 19, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "ICITS'26 is an international forum for researchers and practitioners to present and discuss the most recent innovations, trends, results, experiences, and concerns in the several perspectives of Information Technology & Systems.",
+    "submission_guidelines": null,
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "published_in": "Proceedings by Springer",
+          "indexing": [
+            "Scopus",
+            "WoS",
+            "DBLP",
+            "Google Scholar"
+          ],
+          "availability": "SpringerLink Digital Library"
+        },
+        "Spanish_or_Portuguese": {
+          "published_in": "Special Issue of RISTI",
+          "indexing": [
+            "ProQuest",
+            "EBSCO",
+            "Google Scholar"
+          ]
+        }
+      }
+    },
+    "important_dates": [
+      {
+        "event": "Paper Submission",
+        "date": "September 28, 2025"
+      },
+      {
+        "event": "Notification of Acceptance",
+        "date": "November 5, 2025"
+      },
+      {
+        "event": "Payment of Registration",
+        "date": "November 19, 2025"
+      },
+      {
+        "event": "Camera-ready Submission",
+        "date": "November 19, 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "summary": {
+    "position": "Postdoctoral positions",
+    "institution": "National University of Singapore",
+    "location": null,
+    "department": "Computer Science Department",
+    "research_focus": "fuzz testing",
+    "responsibilities": "Improve the reliability of modern software applications using fuzz testing techniques.",
+    "employment_terms": null,
+    "collaboration": "The program is sponsored by Singapore's Cybersecurity Agency as part of the National Cybersecurity R&D programme.",
+    "eligibility": "Applicants need to have a PhD degree or should be submitting PhD thesis soon.",
+    "submission_info": null,
+    "contact_person": {
+      "name": "Abhik Roychoudhury",
+      "title": "Lead PI",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://nus-tss.github.io/fuzzing/",
+    "event": null,
+    "dates": {
+      "program_start_date": "2023-07-01",
+      "funding_duration": "2023-2027"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The positions will be part of a grant sponsored by Singapore's Cybersecurity Agency as part of the National Cybersecurity R&D programme named 'Fuzz Testing'.",
+    "submission_details": {
+      "required_documents": [
+        "CV, including publications",
+        "Research statement",
+        "Names of two referees"
+      ]
+    },
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": "The program involves research projects that focus on advanced testing and analysis of concurrent/distributed/stateful software, including kernel software.",
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "concurrent software",
+      "distributed software",
+      "stateful software",
+      "kernel software",
+      "agentic AI based automated program repair"
+    ],
+    "community_invitation": null,
+    "academic_reputation": "The Computer Science Department of NUS enjoys a high degree of academic reputation.",
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

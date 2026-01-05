@@ -1,6 +1,6 @@
 # process_one_file.py
 from pathlib import Path
-from structured.graph import process_one_file, save_text, save_json
+from structured_pipeline.graph import process_one_file, save_text, save_json
 
 # json으로 결과 저장
 # --- 여기서 단일 파일 실행 ---

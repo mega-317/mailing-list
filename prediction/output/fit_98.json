@@ -1,0 +1,457 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Catania",
+    "location": "Catania, Italy",
+    "department": null,
+    "research_focus": [
+      "collaborative intelligence",
+      "decentralised software systems",
+      "AI",
+      "Data Science",
+      "Cyber-physical Technologies"
+    ],
+    "responsibilities": [
+      "participate in the conference",
+      "submit original research papers",
+      "engage in discussions"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        "IEEE Computer Society Italy Chapter",
+        "IEEE Systems, and Man and Cybernetics Society Italy Chapter"
+      ],
+      "supervisors": [
+        null
+      ]
+    },
+    "eligibility": {
+      "qualifications": "papers must be original and not submitted elsewhere",
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "research papers"
+      ],
+      "submission_deadline": "May 31st",
+      "application_link": "https://cmt3.research.microsoft.com/WETICE2025",
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": "https://www.dmi.unict.it/wetice2025"
+    },
+    "website": "https://www.dmi.unict.it/wetice2025",
+    "event": {
+      "name": "WETICE 2025",
+      "abbreviation": "WETICE",
+      "dates": "July 23–25, 2025",
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2025-07-23",
+      "end": "2025-07-25"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": "an awesome excursion on the last day"
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": "July 11th",
+      "link": "https://www.dmi.unict.it/wetice2025"
+    },
+    "description": "Leading international forum dedicated to advancing research, fostering collaboration, and sharing innovations in collaborative intelligence and decentralised software systems.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "anonymous revision by at least two members of the Program Committee",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "6 pages",
+          "format": "according to IEEE guidelines",
+          "identification": "authors must include their names and affiliations"
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "IEEE Xplore, Scopus, DBLP, and Google Scholar",
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "May 31st",
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      "IEEE.org",
+      "IEEE Computer Society Italy Chapter",
+      "IEEE Systems, and Man and Cybernetics Society Italy Chapter"
+    ],
+    "subject": "Call for Papers - The 33rd IEEE International Conference on Enabling Technologies (WETICE 2025)",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "collaborative methodologies",
+      "AI",
+      "Blockchain",
+      "IoT"
+    ],
+    "community_invitation": null,
+    "sender": "WETICE 2025 Team",
+    "date": "2025-05-17",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": null,
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": "Benedictine Monastery monumental building from the XVIth century",
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      "IEEE"
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "The 33rd IEEE International Conference on Enabling Technologies (WETICE 2025)",
+    "event_details": {
+      "date": "July 23–25, 2025",
+      "location": "Catania, Italy",
+      "submission_link": "https://cmt3.research.microsoft.com/WETICE2025"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      "collaborative intelligence",
+      "decentralised software systems"
+    ],
+    "technical": [
+      "AI",
+      "Data Science",
+      "Cyber-physical Technologies"
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

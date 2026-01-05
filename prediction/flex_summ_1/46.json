@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "name": "ER Workshop Chairs",
+      "emails": [
+        "[log in to unmask]"
+      ]
+    },
+    "website": "https://er2025.ensma.fr/workshops/",
+    "event": "ER 2025 Workshops",
+    "dates": {
+      "submission_deadline": "27 June 2025",
+      "notification_date": "28 July 2025"
+    },
+    "co_located_events": [
+      {
+        "title": "Fundamentals of Conceptual Modeling (FCM)",
+        "website": "https://ae-ainf.aau.at/fcm/"
+      },
+      {
+        "title": "6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)",
+        "website": "https://purl.org/cmls-2025"
+      },
+      {
+        "title": "3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)",
+        "website": "https://www.unifr.ch/inf/digits/en/events/3rd-international-workshop-modeling-in-the-age-of-large-language-models-(llm4modeling).html"
+      },
+      {
+        "title": "11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)",
+        "website": "https://ontocomworkshops.github.io/OntoCom2025/"
+      },
+      {
+        "title": "6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)",
+        "website": "https://quames.testar.org"
+      }
+    ],
+    "registration": null,
+    "description": "ER 2025 will host workshops to be held in conjunction with the main conference. These workshops serve as an intensive collaborative forum for exchanging innovative ideas about conceptual modeling and for discovering new frontiers for its use.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Anna Bernasconi",
+        "institution": "Politécnico de Milano",
+        "location": "Italy"
+      },
+      {
+        "name": "Sergio de Cesare",
+        "institution": "University of Westminster",
+        "location": "UK"
+      },
+      {
+        "name": "Claudenir Morais Fonseca",
+        "institution": "University of Twente",
+        "location": "Netherlands"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

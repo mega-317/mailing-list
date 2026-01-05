@@ -1,6 +1,6 @@
 # process_one_file.py
 from pathlib import Path
-from mailflow._graph_main import process_one_file, save_json
+from mailflow_pipeline._graph_main import process_one_file, save_json
 
 # --- 여기서 단일 파일 실행 ---
 input_path = Path("./data/texts/50.txt")           # 입력 파일

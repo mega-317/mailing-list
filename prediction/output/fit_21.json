@@ -1,0 +1,382 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Aarhus, Denmark",
+    "research_focus": [
+      "Concurrency Theory",
+      "Formal Methods for Industrial Critical Systems",
+      "Quantitative Evaluation of Systems",
+      "Formal Modeling and Analysis of Timed Systems"
+    ],
+    "responsibilities": [
+      null
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": "July 25, 2025",
+      "application_link": "https://conferences.au.dk/confest2025/registration"
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "website": "https://conferences.au.dk/confest2025",
+    "event": {
+      "name": "CONFEST 2025",
+      "abbreviation": null
+    },
+    "dates": {
+      "start": "2025-08-25",
+      "end": "2025-08-30"
+    },
+    "co_located_events": [
+      {
+        "name": "CONCUR 2025",
+        "website": null
+      },
+      {
+        "name": "FMICS 2025",
+        "website": null
+      },
+      {
+        "name": "QEST+FORMATS 2025",
+        "website": null
+      },
+      {
+        "name": "BMQL 2025",
+        "website": null
+      },
+      {
+        "name": "Express/SOS 2025",
+        "website": null
+      },
+      {
+        "name": "FMQC 2025",
+        "website": null
+      },
+      {
+        "name": "PFQA 2025",
+        "website": null
+      },
+      {
+        "name": "Radical 2025",
+        "website": null
+      },
+      {
+        "name": "SynCoP 2025",
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "Alessandro Abate",
+        "topic": "Neural synthesis for verification and control of stochastic systems"
+      },
+      {
+        "name": "Christel Baier",
+        "topic": "Linear Temporal Logic with Standpoint Modalities"
+      },
+      {
+        "name": "Lu Feng",
+        "topic": "Runtime Safety for Learning-Enabled Cyber-Physical Systems: From Predictive Monitoring to Adaptive Shielding"
+      },
+      {
+        "name": "Arnd Hartmanns",
+        "topic": "Sound and Modest Approaches to Quantitative Model Checking from Sea to Space"
+      },
+      {
+        "name": "Chris Heunen",
+        "topic": "Towards categorical quantum concurrency theory"
+      },
+      {
+        "name": "Christoph Matheja",
+        "topic": "Automating Proof Rules for Probabilistic Programs"
+      },
+      {
+        "name": "Ina Schieferdecker",
+        "topic": "Empowering Testing with AI - Navigating the growing field of research on AI for software testing"
+      },
+      {
+        "name": "Jiri Srba",
+        "topic": "On-the-Fly Verification: Advancements in Dependency Graphs"
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": "https://conferences.au.dk/confest2025/registration",
+      "early_bird_deadline": "July 25, 2025"
+    },
+    "description": "CONFEST 2025 is hosting major international conferences in concurrency and formal methods, providing an opportunity to network and learn about advancements in the field.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null
+    },
+    "program_highlights": [
+      "8 invited talks",
+      "75 conference paper presentations",
+      "6 co-located workshops"
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": null,
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": null,
+    "date": "2025-07-01",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      null
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "key_topics": [
+        {
+          "theme": null,
+          "subtopics": [
+            null
+          ]
+        }
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": null,
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": null,
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": null,
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Kutaisi International University",
+    "location": "Kutaisi, Georgia",
+    "research_focus": null,
+    "responsibilities": [
+      null
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": "co-located events: JELIA 2025, TbiLLC 2025",
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": "[log in to unmask]"
+    },
+    "website": "https://www.logic.at/tbilisi25/",
+    "event": "Nineteenth International Tbilisi Summer School in Logic and Language",
+    "dates": "September 4th-7th 2025",
+    "co_located_events": [
+      {
+        "name": "JELIA 2025",
+        "website": "https://viam.science.tsu.ge/jelia2025/"
+      },
+      {
+        "name": "TbiLLC 2025",
+        "website": "https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "M. Baaz & M. Gamsakhurdia",
+        "topic": "Gödel Logics"
+      },
+      {
+        "name": "S. Ghilardi",
+        "topic": "Categorical Logic: A Gentle Introduction"
+      },
+      {
+        "name": "M. Jibladze",
+        "topic": "TBA"
+      },
+      {
+        "name": "V. Marra",
+        "topic": "TBA"
+      },
+      {
+        "name": "F. Honsell",
+        "topic": "Constructive Type Theories and Logical Frameworks"
+      }
+    ],
+    "excursion_dinner": {
+      "description": "Free for all registered participants of JELIA 2025. Others have to pay 60 Euros"
+    },
+    "registration": {
+      "cost": "Free",
+      "inquiries_contact": "[log in to unmask]"
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Ural Federal University",
+    "location": "Russia",
+    "research_focus": [
+      "static analysis",
+      "program verification",
+      "bug detection",
+      "software maintenance"
+    ],
+    "responsibilities": [
+      null
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        "abstract",
+        "full papers"
+      ],
+      "submission_deadline": "10 Aug 2025",
+      "application_link": "https://easychair.org/cfp/iccq25"
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": "[log in to unmask]"
+    },
+    "website": "https://www.iccq.ru/2025.html",
+    "event": {
+      "name": "5th International Conference on Code Quality",
+      "abbreviation": "ICCQ"
+    },
+    "dates": {
+      "start": "13 Dec 2025",
+      "end": "13 Dec 2025"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "The conference aims to improve the quality of source code written by programmers by gathering researchers to share ideas.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "double-blind",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "6 to 20 pages",
+          "format": "PDF, acmart template (sigplan, 11pt, anonymous)",
+          "identification": "none"
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "IEEE Xplore",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "10 Aug 2025",
+      "notification_of_acceptance": "1 Nov 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "25 Nov 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      "IEEE",
+      "Ural Federal University",
+      "HSE",
+      "Innopolis University"
+    ],
+    "subject": "CfP: 5th IEEE International Conference on Code Quality (ICCQ'25)",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": null,
+    "date": "Mon, 7 Jul 2025 03:08:13 -0000",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      null
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": "Ural Federal University, Russia",
+    "event_format": "hybrid",
+    "program_committee": [
+      "Alexander Legalov (Chair), HSE University",
+      "Sara Abbaspour, Mälardalen University",
+      "Rabe Abdalkareem, Omar al-Mukhtar University",
+      "Mohammad Alshayeb, King Fahd University of Petroleum and Minerals",
+      "Thomas Ball, Microsoft Research",
+      "William J. Bowman, University of British Columbia",
+      "Jacques Carette, McMaster University",
+      "Bernhard Egger, Seoul National University",
+      "Umar Farooq, Louisiana State University",
+      "Eduardo Fernandes, University of Southern Denmark",
+      "Javier Luis Cánovas Izquierdo, Universitat Oberta de Catalunya",
+      "Ranjit Jhala, University of California, San Diego",
+      "Antoine Miné, Sorbonne Université",
+      "Murali Krishna Ramanathan, Amazon Web Services",
+      "Francis Palma, University of New Brunswick",
+      "Amr Sabry, Indiana University",
+      "Bjorn De Sutter, Ghent University",
+      "G. Gary Tan, Pennsylvania State University",
+      "Didier Verna, EPITA",
+      "Guowei Yang, University of Queensland",
+      "Vadim Zaytsev, University of Twente",
+      "Jian Zhang, Nanyang Technological University"
+    ],
+    "publications_criteria": [
+      "Novelty: New ideas and results within the context of previous research.",
+      "Importance: Contributions to the advancement of knowledge.",
+      "Evidence: Sufficient support for claims (proofs, experimental results, etc.).",
+      "Clarity: Clear presentation of contributions, methodology, and results."
+    ]
+  }
+}

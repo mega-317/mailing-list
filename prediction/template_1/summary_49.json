@@ -1,0 +1,466 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Rio de Janeiro, Brazil",
+    "department": null,
+    "research_focus": [
+      "AI for Software Engineering",
+      "Analytics",
+      "Architecture and Design",
+      "Dependability and Security",
+      "Evolution",
+      "Human and Social Aspects",
+      "Requirements and Modeling",
+      "Software Engineering for AI",
+      "Testing and Analysis"
+    ],
+    "responsibilities": [
+      "Submit high-quality technical research papers describing original and unpublished results of software engineering research."
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        null
+      ],
+      "supervisors": [
+        null
+      ]
+    },
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "Research papers"
+      ],
+      "submission_deadline": "Friday, July 18, 2025",
+      "application_link": "https://icse2026.hotcrp.com/",
+      "platform": null
+    },
+    "contact_person": {
+      "name": "Mira Mezini and Thomas Zimmermann",
+      "department": null,
+      "position": "Program Committee Co-chairs",
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://conf.researchr.org/home/icse-2026",
+    "event": {
+      "name": "International Conference on Software Engineering (ICSE) 2026",
+      "abbreviation": "ICSE 2026",
+      "dates": "April 12-18, 2026",
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2026-04-12",
+      "end": "2026-04-18"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        "$250 for ACM/SIG members, $350 for non-members"
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": null,
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "Double-anonymous review process",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "10 pages plus 2 additional pages for references",
+          "format": "ACM Primary Article Template",
+          "identification": "Authors must remain anonymous."
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": []
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering and Methodology, and ICSE 2026",
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "July 18, 2025",
+      "notification_of_acceptance": "October 17, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": "November 14, 2025",
+      "final_notification_to_authors": "December 19, 2025",
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": "September 23-25, 2025"
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "Call for Papers: ICSE 2026 Research Track",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AI for Software Engineering",
+      "Analytics",
+      "Architecture and Design",
+      "Dependability and Security",
+      "Evolution",
+      "Human and Social Aspects",
+      "Requirements and Modeling",
+      "Software Engineering for AI",
+      "Testing and Analysis"
+    ],
+    "community_invitation": null,
+    "sender": null,
+    "date": "2025-05-28",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": "Follow IEEE and ACM policies.",
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": "Online through the submission site.",
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Mira Mezini",
+        "institution": null
+      },
+      {
+        "name": "Thomas Zimmermann",
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      "ACM",
+      "IEEE"
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "International Conference on Software Engineering (ICSE) 2026",
+    "event_details": {
+      "date": "April 12-18, 2026",
+      "location": "Rio de Janeiro, Brazil",
+      "submission_link": "https://icse2026.hotcrp.com/"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        "Mira Mezini",
+        "Thomas Zimmermann"
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        "Novelty",
+        "Rigor",
+        "Relevance",
+        "Verifiability and Transparency",
+        "Presentation"
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

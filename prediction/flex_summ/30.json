@@ -1,0 +1,91 @@
+{
+  "summary": {
+    "position": "Ph.D. Award",
+    "institution": "European Research Consortium in Informatics and Mathematics (ERCIM)",
+    "location": "Toulouse, France",
+    "department": "Security and Trust Management (STM)",
+    "research_focus": "Security and Trust Management",
+    "responsibilities": "Promote scientific growth of young researchers in security and trust management.",
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": {
+      "description": "Open to all Ph.D. holders that defended their thesis during 2024 in any European University.",
+      "requirements": [
+        "Ph.D. Thesis in PDF format",
+        "Short summary of the Thesis (mandatory in English)",
+        "Curriculum vitae in PDF format",
+        "Letters of support from at least two researchers, one from an ERCIM STM WG Institution"
+      ]
+    },
+    "submission_info": {
+      "submission_deadline": "July 31, 2025",
+      "submission_email": "[log in to unmask]",
+      "submission_subject": "\"ERCIM STM PhD Award 2025 -- Application\""
+    },
+    "contact_person": {
+      "name": "Cristina Alcaraz",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://www.nics.uma.es/stm2025/",
+    "event": {
+      "name": "21st International Workshop on Security and Trust Management",
+      "acronym": "STM 2025",
+      "dates": {
+        "start_date": "September 25, 2025",
+        "end_date": "September 26, 2025"
+      },
+      "location": "Toulouse, France"
+    },
+    "dates": {
+      "submission_date": "July 31, 2025",
+      "award_ceremony": {
+        "event_name": "21st International Workshop on Security and Trust Management",
+        "date": {
+          "start_date": "September 25, 2025",
+          "end_date": "September 26, 2025"
+        }
+      }
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "Award for the best Ph.D. thesis on Security and Trust Management to promote young researchers.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": "Ph.D. Thesis on Security and Trust Management",
+    "school": null,
+    "closing_date": "July 31, 2025",
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": {
+      "list": [
+        "applied cryptography",
+        "data and application security",
+        "identity management",
+        "networked systems security",
+        "privacy, anonymity, and untraceability",
+        "rigorous semantics and computational models for security and trust",
+        "security, privacy, and trust in emerging computing paradigms",
+        "security and trust management architectures, mechanisms, and policies"
+      ]
+    },
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

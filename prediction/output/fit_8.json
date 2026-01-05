@@ -1,46 +1,45 @@
 {
-  "summary_1": {
+  "summary": {
     "position": "Research Fellow-Edge Software Vulnerability Detection",
     "institution": "Queen's University Belfast",
     "location": "UK",
-    "research_focus": "Edge Software Vulnerability Detection",
+    "research_focus": "Artificial Intelligence, Software Engineering, Edge Computing, Cybersecurity",
     "responsibilities": [
-      "Undertaking research to support the planning and delivery of the research activity, which includes investigating and characterising software vulnerabilities, monitoring source code, identifying potential vulnerabilities, predicting vulnerabilities, and improving security posture."
+      "Undertaking research to support the planning and delivery of the research activity, which will include investigating, characterising, and developing ontologies of software vulnerabilities in the edge computing environment.",
+      "Monitoring and/or analysing source code (and data), software behaviours, and software environment to identify potential vulnerabilities and assess their impacts.",
+      "Predicting or identifying vulnerabilities early, to fix them quickly and effectively, preventing potential exploitation.",
+      "Improving organisations' overall security posture by identifying and mitigating potential weaknesses.",
+      "Investigating the software quality certification/robustness to cyber disturbances and cyber-attacks on federated/distributed EC environment.",
+      "Identifying quality issues with AI model implementation on edge and offering mitigation strategies."
     ],
     "employment_terms": {
       "initial_research_proportion": null,
       "resources": null
     },
-    "collaboration": "National Edge AI Hub",
+    "collaboration": "A highly productive, ambitious and collaborative member of the National Edge AI Hub research project",
     "eligibility": {
-      "qualifications": "Have or be about to obtain a PhD degree in Artificial Intelligence, or Software Engineering, or Computer Science.",
+      "qualifications": "PhD degree in Artificial Intelligence, Software Engineering, or Computer Science",
       "preference": null,
       "special_considerations": null
     },
-    "application_deadline": "21-07-2025",
+    "submission_info": {
+      "submission_types": [
+        "Application via University website"
+      ],
+      "submission_deadline": "21-07-2025"
+    },
     "contact_person": {
       "name": null,
       "department": null,
       "phone": null,
       "email": null
     },
-    "application_link": "https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA"
-  },
-  "summary_2": {
+    "website": "https://www.qub.ac.uk/sites/QUBJobVacancies/ResearchJobs/",
     "event": null,
-    "topic": null,
-    "submission_info": {
-      "submission_types": [
-        null
-      ],
-      "notification_date": null
+    "dates": {
+      "start": null,
+      "end": null
     },
-    "event_details": {
-      "dates": null,
-      "co_location": null
-    }
-  },
-  "summary_3": {
     "co_located_events": [
       {
         "name": null,
@@ -58,10 +57,10 @@
     },
     "registration": {
       "cost": null,
-      "inquiries_contact": null
-    }
-  },
-  "summary_4": {
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
     "description": null,
     "submission_details": {
       "languages": [
@@ -116,93 +115,6 @@
       "notification_of_acceptance": null,
       "registration_payment_deadline": null,
       "camera_ready_submission_deadline": null
-    }
-  },
-  "summary_5": {
-    "website": "https://www.qub.ac.uk/sites/QUBJobVacancies/ResearchJobs/",
-    "call_for_papers": {
-      "description": null,
-      "submission_instructions": {
-        "peer_review_process": null,
-        "format_requirements": [
-          null
-        ],
-        "track_requirements": {
-          "Research Track": null,
-          "Industrial Papers Track": null,
-          "Short Papers and Posters Track": null,
-          "Early Research Achievement (ERA) Track": null,
-          "Reproducibility Studies and Negative Results (RENE) Track": null,
-          "Tool Demo Track": null,
-          "Journal-First Papers Track": null,
-          "Registered Report Track": null
-        },
-        "double_anonymous_review": null
-      },
-      "special_journal_issue": null,
-      "workshop_information": {
-        "description": null,
-        "submission_deadline": null,
-        "organization_requirements": [
-          null
-        ]
-      },
-      "tutorial_information": {
-        "description": null,
-        "submission_instructions": {
-          "max_length": null,
-          "evaluation_criteria": [
-            null
-          ]
-        }
-      },
-      "important_dates": {
-        "Research Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "Industrial Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "workshop_and_tutorials": {
-          "Workshop Proposals Submission": null,
-          "Workshop Proposals Notification": null,
-          "Tutorial Proposals Submission": null,
-          "Tutorial Proposals Notification": null,
-          "Tutorial Camera-Ready Version": null
-        }
-      }
-    },
-    "organizing_committee": {
-      "General Chair": null,
-      "Local Organizing Chair": null,
-      "Program Chairs": [
-        null
-      ],
-      "Industrial Chairs": [
-        null
-      ],
-      "shortPapersAndPostersChairs": [
-        null
-      ],
-      "workshopTutorialChairs": [
-        null
-      ]
-    }
-  },
-  "summary_6": {
-    "department": "School of Electronics, Electrical Engineering and Computer Science",
-    "position_type": "Fixed term contract",
-    "note": "This post is available for 2 years."
-  },
-  "summary_7": {
-    "registration": {
-      "early_bird_deadline": null
     },
     "program_highlights": [
       null

@@ -1,0 +1,345 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "São Paulo, Brazil",
+    "research_focus": [
+      "software reliability engineering"
+    ],
+    "responsibilities": [
+      "collaborating and exchanging information",
+      "discussing recent developments and open challenges in engineering high-assurance software and systems"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": [
+        null
+      ]
+    },
+    "submission_info": {
+      "submission_types": [
+        "workshop papers"
+      ],
+      "submission_deadline": "July 21th, 2025",
+      "application_link": "https://easychair.org/my/conference?conf=issre2025"
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "website": "https://issre.net",
+    "event": {
+      "name": "ISSRE 2025",
+      "abbreviation": "ISSRE"
+    },
+    "dates": {
+      "start": "2025-10-21",
+      "end": "2025-10-24"
+    },
+    "co_located_events": [
+      {
+        "name": "WoSAR: The 17th International Workshop on Software Aging and Rejuvenation",
+        "website": "https://www.wosar.net/"
+      },
+      {
+        "name": "ASSURE: The 10th International Workshop on Assurance for Software-intensive Systems",
+        "website": "https://sites.google.com/aiit.ac.jp/assure2025/"
+      },
+      {
+        "name": "IWSF & SHIFT: The 9th International Workshop on Software Faults & The 7th Annual International Workshop on Software Hardware Interaction Faults",
+        "website": null
+      },
+      {
+        "name": "AISQ: The 2nd International Workshop on Advanced Intelligent Software Quality",
+        "website": "https://sites.google.com/view/aisq-2025/home"
+      },
+      {
+        "name": "ReSAISE: The 3rd IEEE International Workshop on Reliable and Secure AI for Software Engineering",
+        "website": "https://resaise.github.io/2025/"
+      },
+      {
+        "name": "HFSD: The 2nd International Workshop on Human Factors for Software Dependability",
+        "website": "https://hfsdworkshop.github.io/"
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "ISSRE (International Symposium on Software Reliability Engineering) is the leading conference on software reliability focusing on approaches, techniques, and tools for assessing, predicting, and improving the reliability, safety, and security of software systems.",
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "July 21th, 2025",
+      "notification_of_acceptance": "August 11th, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "August 18th, 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "ISSRE 2025: Workshops Call for Papers",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": null,
+    "date": "2025-06-25",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      null
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "key_topics": [
+        {
+          "theme": null,
+          "subtopics": [
+            null
+          ]
+        }
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": null,
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": null,
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": null,
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "The Hills Hotel, Laguna Hills, California",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_guidelines": "Authors are invited to submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format. Manuscripts must be written in English and follow the instructions in the Manuscript Formatting and Templates page.",
+      "submission_link": "https://easychair.org/conferences?conf=aixse2025",
+      "submission_details": {
+        "formats": [
+          "8-page regular",
+          "4-page short",
+          "2-page poster and demo"
+        ],
+        "requirements": [
+          "Only electronic submission will be accepted.",
+          "Manuscripts may only be submitted in PDF format."
+        ],
+        "review_process": "All paper submissions will be carefully reviewed by at least three experts. Reviews will be returned to the author(s) with comments to ensure the high quality of accepted papers.",
+        "originality": "Authors must guarantee that their paper will be presented at the conference and that it is original material owned by the authors."
+      }
+    },
+    "contact_person": [
+      {
+        "name": "Daryush Laqab",
+        "role": "General Co-Chair"
+      },
+      {
+        "name": "Giovanni Pilato",
+        "role": "General Co-Chair"
+      },
+      {
+        "name": "Phillip Sheu",
+        "role": "General Co-Chair"
+      },
+      {
+        "name": "Srividya Bansal",
+        "role": "Program Co-Chair"
+      },
+      {
+        "name": "Bryan Chou",
+        "role": "Program Co-Chair"
+      },
+      {
+        "name": "Massimo Cossentino",
+        "role": "Program Co-Chair"
+      },
+      {
+        "name": "Sheida Malekpour",
+        "role": "Program Co-Chair"
+      },
+      {
+        "name": "Mustafa Sert",
+        "role": "Program Co-Chair"
+      }
+    ],
+    "website": "http://www.AIxSE.org",
+    "event": "IEEE Artificial Intelligence x Software Engineering (AIxSE)",
+    "dates": {
+      "event_dates": {
+        "start_date": "October 1, 2025",
+        "end_date": "October 3, 2025"
+      },
+      "important_dates": [
+        {
+          "description": "Workshop Proposals Deadline",
+          "date": "July 22, 2025 PT"
+        },
+        {
+          "description": "Paper Submission Deadline",
+          "date": "July 15, 2025 PT (Extended Deadline)"
+        },
+        {
+          "description": "Paper Acceptance",
+          "date": "August 1, 2025 PT"
+        },
+        {
+          "description": "Workshop Paper Submission Deadline",
+          "date": "August 20, 2025 PT"
+        },
+        {
+          "description": "Main Conference and Workshop Registration Deadline",
+          "date": "September 1, 2025 PT"
+        },
+        {
+          "description": "Camera-ready Deadline",
+          "date": "September 1, 2025 PT"
+        }
+      ]
+    },
+    "co_located_events": [
+      "AIxSET",
+      "AIxHEART",
+      "AIxB"
+    ],
+    "registration": null,
+    "description": "Artificial Intelligence x Software Engineering (AIxSE) is an international forum for academia and industries to exchange visions and ideas in the state of the art and practice, as well as to identify the emerging topics and define the synergy between the research in AI and SE in general.",
+    "submission_details": null,
+    "publication_details": {
+      "inclusion_info": "Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements.",
+      "awards_info": "Distinguished quality papers presented at the conference will be selected for the best paper/poster awards and for publication in internationally renowned journals."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      {
+        "category": "Software Engineering",
+        "topics": [
+          "Software design",
+          "Requirements engineering",
+          "Automatic programming",
+          "Software development",
+          "Software testing",
+          "Software maintenance"
+        ]
+      },
+      {
+        "category": "AI Technologies",
+        "topics": [
+          "Generative AI",
+          "Transformer based technology",
+          "Agent technology",
+          "Semantic computing",
+          "Decision making",
+          "Machine learning",
+          "Symbolic AI including Knowledge and data engineering, planning",
+          "Problem solving",
+          "Knowledge discovery",
+          "Knowledge integration",
+          "Multi-modal interactions"
+        ]
+      }
+    ],
+    "community_invitation": "You are invited to join the AIxSE community to receive new announcements and notifications from the conference by email.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "Hybrid",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": "Authors are invited to submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format.",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "ACM SIGCHI",
+    "location": "Trier, Germany",
+    "research_focus": [
+      "engineering interactive computing systems",
+      "user interfaces",
+      "software quality factors"
+    ],
+    "responsibilities": [
+      "submissions for Full Papers and Technical Notes",
+      "presentation of original and mature research work",
+      "following ACM policies on research involving human participants"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        "Full Papers",
+        "Technical Notes"
+      ],
+      "submission_deadline": "July 25, 2025",
+      "application_link": "https://new.precisionconference.com"
+    },
+    "contact_person": {
+      "name": "Célia Martinie and Davide Spano",
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "website": "https://eics.acm.org/2026/",
+    "event": {
+      "name": "EICS 2026",
+      "abbreviation": null
+    },
+    "dates": {
+      "start": "June 22, 2025",
+      "end": "June 26, 2025"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "traditional journal model",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": "ACM format",
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "July 25, 2025",
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null
+    },
+    "program_highlights": [
+      "Bringing together researchers who contribute to better ways of creating interactive computing systems"
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "CfP EICS 2026 - First Submission Round",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Modelling, specification and analysis of interaction and interactive systems",
+      "Requirements engineering for interactive systems",
+      "Methods, processes, principles and/or tools for building interactive systems",
+      "Software architectures for interactive systems",
+      "Formal methods within interactive systems engineering",
+      "Bridging the gap between engineering and design practices",
+      "Engineering interactive systems for diverse user groups",
+      "Engineering design and evaluation tools",
+      "Computational techniques for designing and evaluating interactive systems",
+      "Interactive data-driven systems",
+      "Diverse interaction techniques and devices",
+      "Engineering hardware or software integration in interactive systems",
+      "Engineering collaborative multi-user interactive systems",
+      "Engineering interactive systems embedding AI-technologies",
+      "Applying AI technologies in methods, processes, and tools for interactive systems"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Mon, 7 Jul 2025 03:07:01 -0000",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      null
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      null
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": "The conference focuses on engineering interactive computing systems and their user interfaces, including aspects like usability, user experience, reliability, and security.",
+    "additional_resources": {
+      "newcomers_guide": "https://dl.acm.org/doi/10.1145/3300960",
+      "ACM_format": "https://www.acm.org/publications/authors/submissions",
+      "ACM_policy": "https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects"
+    },
+    "chairs": [
+      "Célia Martinie",
+      "Davide Spano"
+    ]
+  }
+}

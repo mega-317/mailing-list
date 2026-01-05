@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": false,
+  "has_submission_deadline": false,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "The summary represents a job opportunity rather than a single event 'Call for Papers'. There is no specific event identified (is_single_main_event is false), and while there is an indication of when the position should ideally start (but not a concrete date), no submission deadline for contributions is provided."
+}

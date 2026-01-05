@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Salerno, Italy",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://conf.researchr.org/home/profes-2025",
+    "event": "PROFES 2025",
+    "dates": {
+      "workshop_date": "December 1, 2025",
+      "submission_deadline": "August 9, 2025",
+      "notification_of_acceptance": "September 9, 2025",
+      "camera_ready_submission": "September 23, 2025"
+    },
+    "co_located_events": [
+      {
+        "name": "QuEMaLeS 2025",
+        "description": "Workshop on Quality Evaluation of Machine Learning Software Systems",
+        "topics_of_interest": [
+          "Quality models and metrics for ML-based systems",
+          "Data quality evaluation",
+          "Certification frameworks and standardization (e.g., ISO/IEC 25059)",
+          "Non-functional quality measures",
+          "Tools for evaluating ML-based software",
+          "Application-specific evaluations (e.g., healthcare, transportation"
+        ],
+        "paper_format": [
+          "Technical and experience papers: up to 12 pages",
+          "New ideas and short papers: up to 8 pages"
+        ]
+      },
+      {
+        "name": "PATH 2025",
+        "description": "Promoting and Dealing with Advanced Technology in Healthcare",
+        "topics_of_interest": [
+          "AI-driven diagnostics and decision support",
+          "Secure data management and privacy in healthcare software",
+          "Digital health platforms and IoMT",
+          "Ethical and regulatory issues in AI for healthcare",
+          "Evaluation methodologies and real-world case studies"
+        ],
+        "paper_format": [
+          "Regular papers: up to 12 pages",
+          "Short papers: up to 6 pages"
+        ]
+      },
+      {
+        "name": "A-SPPI 2025",
+        "description": "International Workshop on Analytics for Software Product and Process Improvement",
+        "topics_of_interest": [
+          "Analysis of software data to support decision making",
+          "AI and machine learning for software analytics",
+          "Empirical studies, tools, and visualizations",
+          "Teaching software analytics and process improvement"
+        ],
+        "paper_format": [
+          "Full papers: 8 to 12 pages",
+          "Short papers: 6 to 8 pages",
+          "Position papers: 4 to 6 pages",
+          "Panel proposals: 1 to 4 pages"
+        ]
+      }
+    ],
+    "registration": null,
+    "description": "The workshops provide forums for researchers, practitioners, and policymakers to present and discuss recent advancements and challenges in software engineering and its intersection with machine learning, healthcare technologies, and software analytics.",
+    "submission_details": null,
+    "publication_details": "Accepted papers will be published in a Lecture Notes in Computer Science (LNCS) proceedings volume.",
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": "At least one author of each accepted paper must register for the workshop and present the work.",
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": "All submissions must be in English, original, and not under review or published elsewhere. Papers must conform to the Springer LNCS formatting guidelines.",
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

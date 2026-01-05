@@ -1,0 +1,253 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Marrakech, Morocco",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://ictac2025.digital-hub.sh/",
+    "event": "ICTAC 2025",
+    "dates": {
+      "event_dates": {
+        "start_date": "2025-11-24",
+        "end_date": "2025-11-28"
+      },
+      "deadlines": [
+        {
+          "type": "Abstracts",
+          "date": "2025-07-03"
+        },
+        {
+          "type": "Full papers",
+          "date": "2025-07-09"
+        },
+        {
+          "type": "Notification",
+          "date": "2025-08-30"
+        },
+        {
+          "type": "Camera-ready papers",
+          "date": "2025-09-15"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing through (formal) methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.",
+    "submission_details": null,
+    "publication_details": {
+      "accepted_papers": "All accepted papers will be published in Springer's Lecture Notes in Computer Science.",
+      "award_info": "Springer sponsors the ICTAC 2025 Best Paper Award with a cash prize of 1,000 Euro.",
+      "special_issue": "There will be a special issue for selected papers from ICTAC 2025 in Elsevier's journal Theoretical Computer Science."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Formal languages and automata",
+      "Semantics of programming languages",
+      "Logic in computer science",
+      "Lambda calculus, type theory, and category theory",
+      "Domain-specific languages",
+      "Theories of concurrency and mobility",
+      "Theories of distributed computing",
+      "Models of objects and components",
+      "Coordination models",
+      "Security and privacy",
+      "Static analysis",
+      "Software verification",
+      "Timed, hybrid, and cyber-physical systems",
+      "Verification, analysis and control synthesis",
+      "Software testing",
+      "Program generation and transformation",
+      "Model checking and theorem-proving",
+      "Quantum computing",
+      "Trustworthy AI",
+      "Machine learning algorithms",
+      "Applications and experience"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Zhiming Liu",
+        "institution": "Southwest University, China"
+      },
+      {
+        "name": "Adnane Saoud",
+        "institution": "UM6P, Morocco"
+      },
+      {
+        "name": "Heike Wehrheim",
+        "institution": "University of Oldenburg, Germany"
+      },
+      {
+        "name": "Jorge A. Pérez",
+        "institution": "University of Groningen, Netherlands"
+      },
+      {
+        "name": "Laurent Fribourg",
+        "institution": "ENS Paris-Saclay, LMF, France"
+      },
+      {
+        "name": "Lina Ye",
+        "institution": "CentraleSupélec, LRI, University Paris–Saclay, France"
+      },
+      {
+        "name": "Abderrahim Ait Wakrime",
+        "institution": "UM5R, Morocco"
+      },
+      {
+        "name": "Maike Schwammberger",
+        "institution": "Karlsruhe Institute of Technology, Germany"
+      },
+      {
+        "name": "Kirstin Peters",
+        "institution": "Universität Augsburg, Germany"
+      },
+      {
+        "name": "Emil Sekerinski",
+        "institution": "McMaster University, Canada"
+      },
+      {
+        "name": "Ichiro Hasuo",
+        "institution": "National Institute of Informatics, Japan"
+      },
+      {
+        "name": "Kim Guldstrand Larsen",
+        "institution": "Computer Science, Aalborg University, Denmark"
+      },
+      {
+        "name": "Yuxin Deng",
+        "institution": "East China Normal University, China"
+      },
+      {
+        "name": "Zhilin Wu",
+        "institution": "Institute of Software, Chinese Academy of Sciences, China"
+      },
+      {
+        "name": "Jan Kretinsky",
+        "institution": "Masaryk University, Czech Republic"
+      },
+      {
+        "name": "Sadegh Soudjani",
+        "institution": "Max Planck Institute, Germany"
+      },
+      {
+        "name": "Annabelle McIver",
+        "institution": "Macquarie University, Australia"
+      },
+      {
+        "name": "Rosemary Monahan",
+        "institution": "Maynooth University, Ireland"
+      },
+      {
+        "name": "Marcello Bonsangue",
+        "institution": "Leiden University, Netherlands"
+      },
+      {
+        "name": "Ana Sokolova",
+        "institution": "University of Salzburg, Austria"
+      },
+      {
+        "name": "Pushpak Jagtap",
+        "institution": "Indian Institute of Science, Bangalore, India"
+      },
+      {
+        "name": "Silvia Lizeth Tapia Tarifa",
+        "institution": "University of Oslo, Norway"
+      },
+      {
+        "name": "Jim Woodcock",
+        "institution": "University of York, United Kingdom"
+      },
+      {
+        "name": "Augusto Sampaio",
+        "institution": "Federal University of Pernambuco, Brazil"
+      },
+      {
+        "name": "Marjan Sirjani",
+        "institution": "Mälardalen University, Sweden"
+      },
+      {
+        "name": "Cong Tian",
+        "institution": "Xidian University, China"
+      },
+      {
+        "name": "Maurice ter Beek",
+        "institution": "CNR, Italy"
+      },
+      {
+        "name": "Tarmo Uustalu",
+        "institution": "Reykjavik University, Iceland"
+      },
+      {
+        "name": "Miaomiao Zhang",
+        "institution": "Tongji University, China"
+      },
+      {
+        "name": "Sarah Winkler",
+        "institution": "Free University of Bozen-Bolzano, Italy"
+      },
+      {
+        "name": "Hussein Sibai",
+        "institution": "Washington University in St. Louis, USA"
+      },
+      {
+        "name": "Tomás Vojnar",
+        "institution": "Brno University of Technology, Czech Republic"
+      },
+      {
+        "name": "Peter Habermehl",
+        "institution": "IRIF, Université Paris Cité, France"
+      },
+      {
+        "name": "Julien Signoles",
+        "institution": "CEA LIST, France"
+      },
+      {
+        "name": "Chelsea Edmonds",
+        "institution": "University of Sheffield, United Kingdom"
+      },
+      {
+        "name": "Inigo Incer",
+        "institution": "University of Michigan, USA"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "role": "General Co-Chair",
+        "name": "Ahmed Bouajjani",
+        "institution": "Université de Paris, France"
+      },
+      {
+        "role": "General Co-Chair",
+        "name": "Mohammed Erradi",
+        "institution": "ENSIAS, UM5R, Morocco"
+      }
+    ],
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Universidad Tecnológica de Honduras",
+    "location": "Roatán Island, Honduras",
+    "department": null,
+    "research_focus": [
+      "Information and Knowledge Management (IKM)",
+      "Organizational Models and Information Systems (OMIS)",
+      "Software and Systems Modeling (SSM)",
+      "Software Systems, Architectures, Applications and Tools (SSAAT)",
+      "Multimedia Systems and Applications (MSA)",
+      "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+      "Intelligent and Decision Support Systems (IDSS)",
+      "Big Data Analytics and Applications (BDAA)",
+      "Human-Computer Interaction (HCI)",
+      "Ethics, Computers and Security (ECS)",
+      "Health Informatics (HIS)",
+      "Information Technologies in Education (ITE)",
+      "Media, Applied Technology and Communication (MATC)"
+    ],
+    "responsibilities": [
+      "Submit original papers",
+      "Comply with review guidelines"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        null
+      ],
+      "supervisors": [
+        null
+      ]
+    },
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": "September 28, 2025",
+      "application_link": null,
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://icits.me/",
+    "event": {
+      "name": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+      "abbreviation": "ICITS'26",
+      "dates": "16-18 February 2026",
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2026-02-16",
+      "end": "2026-02-18"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": "ICITS'26 is an international forum for researchers and practitioners to present and discuss the most recent innovations, trends, results, experiences and concerns in the several perspectives of Information Technology & Systems.",
+    "submission_details": {
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "review_process": "double-blind review",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "12",
+          "format": "Lecture Notes in Networks and Systems",
+          "identification": "Authors’ names and affiliations should not be included in the version for evaluation."
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": "15",
+          "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+          "identification": "Authors’ names and affiliations should not be included in the version for evaluation."
+        },
+        "additional_requirements": [
+          "Files must be in ZIP format"
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": "15 minutes",
+          "discussion_time": "5 minutes"
+        },
+        "posters": {
+          "format": "A1 or A2 vertical",
+          "presentation_time": "7 minutes"
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Proceedings by Springer",
+          "indexing": [
+            "Scopus",
+            "WoS",
+            "DBLP",
+            "Google Scholar"
+          ]
+        },
+        "Spanish-Portuguese": {
+          "publication": "Special Issue of RISTI",
+          "indexing": [
+            "ProQuest",
+            "EBSCO",
+            "Google Scholar"
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": "November 5, 2025",
+        "limit": "One paper per registration"
+      }
+    },
+    "important_dates": {
+      "paper_submission": "September 28, 2025",
+      "notification_of_acceptance": "November 5, 2025",
+      "registration_payment_deadline": "November 19, 2025",
+      "camera_ready_submission_deadline": "November 19, 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "(CFP) ICITS'26 - 9th Int. Conference on Information Technology & Systems",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": "ICITS'26 Team",
+    "date": "2025-07-16",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": "ZIP format",
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      "ICITS"
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+    "event_details": {
+      "date": "16-18 February 2026",
+      "location": "Roatán Island, Honduras",
+      "submission_link": null
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

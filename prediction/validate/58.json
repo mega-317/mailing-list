@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": false,
+  "has_submission_deadline": false,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "There is no identified main event or start date, and no submission deadline provided."
+}

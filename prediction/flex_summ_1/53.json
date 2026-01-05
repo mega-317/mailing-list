@@ -1,0 +1,92 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Calabria",
+    "location": "Rende, Italy",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": null,
+    "event": "41st International Conference on Logic Programming (ICLP’25)",
+    "dates": {
+      "start": "2025-09-12",
+      "end": "2025-09-19"
+    },
+    "co_located_events": [
+      {
+        "name": "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion (RCRA 2025)",
+        "description": "The scope of the workshop is fostering the cross-fertilization of ideas stemming from different areas, proposing benchmarks for new challenging problems, comparing models and algorithms from an experimental viewpoint.",
+        "website": "https://rcra2025.wordpress.com"
+      },
+      {
+        "name": "18th Workshop on Answer Set Programming and Other Computing Paradigms (ASPOCP 2025)",
+        "description": "Workshop on combining Answer Set Programming with Other Computing Paradigms, such as constraint satisfaction and quantified Boolean formulas.",
+        "website": "https://sites.google.com/view/aspocp-2025/"
+      },
+      {
+        "name": "12th Workshop on Probabilistic Logic Programming (PLP 2025)",
+        "description": "The PLP workshop encompasses all aspects of combining logic, algorithms, programming, and probability.",
+        "website": "https://stoics.org.uk/~plp2025/"
+      },
+      {
+        "name": "9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³ 2025)",
+        "description": "The goal of the workshop is to stimulate discussions and promote scientific collaboration among researchers involved in argumentation.",
+        "website": "https://tinyurl.com/ai3w25"
+      },
+      {
+        "name": "Third Prolog Education Workshop (PEG 2025)",
+        "description": "The PEG workshop aims to promote the use of Prolog-like computing to make logical reasoning and trustworthy coding skills more universally available.",
+        "website": "https://prolog-lang.org/Education/PrologEducationWS2025.html"
+      },
+      {
+        "name": "Second Annual Workshop on Prolog Improvement Proposals (PIPs)",
+        "description": "The PIP workshop series offers Prolog implementers and users an opportunity to present features that could benefit other systems.",
+        "website": "https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html"
+      },
+      {
+        "name": "Workshop on Logic Programming and Legal Reasoning (LPLR 2025)",
+        "description": "The aim of the workshop is to give the opportunity to legal experts and computer scientists to present recent research results in automating reasoning over legal documents.",
+        "website": "https://lplr2025.legaltech.wales/"
+      },
+      {
+        "name": "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action (CARLA)",
+        "description": "CARLA aims to advance the field of intelligent robotics through integration of large language models and logic.",
+        "website": "https://carla-ws.github.io/web/"
+      }
+    ],
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

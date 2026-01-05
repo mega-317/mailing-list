@@ -1,0 +1,157 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Universidad Autónoma de Baja California Sur",
+    "location": "La Paz, BCS., Mexico",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Software Engineering Mexican Network (REDMIS)",
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "June 15, 2025",
+      "submission_link": "https://conisoft.org/2025/#registration"
+    },
+    "contact_person": null,
+    "website": "https://conisoft.org",
+    "event": "13th International Conference on Software Engineering Research and Innovation (CONISOFT 2025)",
+    "dates": {
+      "event_start_date": "October 27, 2025",
+      "event_end_date": "October 31, 2025"
+    },
+    "co_located_events": null,
+    "registration": {
+      "1_paper_fee": {
+        "usd": 200,
+        "mxn": 4000
+      },
+      "additional_paper_fee": {
+        "usd": 100,
+        "mxn": 2000
+      },
+      "third_paper_fee": "Must pay full fee"
+    },
+    "description": "The event aims to unite practitioners and researchers from academia, industry, and government to advance the state of the art in software engineering.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      {
+        "topic": "Core Themes in Software Engineering",
+        "sub_topics": [
+          "Requirements Engineering",
+          "Systems Modeling",
+          "Architecture and Software Design",
+          "Models and Quality Systems",
+          "Process Models",
+          "Software Metrics"
+        ]
+      },
+      {
+        "topic": "Empirical Software Engineering",
+        "sub_topics": [
+          "Empirical Methods",
+          "Statistical Methods and Measurement",
+          "Simulation Methods",
+          "Missing Data in Software Engineering",
+          "Experimentation in Software Engineering"
+        ]
+      },
+      {
+        "topic": "Formal methods",
+        "sub_topics": [
+          "Theoretical Basis for Software Engineering",
+          "Formal Methods for Software Engineering",
+          "Experimental Evaluation and Validation",
+          "Industry-Academia Collaboration"
+        ]
+      },
+      {
+        "topic": "Trends in Software Engineering",
+        "sub_topics": [
+          "AI-Driven Software Development",
+          "Sustainable Software Engineering",
+          "Software Engineering for Emerging Technologies",
+          "Construction of Complex Systems",
+          "Modeling and Knowledge Management",
+          "Support Methodologies",
+          "Software Engineering for Cloud Computing, Big Data, and Social Computing"
+        ]
+      },
+      {
+        "topic": "Interaction with Other Disciplines",
+        "sub_topics": [
+          "User-Centered Design",
+          "Social Issues in Software Engineering"
+        ]
+      },
+      {
+        "topic": "Software Engineering Education (SEE)",
+        "sub_topics": [
+          "Models and Techniques for SEE",
+          "Teaching Approaches for SEE",
+          "Tools for SEE",
+          "Strategies and Instruments for Assessment in SEE",
+          "Workforce Development"
+        ]
+      },
+      {
+        "topic": "Industry and Government Experiences",
+        "sub_topics": [
+          "Case Studies in Industry and Government",
+          "Study Cases in Industry and Government"
+        ]
+      },
+      {
+        "topic": "Dependability, Security, and Privacy",
+        "sub_topics": [
+          "Dependability and Security",
+          "Privacy and Fairness",
+          "Software Security, Privacy, and Cybersecurity"
+        ]
+      },
+      {
+        "topic": "Testing, Analysis, and Maintenance",
+        "sub_topics": [
+          "Software Testing",
+          "Program Analysis and Synthesis",
+          "Debugging and Fault Localization",
+          "Software Maintenance, Evolution, and Legacy Systems"
+        ]
+      },
+      {
+        "topic": "Software Engineering for AI",
+        "sub_topics": [
+          "SE for AI Models",
+          "SE for Systems with AI Components",
+          "SE for AI Code, Libraries, and Datasets",
+          "Testing and Verification of AI-Based Systems",
+          "Automated Repair of AI Models"
+        ]
+      }
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": "Hybrid",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": "https://conisoft.org/2025/#registration"
+  }
+}

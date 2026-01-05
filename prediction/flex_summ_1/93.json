@@ -1,0 +1,153 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Melbourne, Australia",
+    "department": null,
+    "research_focus": "Artificial Intelligence of Things (AIoT)",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Universities, research centers, industries and stakeholders",
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/my/conference?conf=aiot2024",
+      "paper_format": "IEEE style pages including results, figures, and references (max 6 pages, 1 extra page allowed with an extra charge of $100)",
+      "submission_guidelines": "Papers must be prepared in LaTeX or Word using the official IEEE templates. Final submission in PDF format."
+    },
+    "contact_person": {
+      "general_chairs": [
+        {
+          "name": "Wei Xiang",
+          "institution": "La Trobe University, Australia"
+        },
+        {
+          "name": "Carla Fabiana Chiasserini",
+          "institution": "Politecnico di Torino, Italy"
+        }
+      ],
+      "tpc_chairs": [
+        {
+          "name": "Dusit Niyato",
+          "institution": "Nanyang Technological University, Singapore"
+        },
+        {
+          "name": "Ruidong Li",
+          "institution": "Kanazawa University, Japan"
+        },
+        {
+          "name": "Prasad Kodaypak",
+          "institution": "The XMG, USA"
+        }
+      ],
+      "registration_chair": {
+        "name": "Wei Wang",
+        "institution": "San Diego State University"
+      }
+    },
+    "website": "https://www.ieee-aiot.org",
+    "event": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+    "dates": {
+      "event_dates": "24–26 July 2024",
+      "important_dates": [
+        {
+          "event": "Paper Submission",
+          "date": "8 May 2024 (FIRM)"
+        },
+        {
+          "event": "Notification of Acceptance",
+          "date": "10 June 2024"
+        },
+        {
+          "event": "Final Manuscript (Camera Ready)",
+          "date": "3 July 2024"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The conference aims to explore the integration of AI technologies into IoT systems and devices.",
+    "submission_details": null,
+    "publication_details": {
+      "best_paper_award": "Three accepted papers will be selected for best paper awards.",
+      "journal_special_issues": [
+        {
+          "journal": "IEEE Internet of Things Journal",
+          "impact_factor": "10.238"
+        },
+        {
+          "journal": "Digital Communications and Networks",
+          "impact_factor": "7.9"
+        }
+      ]
+    },
+    "important_dates": null,
+    "program_highlights": {
+      "focus_areas": [
+        "AIoT Architectures, Frameworks, and Algorithms",
+        "AIoT Applications",
+        "Standards and Interoperability",
+        "Ethics and Security"
+      ],
+      "topics_of_interest": [
+        "Edge AI and Distributed Intelligence",
+        "Machine Learning for IoT Applications",
+        "Mobile deployment of LLMs",
+        "Generative AI and LLMs for IoT applications",
+        "AI-empowered Robotics and Sensing for IoT",
+        "Smart Cities: AI and IoT Solutions",
+        "Security and Privacy in AI-driven IoT Systems",
+        "5G and its Impact on AI and IoT",
+        "Blockchain Technology for Securing IoT Devices",
+        "Human-Machine Interaction in IoT Environments"
+      ]
+    },
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": {
+      "general_chairs": [
+        {
+          "name": "Wei Xiang",
+          "institution": "La Trobe University, Australia"
+        },
+        {
+          "name": "Carla Fabiana Chiasserini",
+          "institution": "Politecnico di Torino, Italy"
+        }
+      ],
+      "tpc_chairs": [
+        {
+          "name": "Dusit Niyato",
+          "institution": "Nanyang Technological University, Singapore"
+        },
+        {
+          "name": "Ruidong Li",
+          "institution": "Kanazawa University, Japan"
+        },
+        {
+          "name": "Prasad Kodaypak",
+          "institution": "The XMG, USA"
+        }
+      ]
+    },
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

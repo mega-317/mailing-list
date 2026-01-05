@@ -1,12 +1,12 @@
 # process_all.py
 from pathlib import Path
 import glob
-from template.graph import process_one_file, save_json
+from template_pipeline.graph import process_one_file, save_json
 
 version = 1
 TEXT_DIR = Path("./data/texts")
-OUT_DIR = Path(f"./prediction/template_{version}")  # 결과 저장 폴더
-REF_DIR = Path("./template/template.json")
+OUT_DIR = Path(f"./prediction/flex_summ_1")  # 결과 저장 폴더
+REF_DIR = Path("./prediction/merge/template_v3.json")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # === 배치 실행 ===
@@ -26,7 +26,7 @@ errors = []
 for n, path in txt_files:
     try:
         out = process_one_file(path, REF_DIR)
-        out_name = f"template_{n}_.json"
+        out_name = f"{n}.json"
         save_json(out, OUT_DIR / out_name)
         print(f"[OK] {path.name} -> {out_name}")
     except Exception as e:

@@ -1,0 +1,209 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Iași, România",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_details": {
+        "papers": {
+          "length": "up to 16 pages",
+          "format": "EPTCS template",
+          "submission_system": "EasyChair",
+          "link": "https://easychair.org/conferences?conf=from2025"
+        },
+        "extended_abs": {
+          "length": "up to 8 pages",
+          "purpose": "work in progress or survey previous research"
+        },
+        "criteria": "papers must contain original research results not submitted or published elsewhere"
+      },
+      "publication_details": {
+        "invited_to_submit": {
+          "journal": "Journal of Logical and Algebraic Methods in Programming",
+          "link": "https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming",
+          "approval": "subject to formal approval by Elsevier"
+        }
+      }
+    },
+    "contact_person": null,
+    "website": "https://fromsymposium.github.io/",
+    "event": "9th Working Formal Methods Symposium",
+    "dates": {
+      "symposium_dates": "September 17-19, 2025",
+      "important_dates": [
+        {
+          "event": "Paper/abstract submission deadline",
+          "date": "June 22, 2025 (extended)"
+        },
+        {
+          "event": "Author notification",
+          "date": "July 22, 2025"
+        },
+        {
+          "event": "Revised paper/abstract submission deadline",
+          "date": "August 29, 2025"
+        },
+        {
+          "event": "Registration deadline",
+          "date": "September 2, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The Working Formal Methods Symposium (FROM) aims to bring together researchers and practitioners working on formal methods by contributing new theoretical results, methods, techniques, and frameworks, and/or by creating or using software tools that apply theoretical contributions. The program includes invited lectures and regular contributions.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      {
+        "category": "Areas and Formalisms",
+        "topics": [
+          "Category theory in computer science",
+          "Distributed systems and concurrency",
+          "Formal languages and automata theory",
+          "Formal modeling, verification, and testing",
+          "Logic in computer science",
+          "Mathematical structures in computer science",
+          "Semantics of programming languages",
+          "Type systems"
+        ]
+      },
+      {
+        "category": "Methods",
+        "topics": [
+          "Automated reasoning and model generation",
+          "Certified programs",
+          "Deductive verification",
+          "Model checking",
+          "Proof mining",
+          "Symbolic computation",
+          "Term rewriting",
+          "Formal Methods in ML/LLMs/AI"
+        ]
+      },
+      {
+        "category": "Applications",
+        "topics": [
+          "Computational logic",
+          "Computer mathematics",
+          "Program analysis",
+          "Software and hardware verification"
+        ]
+      }
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      "Verimag, CNRS, University of Grenoble Alpes",
+      "Faculty of Computer Science, Alexandru Ioan Cuza University of Iași"
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Bogdan Aman",
+        "affiliation": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Andrei Arusoaie",
+        "affiliation": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Ștefan Ciobâcă",
+        "affiliation": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Mădălina Erașcu",
+        "affiliation": "West University of Timișoara"
+      },
+      {
+        "name": "Pierre Ganty",
+        "affiliation": "IMDEA Software, Madrid"
+      },
+      {
+        "name": "Peter Habermehl",
+        "affiliation": "IRIF, University Paris Cité"
+      },
+      {
+        "name": "Dániel Horpácsi",
+        "affiliation": "Eötvös Loránd University, Budapest"
+      },
+      {
+        "name": "Radu Iosif",
+        "affiliation": "Verimag, CNRS, University of Grenoble Alpes (chair)"
+      },
+      {
+        "name": "Laurențiu Leuștean",
+        "affiliation": "Faculty of Mathematics and Computer Science, University of Bucharest"
+      },
+      {
+        "name": "Dorel Lucanu",
+        "affiliation": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Mircea Marin",
+        "affiliation": "West University of Timișoara"
+      },
+      {
+        "name": "David Nowak",
+        "affiliation": "CRIStAL, CNRS & University of Lille, France"
+      },
+      {
+        "name": "Vlad Rusu",
+        "affiliation": "INRIA Lille Nord Europe, France"
+      },
+      {
+        "name": "Arnaud Sangnier",
+        "affiliation": "IRIF, Univ Paris Diderot, CNRS, France"
+      },
+      {
+        "name": "Mihaela Sighireanu",
+        "affiliation": "LMF, ENS Paris Saclay"
+      },
+      {
+        "name": "Andrei Sipoș",
+        "affiliation": "University of Bucharest"
+      },
+      {
+        "name": "Viorica Sofronie-Stokkermans",
+        "affiliation": "University of Koblenz"
+      },
+      {
+        "name": "Alicia Villanueva",
+        "affiliation": "VRAIN - Universitat Politècnica de València"
+      },
+      {
+        "name": "Tomáš Vojnar",
+        "affiliation": "Masaryk University and Brno University of Technology"
+      },
+      {
+        "name": "Florian Zuleger",
+        "affiliation": "Technische Universität Wien"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

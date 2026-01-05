@@ -1,0 +1,96 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "São Paulo, Brazil",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://issre.net",
+    "event": "ISSRE 2025",
+    "dates": {
+      "event_dates": "October 21-24, 2025",
+      "important_deadlines": [
+        {
+          "description": "Workshop paper submission deadline",
+          "date": "July 21, 2025"
+        },
+        {
+          "description": "Workshop paper notification to authors",
+          "date": "August 11, 2025"
+        },
+        {
+          "description": "Camera ready papers",
+          "date": "August 18, 2025"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "name": "WoSAR",
+        "description": "The 17th International Workshop on Software Aging and Rejuvenation",
+        "website": "https://www.wosar.net/"
+      },
+      {
+        "name": "ASSURE",
+        "description": "The 10th International Workshop on Assurance for Software-intensive Systems",
+        "website": "https://sites.google.com/aiit.ac.jp/assure2025/"
+      },
+      {
+        "name": "IWSF & SHIFT",
+        "description": "The 9th International Workshop on Software Faults & The 7th Annual International Workshop on Software Hardware Interaction Faults",
+        "website": null
+      },
+      {
+        "name": "AISQ",
+        "description": "The 2nd International Workshop on Advanced Intelligent Software Quality",
+        "website": "https://sites.google.com/view/aisq-2025/home"
+      },
+      {
+        "name": "ReSAISE",
+        "description": "The 3rd IEEE International Workshop on Reliable and Secure AI for Software Engineering",
+        "website": "https://resaise.github.io/2025/"
+      },
+      {
+        "name": "HFSD",
+        "description": "The 2nd International Workshop on Human Factors for Software Dependability",
+        "website": "https://hfsdworkshop.github.io/"
+      }
+    ],
+    "registration": null,
+    "description": "ISSRE (International Symposium on Software Reliability Engineering) is the leading conference on software reliability, focusing on approaches, techniques, and tools for assessing, predicting, and improving the reliability, safety, and security of software systems.",
+    "submission_details": {
+      "submission_guidelines": "Submit your paper via the EasyChair website, selecting the correct track for your submission.",
+      "submission_link": "https://easychair.org/my/conference?conf=issre2025"
+    },
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

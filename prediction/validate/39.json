@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": false,
+  "has_submission_deadline": true,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "The entry does not represent a single main event; it is a job position rather than a 'Call for Papers'. Additionally, the event start date is absent."
+}

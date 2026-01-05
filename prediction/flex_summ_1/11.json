@@ -1,0 +1,74 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Amsterdam, Netherlands",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://conf.researchr.org/home/icsa-2026",
+    "event": "23rd IEEE International Conference on Software Architecture (ICSA 2026)",
+    "dates": {
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-26"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": [
+      {
+        "track_name": "Research Track",
+        "theme": "Architecting in Continuous Software Engineering: Evolving Roles, Enduring Principles",
+        "important_dates": {
+          "abstracts_due": "2025-11-28",
+          "papers_due": "2025-12-05"
+        },
+        "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-papers"
+      },
+      {
+        "track_name": "Software Architecture in Practice Track",
+        "important_dates": {
+          "abstracts_due": "2025-11-28",
+          "papers_due": "2025-12-05"
+        },
+        "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track"
+      },
+      {
+        "track_name": "Workshop Proposals",
+        "submission_deadline": "2025-10-03",
+        "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+      }
+    ],
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

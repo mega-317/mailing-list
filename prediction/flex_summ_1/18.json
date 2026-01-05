@@ -1,0 +1,98 @@
+{
+  "summary": {
+    "position": "Faculty positions",
+    "institution": "UCLouvain",
+    "location": "Belgium",
+    "department": "Computer Science",
+    "research_focus": [
+      {
+        "position": "Position 1 and 2",
+        "domains": [
+          "Software engineering",
+          "Programming systems and languages",
+          "Software dependability",
+          "Formal methods"
+        ]
+      },
+      {
+        "position": "Position 3",
+        "domains": [
+          "Software security",
+          "Cybersecurity",
+          "System security",
+          "Cyber-physical systems security",
+          "AI for security",
+          "Security for AI",
+          "Privacy",
+          "Distributed systems security"
+        ]
+      }
+    ],
+    "responsibilities": null,
+    "employment_terms": {
+      "type": "full-time",
+      "seniority_levels": [
+        "assistant",
+        "associate",
+        "full"
+      ]
+    },
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_process": "Applications will only be accepted on the UCLouvain job portal.",
+      "contact_person": {
+        "name": "Etienne Riviere",
+        "email": "[log in to unmask]"
+      },
+      "submission_link": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+    },
+    "website": "https://jobs.uclouvain.be/",
+    "event": null,
+    "dates": {
+      "announcement_date": "early September",
+      "closing_date": "a few weeks after announcement"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": [
+      "A vibrant work environment just south of Brussels",
+      "A department with excellent research infrastructure and support",
+      "Moderate teaching load and access to excellent students",
+      "Competitive salaries and benefits",
+      "No need to speak French to apply (but willingness to learn in a few years if appointed)"
+    ],
+    "submission_details": {
+      "application_package": [
+        "resume",
+        "teaching statement",
+        "research statement"
+      ]
+    },
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

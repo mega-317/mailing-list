@@ -1,7 +1,7 @@
 # process_all.py
 from pathlib import Path
 import glob
-from mailflow._graph_main import process_one_file, save_json
+from mailflow_pipeline._graph_main import process_one_file, save_json
 
 version = 44
 TEXT_DIR = Path("./data/texts")

@@ -1,0 +1,449 @@
+{
+  "summary": {
+    "position": "Postdoctoral positions",
+    "institution": "National University of Singapore",
+    "location": null,
+    "department": "Computer Science Department",
+    "research_focus": [
+      "fuzz testing",
+      "testing and analysis of concurrent software",
+      "testing and analysis of distributed software",
+      "testing and analysis of stateful software",
+      "kernel software"
+    ],
+    "responsibilities": [
+      "Advance the state-of-the-art in testing and analysis",
+      "Conduct research on agentic AI based automated program repair"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": "2023-2027",
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": "2023-2027",
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": "Fuzz Testing",
+      "partners": [
+        "Singapore's Cybersecurity Agency"
+      ],
+      "supervisors": [
+        "Abhik Roychoudhury"
+      ]
+    },
+    "eligibility": {
+      "qualifications": "PhD degree or submitting PhD thesis soon",
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "CV",
+        "Research statement",
+        "Names of two referees"
+      ],
+      "submission_deadline": null,
+      "application_link": null,
+      "platform": null
+    },
+    "contact_person": {
+      "name": "Abhik Roychoudhury",
+      "department": null,
+      "position": "Lead PI",
+      "phone": null,
+      "email": "[log in to unmask]",
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://nus-tss.github.io/fuzzing/",
+    "event": {
+      "name": null,
+      "abbreviation": null,
+      "dates": null,
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2023-07-01",
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": null,
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "Postdoctoral positions in Fuzz testing",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": "PhD degree or should be submitting PhD thesis soon",
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "fuzz testing"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Tue, 3 Jun 2025 02:04:05 -0000",
+    "academic_reputation": "high degree of academic reputation",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": null,
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": "Abhik Roychoudhury",
+        "email": "[log in to unmask]",
+        "institution": "National University of Singapore",
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      null
+    ],
+    "project": {
+      "name": "Fuzz Testing",
+      "description": "A research program involving several research projects that improve the reliability of modern software applications using techniques inspired from fuzz testing.",
+      "url": null
+    },
+    "research_focus": [
+      "fuzz testing"
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": null,
+    "event_details": {
+      "date": null,
+      "location": null,
+      "submission_link": null
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": "[log in to unmask]",
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

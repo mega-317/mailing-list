@@ -1,0 +1,344 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Wageningen University",
+    "location": "The Netherlands",
+    "research_focus": [
+      "System of Systems Engineering"
+    ],
+    "responsibilities": [
+      "Contributions to the forthcoming edited book"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        "chapter proposals"
+      ],
+      "submission_deadline": "September 1, 2025",
+      "application_link": "https://easychair.org/conferences/?conf=sose2025"
+    },
+    "contact_person": {
+      "name": "Prof. Dr. Ir. Bedir Tekinerdogan",
+      "department": "Chair Information Technology",
+      "phone": "+31 (0)317 485477",
+      "email": "[log in to unmask]"
+    },
+    "website": "http://wageningenur.nl/inf",
+    "event": {
+      "name": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+      "abbreviation": null
+    },
+    "dates": {
+      "start": null,
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "Khalil Drira",
+        "topic": "Co-editor"
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "This book aims to address the increasing complexity of modern engineering challenges by providing a comprehensive resource that integrates theoretical foundations, emerging technologies, and practical applications of System of Systems Engineering (SoSE).",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "7500 words",
+          "format": "Elsevier's formatting guidelines",
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Elsevier",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "September 1, 2025",
+      "notification_of_acceptance": "September 15, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "March 1, 2026",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "Call for Book Chapters",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AI",
+      "IoT",
+      "digital twins",
+      "blockchain"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Mon, 7 Jul 2025 03:03:27 -0000",
+    "affiliated_universities": [
+      "Wageningen University",
+      "LAAS-CNRS Université de Toulouse"
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": "Prof. Dr. Ir. Bedir Tekinerdogan",
+        "email": "[log in to unmask]",
+        "institution": "Wageningen University",
+        "phone": "+31 (0)317 485477"
+      },
+      {
+        "name": "Khalil Drira",
+        "email": "[log in to unmask]",
+        "institution": "LAAS-CNRS Université de Toulouse",
+        "phone": null
+      }
+    ],
+    "queries_contact": "[log in to unmask]",
+    "submission_button": null,
+    "submission_link": "https://easychair.org/conferences/?conf=sose2025",
+    "broad_area": "System of Systems Engineering",
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      null
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+      "publisher": "Elsevier",
+      "editors": [
+        {
+          "name": "Bedir Tekinerdogan",
+          "affiliation": "Wageningen University, The Netherlands"
+        },
+        {
+          "name": "Khalil Drira",
+          "affiliation": "LAAS-CNRS Université de Toulouse, France"
+        }
+      ],
+      "scope": "The book addresses the complexity of modern engineering challenges and the interdisciplinary field of System of Systems Engineering (SoSE), including its applications across industries such as aerospace, healthcare, and energy.",
+      "focus_areas": [
+        "Theoretical foundations",
+        "Emerging technologies",
+        "Practical applications"
+      ],
+      "key_topics": [
+        {
+          "theme": "Foundations of System of Systems Engineering",
+          "subtopics": [
+            "Characterization and classification of SoS",
+            "Key concepts and theoretical foundations",
+            "Historical evolution and future trajectories"
+          ]
+        },
+        {
+          "theme": "Governance and Management",
+          "subtopics": [
+            "Strategic governance and policy frameworks",
+            "Leadership and decision-making",
+            "Risk management strategies",
+            "Funding models and economic considerations"
+          ]
+        },
+        {
+          "theme": "Methodologies and Tools",
+          "subtopics": [
+            "Systems thinking and lifecycle management",
+            "Modeling and simulation approaches",
+            "Standards for interoperability",
+            "Digital thread approaches"
+          ]
+        },
+        {
+          "theme": "AI and Emerging Technologies",
+          "subtopics": [
+            "AI-driven decision-making",
+            "Machine learning applications",
+            "Integration of IoT and blockchain",
+            "Digital twins"
+          ]
+        },
+        {
+          "theme": "Human and Organizational Factors",
+          "subtopics": [
+            "Human factors in design and operation",
+            "Organizational change management",
+            "Cross-disciplinary collaboration"
+          ]
+        },
+        {
+          "theme": "Case Studies and Domain-Specific Applications",
+          "subtopics": [
+            "Defense and autonomous systems",
+            "Smart cities and transportation",
+            "Healthcare approaches",
+            "Energy systems",
+            "Environmental systems"
+          ]
+        },
+        {
+          "theme": "Emerging Challenges and Future Directions",
+          "subtopics": [
+            "Cybersecurity in complex systems",
+            "Social and ethical considerations",
+            "Monitoring frameworks for performance"
+          ]
+        }
+      ],
+      "important_dates": {
+        "abstract_submission": "September 1, 2025",
+        "notification_of_abstracts": "September 15, 2025",
+        "full_chapter_submission": "December 15, 2025",
+        "notification_of_full_chapters": "January 15, 2026",
+        "camera_ready_copy": "March 1, 2026"
+      },
+      "submission_guidelines": {
+        "requirements": "Original, unpublished contributions not under review elsewhere.",
+        "chapter_length": "Approx. 7,500 words.",
+        "co_authorship": "Encouraged.",
+        "proposal_length": "500-1,000 words."
+      },
+      "submission_link": "https://easychair.org/conferences/?conf=sose2025",
+      "contact_email": "[log in to unmask]"
+    }
+  }
+}

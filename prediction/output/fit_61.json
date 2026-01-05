@@ -1,0 +1,500 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": [
+      "programming paradigms and styles",
+      "methods and tools to specify and reason about programs and languages",
+      "programming language foundations",
+      "methods and tools for implementation, concurrency and distribution",
+      "applications and emerging topics"
+    ],
+    "responsibilities": [
+      "advance the state-of-the-art on the theory and practice of programming languages and systems",
+      "report on systems and techniques developed in practice",
+      "promote new insights on programming languages and systems"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": null,
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": [
+        null
+      ]
+    },
+    "submission_info": {
+      "submission_types": [
+        "Research Papers",
+        "Experience Reports",
+        "Fresh Perspectives"
+      ],
+      "submission_deadline": "June 3, 2025",
+      "application_link": "https://esop26.hotcrp.com/",
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://etaps.org/2026/important-dates",
+    "event": {
+      "name": "ESOP",
+      "abbreviation": null,
+      "dates": "2026"
+    },
+    "dates": {
+      "start": null,
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        {
+          "description": null,
+          "amount": null
+        }
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "double-blind",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "25",
+          "format": "Springer's LNCS",
+          "identification": "anonymized submissions"
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Springer's Lecture Notes in Computer Science",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "June 3, 2025",
+      "notification_of_acceptance": "August 1, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": "October 16, 2025",
+      "final_notification_to_authors": "December 22, 2025"
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "ESOP 2026 - Second Call for Papers",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ],
+      "additional_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Fri, 23 May 2025 14:21:41 -0000",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Robbert Krebbers",
+        "institution": "Radboud University Nijmegen, Netherlands"
+      },
+      {
+        "name": "Alasdair Armstrong",
+        "institution": "University of Cambridge, UK"
+      },
+      {
+        "name": "Aslan Askarov",
+        "institution": "Aarhus University, Denmark"
+      },
+      {
+        "name": "Mohamed Faouzi Atig",
+        "institution": "Uppsala University, Sweden"
+      },
+      {
+        "name": "Andrej Bauer",
+        "institution": "University of Ljubljana, Slovenia"
+      },
+      {
+        "name": "Veronique Benzaken",
+        "institution": "LMF Université Paris-Saclay, France"
+      },
+      {
+        "name": "Małgorzata Biernacka",
+        "institution": "University of Wrocław, Poland"
+      },
+      {
+        "name": "Liang-Ting Chen",
+        "institution": "Academia Sinica, Taiwan"
+      },
+      {
+        "name": "Raphaëlle Crubillé",
+        "institution": "Aix Marseille Univ, CNRS, LIS, France"
+      },
+      {
+        "name": "Deepak D'Souza",
+        "institution": "Indian Institute of Science, India"
+      },
+      {
+        "name": "Ankush Das",
+        "institution": "Boston University, USA"
+      },
+      {
+        "name": "Farzaneh Derakhshan",
+        "institution": "Illinois Institute of Technology, USA"
+      },
+      {
+        "name": "Emanuele D’Osualdo",
+        "institution": "University of Konstanz, Germany"
+      },
+      {
+        "name": "Paulo Emílio de Vilhena",
+        "institution": "Imperial College London, UK"
+      },
+      {
+        "name": "Francesco Gavazzo",
+        "institution": "University of Padua, Italy"
+      },
+      {
+        "name": "Justin Hsu",
+        "institution": "Cornell University, USA"
+      },
+      {
+        "name": "Ambrus Kaposi",
+        "institution": "Eötvös Loránd University, Hungary"
+      },
+      {
+        "name": "Sven Keidel",
+        "institution": "TU Darmstadt, Germany"
+      },
+      {
+        "name": "Ori Lahav",
+        "institution": "Tel Aviv University, Israel"
+      },
+      {
+        "name": "Christoph Matheja",
+        "institution": "University of Oldenburg and DTU Compute, Germany"
+      },
+      {
+        "name": "Andreia Mordido",
+        "institution": "LASIGE, University of Lisbon, Portugal"
+      },
+      {
+        "name": "Christopher Pulte",
+        "institution": "University of Cambridge, UK"
+      },
+      {
+        "name": "Jorge A. Pérez",
+        "institution": "University of Groningen, Netherlands"
+      },
+      {
+        "name": "Ryosuke Sato",
+        "institution": "Tokyo University of Agriculture and Technology, Japan"
+      },
+      {
+        "name": "Ilya Sergey",
+        "institution": "National University of Singapore, Singapore"
+      },
+      {
+        "name": "Kathrin Stark",
+        "institution": "Heriot-Watt University, UK"
+      },
+      {
+        "name": "Bernardo Toninho",
+        "institution": "NOVA FCT and NOVA LINCS, Portugal"
+      },
+      {
+        "name": "Jana Wagemaker",
+        "institution": "Radboud University Nijmegen, Netherlands"
+      },
+      {
+        "name": "John Wickerson",
+        "institution": "Imperial College London, UK"
+      },
+      {
+        "name": "Fabio Zanasi",
+        "institution": "University College London, UK"
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": null,
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      null
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "ESOP 2026",
+    "event_details": {
+      "date": null,
+      "location": null,
+      "submission_link": "https://esop26.hotcrp.com/"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  }
+}

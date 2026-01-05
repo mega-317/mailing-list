@@ -1,0 +1,87 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "May 31, 2025",
+      "submission_topics": [
+        "The use of foundation models for supporting the completion of different modeling artifacts",
+        "The use of foundation models for supporting the development of domain-specific language (DSL), abstract and concrete syntax",
+        "The use of foundation models in industrial MBE systems",
+        "The use of foundation models to support software architecture and requirement engineering",
+        "The use of foundation models to support low-code development platforms",
+        "Fine-tuned models for supporting MBE, MDE, MDD, and MDA tasks",
+        "Generation of synthetic datasets for MBE using foundation models",
+        "MBE techniques to support the development of foundation models, pre-trained models, or large language models",
+        "MBE paradigms for specifying prompt engineering techniques for large language models",
+        "Systematic literature review, systematic mapping study, and multi-vocal studies on the intersection between MBE and foundation models",
+        "Empirical studies, experience reports, and surveys on the usage of foundation models for MBE systems"
+      ],
+      "submission_instructions": {
+        "submission_link": "https://edu.lu/xpnxj",
+        "guidelines_link": "https://edu.lu/axctf"
+      }
+    },
+    "contact_person": {
+      "guest_editors": [
+        {
+          "name": "Claudio Di Sipio"
+        },
+        {
+          "name": "Silvia Abrahão"
+        },
+        {
+          "name": "Martin Weyssow"
+        },
+        {
+          "name": "Fabio Palomba"
+        }
+      ]
+    },
+    "website": null,
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue of the Information and Software Technology journal aims to provide a venue for researchers to present insights, experiences, innovations, and solutions at the intersection of model-based software engineering and foundation models.",
+    "submission_details": {
+      "notes": "Papers submitted to the Special Issue should present original, unpublished work, relevant to one of its topics, outlined above. Extensions of previously published material are accepted, if the extensions are substantial, and the relation to previously published material is clearly explained within the manuscript."
+    },
+    "publication_details": {
+      "review_process": "All submissions will undergo a rigorous reviewing process by independent reviewers who are experts in this field. The review process will assess submissions based on several key criteria, including relevance, significance of contribution, technical quality, scholarship, potential impact, and quality of presentation."
+    },
+    "important_dates": {
+      "submission_deadline": "May 31, 2025"
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

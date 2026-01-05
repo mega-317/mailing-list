@@ -1,0 +1,128 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Rio de Janeiro, Brazil",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "Friday, July 18, 2025",
+      "submission_details": {
+        "submission_cycles": [
+          {
+            "cycle_name": "First Submission Cycle",
+            "status": "In Progress"
+          },
+          {
+            "cycle_name": "Second Submission Cycle",
+            "important_dates": {
+              "author_response_period": "September 23-25, 2025",
+              "notification": "October 17, 2025",
+              "revision_due": "November 14, 2025",
+              "final_decision": "December 19, 2025"
+            }
+          }
+        ]
+      },
+      "submission_guidelines": {
+        "format": "PDF",
+        "template": "ACM Primary Article Template",
+        "page_limit": "10 pages (inclusive of figures, tables, appendices)",
+        "extra_pages": "1 extra page for camera-ready version"
+      },
+      "submission_link": "https://icse2026.hotcrp.com/"
+    },
+    "contact_person": {
+      "co_chairs": [
+        {
+          "name": "Mira Mezini",
+          "role": "ICSE 2026 Program Committee Co-chair"
+        },
+        {
+          "name": "Thomas Zimmermann",
+          "role": "ICSE 2026 Program Committee Co-chair"
+        }
+      ]
+    },
+    "website": "https://conf.researchr.org/home/icse-2026",
+    "event": {
+      "name": "International Conference on Software Engineering (ICSE) 2026 Research Track",
+      "dates": "April 12-18, 2026",
+      "event_format": "In-person",
+      "scope": {
+        "description": "ICSE welcomes submissions addressing topics across the full spectrum of Software Engineering.",
+        "research_areas": [
+          "AI for Software Engineering",
+          "Analytics",
+          "Architecture and Design",
+          "Dependability and Security",
+          "Evolution",
+          "Human and Social Aspects",
+          "Requirements and Modeling",
+          "Software Engineering for AI",
+          "Testing and Analysis"
+        ]
+      }
+    },
+    "dates": {
+      "important_dates": {
+        "submission_deadline": "Friday, July 18, 2025",
+        "author_response_period": "September 23-25, 2025",
+        "notification": "October 17, 2025",
+        "revision_due": "November 14, 2025",
+        "final_decision": "December 19, 2025"
+      }
+    },
+    "co_located_events": null,
+    "registration": {
+      "requirement": "At least one author must register for ICSE 2026 to present the paper."
+    },
+    "description": "The ICSE is the premier forum for presenting and discussing recent and significant technical research contributions in Software Engineering.",
+    "submission_details": {
+      "submission_format": "PDF",
+      "main_text_limit": "10 pages",
+      "additional_pages": "2 for references",
+      "submission_policy": "Submissions must not have been published elsewhere."
+    },
+    "publication_details": {
+      "open_access": "Starting in 2026, all articles published by ACM will be made Open Access.",
+      "apc_info": "Authors not covered by ACM OPEN agreements may have to pay Article Processing Charges (APC); however, ACM offers automated and discretionary APC Waivers and Discounts."
+    },
+    "important_dates": {
+      "submission_deadline": "July 18, 2025",
+      "notification": "October 17, 2025",
+      "revision_due": "November 14, 2025",
+      "final_decision": "December 19, 2025"
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AI for Software Engineering",
+      "Analytics",
+      "Architecture and Design",
+      "Dependability and Security",
+      "Evolution",
+      "Human and Social Aspects",
+      "Requirements and Modeling",
+      "Software Engineering for AI",
+      "Testing and Analysis"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": {
+      "guideline_info": "Submissions must conform to IEEE Submission and Peer Review Policy."
+    },
+    "registration_link": null
+  }
+}

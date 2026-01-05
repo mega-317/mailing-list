@@ -1,69 +1,71 @@
 {
-  "summary_1": {
+  "summary": {
     "position": null,
-    "institution": "IEEE iMETA 2025 Organizing Committee",
+    "institution": null,
     "location": "Dubrovnik, Croatia",
-    "research_focus": "Intelligent Metaverse Technologies & Applications",
+    "research_focus": [
+      "Intelligent Metaverse Technologies & Applications"
+    ],
     "responsibilities": [
-      null
+      "Participate in keynote speeches, panel discussions, and presentations"
     ],
     "employment_terms": {
       "initial_research_proportion": null,
-      "resources": null
+      "resources": null,
+      "contract_duration": null
     },
-    "collaboration": null,
+    "collaboration": "Opportunities for networking, knowledge sharing, and future initiative collaboration.",
     "eligibility": {
       "qualifications": null,
       "preference": null,
       "special_considerations": null
     },
-    "application_deadline": null,
+    "submission_info": {
+      "submission_types": [
+        "Late Track Submission",
+        "Workshop Papers"
+      ],
+      "submission_deadline": "July 30, 2025",
+      "application_link": "https://easychair.org/my/conference?conf=imeta2025"
+    },
     "contact_person": {
       "name": null,
       "department": null,
       "phone": null,
       "email": null
     },
-    "application_link": "https://easychair.org/my/conference?conf=imeta2025"
-  },
-  "summary_2": {
-    "event": "3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
-    "topic": null,
-    "submission_info": {
-      "submission_types": [
-        "Papers"
-      ],
-      "notification_date": "August 20, 2025"
+    "website": "https://imeta-conference.org/",
+    "event": {
+      "name": "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
+      "abbreviation": "iMETA 2025"
     },
-    "event_details": {
-      "dates": "14-17 October 2025",
-      "co_location": null
-    }
-  },
-  "summary_3": {
+    "dates": {
+      "start": "2025-10-14",
+      "end": "2025-10-17"
+    },
     "co_located_events": [
       {
-        "name": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse",
+        "name": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse (IDTSC)",
         "website": "https://imeta-conference.org/2025/workshops#WS1"
       },
       {
-        "name": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse",
+        "name": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse (BCIME)",
         "website": "https://imeta-conference.org/2025/workshops#WS2"
       },
       {
-        "name": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems",
+        "name": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems (EASME)",
         "website": "https://imeta-conference.org/2025/workshops#WS3"
       },
       {
-        "name": "1st International Workshop on Generative AI for Immersive Experience Design",
+        "name": "1st International Workshop on Generative AI for Immersive Experience Design (GAIXR)",
         "website": "https://imeta-conference.org/2025/workshops#WS4"
       },
       {
-        "name": "1st International Workshop on AI-Enhanced Learning Worlds",
+        "name": "1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)",
         "website": "https://imeta-conference.org/2025/workshops#WS5"
       },
       {
-        "name": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse",
+        "name": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse (SPAAUM)",
         "website": "https://imeta-conference.org/2025/workshops#WS6"
       }
     ],
@@ -78,21 +80,21 @@
     },
     "registration": {
       "cost": null,
-      "inquiries_contact": null
-    }
-  },
-  "summary_4": {
-    "description": "The conference aims to provide attendees with a comprehensive understanding of the communication, computing, and system requirements of the metaverse.",
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "The conference aims to bring together leading researchers, academics, and industry experts to explore various aspects of the metaverse.",
     "submission_details": {
       "languages": [
         "English"
       ],
-      "review_process": "double-blind",
+      "review_process": null,
       "submission_requirements": {
         "English_papers": {
-          "page_limit": 6,
+          "page_limit": "6 pages for review, 8 pages for camera-ready",
           "format": "IEEE Conference Proceedings Format, double-column layout, 10-point font, letter-sized paper",
-          "identification": "original, not previously published, or under review by another conference or journal"
+          "identification": null
         },
         "Spanish_Portuguese_papers": {
           "page_limit": null,
@@ -114,7 +116,7 @@
     "publication_details": {
       "accepted_papers": {
         "English": {
-          "publication": "submitted to IEEEXplore, dblp and Scopus for inclusion",
+          "publication": "IEEE Xplore, dblp, Scopus",
           "indexing": [
             null
           ]
@@ -135,94 +137,11 @@
       "paper_submission": "July 30, 2025",
       "notification_of_acceptance": "August 20, 2025",
       "registration_payment_deadline": null,
-      "camera_ready_submission_deadline": "August 31, 2025"
-    }
-  },
-  "summary_5": {
-    "website": "https://imeta-conference.org/",
-    "call_for_papers": {
-      "description": null,
-      "submission_instructions": {
-        "peer_review_process": null,
-        "format_requirements": [
-          "IEEE Conference Proceedings Format, double-column layout, 10-point font, letter-sized paper"
-        ],
-        "track_requirements": {
-          "Research Track": null,
-          "Industrial Papers Track": null,
-          "Short Papers and Posters Track": null,
-          "Early Research Achievement (ERA) Track": null,
-          "Reproducibility Studies and Negative Results (RENE) Track": null,
-          "Tool Demo Track": null,
-          "Journal-First Papers Track": null,
-          "Registered Report Track": null
-        },
-        "double_anonymous_review": null
-      },
-      "special_journal_issue": null,
-      "workshop_information": {
-        "description": null,
-        "submission_deadline": null,
-        "organization_requirements": [
-          null
-        ]
-      },
-      "tutorial_information": {
-        "description": null,
-        "submission_instructions": {
-          "max_length": null,
-          "evaluation_criteria": [
-            null
-          ]
-        }
-      },
-      "important_dates": {
-        "Research Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "Industrial Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "workshop_and_tutorials": {
-          "Workshop Proposals Submission": null,
-          "Workshop Proposals Notification": null,
-          "Tutorial Proposals Submission": null,
-          "Tutorial Proposals Notification": null,
-          "Tutorial Camera-Ready Version": null
-        }
-      }
-    },
-    "organizing_committee": {
-      "General Chair": null,
-      "Local Organizing Chair": null,
-      "Program Chairs": [
-        null
-      ],
-      "Industrial Chairs": [
-        null
-      ],
-      "shortPapersAndPostersChairs": [
-        null
-      ],
-      "workshopTutorialChairs": [
-        null
-      ]
-    }
-  },
-  "summary_6": {
-    "department": null,
-    "position_type": null,
-    "note": null
-  },
-  "summary_7": {
-    "registration": {
-      "early_bird_deadline": null
+      "camera_ready_submission_deadline": "August 31, 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": "July 30, 2025",
+      "abstract_due": null,
+      "papers_due": null
     },
     "program_highlights": [
       null
@@ -242,114 +161,80 @@
       "accessibility": null
     },
     "networking_opportunity": {
-      "engagement_with_researchers": null,
+      "engagement_with_researchers": "Opportunities for networking and collaboration.",
       "more_info": null
     },
-    "sponsors": null
-  },
-  "summary_8": {
+    "sponsors": "IEEE",
+    "subject": "Late Track& Workshops] IEEE iMETA 2025: The 3rd International Conference on Intelligent Metaverse Technologies & Applications, Dubrovnik, Croatia [Hybrid Conference]",
     "reference_number": null,
+    "school": null,
     "closing_date": null,
-    "position_details": {
-      "role": null,
-      "main_activities_responsibilities": [
-        null
-      ]
-    },
     "candidate_requirements": {
       "education": null,
       "research_experience": [
         null
       ]
     },
-    "contract_duration": null,
     "benefits": [
       null
     ],
     "equality_commitment": null,
-    "visa_information": null
-  },
-  "summary_9": {
-    "format": null,
+    "visa_information": null,
     "topics_of_interest": [
+      "Large Language Models (LLMs) in the Metaverse",
+      "Native AI for Metaverse Technologies",
+      "Security and Privacy",
+      "Networking and Communications",
+      "Systems and Computing",
+      "Multimedia and Computer Vision",
+      "Immersive Technologies and Services",
+      "Storage and Processing"
+    ],
+    "community_invitation": null,
+    "sender": "IEEE iMETA 2025 Organizing Committee",
+    "date": "2025-07-07",
+    "affiliated_universities": [
       null
     ],
-    "call_for_papers": {
-      "submission_requirements": {
-        "submission_method": "PDF",
-        "pdf_format": "original, double-column layout"
-      },
-      "presentation_requirement": null,
-      "originality_policy": null
-    },
-    "important_dates": {
-      "workshop_paper_submission_deadline": null
-    },
-    "community_invitation": null
-  },
-  "summary_10": {
-    "subject": "Late Track& Workshops] IEEE iMETA 2025",
-    "sender": "SEWORLD Moderator",
-    "date": "Mon, 7 Jul 2025 03:10:35 -0000",
-    "opportunity": {
-      "positions": [
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
         {
-          "title": null,
-          "duration": null
+          "name": null,
+          "topics": [
+            null
+          ]
         }
       ],
-      "contract_terms": null
-    },
-    "focus_areas": [
-      null
-    ],
-    "software_engineering_focus": {
       "contact_advisory": null
     },
-    "contact_person": {
-      "institution": null,
-      "address": null,
-      "website": null
-    }
-  },
-  "summary_11": {
-    "calls": [
-      {
-        "type": "Late Track Submission",
-        "theme": "Intelligent Metaverse Technologies & Applications",
-        "important_dates": {
-          "abstract_due": null,
-          "papers_due": "July 30, 2025"
-        },
-        "submission_guidelines": null
-      }
-    ],
-    "workshop_proposals": {
-      "accepting": null,
-      "details": null,
-      "submission_deadline": null,
-      "submission_guidelines": null
+    "submission_guidelines": {
+      "Research_Track": "Submissions should adhere to the IEEE Conference Proceedings Format.",
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
     },
-    "closing_statement": null
-  },
-  "summary_12": {
+    "closing_statement": null,
     "special_issue": {
+      "title": null,
       "publication_year": null,
-      "focus": null
-    },
-    "submission_details": {
-      "broad_area": null,
-      "timelines": {
-        "first_reviews": null,
-        "revisions_due": null,
-        "outcome_of_revised_papers": null,
-        "papers_online": null,
-        "special_issue_implementation": null
-      }
+      "focus": null,
+      "themes": [
+        null
+      ]
     },
     "editor_contacts": [
       null
     ],
-    "queries_contact": null
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    }
   }
 }

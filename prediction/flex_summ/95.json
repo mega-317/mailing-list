@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Shenzhen, China",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "workshop_proposals": {
+        "description": "ICSOC is inviting applicants to submit proposals for high-quality workshops contributing to the scientific program of the main conference.",
+        "submission_deadline": "20 June 2024 (AoE)",
+        "contact": "Workshop Co-chairs",
+        "submission_link": "https://icsoc2025.hit.edu.cn/19950/list.htm"
+      }
+    },
+    "contact_person": {
+      "workshop_chairs": [
+        {
+          "name": "Jianwen Su",
+          "institution": "University of California at Santa Barbara, CA, USA"
+        },
+        {
+          "name": "Xiao Xue",
+          "institution": "Tianjin University, China"
+        },
+        {
+          "name": "Sami Yangui",
+          "institution": "LAAS-CNRS, Toulouse, France"
+        }
+      ]
+    },
+    "website": "https://icsoc2025.hit.edu.cn",
+    "event": "23rd International Conference on Service-Oriented Computing (ICSOC 2025)",
+    "dates": {
+      "event_dates": "December 1-4, 2025",
+      "important_dates": {
+        "notification_to_applicants": "27 June 2025 (AoE)",
+        "workshop_date": "01 December 2025 (AoE)"
+      }
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The workshop program seeks to provide venues for specialist groups to meet and hold a focused discussion on specific sub-areas within Service-Oriented Computing, and to engage in community-building activities.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

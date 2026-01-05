@@ -1,0 +1,138 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Paris, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+      "submission_categories": [
+        {
+          "category": "Vision papers",
+          "page_limit": 6,
+          "description": "describe directions for research into Formal Methods for Autonomous Systems"
+        },
+        {
+          "category": "Research previews",
+          "page_limit": 6,
+          "description": "describe well-defined research ideas that are in their early stages"
+        },
+        {
+          "category": "Experience report papers",
+          "page_limit": 15,
+          "description": "report on practical experiences in applying Formal Methods to Autonomous Systems"
+        },
+        {
+          "category": "Regular papers",
+          "page_limit": 15,
+          "description": "describe completed applications of Formal Methods to an Autonomous System"
+        }
+      ],
+      "submission_guidelines": "Submissions must be prepared using the EPTCS LaTeX style.",
+      "review_process": "Each submission will receive at least three single-blind reviews."
+    },
+    "contact_person": null,
+    "website": "https://fmasworkshop.github.io/FMAS2025/",
+    "event": "7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)",
+    "dates": {
+      "workshop": {
+        "start": "2025-11-17",
+        "end": "2025-11-19"
+      },
+      "important_dates": [
+        {
+          "event": "Submission deadline",
+          "date": "2025-08-22"
+        },
+        {
+          "event": "Notification date",
+          "date": "2025-10-06"
+        },
+        {
+          "event": "Final version deadline",
+          "date": "2025-10-17"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "event_name": "International Conference on Integrated Formal Methods (iFM) 2025",
+        "event_website": "https://ifm2025.ens.psl.eu/"
+      }
+    ],
+    "registration": {
+      "requirements": "At least one author per paper must register for, and attend, the workshop to present their work."
+    },
+    "description": "FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems.",
+    "submission_details": {
+      "categories": [
+        "Vision papers",
+        "Research previews",
+        "Experience report papers",
+        "Regular papers"
+      ],
+      "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+      "prepared_using": "EPTCS LaTeX style"
+    },
+    "publication_details": {
+      "publisher": "EPTCS",
+      "best_paper_award": "FMAS 2025 will honour the best paper selected with respect to reviews, programme committee discussions, and conference presentations with an award."
+    },
+    "important_dates": [
+      {
+        "type": "Submission",
+        "date": "22nd of August 2025"
+      },
+      {
+        "type": "Notification",
+        "date": "6th of October 2025"
+      },
+      {
+        "type": "Final version",
+        "date": "17th of October 2025"
+      },
+      {
+        "type": "Workshop",
+        "date": "17th to 19th of November 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Applicable, tool-supported Formal Methods that are suited to Autonomous Systems",
+      "Runtime Verification or other formal approaches to deal with the reality gap",
+      "Verification against safety assurance arguments or standards documents",
+      "Formal specification, modelling, and requirements engineering approaches for autonomous systems",
+      "Case Studies that identify challenges when applying formal methods to autonomous systems",
+      "Experience Reports that provide guidance for tackling challenges with formal methods or tools",
+      "Discussions of the future directions of the field",
+      "Special Topic: Formal methods for human-AI teamwork"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

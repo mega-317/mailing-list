@@ -1,0 +1,253 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Melbourne, Australia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Universities, research centers, industries, and stakeholders",
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://www.ieee-aiot.org",
+    "event": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+    "dates": {
+      "event_dates": "24–26 July 2024",
+      "important_dates": [
+        {
+          "description": "Paper Submission",
+          "date": "8 May 2024"
+        },
+        {
+          "description": "Notification of Acceptance",
+          "date": "10 June 2024"
+        },
+        {
+          "description": "Final Manuscript (Camera Ready)",
+          "date": "3 July 2024"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The IEEE AIoT Conference aims to explore the integration of artificial intelligence (AI) technologies into the Internet of Things (IoT) systems and devices.",
+    "submission_details": {
+      "link": "https://easychair.org/my/conference?conf=aiot2024",
+      "format": "IEEE style pages",
+      "page_limit": 6,
+      "extra_page_fee": "$100",
+      "review_process": "standard reviewing procedure with at least 3 independent anonymous reviews",
+      "publication_details": "All of the accepted papers will be published on IEEE Xplore®."
+    },
+    "publication_details": {
+      "best_paper_awards": 3,
+      "recommended_journals": [
+        {
+          "name": "IEEE Internet of Things Journal",
+          "impact_factor": 10.238
+        },
+        {
+          "name": "Digital Communications and Networks",
+          "impact_factor": 7.9
+        }
+      ]
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Edge AI and Distributed Intelligence",
+      "Machine Learning for IoT Applications",
+      "Mobile deployment of LLMs",
+      "Generative AI and LLMs for IoT applications",
+      "AI-empowered Robotics and Sensing for IoT",
+      "Smart Cities: AI and IoT Solutions",
+      "Security and Privacy in AI-driven IoT Systems",
+      "5G and its Impact on AI and IoT",
+      "Blockchain Technology for Securing IoT Devices",
+      "Human-Machine Interaction in IoT Environments",
+      "IoT Sensors and Actuators: Innovations and Advances",
+      "AI-driven Data Analytics and Decision-making",
+      "Energy-Efficient AI Algorithms for IoT Devices",
+      "IoT in Healthcare: Applications and Challenges",
+      "Industrial IoT (IIoT) and AI for Manufacturing",
+      "Smart Agriculture: AI and IoT in Precision Farming",
+      "Ethical Considerations in AI-powered IoT Systems",
+      "IoT Standards and Interoperability",
+      "Robotic Process Automation (RPA) in IoT",
+      "AI-driven Automation in Supply Chain Management",
+      "IoT Analytics and Big Data Processing",
+      "AI in Edge Devices: Challenges and Solutions",
+      "Wireless Sensor Networks in AI and IoT",
+      "IoT for Environmental Monitoring and Sustainability",
+      "AI and IoT in Transportation and Logistics",
+      "Cross-domain Integration of AI and IoT Technologies",
+      "Privacy, Security, and Trustworthiness",
+      "Standardization and Interoperability",
+      "Demonstrations, Proof-of-Concepts, and Deployments"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "role": "General Chairs",
+        "names": [
+          {
+            "name": "Wei Xiang",
+            "institution": "La Trobe University, Australia"
+          },
+          {
+            "name": "Carla Fabiana Chiasserini",
+            "institution": "Politecnico di Torino, Italy"
+          }
+        ]
+      },
+      {
+        "role": "TPC Chairs",
+        "names": [
+          {
+            "name": "Dusit Niyato",
+            "institution": "Nanyang Technological University, Singapore"
+          },
+          {
+            "name": "Ruidong Li",
+            "institution": "Kanazawa University, Japan"
+          },
+          {
+            "name": "Prasad Kodaypak",
+            "institution": "The XMG, USA"
+          }
+        ]
+      },
+      {
+        "role": "Keynote Chair",
+        "name": {
+          "name": "Song Guo",
+          "institution": "Hong Kong University of Science and Technology, China"
+        }
+      },
+      {
+        "role": "Industry Forum Chair",
+        "name": {
+          "name": "Henry Leung",
+          "institution": "University of Calgary"
+        }
+      },
+      {
+        "role": "Tutorial Chair",
+        "names": [
+          {
+            "name": "Flora Salim",
+            "institution": "University of New South Wales, Australia"
+          },
+          {
+            "name": "JaeSeung Song",
+            "institution": "Sejong University, South Korea"
+          }
+        ]
+      },
+      {
+        "role": "Workshop Chairs",
+        "names": [
+          {
+            "name": "Teng Joon Lim",
+            "institution": "University of Sydney, Australia"
+          },
+          {
+            "name": "Jia Hu",
+            "institution": "University of Exter, U. K."
+          }
+        ]
+      },
+      {
+        "role": "Poster Chairs",
+        "names": [
+          {
+            "name": "Pietro Manzoni",
+            "institution": "Universidad Politécnica de Valencia, Spain"
+          },
+          {
+            "name": "Xiang Sun",
+            "institution": "University of Mexico, USA"
+          }
+        ]
+      },
+      {
+        "role": "Publicity Chairs",
+        "names": [
+          {
+            "name": "Zhengxin Yu",
+            "institution": "Lancaster University, U. K."
+          }
+        ]
+      },
+      {
+        "role": "Publication Chairs",
+        "names": [
+          {
+            "name": "Constandinos X. Mavromoustakis",
+            "institution": "University of Nicosia, Cyprus"
+          },
+          {
+            "name": "Peng Cheng",
+            "institution": "La Trobe University, Australia"
+          }
+        ]
+      },
+      {
+        "role": "Registration Chair",
+        "name": {
+          "name": "Wei Wang",
+          "institution": "San Diego State University"
+        }
+      },
+      {
+        "role": "Web Chair",
+        "name": {
+          "name": "Haihan Nan",
+          "institution": "Kanazawa University, Japan"
+        }
+      },
+      {
+        "role": "Financial Chair",
+        "name": {
+          "name": "Kang Han",
+          "institution": "La Trobe University, Australia"
+        }
+      },
+      {
+        "role": "Local Chair",
+        "names": [
+          {
+            "name": "Kan Yu",
+            "institution": "La Trobe University, Australia"
+          },
+          {
+            "name": "Phu Lai",
+            "institution": "La Trobe University, Australia"
+          }
+        ]
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

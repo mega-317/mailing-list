@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": true,
+  "has_submission_deadline": true,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "There is a co-located event (FLTA 2025), indicating multiple primary events, which means it does not satisfy the requirement for a single main event."
+}

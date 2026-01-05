@@ -1,0 +1,118 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Recife, Pernambuco, Brazil",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": {
+      "applicants": [
+        {
+          "type": "Ph.D. and MSc students",
+          "description": "Must be from Latin American institutions, or have received the Ph.D. degree on or after 2024."
+        },
+        {
+          "type": "Undergraduate students",
+          "description": "Highly motivated students may be accepted."
+        }
+      ],
+      "research_focus": "Must be working with software engineering topics."
+    },
+    "submission_info": {
+      "documents_required": [
+        {
+          "name": "Structured abstract",
+          "description": "Must describe the research plan; 1-page limit."
+        },
+        {
+          "name": "Poster",
+          "description": "Should outline research; dimensions 122cm x 92cm."
+        },
+        {
+          "name": "Publications list",
+          "description": "List of papers published from 2022 to 2025."
+        }
+      ],
+      "submission_link": "https://jems3.sbc.org.br/latamschool2025"
+    },
+    "contact_person": {
+      "name": "Prof. Lina Garcés",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://cbsoft.sbc.org.br/2025/escola",
+    "event": "5th LATAM School in Software Engineering Research",
+    "dates": {
+      "application_deadline": "June 30th, 2025",
+      "notification_date": "July 20th, 2025",
+      "event_dates": [
+        "September 22nd, 2025",
+        "September 23rd, 2025"
+      ]
+    },
+    "co_located_events": [
+      {
+        "name": "CBSoft - XVI Brazilian Conference on Software: Practice and Theory",
+        "event_dates": [
+          "September 22nd to 26th, 2025"
+        ]
+      }
+    ],
+    "registration": {
+      "details": "Free registration for the School including lunch and coffee break.",
+      "financial_support": "Some participants may receive financial support, subject to available funding."
+    },
+    "description": "An in-person event to help new and future Software Engineering (SE) researchers integrate into the community.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": [
+      {
+        "date": "June 30th, 2025",
+        "event": "Application deadline"
+      },
+      {
+        "date": "July 20th, 2025",
+        "event": "Notification of acceptance"
+      }
+    ],
+    "program_highlights": {
+      "mentoring_program": "Students grouped by topics; at least one mentor per student.",
+      "keynote_topics": [
+        "Research methodologies",
+        "Open Science",
+        "Industry research",
+        "Life balance and health"
+      ],
+      "panel": {
+        "description": "Panel with 3-4 experienced researchers."
+      }
+    },
+    "subject": null,
+    "school": "5th LATAM School",
+    "closing_date": "June 30th, 2025",
+    "candidate_requirements": null,
+    "benefits": [
+      "Free registration for the School including lunch and coffee.",
+      "Free participation in CBSoft."
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": "Students and young researchers invited to apply.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": "In-person event.",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

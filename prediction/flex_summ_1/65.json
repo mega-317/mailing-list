@@ -1,0 +1,64 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Sydney, Australia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "call_for_papers": "ACM/IEEE International Symposium on Code Generation and Optimization (CGO 2026)",
+      "submission_link": "https://2026.cgo.org/track/cgo-2026-papers",
+      "important_dates": [
+        {
+          "event": "Paper Submission",
+          "date": "29 May 2025"
+        },
+        {
+          "event": "Author Rebuttal Period",
+          "date": "8–10 July 2025"
+        },
+        {
+          "event": "Paper Notification",
+          "date": "21 July 2025"
+        }
+      ]
+    },
+    "contact_person": "Luisa Cicolini",
+    "website": "https://2026.cgo.org/",
+    "event": "International Symposium on Code Generation and Optimization (CGO 2026)",
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "CGO provides a premier venue to bring together researchers and practitioners working at the interface of hardware and software on a wide range of optimization and code generation techniques and related issues.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": "The conference spans the spectrum from purely static to fully dynamic approaches, and from pure software-based methods to specific architectural features and support for code generation and optimisation.",
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

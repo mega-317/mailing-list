@@ -1,0 +1,385 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Marrakech, Morocco",
+    "research_focus": [
+      "Theoretical aspects of computing"
+    ],
+    "responsibilities": [
+      "Present research and exchange ideas and experiences within theoretical aspects of computing"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "collaboration": "Promote research cooperation between developing and industrial countries",
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": [
+        null
+      ]
+    },
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": null,
+      "application_link": null,
+      "platform": null
+    },
+    "contact_person": {
+      "name": "Martin Leucker",
+      "department": "Institute for Software Engineering and Programming Languages",
+      "phone": "+49/451/3101 6500",
+      "email": "[log in to unmask]",
+      "address": "University of Luebeck, Germany"
+    },
+    "website": "https://ictac2025.digital-hub.sh/",
+    "event": {
+      "name": "International Colloquium on Theoretical Aspects of Computing",
+      "abbreviation": "ICTAC",
+      "dates": "November 24th to 28th, 2025"
+    },
+    "dates": {
+      "start": "2025-11-24",
+      "end": "2025-11-28"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "Antoine Girard",
+        "topic": null
+      },
+      {
+        "name": "Klaus Havelund",
+        "topic": null
+      },
+      {
+        "name": "Joost-Pieter Katoen",
+        "topic": null
+      },
+      {
+        "name": "Kim Guldstrand Larsen",
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Springer's Lecture Notes in Computer Science",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "2025-07-09",
+      "notification_of_acceptance": "2025-08-30",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "2025-09-15",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": "2025-07-03",
+      "papers_due": null,
+      "application_deadline": null
+    },
+    "program_highlights": [
+      "Best Paper Award with a cash prize of 1.000 Euro"
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      "Springer"
+    ],
+    "subject": "Deadline Extended: CfP ICTAC'2025",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Formal languages and automata",
+      "Semantics of programming languages",
+      "Logic in computer science",
+      "Lambda calculus, type theory, and category theory",
+      "Domain-specific languages",
+      "Theories of concurrency and mobility",
+      "Theories of distributed computing",
+      "Models of objects and components",
+      "Coordination models",
+      "Security and privacy",
+      "Static analysis",
+      "Software verification",
+      "Timed, hybrid, and cyber-physical systems",
+      "Verification, analysis and control synthesis",
+      "Software testing",
+      "Program generation and transformation",
+      "Model checking and theorem-proving",
+      "Quantum computing",
+      "Trustworthy AI",
+      "Machine learning algorithms",
+      "Applications and experience"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "2025-06-19",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      "Ahmed Bouajjani, Université de Paris, France",
+      "Mohammed Erradi, ENSIAS, UM5R, Morocco",
+      "Zhiming Liu, Southwest University, China",
+      "Adnane Saoud, UM6P, Morocco",
+      "Heike Wehrheim, University of Oldenburg, Germany"
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "key_topics": [
+        {
+          "theme": null,
+          "subtopics": [
+            null
+          ]
+        }
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": null,
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": null,
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "ICTAC'2025",
+    "event_details": {
+      "date": "2025-11-24 to 2025-11-28",
+      "location": "Marrakech, Morocco",
+      "submission_link": null
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": "[log in to unmask]",
+      "general_co_chairs": [
+        "Ahmed Bouajjani, Université de Paris, France",
+        "Mohammed Erradi, ENSIAS, UM5R, Morocco"
+      ]
+    },
+    "additional_info": null
+  }
+}

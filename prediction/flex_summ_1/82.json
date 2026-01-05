@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": "Department of Computer Science",
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "article_submissions": {
+        "requirement": "Authors are not required to submit using a prescribed template.",
+        "post_acceptance": "If accepted, the source files will be formatted for the SpringerLink platform.",
+        "pre_screening": "The pre-screening process may take several days before the submission is assigned to the guest editors."
+      },
+      "submission_details": {
+        "important_dates": {
+          "deadline": "June 9, 2025"
+        },
+        "contact_person": [
+          {
+            "name": "Dr. Giammaria Giordano",
+            "institution": "University of Salerno, Italy",
+            "email": "[log in to unmask]",
+            "website": "https://giammariagiordano.github.io/giammaria-giordano/"
+          },
+          {
+            "name": "Dr. Zadia Codabux",
+            "institution": "University of Saskatchewan, Canada",
+            "email": "[log in to unmask]",
+            "website": "https://www.cs.usask.ca/faculty/zadiacodabux/"
+          },
+          {
+            "name": "Dr. Marcus Ciolkowski",
+            "institution": "QAware GmbH., Germany",
+            "email": "[log in to unmask]",
+            "website": "https://www.qaware.de/team/marcus-ciolkowski/"
+          },
+          {
+            "name": "Dr. Florian Deissenboeck",
+            "institution": "CQSE GmbH, Germany",
+            "email": "[log in to unmask]",
+            "website": "https://cqse.eu/deissenboeck"
+          },
+          {
+            "name": "Prof. Maria Teresa Baldassarre",
+            "institution": "University of Bari, Italy",
+            "email": "[log in to unmask]",
+            "website": "https://www.uniba.it/docenti/baldassarre-maria-teresa"
+          }
+        ]
+      },
+      "submission_criteria": "Submissions must clearly articulate how the chosen domain or system introduces unique considerations or challenges for TD research and practice."
+    },
+    "website": null,
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue focuses on Emerging Concerns in Technical Debt Management for publication in Empirical Software Engineering (EMSE).",
+    "publication_details": {
+      "online_first": "Articles published online first are citable by the DoI (digital object identifier)."
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Manifestations of TD in data-driven, AI-enabled, cyber-physical, or distributed systems.",
+      "Novel methodologies to measure, analyze, or manage TD in these contexts.",
+      "Case studies showcasing real-world experiences with TD in modern systems.",
+      "Impact assessments of TD on performance, maintainability, scalability, or security.",
+      "Longitudinal studies tracking the evolution and lifecycle of TD in emerging domains.",
+      "Tool evaluations that address TD detection, management, or mitigation in innovative ways.",
+      "Studies on practitioner experiences with TD in AI and data-intensive systems."
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": "We encourage submissions that clearly motivate and justify the 'novelty' of the systems or concerns being studied, particularly in relation to existing TD literature.",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Poitiers, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=er2025",
+      "submission_details": {
+        "submission_guidelines": "Authors must submit manuscripts using the LNCS style.",
+        "review_process": "ER 2025 follows a double-blind review process. Authors are therefore asked to remove all identifying information from the manuscript.",
+        "page_limit": "16 pages (excluding references)"
+      }
+    },
+    "contact_person": null,
+    "website": "https://er2025.ensma.fr/",
+    "event": "44th International Conference on Conceptual Modeling (ER 2025)",
+    "dates": {
+      "event_dates": "20-23 October 2025",
+      "important_dates": [
+        {
+          "name": "Full paper abstracts submission (mandatory)",
+          "date": "19 MAY 2025"
+        },
+        {
+          "name": "Full paper submission",
+          "date": "26 MAY 2025"
+        },
+        {
+          "name": "Author notification",
+          "date": "30 JULY 2025"
+        },
+        {
+          "name": "Camera-ready papers and author registration",
+          "date": "18 AUGUST 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "ER is the premier international conference for research and practice on Conceptual Modelling. The conference provides a vibrant forum for discussing and extending the state-of-the-art conceptual modeling foundations, emerging and future challenges, and the pivotal role conceptual modeling plays in a variety of applications.",
+    "submission_details": {
+      "submission_guidelines": "Original research on a variety of topics on conceptual modeling, including industry reports and vision papers is welcomed. Submissions must not be under evaluation for or have already been published in, or accepted for publication, in a journal or another conference."
+    },
+    "publication_details": "The proceedings will be published by Springer in the LNCS series.",
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": "BUILDING TRUST THROUGH CONCEPTUAL MODELING",
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Human-centred and inclusive modeling",
+      "Model explainability and transparency",
+      "Role of modeling in engendering trust and building trustworthy systems",
+      "Automated and AI-assisted conceptual modeling",
+      "Complexity management of large conceptual models"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "ISAE-ENSMA",
+        "location": "Poitiers, France"
+      },
+      {
+        "name": "Universitat Politècnica de València",
+        "location": null
+      },
+      {
+        "name": "The University of Queensland, Australia",
+        "location": null
+      },
+      {
+        "name": "TU Wien, Austria",
+        "location": null
+      },
+      {
+        "name": "University of Virginia, USA",
+        "location": null
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "chair": "Shazia Sadiq",
+        "affiliation": "The University of Queensland, Australia"
+      },
+      {
+        "chair": "Dominik Bork",
+        "affiliation": "TU Wien, Austria"
+      },
+      {
+        "chair": "Roman Lukyanenko",
+        "affiliation": "University of Virginia, USA"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "name": "Ladjel Bellatreche",
+        "affiliation": "ISAE-ENSMA, Poitiers, France"
+      },
+      {
+        "name": "Oscar Pastor",
+        "affiliation": "Universitat Politècnica de València"
+      }
+    ],
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

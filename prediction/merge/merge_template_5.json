@@ -1,0 +1,170 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Cyprus",
+    "location": "5* St. Raphael Resort and Marina, Limassol, Cyprus",
+    "research_focus": "Software Analysis, Evolution, and Reengineering",
+    "responsibilities": [
+      "Submit original and unpublished research results"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        "research track",
+        "industrial papers",
+        "short papers and posters",
+        "early research achievement",
+        "reproducibility studies and negative results",
+        "tool demo",
+        "journal-first",
+        "registered report",
+        "workshop proposals",
+        "tutorial proposals"
+      ],
+      "submission_deadline": "20 August, 2025"
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "website": "https://conf.researchr.org/home/saner-2026",
+    "event": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+    "dates": "17-20 March, 2026",
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "Georgia Kapitsaki",
+        "topic": "General Chair"
+      },
+      {
+        "name": "George Angelos Papadopoulos",
+        "topic": "Local Organizing Chair"
+      },
+      {
+        "name": "Eunjong Choi",
+        "topic": "Program Chair"
+      },
+      {
+        "name": "Matthias Galster",
+        "topic": "Program Chair"
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null
+    },
+    "description": "The 33rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2026) invites high-quality submissions of papers describing original and unpublished research results.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "rigorous peer review process",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "Various limits depending on track",
+          "format": "PDF format, IEEE Conference Proceedings Formatting Guidelines",
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Springer’s Empirical Software Engineering Journal",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": {
+        "Research_Track": {
+          "Abstract Submission Deadline": "9 October, 2025",
+          "Paper Submission Deadline": "16 October, 2025",
+          "Notifications": "9 December, 2025",
+          "Camera-Ready": "9 January, 2026"
+        },
+        "Industrial_Track": {
+          "Abstract Submission Deadline": "10 November, 2025",
+          "Paper Submission Deadline": "17 November, 2025",
+          "Notifications": "19 December, 2025",
+          "Camera-Ready": "14 January, 2026"
+        }
+      },
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_and_tutorials": {
+        "Workshop Proposals Submission": "20 August, 2025",
+        "Workshop Proposals Notification": "27 August, 2025",
+        "Tutorial Proposals Submission": "12 January, 2026",
+        "Tutorial Proposals Notification": "12 January, 2026",
+        "Tutorial Camera-Ready Version": "16 January, 2026"
+      }
+    },
+    "workshop_information": {
+      "description": "Proposals for workshops highlighting specific topics related to the conference themes are being solicited.",
+      "submission_deadline": "20th August, 2025 AoE",
+      "organization_requirements": [
+        "Include workshop title and description",
+        "Indicate whether full or half-day",
+        "Provide a link to the workshop website"
+      ]
+    },
+    "tutorial_information": {
+      "description": "Proposals for insightful tutorials on software analysis, evolution, and reengineering.",
+      "submission_instructions": {
+        "max_length": "1 page (1 additional for references)",
+        "evaluation_criteria": [
+          "Overall quality",
+          "Relevance to the SANER audience",
+          "Interest level"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Trier, Germany",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadlines": [
+        {
+          "round": "First Submission Round",
+          "date": "July 25, 2025"
+        }
+      ],
+      "submission_link": "https://new.precisionconference.com",
+      "submission_guidelines": {
+        "details": "Full Papers and Technical Notes should be written in the ACM format.",
+        "acm_policy": "https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects",
+        "formats": [
+          {
+            "type": "Full Papers",
+            "description": "Original and mature research work within the scope of the conference."
+          },
+          {
+            "type": "Technical Notes",
+            "description": "Shorter contributions focusing on system contributions and technical work."
+          }
+        ]
+      }
+    },
+    "contact_person": {
+      "chairs": [
+        "Célia Martinie",
+        "Davide Spano"
+      ]
+    },
+    "website": "https://eics.acm.org/2026/",
+    "event": "EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "dates": {
+      "event_dates": "June 22-26, 2025",
+      "important_dates": [
+        {
+          "event": "First Submission Round Deadline",
+          "date": "July 25, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "EICS 2026 is an international conference devoted to engineering interactive computing systems and their user interfaces, addressing software quality factors.",
+    "submission_details": null,
+    "publication_details": {
+      "published_in": "Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)"
+    },
+    "important_dates": [
+      {
+        "event": "Conference Dates",
+        "date": "June 22-26, 2025"
+      },
+      {
+        "event": "Submission Deadline for Full Papers and Technical Notes",
+        "date": "July 25, 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Modelling, specification and analysis of interaction and interactive systems",
+      "Requirements engineering for interactive systems",
+      "Methods, processes, principles and/or tools for building interactive systems",
+      "Software architectures for interactive systems",
+      "Formal methods within interactive systems engineering",
+      "Bridging the gap between engineering and design practices.",
+      "Engineering design and evaluation tools",
+      "Computational techniques for designing and evaluating interactive systems",
+      "Interactive data-driven systems",
+      "Diverse interaction techniques and devices",
+      "Engineering hardware or software integration in interactive systems",
+      "Engineering interactive systems for diverse user groups",
+      "Engineering collaborative multi-user interactive systems",
+      "Engineering interactive systems embedding AI-technologies",
+      "Applying AI technologies in methods, processes and tools for building interactive systems."
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": {
+      "url": "https://www.acm.org/publications/authors/submissions"
+    },
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

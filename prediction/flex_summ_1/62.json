@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Torino, Italy",
+    "department": null,
+    "research_focus": "Software Science",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "calls_for": [
+        {
+          "event_type": "satellite event proposals",
+          "details": {
+            "description": "Proposals for events (e.g., workshops) that complement the main conferences.",
+            "submission_details": [
+              "Name and acronym of the satellite event",
+              "Organizers' names and contact information",
+              "Duration of the event (one or two days) and preferred period",
+              "Expected number of participants",
+              "Brief description (approximately 120 words)",
+              "Explanation of the topic's relevance to ETAPS",
+              "Organizer's background and experience",
+              "Publicity strategy and selection procedure",
+              "Any other relevant information, including special requirements",
+              "Tentative schedule for submission and deadlines",
+              "Plans for formal publication"
+            ],
+            "submission_link": "https://cgi.cse.unsw.edu.au/~eptcs/ETAPS/"
+          }
+        }
+      ]
+    },
+    "contact_person": [
+      {
+        "name": "Vincenzo Ciancia",
+        "affiliation": "CNR-ISTI, Pisa, Italy",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Luca Paolini",
+        "affiliation": "University of Torino, Torino, Italy",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Enrico Beraldo",
+        "affiliation": "Synesthesia, Torino, Italy",
+        "email": "[log in to unmask]"
+      }
+    ],
+    "website": "https://etaps.org",
+    "event": {
+      "name": "ETAPS 2026",
+      "type": "International Joint Conferences",
+      "dates": {
+        "main_conference": "April 13–16, 2026",
+        "satellite_events": "April 11–12, 2026"
+      },
+      "tracks": [
+        "ESOP: European Symposium on Programming",
+        "FASE: Fundamental Approaches to Software Engineering",
+        "FoSSaCS: Foundations of Software Science and Computation Structures",
+        "TACAS: Tools and Algorithms for the Construction and Analysis of Systems"
+      ]
+    },
+    "important_dates": {
+      "proposal_deadline": "June 26, 2025",
+      "acceptance_notification": "July 9, 2025"
+    },
+    "co_located_events": null,
+    "registration": {
+      "participation_fee": true,
+      "registration_handled_as": "part of ETAPS registration"
+    },
+    "description": "ETAPS 2026 is the 29th edition of the ETAPS International Joint Conferences on Theory and Practice of Software. It serves as a forum for researchers in software science.",
+    "submission_details": null,
+    "publication_details": null,
+    "academic_reputation": null,
+    "community_invitation": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

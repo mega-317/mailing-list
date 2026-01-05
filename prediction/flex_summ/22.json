@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Recife, PE, Brazil",
+    "department": null,
+    "research_focus": "Software Engineering",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": {
+      "criteria": [
+        "Ph.D. students from Latin American institutions or who received their Ph.D. degree on or after 2024",
+        "MSc students from Latin American institutions",
+        "Highly motivated undergraduate students who are working with software engineering topics"
+      ],
+      "note": "Limited spots available (maximum of 50 students)",
+      "selection_criteria": "Participants will be selected based on academic background, research topic, diversity"
+    },
+    "submission_info": {
+      "documents_required": [
+        {
+          "name": "Structured Abstract",
+          "description": "Abstract of research with headings: Context/Problem, Aims, Method, and Results (1-page limit)"
+        },
+        {
+          "name": "Poster",
+          "description": "Research overview including research questions, method, results, and future plans",
+          "dimensions": "122cm (height) x 92cm (width)"
+        },
+        {
+          "name": "Publication Document",
+          "description": "List of papers published in journals and conferences from 2022 to 2025, including details"
+        }
+      ],
+      "submission_methods": [
+        {
+          "method": "Electronically through JEMS3",
+          "link": "https://jems3.sbc.org.br/latamschool2025"
+        }
+      ]
+    },
+    "contact_person": {
+      "name": "Prof. Lina Garcés",
+      "affiliation": "USP",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://cbsoft.sbc.org.br/2025/escola",
+    "event": {
+      "name": "5th LATAM School in Software Engineering Research",
+      "co_located_event": {
+        "name": "CBSoft - XVI Brazilian Conference on Software: Practice and Theory",
+        "dates": "September 22nd to 26th, 2025"
+      },
+      "dates": {
+        "school": {
+          "start": "September 22, 2025",
+          "end": "September 23, 2025"
+        }
+      },
+      "description": "An in-person event for students and young researchers in Software Engineering to learn, network, and explore their careers."
+    },
+    "important_dates": {
+      "application_deadline": "June 30, 2025",
+      "notification_date": "July 20, 2025"
+    },
+    "submission_details": null,
+    "publication_details": null,
+    "program_highlights": {
+      "mentoring_program": "Students will have a chance to receive feedback from a renowned researcher and will be grouped by topics.",
+      "keynote_topics": [
+        "Research methodologies",
+        "Open science",
+        "Industry research",
+        "Life balance and health"
+      ],
+      "panel_details": {
+        "description": "Panel with 3-4 experienced researchers addressing questions from students."
+      }
+    },
+    "subject": "Call for participation",
+    "school": "LATAM School in Software Engineering Research",
+    "closing_date": "June 30, 2025",
+    "candidate_requirements": null,
+    "benefits": [
+      "Free registration for the School (including lunch and coffee break)",
+      "Free participation in CBSoft"
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": "https://jems3.sbc.org.br/latamschool2025",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration": {
+      "details": "Participants will receive registration details via email upon acceptance."
+    },
+    "registration_link": null
+  }
+}

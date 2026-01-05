@@ -1,46 +1,48 @@
 {
-  "summary_1": {
-    "position": "Postdoctoral Fellow",
+  "summary": {
+    "position": "Postdoctoral Fellow and Research Fellow",
     "institution": "Helsinki Institute for Information Technology (HIIT)",
     "location": "Helsinki, Finland",
-    "research_focus": null,
+    "research_focus": [
+      "Artificial Intelligence",
+      "Computational Health",
+      "Cybersecurity",
+      "Data Science",
+      "Foundations of Computing"
+    ],
     "responsibilities": [
-      "Research Fellow"
+      null
     ],
     "employment_terms": {
       "initial_research_proportion": null,
-      "resources": null
+      "resources": null,
+      "contract_duration": "up to three years for Postdoctoral Fellow, up to five years for Research Fellow"
     },
-    "collaboration": "HIIT is hosted by Aalto University and the University of Helsinki.",
+    "collaboration": "Employed by either Aalto University or the University of Helsinki, depending on the supervising professor.",
     "eligibility": {
-      "qualifications": "Researchers from underrepresented groups are particularly encouraged to apply.",
-      "preference": "Priority is given to candidates who support one (or more) of the HIIT strategic focus areas.",
-      "special_considerations": null
+      "qualifications": "Excellent researchers in any area of ICT are considered",
+      "preference": "Candidates who support HIIT strategic focus areas are preferred.",
+      "special_considerations": "Researchers from underrepresented groups are particularly encouraged to apply."
     },
-    "application_deadline": null,
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": null,
+      "application_link": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/"
+    },
     "contact_person": {
       "name": "Prof. Mika M채ntyl채",
       "department": "Software / Computer Science",
       "phone": "+358 50 577 1684",
       "email": null
     },
-    "application_link": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/"
-  },
-  "summary_2": {
+    "website": "https://mmantyla.github.io/",
     "event": null,
-    "topic": null,
-    "submission_info": {
-      "submission_types": [
-        null
-      ],
-      "notification_date": null
+    "dates": {
+      "start": null,
+      "end": null
     },
-    "event_details": {
-      "dates": null,
-      "co_location": null
-    }
-  },
-  "summary_3": {
     "co_located_events": [
       {
         "name": null,
@@ -62,10 +64,10 @@
     },
     "registration": {
       "cost": null,
-      "inquiries_contact": null
-    }
-  },
-  "summary_4": {
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
     "description": null,
     "submission_details": {
       "languages": [
@@ -119,94 +121,9 @@
       "paper_submission": null,
       "notification_of_acceptance": null,
       "registration_payment_deadline": null,
-      "camera_ready_submission_deadline": null
-    }
-  },
-  "summary_5": {
-    "website": null,
-    "call_for_papers": {
-      "description": null,
-      "submission_instructions": {
-        "peer_review_process": null,
-        "format_requirements": [
-          null
-        ],
-        "track_requirements": {
-          "Research Track": null,
-          "Industrial Papers Track": null,
-          "Short Papers and Posters Track": null,
-          "Early Research Achievement (ERA) Track": null,
-          "Reproducibility Studies and Negative Results (RENE) Track": null,
-          "Tool Demo Track": null,
-          "Journal-First Papers Track": null,
-          "Registered Report Track": null
-        },
-        "double_anonymous_review": null
-      },
-      "special_journal_issue": null,
-      "workshop_information": {
-        "description": null,
-        "submission_deadline": null,
-        "organization_requirements": [
-          null
-        ]
-      },
-      "tutorial_information": {
-        "description": null,
-        "submission_instructions": {
-          "max_length": null,
-          "evaluation_criteria": [
-            null
-          ]
-        }
-      },
-      "important_dates": {
-        "Research Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "Industrial Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "workshop_and_tutorials": {
-          "Workshop Proposals Submission": null,
-          "Workshop Proposals Notification": null,
-          "Tutorial Proposals Submission": null,
-          "Tutorial Proposals Notification": null,
-          "Tutorial Camera-Ready Version": null
-        }
-      }
-    },
-    "organizing_committee": {
-      "General Chair": null,
-      "Local Organizing Chair": null,
-      "Program Chairs": [
-        null
-      ],
-      "Industrial Chairs": [
-        null
-      ],
-      "shortPapersAndPostersChairs": [
-        null
-      ],
-      "workshopTutorialChairs": [
-        null
-      ]
-    }
-  },
-  "summary_6": {
-    "department": null,
-    "position_type": null,
-    "note": null
-  },
-  "summary_7": {
-    "registration": {
-      "early_bird_deadline": null
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null
     },
     "program_highlights": [
       null
@@ -229,46 +146,25 @@
       "engagement_with_researchers": null,
       "more_info": null
     },
-    "sponsors": null
-  },
-  "summary_8": {
+    "sponsors": null,
+    "subject": "Research and Postdoctoral Fellow Positions - Helsinki, Finland",
     "reference_number": null,
+    "school": null,
     "closing_date": null,
-    "position_details": {
-      "role": null,
-      "main_activities_responsibilities": [
-        null
-      ]
-    },
     "candidate_requirements": {
       "education": null,
       "research_experience": [
         null
       ]
     },
-    "contract_duration": null,
     "benefits": [
       null
     ],
     "equality_commitment": null,
-    "visa_information": null
-  },
-  "summary_9": {
-    "format": null,
+    "visa_information": null,
     "topics_of_interest": [
       null
     ],
-    "call_for_papers": {
-      "submission_requirements": {
-        "submission_method": null,
-        "pdf_format": null
-      },
-      "presentation_requirement": null,
-      "originality_policy": null
-    },
-    "important_dates": {
-      "workshop_paper_submission_deadline": null
-    },
     "community_invitation": null
   }
 }

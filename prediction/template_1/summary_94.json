@@ -1,0 +1,474 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "ISAE-ENSMA, Poitiers, France",
+    "location": "Poitiers, France",
+    "department": null,
+    "research_focus": [
+      "Conceptual modeling"
+    ],
+    "responsibilities": [
+      "Submitting original research on conceptual modeling"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        null
+      ],
+      "supervisors": [
+        null
+      ]
+    },
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "Full papers, industry reports, vision papers"
+      ],
+      "submission_deadline": "26 MAY 2025",
+      "application_link": "https://easychair.org/conferences/?conf=er2025",
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://er2025.ensma.fr/",
+    "event": {
+      "name": "44th International Conference on Conceptual Modeling (ER 2025)",
+      "abbreviation": "ER 2025",
+      "dates": "20-23 October 2025",
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2025-10-20",
+      "end": "2025-10-23"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": "The conference provides a vibrant forum for discussing and extending the state-of-the-art conceptual modeling foundations, emerging and future challenges.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": "double-blind",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "16 pages",
+          "format": "LNCS style",
+          "identification": "Remove identifying information"
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          "Papers must not be under evaluation for publication elsewhere"
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Selected papers will be invited for a special issue in Elsevier's Data & Knowledge Engineering.",
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "26 MAY 2025",
+      "notification_of_acceptance": "30 JULY 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "18 AUGUST 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": "19 MAY 2025",
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "[CFP] 44th International Conference on Conceptual Modeling (ER 2025)",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Conceptual modeling"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "2025-05-17",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      "Universitat Politècnica de València",
+      "The University of Queensland",
+      "TU Wien",
+      "University of Virginia"
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": "Online",
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": "Special Issue in Elsevier's Data & Knowledge Engineering",
+      "publication_year": 2023,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": "Ladjel Bellatreche",
+        "email": null,
+        "institution": "ISAE-ENSMA, Poitiers, France",
+        "phone": null
+      },
+      {
+        "name": "Oscar Pastor",
+        "email": null,
+        "institution": "Universitat Politècnica de València",
+        "phone": null
+      },
+      {
+        "name": "Shazia Sadiq",
+        "email": null,
+        "institution": "The University of Queensland, Australia",
+        "phone": null
+      },
+      {
+        "name": "Dominik Bork",
+        "email": null,
+        "institution": "TU Wien, Austria",
+        "phone": null
+      },
+      {
+        "name": "Roman Lukyanenko",
+        "email": null,
+        "institution": "University of Virginia, USA",
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      "Research community in conceptual modeling"
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      "ISAE-ENSMA",
+      "Universitat Politècnica de València",
+      "The University of Queensland",
+      "TU Wien",
+      "University of Virginia"
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      "Conceptual modeling"
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "44th International Conference on Conceptual Modeling (ER 2025)",
+    "event_details": {
+      "date": "20-23 October 2025",
+      "location": "Poitiers, France",
+      "submission_link": "https://easychair.org/conferences/?conf=er2025"
+    },
+    "conference_theme": "BUILDING TRUST THROUGH CONCEPTUAL MODELING",
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        "Ladjel Bellatreche",
+        "Oscar Pastor"
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        "Contribution, grounding in literature, novelty, presentation quality, relevance, technical rigor"
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      "Conceptual modeling"
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

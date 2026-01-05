@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": null,
+    "event": "29th International Conference on Evaluation and Assessment in Software Engineering (EASE'25)",
+    "dates": {
+      "start": "2025-06-17",
+      "end": "2025-06-20"
+    },
+    "co_located_events": [
+      {
+        "event": "Workshops",
+        "date": "2025-06-17"
+      }
+    ],
+    "registration": {
+      "link": "https://conf.researchr.org/attending/ease-2025/registration"
+    },
+    "description": "The International Conference on Evaluation and Assessment in Software Engineering (EASE) provides a stimulating forum where researchers and practitioners can present and discuss recent research results on a wide range of topics within empirical evaluation of software engineering technologies, practices, and tools.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": {
+      "keynotes": [
+        {
+          "speaker": "Prof. Dr. Sven Apel",
+          "institution": "Saarland University",
+          "topic": "AI4SE: Adventures in the Promised Land",
+          "date": "2025-06-18"
+        },
+        {
+          "speaker": "Prof. Dr. Brian Fitzgerald",
+          "institution": "Lero - the Irish Software Research Centre",
+          "topic": "The Rise and Rise of InnerSource",
+          "date": "2025-06-19"
+        },
+        {
+          "speaker": "Dr. Celal Ziftci",
+          "institution": "Google",
+          "topic": "Beyond Code Completion: Harnessing LLMs for Complex Code Migrations in an Enterprise Setting at Google",
+          "date": "2025-06-20"
+        }
+      ]
+    },
+    "program_highlights": {
+      "tracks": [
+        {
+          "name": "Research Track",
+          "papers": 57
+        },
+        {
+          "name": "Industry Track",
+          "papers": 13
+        },
+        {
+          "name": "Short Papers Track",
+          "papers": 29
+        },
+        {
+          "name": "AI Models & Data Evaluation",
+          "papers": 24
+        },
+        {
+          "name": "Vision & Poster Track",
+          "papers": 2
+        },
+        {
+          "name": "Doctoral Track",
+          "papers": 4
+        },
+        {
+          "name": "Journal First Track",
+          "papers": 2
+        }
+      ]
+    },
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

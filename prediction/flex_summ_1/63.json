@@ -1,0 +1,85 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "name": null,
+      "email": "[log in to unmask]"
+    },
+    "website": "https://link.springer.com/collections/idcadeffac",
+    "event": "Special Issue on Innovative Frontiers in Automated Software Engineering",
+    "dates": {
+      "submission_deadline": "July 21, 2025"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue seeks to go beyond incremental advances, welcoming transformative research that challenges conventional assumptions, explores radical new perspectives, and envisions the future of automation in software engineering.",
+    "submission_details": {
+      "submission_link": "https://link.springer.com/journal/10515/submission-guidelines",
+      "types_of_papers": [
+        {
+          "type": "Innovative, groundbreaking new ideas",
+          "description": "Supported by promising initial results including new directions in early research stages with initial evidence."
+        },
+        {
+          "type": "Visions of the future",
+          "description": "Bold, forward-looking ideas backed by strong scientific intuition."
+        },
+        {
+          "type": "Reflections on the past",
+          "description": "Critical reassessments of current research directions and analyses of key ideas in software engineering’s history."
+        }
+      ]
+    },
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": {
+      "topics_of_interest": [
+        "Radical approaches to automating software engineering tasks supported by preliminary evidence",
+        "Novel applications of automation in software engineering contexts traditionally considered unsuitable",
+        "Bold predictions about transformative directions in automated software engineering",
+        "The untapped potential of automation in emergent software domains and paradigms",
+        "Novel theoretical frameworks for rethinking fundamental aspects of automated software development",
+        "Reassessments of foundational assumptions in automated software engineering",
+        "Examination of ethical implications and unintended consequences in the evolution of automated software engineering",
+        "Reimagining correctness and verification in an era of AI-generated software",
+        "Novel approaches to handling uncertainty and ambiguity in automated software engineering",
+        "Transformative applications of large language models beyond current paradigms",
+        "Radical new perspectives on software composition and integration",
+        "Innovative socio-technical approaches that reconsider the relationship between automation and human developers",
+        "Disruptive ideas for automated testing, verification, and validation that break from established paradigms"
+      ]
+    },
+    "subject": "Call for Papers",
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": "For detailed guidelines, refer to the Submission Guidelines link provided.",
+    "submission_link": "https://link.springer.com/journal/10515/submission-guidelines",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Recife - Pernambuco, Brazil",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=sbmf2025",
+      "submission_guidelines": "We invite submissions of papers with a strong emphasis on formal methods, whether practical or theoretical, in the following categories: Regular papers (limit of 15 pages) and Short papers (limit of 8 pages). The page limits exclude references and appendices.",
+      "topics_of_interest": [
+        {
+          "category": "Applications of formal methods",
+          "subtopics": [
+            "Software or hardware design",
+            "Software or hardware development",
+            "Software or hardware code generation",
+            "Software or hardware testing",
+            "Software maintenance, evolution and reuse",
+            "Intelligent systems"
+          ]
+        },
+        {
+          "category": "Specification and modeling languages",
+          "subtopics": [
+            "Logic and semantics for specification and programming languages",
+            "Formal methods for timed, real-time, hybrid, or safety-critical systems",
+            "Formal methods for service-oriented, cloud-based, or cyber-physical systems"
+          ]
+        },
+        {
+          "category": "Theoretical foundations",
+          "subtopics": [
+            "Domain theory",
+            "Term rewriting",
+            "Computational models",
+            "Type systems and category systems",
+            "Computation complexity of methods and models",
+            "Models of time, concurrency, security, and mobility"
+          ]
+        },
+        {
+          "category": "Verification and validation",
+          "subtopics": [
+            "Abstraction, modularization, and refinement techniques",
+            "Static analysis",
+            "Model checking",
+            "Theorem proving",
+            "Software certification",
+            "Correctness by construction"
+          ]
+        },
+        {
+          "category": "Experience reports",
+          "subtopics": [
+            "Reports on teaching formal methods",
+            "Reports on the industrial application of formal methods"
+          ]
+        }
+      ]
+    },
+    "contact_person": "All questions about submissions should be emailed to sbmf2025 '@' easychair.org",
+    "website": "http://sbmf2025.ufrpe.br/",
+    "event": "28th Brazilian Symposium on Formal Methods (SBMF 2025)",
+    "dates": {
+      "event_dates": "December 3-5, 2025",
+      "important_dates": [
+        {
+          "event": "Paper registration deadline",
+          "date": "August 1st, 2025"
+        },
+        {
+          "event": "Paper submission deadline",
+          "date": "August 8th, 2025"
+        },
+        {
+          "event": "Acceptance notice",
+          "date": "September 26th, 2025"
+        },
+        {
+          "event": "Camera-ready deadline",
+          "date": "October 10th, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": "Every accepted paper MUST have at least one author registered in the symposium by the time the camera-ready copy is submitted.",
+    "description": "SBMF 2025 is devoted to the development, dissemination, and use of formal methods for the construction of high-quality computational systems. It is a well-established event with an international reputation.",
+    "submission_details": null,
+    "publication_details": "Accepted papers will be published in a volume of LNCS. A special issue of the Science of Computer Programming Journal (Elsevier) is planned with selected and extended papers from SBMF 2025.",
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": {
+      "general_chair": [
+        {
+          "name": "Lucas Lima",
+          "institution": "Universidade Federal Rural de Pernambuco, Brazil"
+        }
+      ],
+      "steering_committee": [
+        {
+          "name": "Ciprian Teodorov",
+          "institution": "ENSTA Bretagne, France"
+        },
+        {
+          "name": "Haniel Barbosa",
+          "institution": "Universidade Federal de Minas Gerais, Brazil"
+        },
+        {
+          "name": "Lucas Lima",
+          "institution": "Universidade Federal Rural de Pernambuco, Brazil"
+        },
+        {
+          "name": "Sidney Nogueira",
+          "institution": "Universidade Federal Rural de Pernambuco, Brazil"
+        },
+        {
+          "name": "Vince Molnár",
+          "institution": "Budapest University of Technology and Economics, Hungary"
+        },
+        {
+          "name": "Yoni Zohar",
+          "institution": "Bar-Ilan University, Israel"
+        }
+      ],
+      "program_chairs": [
+        {
+          "name": "Leopoldo Teixeira",
+          "institution": "Universidade Federal de Pernambuco, Brazil"
+        },
+        {
+          "name": "Maurice ter Beek",
+          "institution": "CNR-ISTI, Italy"
+        }
+      ],
+      "program_committee_members": [
+        {
+          "name": "Jefferson O. Andrade",
+          "institution": "Instituto Federal do Espírito Santo"
+        },
+        {
+          "name": "Luís Soares Barbosa",
+          "institution": "Universidade do Minho, INESC TEC and UNU-EGOV"
+        },
+        {
+          "name": "Haniel Barbosa",
+          "institution": "Universidade Federal de Minas Gerais"
+        },
+        {
+          "name": "Davide Basile",
+          "institution": "Formal Methods & Tools, ISTI-CNR"
+        },
+        {
+          "name": "Armin Biere",
+          "institution": "University of Freiburg"
+        },
+        {
+          "name": "Laura Bussi",
+          "institution": "Interdisciplinary Centre for Security, Reliability and Trust - Université du Luxembourg"
+        },
+        {
+          "name": "Sérgio Campos",
+          "institution": "Universidade Federal de Minas Gerais"
+        },
+        {
+          "name": "Gustavo Carvalho",
+          "institution": "Universidade Federal de Pernambuco"
+        },
+        {
+          "name": "Valentina Castiglioni",
+          "institution": "Eindhoven University of Technology"
+        },
+        {
+          "name": "Márcio Cornélio",
+          "institution": "Universidade Federal de Pernambuco"
+        },
+        {
+          "name": "Katalin Fazekas",
+          "institution": "TU Wien"
+        },
+        {
+          "name": "Mathias Fleury",
+          "institution": "University of Freiburg"
+        },
+        {
+          "name": "Rohit Gheyi",
+          "institution": "Universidade Federal de Campina Grande"
+        },
+        {
+          "name": "Ahmed Irfan",
+          "institution": "SRI International"
+        },
+        {
+          "name": "Juliano Iyoda",
+          "institution": "Universidade Federal de Pernambuco"
+        },
+        {
+          "name": "Thierry Lecomte",
+          "institution": "CLEARSY"
+        },
+        {
+          "name": "Michael Leuschel",
+          "institution": "University of Düsseldorf"
+        },
+        {
+          "name": "Lucas Lima",
+          "institution": "Universidade Federal Rural de Pernambuco"
+        },
+        {
+          "name": "Alberto Lluch Lafuente",
+          "institution": "Technical University of Denmark"
+        },
+        {
+          "name": "Alvaro Miyazawa",
+          "institution": "University of York"
+        },
+        {
+          "name": "Vince Molnár",
+          "institution": "Budapest University of Technology and Economics"
+        },
+        {
+          "name": "Alexandre Mota",
+          "institution": "Universidade Federal de Pernambuco"
+        },
+        {
+          "name": "Sidney Nogueira",
+          "institution": "Universidade Federal Rural de Pernambuco"
+        },
+        {
+          "name": "Marcel Oliveira",
+          "institution": "Universidade Federal do Rio Grande do Norte"
+        },
+        {
+          "name": "José Proença",
+          "institution": "CISTER & University of Porto"
+        },
+        {
+          "name": "Pedro Ribeiro",
+          "institution": "University of York"
+        },
+        {
+          "name": "Philipp Rümmer",
+          "institution": "University of Regensburg and Uppsala University"
+        },
+        {
+          "name": "Augusto Sampaio",
+          "institution": "Universidade Federal de Pernambuco"
+        },
+        {
+          "name": "Hans-Jörg Schurr",
+          "institution": "The University of Iowa"
+        },
+        {
+          "name": "Volker Stolz",
+          "institution": "Western Norway University of Applied Sciences"
+        },
+        {
+          "name": "Ciprian Teodorov",
+          "institution": "Ensta Bretagne - Lab-STICC MOCS"
+        },
+        {
+          "name": "Nils Timm",
+          "institution": "University of Pretoria"
+        },
+        {
+          "name": "Jim Woodcock",
+          "institution": "University of York"
+        },
+        {
+          "name": "Yoni Zohar",
+          "institution": "Bar-Ilan University"
+        }
+      ]
+    },
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

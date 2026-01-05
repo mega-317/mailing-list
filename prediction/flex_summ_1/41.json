@@ -1,0 +1,233 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Turin",
+    "location": "Turin, Italy",
+    "department": "Department of Computer Science",
+    "research_focus": "Computer Science specifically focusing on both methodological and application-oriented aspects.",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Collaboration with other research centres and companies.",
+    "eligibility": null,
+    "submission_info": {
+      "submission_types": [
+        {
+          "conference": "ESOP",
+          "submission_guidelines": {
+            "regular_paper": "max 25 pp",
+            "experience_report": "max 15 pp",
+            "fresh_perspectives": "max 15 pp"
+          },
+          "additional_info": "Submission in other formats allowed with no page limit at submission time."
+        },
+        {
+          "conference": "FASE",
+          "submission_guidelines": {
+            "regular_paper": "max 18 pp",
+            "empirical_evaluation": "max 18 pp",
+            "nier": "max 8 pp",
+            "tool_demonstration": "max 8 pp (+ optional appendix of max 6 pp)"
+          }
+        },
+        {
+          "conference": "FoSSaCS",
+          "submission_guidelines": {
+            "regular_paper": "max 18 pp"
+          }
+        },
+        {
+          "conference": "TACAS",
+          "submission_guidelines": {
+            "regular_paper": "max 16 pp",
+            "case_study": "max 16 pp",
+            "tool_paper": "max 16 pp",
+            "tool_demonstration": "max 6 pp"
+          }
+        }
+      ]
+    },
+    "contact_person": [
+      {
+        "name": "Feruccio Damiani"
+      },
+      {
+        "name": "Maurice ter Beek"
+      },
+      {
+        "name": "Enrico Beraldo"
+      },
+      {
+        "name": "Barbara Boni"
+      }
+    ],
+    "website": "https://etaps.org/2026",
+    "event": "ETAPS 2026 Joint Call for Papers",
+    "dates": {
+      "main_conference": {
+        "start": "April 13, 2026",
+        "end": "April 16, 2026"
+      },
+      "important_dates": [
+        {
+          "event": "Submission deadline ESOP round 1",
+          "date": "June 3, 2025"
+        },
+        {
+          "event": "Rebuttal ESOP round 1",
+          "date": "July 21-23, 2025"
+        },
+        {
+          "event": "Notification ESOP round 1",
+          "date": "August 1, 2025"
+        },
+        {
+          "event": "Submission deadline for ESOP round 2",
+          "date": "October 16, 2025"
+        },
+        {
+          "event": "Submission deadline for TACAS, FoSSaCS, FASE",
+          "date": "October 16, 2025"
+        },
+        {
+          "event": "TACAS mandatory artifact submission deadline (for tools)",
+          "date": "October 30, 2025"
+        },
+        {
+          "event": "Rebuttal (ESOP, FoSSaCS, TACAS)",
+          "date": "December 8-10, 2025"
+        },
+        {
+          "event": "Paper notification and TACAS mandatory artifact notification",
+          "date": "December 22, 2025"
+        },
+        {
+          "event": "Artifact submission deadline for accepted deadline (except for TACAS tools)",
+          "date": "January 8, 2026"
+        },
+        {
+          "event": "Paper final version",
+          "date": "January 22, 2026"
+        },
+        {
+          "event": "Artifact notification ESOP, FASE, FoSSaCS, TACAS (voluntary artifacts)",
+          "date": "February 12, 2026"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "event": "Spin Symposium",
+        "date": "April 11-12, 2026"
+      },
+      {
+        "event": "Rust Verification Workshop",
+        "date": "April 11-12, 2026"
+      }
+    ],
+    "registration": null,
+    "description": "ETAPS is a primary forum for academic and industrial researchers working on topics relating to software science.",
+    "submission_details": "Submissions must be in English and must not be published or submitted elsewhere.",
+    "publication_details": {
+      "proceedings": "The proceedings will be published in Advanced Research in Computing and Software Science (ARCoSS) subline of Springer's LNCS series.",
+      "availability": "Gold open access with no article processing charge for authors."
+    },
+    "important_dates": null,
+    "program_highlights": [
+      "History of more than 25 years.",
+      "Artifact evaluation (AE) provided.",
+      "Additional community activities such as a blog, PhD workshop, diversity sessions, and demonstrations."
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "On-site conference with presentations required from accepted submissions.",
+    "program_committee": [
+      {
+        "conference": "ESOP",
+        "chairs": [
+          {
+            "name": "Robbert Krebbers",
+            "institution": "Radboud University"
+          },
+          {
+            "name": "Michael Sammler",
+            "role": "AE chair",
+            "institution": "ISTA"
+          }
+        ]
+      },
+      {
+        "conference": "FASE",
+        "chairs": [
+          {
+            "name": "Elvira Albert",
+            "institution": "Complutense University of Madrid"
+          },
+          {
+            "name": "Corina Pasareanu",
+            "institution": "NASA Ames"
+          }
+        ],
+        "ae_chair": "TBD"
+      },
+      {
+        "conference": "FoSSaCS",
+        "chairs": [
+          {
+            "name": "Nathalie Bertrand",
+            "institution": "Rennes University"
+          },
+          {
+            "name": "Stefan Milius",
+            "institution": "Friedrich-Alexander Universitaet"
+          }
+        ],
+        "ae_chair": {
+          "name": "Guillermo Alberto Perez",
+          "institution": "University of Antwerp"
+        }
+      },
+      {
+        "conference": "TACAS",
+        "chairs": [
+          {
+            "name": "Sebastian Junges",
+            "institution": "Radboud University"
+          },
+          {
+            "name": "Guy Katz",
+            "institution": "Hebrew University"
+          }
+        ],
+        "ae_chairs": [
+          {
+            "name": "Guy Amir",
+            "institution": "Cornell University"
+          },
+          {
+            "name": "Matthias Volk",
+            "institution": "Eindhoven University of Technology"
+          }
+        ]
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

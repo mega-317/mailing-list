@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "European Research Consortium in Informatics and Mathematics (ERCIM)",
+    "location": "Toulouse, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": {
+      "description": "Applications are open to all Ph.D. holders that defended their thesis during 2024 in any European University."
+    },
+    "submission_info": {
+      "submission_details": {
+        "documents_required": [
+          "Ph.D. Thesis (in PDF format)",
+          "Short summary of the Thesis (mandatory in English)",
+          "Curriculum vitae (in PDF format)",
+          "Letters of support from at least two researchers, one from an ERCIM STM WG Institution"
+        ],
+        "submission_link": "[log in to unmask]",
+        "subject_line": "ERCIM STM PhD Award 2025 -- Application"
+      }
+    },
+    "contact_person": "Cristina Alcaraz",
+    "website": "https://www.nics.uma.es/stm2025/",
+    "event": {
+      "name": "21st International Workshop on Security and Trust Management (STM 2025)",
+      "date": "September 25-26, 2025",
+      "location": "Toulouse, France"
+    },
+    "dates": {
+      "application_deadline": "July 31, 2025"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The ERCIM STM WG 2025 Award seeks to promote the scientific growth of young researchers interested in Security and Trust Management.",
+    "submission_guidelines": null,
+    "publication_details": null,
+    "important_dates": [
+      {
+        "date": "July 31, 2025",
+        "event": "Application deadline for ERCIM STM WG 2025 Award"
+      },
+      {
+        "date": "September 25-26, 2025",
+        "event": "Award ceremony during STM 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": "ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management",
+    "school": null,
+    "closing_date": "July 31, 2025",
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "applied cryptography",
+      "data and application security",
+      "identity management",
+      "networked systems security",
+      "privacy, anonymity, and untraceability",
+      "rigorous semantics and computational models for security and trust",
+      "security, privacy, and trust in emerging computing paradigms",
+      "security and trust management architectures, mechanisms, and policies"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": "July 31, 2025",
+    "registration_link": null
+  }
+}

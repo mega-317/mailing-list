@@ -1,0 +1,86 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Trier, Germany",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_details": {
+        "submission_type": [
+          "Full Papers",
+          "Technical Notes"
+        ],
+        "submission_deadline": "July 25, 2025",
+        "submission_link": "https://new.precisionconference.com",
+        "submission_format": "ACM format",
+        "submission_guidelines": "https://www.acm.org/publications/authors/submissions",
+        "policy_guidelines": "https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects"
+      }
+    },
+    "contact_person": {
+      "chairs": [
+        {
+          "name": "Célia Martinie"
+        },
+        {
+          "name": "Davide Spano"
+        }
+      ]
+    },
+    "website": "https://eics.acm.org/2026/",
+    "event": "EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+    "dates": {
+      "conference_dates": "June 22-26, 2025",
+      "important_dates": {
+        "first_submission_round_deadline": "July 25, 2025"
+      }
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "EICS 2026 is the eighteenth international ACM SIGCHI conference devoted to engineering interactive computing systems and their user interfaces, addressing one or more software quality factors.",
+    "publication_details": {
+      "published_in": "Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)",
+      "publication_type": [
+        "Regular research papers",
+        "Technical notes"
+      ]
+    },
+    "academic_reputation": "EICS has the longest tradition of bringing together researchers who contribute to better ways of creating interactive computing systems.",
+    "topics_of_interest": [
+      "Modelling, specification and analysis of interaction and interactive systems",
+      "Requirements engineering for interactive systems",
+      "Methods, processes, principles and/or tools for building interactive systems",
+      "Software architectures for interactive systems",
+      "Formal methods within interactive systems engineering",
+      "Bridging the gap between engineering and design practices",
+      "Engineering design and evaluation tools",
+      "Computational techniques for designing and evaluating interactive systems",
+      "Interactive data-driven systems",
+      "Explore and/or employ of diverse interaction techniques and devices",
+      "Engineering hardware or software integration in interactive systems",
+      "Engineering interactive systems for diverse user groups",
+      "Engineering collaborative multi-user interactive systems",
+      "Engineering interactive systems embedding AI-technologies",
+      "Engineering interaction-driven AI-technologies",
+      "Applying AI technologies in methods, processes and tools for building interactive systems"
+    ],
+    "submission_guidelines": "Submissions advance the state of the art of the engineering of interactive systems.",
+    "timelines": null,
+    "event_format": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "community_invitation": null,
+    "affiliated_universities": null
+  }
+}

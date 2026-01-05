@@ -1,0 +1,194 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Amsterdam, Netherlands",
+    "research_focus": [
+      "Architecting in Continuous Software Engineering: Evolving Roles, Enduring Principles"
+    ],
+    "responsibilities": [
+      "Submit papers for the Research Track",
+      "Submit papers for the Software Architecture in Practice Track",
+      "Propose workshops"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        "Research Track",
+        "Software Architecture in Practice Track",
+        "Workshop Proposals"
+      ],
+      "submission_deadline": "October 3, 2025",
+      "application_link": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "website": "https://conf.researchr.org/home/icsa-2026",
+    "event": {
+      "name": "23rd IEEE International Conference on Software Architecture",
+      "abbreviation": "ICSA 2026"
+    },
+    "dates": {
+      "start": "June 22, 2026",
+      "end": "June 26, 2026"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": null,
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": "October 3, 2025",
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": "November 28, 2025",
+      "papers_due": "December 5, 2025"
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": null,
+    "subject": "Combined Call for Papers & Workshop Proposals: ICSA 2026",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": "The ICSA 2026 Organizing Committee",
+    "date": "Thu, 10 Jul 2025 16:12:04 -0000",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": "https://conf.researchr.org/track/icsa-2026/icsa-2026-papers",
+      "Software_Architecture_in_Practice_Track": "https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track",
+      "Workshop_Proposals": "https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+    },
+    "closing_statement": "We look forward to your contributions and hope to see you in Amsterdam!"
+  }
+}

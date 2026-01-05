@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": "Software Architecture",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": "Letters of Interest to organize ECSA in September 2027 and onwards",
+    "contact_person": {
+      "name": "Paris Avgeriou",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://ecsa-conferences.org/series/sc-documents/",
+    "event": "European Conference on Software Architecture (ECSA)",
+    "dates": {
+      "submission_deadline": "2025-06-30T23:59:00Z",
+      "event_start": "2027-09-01",
+      "event_end": "2027-09-30"
+    },
+    "co_located_events": null,
+    "registration": "Fees will be funded from registration fees and additional sponsors or actions.",
+    "description": "ECSA is the premier European conference on Software Architecture covering all aspects of research from theory to technology and their applications.",
+    "submission_details": {
+      "required_elements": [
+        {
+          "element": "Proposed General Chair",
+          "details": "Name and short CV, including experience on organizing international conferences."
+        },
+        {
+          "element": "Location",
+          "details": "General presentation of the potential venue and the city."
+        },
+        {
+          "element": "Supporting Organizations",
+          "details": "Preliminary list of organizations supporting the proposal, including academia, research institutions, industry, and other relevant organizations."
+        }
+      ],
+      "optional_elements": [
+        {
+          "element": "Potential Program Chair(s)",
+          "details": "Initial list of names for potential Program Chair(s) and other Organizing Committee members (not binding)."
+        }
+      ]
+    },
+    "publication_details": "Proceedings have been published by Springer in the LNCS series since 2007.",
+    "important_dates": {
+      "submission_deadline": "30th June 2025 (23:59 Anywhere on Earth)"
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": "ECSA is a top-ranked conference with an ‘A’ CORE conference rank since 2010.",
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": "Covers all aspects of research in Software Architecture.",
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

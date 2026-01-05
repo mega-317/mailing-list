@@ -1,0 +1,109 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Oklahoma City, OK, USA & Online",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "July 15, 2025",
+      "submission_link": "https://eventutor.com/e/SERD005",
+      "submission_guidelines": {
+        "contribution_types": [
+          {
+            "type": "Full Paper",
+            "description": "Accomplished research results (6 pages)"
+          },
+          {
+            "type": "Short Paper",
+            "description": "Work in progress/fresh developments (3 pages)"
+          },
+          {
+            "type": "Extended Abstract/Poster/Journal First",
+            "description": "Displayed/Oral presented (1 page)"
+          }
+        ]
+      }
+    },
+    "contact_person": {
+      "name": "Kris Zeuti",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://eventutor.com/e/SERD005",
+    "event": "2025 OkIP International Conference on Software Engineering Research & Development (SERD)",
+    "dates": {
+      "conference_dates": "October 1-2, 2025",
+      "important_dates": [
+        {
+          "event": "Abstract or Paper Submission",
+          "date": "July 15, 2025"
+        },
+        {
+          "event": "Author Notification",
+          "date": "August 1-15, 2025"
+        },
+        {
+          "event": "Camera Ready Paper Submission, Registration",
+          "date": "August 7-22, 2025"
+        },
+        {
+          "event": "Conference Date",
+          "date": "October 1-2, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": {
+      "registration_dates": "August 7-22, 2025"
+    },
+    "description": null,
+    "submission_details": null,
+    "publication_details": {
+      "note": "Extended versions of the best papers will be considered for publication in the inaugural volume of the International Journal of Software Research."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "General and Social Aspects of Software Engineering (SE)",
+      "Software Design, Testing, Evolution, and Maintenance",
+      "Formal Methods and Theoretical Foundations",
+      "Programming Languages (PLs), Systems, and Environments",
+      "Object-Oriented (OO) Design and Analysis",
+      "Service Orientation and Human Interactions",
+      "AI, Web-Based Environments, and Adaptive Systems",
+      "Automated Software Engineering",
+      "Emerging SE Technologies and Dependability",
+      "Distribution, Componentization, and Collaboration",
+      "Concurrent, Parallel, and Distributed Systems",
+      "More..."
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": {
+      "link": "https://eventutor.com/event/67/page/175-committee"
+    },
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

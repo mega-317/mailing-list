@@ -1,5 +1,5 @@
 {
-  "summary_1": {
+  "summary": {
     "position": null,
     "institution": "Kutaisi International University",
     "location": "Kutaisi, Georgia",
@@ -11,36 +11,24 @@
       "initial_research_proportion": null,
       "resources": null
     },
-    "collaboration": null,
+    "collaboration": "co-located events: JELIA 2025, TbiLLC 2025",
     "eligibility": {
       "qualifications": null,
       "preference": null,
       "special_considerations": null
     },
-    "application_deadline": null,
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": null
+    },
     "contact_person": {
       "name": null,
       "department": null,
       "phone": null,
       "email": "[log in to unmask]"
     },
-    "application_link": "https://www.logic.at/tbilisi25/"
-  },
-  "summary_2": {
-    "event": "Nineteenth International Tbilisi Summer School in Logic and Language",
-    "topic": null,
-    "submission_info": {
-      "submission_types": [
-        null
-      ],
-      "notification_date": null
-    },
-    "event_details": {
-      "dates": "September 4th-7th 2025",
-      "co_location": [
-        "JELIA 2025: https://viam.science.tsu.ge/jelia2025/",
-        "TbiLLC 2025: https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
-      ]
-    }
+    "website": "https://www.logic.at/tbilisi25/"
   }
 }

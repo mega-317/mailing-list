@@ -1,0 +1,165 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Lyon, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "name": "Larbi Boubchir",
+      "institution": "University of Paris 8, France"
+    },
+    "website": "https://www.gcet-conference.com/SDS2025",
+    "event": "The 12th International Conference on Software Defined Systems (SDS2025)",
+    "dates": {
+      "conference_dates": "December 2-5, 2025",
+      "submission_deadlines": {
+        "submission_date": "31 August 2025",
+        "notification_to_authors": "20 October 2025",
+        "camera_ready_submission": "30 October 2025"
+      }
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "SDS 2025 aims to stimulate cross-disciplinary dialogue and foster collaborations in software-defined systems.",
+    "submission_details": {
+      "formats": [
+        {
+          "type": "full_paper",
+          "length": "6-8 pages"
+        },
+        {
+          "type": "short_paper",
+          "length": "3-4 pages"
+        },
+        {
+          "type": "extended_abstract",
+          "length": "2 pages"
+        },
+        {
+          "type": "abstract",
+          "length": "500 words"
+        }
+      ],
+      "submission_link": "https://easychair.org/conferences/?conf=sds202501"
+    },
+    "publication_details": "Accepted papers will be published in the conference proceedings and made accessible through major digital libraries.",
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      {
+        "topic": "Core Foundations of Software-Defined Systems",
+        "areas": [
+          "Software-Defined Networking (SDN), Storage (SDS), and Compute",
+          "Network Function Virtualization (NFV) and service chaining",
+          "Control plane/data plane decoupling and programmability"
+        ]
+      },
+      {
+        "topic": "Software-Defined Cloud, Edge, and Fog Environments",
+        "areas": [
+          "Software-defined architectures for cloud-edge continuum",
+          "Edge-native orchestration and microservices"
+        ]
+      },
+      {
+        "topic": "AI-Driven and Intelligent SDS",
+        "areas": [
+          "AI/ML for optimization and decision-making",
+          "Federated and distributed learning in software-defined environments"
+        ]
+      },
+      {
+        "topic": "Security, Privacy, and Trust in Software-Defined Systems",
+        "areas": [
+          "Secure identity, authentication, and access control",
+          "Zero trust architectures for SDS"
+        ]
+      },
+      {
+        "topic": "Automation, Resilience, and Adaptability",
+        "areas": [
+          "Self-configuring, self-healing, and self-optimizing SDS",
+          "Digital twins and predictive simulation for SDS environments"
+        ]
+      },
+      {
+        "topic": "Interoperability, Standards, and DevOps",
+        "areas": [
+          "Multi-vendor and multi-domain SDS interoperability",
+          "APIs, standard protocols, and open-source frameworks"
+        ]
+      },
+      {
+        "topic": "Sustainable and Responsible Software-Defined Systems",
+        "areas": [
+          "Energy-aware design and carbon-efficient orchestration"
+        ]
+      },
+      {
+        "topic": "Human-Centered and Societal Perspectives",
+        "areas": [
+          "Human-in-the-loop and explainable SDS interfaces"
+        ]
+      },
+      {
+        "topic": "Applications and Emerging Domains",
+        "areas": [
+          "SDS for smart cities and industrial automation",
+          "SDS in 5G/6G networks"
+        ]
+      },
+      {
+        "topic": "Software Engineering for Software-Defined Systems",
+        "areas": [
+          "Software Architecture & Design for SDS",
+          "CI/CD pipelines and deployment automation for SDS"
+        ]
+      }
+    ],
+    "community_invitation": "Join us at SDS 2025 and help shape a future where every system is intelligently controlled by software.",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      "University of Paris 8, France",
+      "L.N Eurasian National University, Kazakhstan",
+      "Universitat Politècnica de València, Spain"
+    ],
+    "submission_guidelines": "Manuscripts should be prepared in 10-point font using the IEEE 8.5\" x 11\" two-column format.",
+    "submission_link": "https://easychair.org/conferences/?conf=sds202501",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "name": "Larbi Boubchir",
+        "institution": "University of Paris 8, France"
+      },
+      {
+        "name": "Tamara Zhukabayeva",
+        "institution": "L.N Eurasian National University, Kazakhstan"
+      },
+      {
+        "name": "Jaime Lloret",
+        "institution": "Universitat Politècnica de València, Spain"
+      }
+    ],
+    "call_for_contributions": "We welcome high-quality research and case studies in various areas of software-defined systems.",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

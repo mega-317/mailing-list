@@ -1,0 +1,94 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Seoul",
+    "department": null,
+    "research_focus": "Search-Based Software Engineering",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "August 21, 2025",
+      "notification_date": "September 25, 2025",
+      "camera_ready_date": "October 3, 2025",
+      "submission_link": "https://lnkd.in/gwxVDG5q"
+    },
+    "contact_person": {
+      "chairs": [
+        "Man Zhang",
+        "Shin Hong"
+      ]
+    },
+    "website": null,
+    "event": {
+      "name": "17th Symposium on Search-Based Software Engineering (SSBSE 2025)",
+      "date": "16 November 2025",
+      "description": "Inviting high-quality research submissions focusing on the role of AI and optimization in software engineering."
+    },
+    "dates": {
+      "important_dates": [
+        {
+          "event": "Submission Deadline",
+          "date": "August 21, 2025"
+        },
+        {
+          "event": "Notification",
+          "date": "September 25, 2025"
+        },
+        {
+          "event": "Camera-Ready",
+          "date": "October 3, 2025"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "event_name": "ASE",
+        "link": "https://lnkd.in/gTDTsXuX"
+      }
+    ],
+    "registration": null,
+    "description": "SSBSE 2025 invites submissions that explore the boundaries of SBSE with special focus on AI and optimization.",
+    "submission_details": null,
+    "publication_details": "Accepted papers will be considered for a special journal issue in the Automated Software Engineering journal.",
+    "important_dates": null,
+    "program_highlights": [
+      "Novel applications of SBSE, especially in emerging domains",
+      "Theoretical advances in search algorithms for software engineering",
+      "Rigorous empirical evaluations with reproducible results",
+      "Industrial experiences and real-world deployments",
+      "Integrations of SBSE with AI, machine learning, and cutting-edge technologies"
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AI",
+      "Optimization",
+      "Software Engineering"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      "Man Zhang",
+      "Shin Hong"
+    ],
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

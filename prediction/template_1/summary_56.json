@@ -1,0 +1,462 @@
+{
+  "summary": {
+    "position": "POST-DOCTORAL RESEARCHER in MODEL-DRIVEN ENGINEERING",
+    "institution": "Johannes Kepler University Linz",
+    "location": "Linz, Austria",
+    "department": null,
+    "research_focus": [
+      "model-driven engineering",
+      "tracking model changes",
+      "collaborative modeling",
+      "live constraint checking",
+      "conflict detection",
+      "software engineering",
+      "systems engineering"
+    ],
+    "responsibilities": [
+      "Supervision and mentoring of doctoral and other students",
+      "Leading and supporting publications in high-impact venues",
+      "Designing and conducting experimental and empirical studies",
+      "Contributing to grant writing and research proposal development",
+      "Overseeing and guiding software development efforts",
+      "Connecting the dots between various student works to push the bigger picture",
+      "Teaching responsibilities (equivalent to 4 semester hours per week)"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": "3-4 years",
+      "type": "full-time",
+      "full_time": true,
+      "salary": "€69,000",
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": true
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        null
+      ],
+      "supervisors": [
+        "Prof. Alexander Egyed"
+      ]
+    },
+    "eligibility": {
+      "qualifications": "Doctorate/Ph.D. degree in Informatics or a related academic area",
+      "preference": null,
+      "special_considerations": "Strong command of English and excellent programming skills required; German language skills are not required.",
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "curriculum vitae",
+        "research interests description"
+      ],
+      "submission_deadline": null,
+      "application_link": null,
+      "platform": null
+    },
+    "contact_person": {
+      "name": "Prof. Alexander Egyed",
+      "department": "Institute for Software Systems Engineering",
+      "position": null,
+      "phone": "+43 732 2468 4382",
+      "email": "[log in to unmask]",
+      "address": "Altenberger Straße 69, SP3, 246, 4040 Linz, Austria",
+      "room": null,
+      "institute_link": "https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/"
+    },
+    "website": "https://www.jku.at",
+    "event": {
+      "name": null,
+      "abbreviation": null,
+      "dates": null,
+      "main_conferences": []
+    },
+    "dates": {
+      "start": null,
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": "The postdoctoral researcher will explore model-driven, structured engineering focusing on tracking model changes.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "PostDoc in Model-Driven Engineering",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": "Doctorate/Ph.D. degree in Informatics or a related academic area",
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "traceability",
+      "consistency and repair",
+      "change propagation",
+      "collaborative engineering",
+      "co-evolution",
+      "variability"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Tue, 27 May 2025 13:51:47 -0000",
+    "academic_reputation": "The research group consists of internationally recognized scholars in software engineering.",
+    "affiliated_universities": [
+      "Johannes Kepler University"
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            "model-driven engineering",
+            "software engineering"
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": null,
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": "Prof. Alexander Egyed",
+        "email": "[log in to unmask]",
+        "institution": "Johannes Kepler University Linz",
+        "phone": "+43 732 2468 4382"
+      }
+    ],
+    "queries_contact": "[log in to unmask]",
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": "Johannes Kepler University Linz",
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Prof. Alexander Egyed",
+        "institution": "Johannes Kepler University Linz"
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      null
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": null,
+    "event_details": {
+      "date": null,
+      "location": null,
+      "submission_link": null
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": "Postdoctoral",
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": "Applications should be sent with a detailed curriculum vitae and a description of research interests.",
+        "required_documents": [
+          "curriculum vitae",
+          "one page description of research interests"
+        ],
+        "submission_details": {
+          "email": "[log in to unmask]",
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

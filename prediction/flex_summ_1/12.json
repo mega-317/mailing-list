@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "editors": [
+        {
+          "name": "Abhik Roychoudhury",
+          "role": "Editor-in-Chief"
+        },
+        {
+          "name": "Foutse Khomh",
+          "role": "Guest Editor"
+        },
+        {
+          "name": "Denys Poshyvanyk",
+          "role": "Guest Editor"
+        }
+      ]
+    },
+    "website": "http://sigsoft.org/resources/seworld.html",
+    "event": {
+      "title": "Special issue on Agentic AI in Software",
+      "organizer": "ACM Transactions on Software Engineering and Methodology",
+      "year": 2026,
+      "description": "A special issue on Agentic AI in Software, inviting original research articles on automation due to agentic AI in software and its impact on future software teams.",
+      "categories": [
+        "[Auto] Automation of SE tasks via agents",
+        "[Trust] Enhancing trust in agent outputs",
+        "[Integrate] Integration of agents into existing software workflows",
+        "[A-H] Agent – human interaction in SE teams and team dynamics",
+        "[Oth] Any other agent in SE topics not covered in the preceding list"
+      ]
+    },
+    "dates": {
+      "submission_deadline": "Nov 1, 2025",
+      "first_reviews": "Jan 31, 2025",
+      "revisions_due": "March 31, 2026",
+      "outcome_of_revised_papers": "May 2026",
+      "papers_appear_online": "July 2026",
+      "special_issue_planned": "August 2026"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The special issue will focus on the impact of agentic AI in Software Engineering, exploring automation, trust, integration, and team dynamics.",
+    "submission_details": {
+      "submission_link": "https://mc.manuscriptcentral.com/tosem",
+      "submission_areas": [
+        "AI and SE"
+      ],
+      "submission_guidelines": "Select 'Special issue 2025: Agentic AI in Software' in the manuscript submission form."
+    },
+    "publication_details": null,
+    "important_dates": [
+      {
+        "event": "Paper submission deadline",
+        "date": "Nov 1, 2025"
+      },
+      {
+        "event": "First reviews appear",
+        "date": "Jan 31, 2025"
+      },
+      {
+        "event": "Revisions are due",
+        "date": "March 31, 2026"
+      },
+      {
+        "event": "Outcome of the revised papers",
+        "date": "May 2026"
+      },
+      {
+        "event": "Papers appear online in ACM Digital Library",
+        "date": "July 2026"
+      },
+      {
+        "event": "Special issue on agentic AI in TOSEM is planned",
+        "date": "August 2026"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

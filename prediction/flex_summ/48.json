@@ -1,0 +1,68 @@
+{
+  "summary": {
+    "position": "Postdoctoral positions",
+    "institution": "National University of Singapore (NUS)",
+    "location": null,
+    "department": "Computer Science Department",
+    "research_focus": "fuzz testing",
+    "responsibilities": null,
+    "employment_terms": "part of a grant sponsored by Singapore's Cybersecurity Agency (CSA) under the National Cybersecurity R&D (NCR) programme",
+    "collaboration": null,
+    "eligibility": {
+      "degree": "PhD",
+      "submission_status": "should be submitting PhD thesis soon"
+    },
+    "submission_info": {
+      "documents_required": [
+        "CV, including publications",
+        "Research statement",
+        "Names of two referees"
+      ]
+    },
+    "contact_person": {
+      "name": "Abhik Roychoudhury",
+      "position": "Lead PI",
+      "email": "[log in to unmask]"
+    },
+    "website": [
+      "https://nus-tss.github.io/fuzzing/",
+      "https://spartan-nus.github.io/coderover-s.html",
+      "https://abhikrc.com"
+    ],
+    "event": null,
+    "dates": {
+      "program_start_date": "1 July 2023",
+      "funding_period": "2023-2027"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The fuzz testing program aims to improve the reliability of modern software applications using techniques inspired by fuzz testing, advancing testing and analysis of concurrent, distributed, and stateful software, including Linux Kernel.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": "high degree of academic reputation",
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

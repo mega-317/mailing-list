@@ -1,0 +1,91 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Kutaisi International University",
+    "location": "Kutaisi, Georgia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": "[log in to unmask]",
+    "website": "https://www.logic.at/tbilisi25/",
+    "event": "Nineteenth International Tbilisi Summer School in Logic and Language",
+    "dates": {
+      "start_date": "2025-09-04",
+      "end_date": "2025-09-07"
+    },
+    "co_located_events": [
+      {
+        "event_name": "JELIA 2025",
+        "url": "https://viam.science.tsu.ge/jelia2025/"
+      },
+      {
+        "event_name": "TbiLLC 2025",
+        "url": "https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
+      }
+    ],
+    "registration": {
+      "status": "free",
+      "details": "Registration is free. For any questions, please contact [log in to unmask]"
+    },
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": {
+      "lecturers": [
+        {
+          "name": "M. Baaz & M. Gamsakhurdia",
+          "topic": "Gödels Logics"
+        },
+        {
+          "name": "S. Ghilardi",
+          "topic": "Categorical Logic: A Gentle Introduction"
+        },
+        {
+          "name": "M. Jibladze",
+          "topic": "TBA"
+        },
+        {
+          "name": "V. Marra",
+          "topic": "TBA"
+        },
+        {
+          "name": "F. Honsell",
+          "topic": "Constructive Type Theories and Logical Frameworks"
+        }
+      ],
+      "excursion_details": {
+        "description": "Excursion & Dinner",
+        "free_for_registered": "Free for all registered participants of JELIA 2025.",
+        "other_participants_fee": "Others have to pay 60 Euros"
+      }
+    },
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

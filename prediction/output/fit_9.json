@@ -1,48 +1,44 @@
 {
-  "summary_1": {
+  "summary": {
     "position": null,
     "institution": null,
-    "location": "The Hills Hotel, Laguna Hills, California",
+    "location": "Laguna Hills, California",
     "research_focus": "Artificial Intelligence and Software Engineering",
     "responsibilities": [
-      "Submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format"
+      "Submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format."
     ],
     "employment_terms": {
       "initial_research_proportion": null,
-      "resources": null
+      "resources": null,
+      "contract_duration": null
     },
-    "collaboration": null,
+    "collaboration": "Co-located with AIxSET, AIxHEART, AIxB",
     "eligibility": {
       "qualifications": null,
       "preference": null,
       "special_considerations": null
     },
-    "application_deadline": "July 15, 2025 PT (Extended Deadline)",
+    "submission_info": {
+      "submission_types": [
+        "Regular papers (8 pages)",
+        "Short papers (4 pages)",
+        "Poster and demo papers (2 pages)"
+      ],
+      "submission_deadline": "July 15, 2025",
+      "application_link": "https://easychair.org/conferences?conf=aixse2025"
+    },
     "contact_person": {
       "name": "Daryush Laqab, Giovanni Pilato, Phillip Sheu",
       "department": null,
       "phone": null,
       "email": "[log in to unmask]"
     },
-    "application_link": "https://easychair.org/conferences?conf=aixse2025"
-  },
-  "summary_2": {
-    "event": "IEEE AIxSE 2025",
-    "topic": "Artificial Intelligence and Software Engineering",
-    "submission_info": {
-      "submission_types": [
-        "Regular manuscript (8 pages)",
-        "Short manuscript (4 pages)",
-        "Poster and demo (2 pages)"
-      ],
-      "notification_date": "August 1, 2025 PT"
+    "website": "http://www.AIxSE.org",
+    "event": null,
+    "dates": {
+      "start": "October 1, 2025",
+      "end": "October 3, 2025"
     },
-    "event_details": {
-      "dates": "October 1-3, 2025",
-      "co_location": "AIxSET, AIxHEART, AIxB"
-    }
-  },
-  "summary_3": {
     "co_located_events": [
       {
         "name": "AIxSET",
@@ -68,21 +64,21 @@
     },
     "registration": {
       "cost": null,
-      "inquiries_contact": null
-    }
-  },
-  "summary_4": {
-    "description": null,
+      "inquiries_contact": "[log in to unmask]",
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "International forum for academia and industries to exchange visions and ideas in the state of the art and practice of AI and SE.",
     "submission_details": {
       "languages": [
         "English"
       ],
-      "review_process": "All paper submissions will be carefully reviewed by at least three experts",
+      "review_process": "All paper submissions will be carefully reviewed by at least three experts.",
       "submission_requirements": {
         "English_papers": {
           "page_limit": "8 pages (regular), 4 pages (short), 2 pages (poster and demo)",
           "format": "double-column IEEE format",
-          "identification": "Must guarantee that their paper will be presented at the conference"
+          "identification": "All parts must be original material and copyright owned by the authors."
         },
         "Spanish_Portuguese_papers": {
           "page_limit": null,
@@ -104,7 +100,7 @@
     "publication_details": {
       "accepted_papers": {
         "English": {
-          "publication": "Accepted papers will be submitted for inclusion into IEEE Xplore",
+          "publication": "Accepted papers will be submitted for inclusion into IEEE Xplore.",
           "indexing": [
             null
           ]
@@ -117,105 +113,18 @@
         }
       },
       "registration_requirements": {
-        "deadline": "September 1, 2025 PT",
+        "deadline": null,
         "limit": null
       }
     },
     "important_dates": {
-      "paper_submission": "July 15, 2025 PT (Extended Deadline)",
-      "notification_of_acceptance": "August 1, 2025 PT",
-      "registration_payment_deadline": "September 1, 2025 PT",
-      "camera_ready_submission_deadline": "September 1, 2025 PT"
-    }
-  },
-  "summary_5": {
-    "website": "http://www.AIxSE.org",
-    "call_for_papers": {
-      "description": "Authors are invited to submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format.",
-      "submission_instructions": {
-        "peer_review_process": "Reviews will be returned to the author(s) with comments",
-        "format_requirements": [
-          "double-column IEEE format"
-        ],
-        "track_requirements": {
-          "Research Track": null,
-          "Industrial Papers Track": null,
-          "Short Papers and Posters Track": null,
-          "Early Research Achievement (ERA) Track": null,
-          "Reproducibility Studies and Negative Results (RENE) Track": null,
-          "Tool Demo Track": null,
-          "Journal-First Papers Track": null,
-          "Registered Report Track": null
-        },
-        "double_anonymous_review": null
-      },
-      "special_journal_issue": null,
-      "workshop_information": {
-        "description": null,
-        "submission_deadline": "July 22, 2025 PT",
-        "organization_requirements": [
-          null
-        ]
-      },
-      "tutorial_information": {
-        "description": null,
-        "submission_instructions": {
-          "max_length": null,
-          "evaluation_criteria": [
-            null
-          ]
-        }
-      },
-      "important_dates": {
-        "Research Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "Industrial Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "workshop_and_tutorials": {
-          "Workshop Proposals Submission": "July 22, 2025 PT",
-          "Workshop Proposals Notification": null,
-          "Tutorial Proposals Submission": null,
-          "Tutorial Proposals Notification": null,
-          "Tutorial Camera-Ready Version": null
-        }
-      }
-    },
-    "organizing_committee": {
-      "General Chair": "Daryush Laqab, Giovanni Pilato, Phillip Sheu",
-      "Local Organizing Chair": null,
-      "Program Chairs": [
-        "Srividya Bansal, Bryan Chou, Massimo Cossentino, Sheida Malekpour, Mustafa Sert"
-      ],
-      "Industrial Chairs": [
-        null
-      ],
-      "shortPapersAndPostersChairs": [
-        null
-      ],
-      "workshopTutorialChairs": [
-        null
-      ]
-    }
-  },
-  "summary_6": {
-    "department": null,
-    "position_type": null,
-    "note": null
-  },
-  "summary_7": {
-    "registration": {
-      "early_bird_deadline": null
+      "paper_submission": "July 15, 2025",
+      "notification_of_acceptance": "August 1, 2025",
+      "registration_payment_deadline": "September 1, 2025",
+      "camera_ready_submission_deadline": "September 1, 2025"
     },
     "program_highlights": [
-      null
+      "Emerging topics and define the synergy between research in AI and SE."
     ],
     "student_volunteers": {
       "description": null,
@@ -235,24 +144,17 @@
       "engagement_with_researchers": null,
       "more_info": null
     },
-    "sponsors": null
-  },
-  "summary_8": {
+    "sponsors": null,
+    "subject": "Call for Papers",
     "reference_number": null,
+    "school": null,
     "closing_date": null,
-    "position_details": {
-      "role": null,
-      "main_activities_responsibilities": [
-        null
-      ]
-    },
     "candidate_requirements": {
       "education": null,
       "research_experience": [
         null
       ]
     },
-    "contract_duration": null,
     "benefits": [
       null
     ],

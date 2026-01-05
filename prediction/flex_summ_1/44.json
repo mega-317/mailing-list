@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": "Software Architecture",
+    "responsibilities": "Organizing ECSA 2027 and onwards",
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "letters_of_interest": {
+        "description": "Submission of Letters of Interest to organize ECSA in September 2027 and onwards.",
+        "requirements": [
+          {
+            "item": "Proposed General Chair",
+            "details": "Name and short CV, including experience on organizing international conferences."
+          },
+          {
+            "item": "Location",
+            "details": "General presentation of the potential venue and the city."
+          },
+          {
+            "item": "Preliminary list of supporting organizations",
+            "details": "Including academia, research institutions, industry, and other relevant organizations."
+          }
+        ]
+      },
+      "submission_guidelines": {
+        "deadline": "30th June 2025 (23:59 Anywhere on Earth)",
+        "procedure": "Send your application by email to the SC chair, Paris Avgeriou."
+      }
+    },
+    "contact_person": {
+      "name": "Paris Avgeriou",
+      "email": "[log in to unmask]"
+    },
+    "website": {
+      "ecsa": "https://ecsa-conferences.org/",
+      "ecsa_charter": "https://ecsa-conferences.org/series/sc-documents/",
+      "steering_committee": "https://ecsa-conferences.org/series/steering-committee/",
+      "core_ranking": "http://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=CORE2023",
+      "current_edition": "https://conf.researchr.org/home/ecsa-2025"
+    },
+    "event": {
+      "name": "European Conference on Software Architecture (ECSA)",
+      "description": "The premier European conference on Software Architecture, targeting advances and breakthroughs in the domain.",
+      "rank": "A CORE conference rank since 2010.",
+      "history": [
+        {
+          "year": 2007,
+          "location": "Aranjuez, Spain"
+        },
+        {
+          "year": 2008,
+          "location": "Paphos, Cyprus"
+        },
+        {
+          "year": 2009,
+          "location": "Cambridge, United Kingdom"
+        },
+        {
+          "year": 2010,
+          "location": "Copenhagen, Denmark"
+        },
+        {
+          "year": 2011,
+          "location": "Essen, Germany"
+        },
+        {
+          "year": 2012,
+          "location": "Helsinki, Finland"
+        },
+        {
+          "year": 2013,
+          "location": "Montpellier, France"
+        },
+        {
+          "year": 2014,
+          "location": "Vienna, Austria"
+        },
+        {
+          "year": 2015,
+          "location": "Cavtat, Croatia"
+        },
+        {
+          "year": 2016,
+          "location": "Copenhagen, Denmark"
+        },
+        {
+          "year": 2017,
+          "location": "Canterbury, United Kingdom"
+        },
+        {
+          "year": 2018,
+          "location": "Madrid, Spain"
+        },
+        {
+          "year": 2019,
+          "location": "Paris, France"
+        },
+        {
+          "year": 2020,
+          "location": "L'Aquila, Italy (virtual)"
+        },
+        {
+          "year": 2021,
+          "location": "Växjö, Sweden (virtual)"
+        },
+        {
+          "year": 2022,
+          "location": "Prague, Czech Republic"
+        },
+        {
+          "year": 2023,
+          "location": "Istanbul, Turkey"
+        },
+        {
+          "year": 2024,
+          "location": "Luxembourg"
+        },
+        {
+          "year": 2025,
+          "location": "Limassol, Cyprus"
+        },
+        {
+          "year": 2026,
+          "location": "Bolzano, Italy (planned)"
+        }
+      ]
+    },
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

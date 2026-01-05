@@ -1,0 +1,107 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Extremadura",
+    "location": "Cáceres, Spain",
+    "department": null,
+    "research_focus": "Large Language Models (LLMs) and Agentic AI in software engineering",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": "Researchers, PhD students, and professionals",
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://i3lab.unex.es/summer-school/",
+    "event": "1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025)",
+    "dates": {
+      "start_date": "2025-09-01",
+      "end_date": "2025-09-03"
+    },
+    "co_located_events": null,
+    "registration": {
+      "details": "Free of charge, includes all course materials, coffee breaks, daily lunches, one guided tourist activity, and a social dinner.",
+      "certificate": "A certificate of attendance will be provided.",
+      "accommodation_scholarships": "A limited number of accommodation scholarships are available for students."
+    },
+    "description": "This summer school focuses on the integration of LLMs and Agentic AI into the field of software engineering, featuring lectures and hands-on workshops.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": {
+      "lectures_and_workshops": "A mix of lectures and hands-on workshops delivered by internationally recognized experts in AI and software engineering."
+    },
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": [
+      "Free of charge",
+      "Access to course materials",
+      "Food and drinks provided during the event",
+      "Networking opportunities",
+      "Certificate of attendance"
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "LLM-based agents for software development tasks",
+      "Evaluation and benchmarking of agent-based systems",
+      "Human-agent collaboration in software engineering"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "Università degli Studi dell'Aquila",
+        "country": "Italy"
+      },
+      {
+        "name": "King's College London",
+        "country": "UK"
+      },
+      {
+        "name": "University of York",
+        "country": "UK"
+      },
+      {
+        "name": "Universidad Rey Juan Carlos",
+        "country": "Spain"
+      },
+      {
+        "name": "IMT Atlantique",
+        "country": "France"
+      },
+      {
+        "name": "SINTEF Digital",
+        "country": "Norway"
+      },
+      {
+        "name": "Oracle EMEA",
+        "country": "Spain"
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "In-person event with lectures and hands-on workshops",
+    "program_committee": [
+      {
+        "name": "Prof. Dr. Roberto Rodríguez Echeverría",
+        "institution": "University of Extremadura",
+        "country": "Spain"
+      },
+      {
+        "name": "Prof. Dr. José María Conejero",
+        "institution": "University of Extremadura",
+        "country": "Spain"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

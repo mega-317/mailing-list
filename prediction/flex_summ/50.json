@@ -1,0 +1,78 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Dubrovnik, Croatia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "August 2, 2025",
+      "submission_guidelines": "https://flta-conference.org/flta-2025/sts.php",
+      "submission_link": null
+    },
+    "contact_person": "Fahed",
+    "website": "https://flta-conference.org/flta-2025/sts.php",
+    "event": "The International Symposium on Sustainable Systems Technologies and Green Computing (STGC)",
+    "dates": {
+      "symposium_date": "October 15, 2025",
+      "co_located_events": [
+        {
+          "event_name": "3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025)",
+          "event_dates": "October 14-17, 2025",
+          "location": "Dubrovnik, Croatia"
+        }
+      ]
+    },
+    "registration": null,
+    "description": "STGC aims to address the growing demand for sustainable, energy-efficient, and resilient software systems by exploring innovative approaches in technology and system development.",
+    "submission_details": null,
+    "publication_details": "Accepted papers will be published in IEEE Xplore in the proceedings of FLTA 2025.",
+    "important_dates": [
+      {
+        "event": "Submission Deadline",
+        "date": "August 2, 2025"
+      },
+      {
+        "event": "Symposium Date",
+        "date": "October 15, 2025"
+      }
+    ],
+    "program_highlights": [
+      "Energy-Efficient Software Engineering",
+      "Sustainable Architectures",
+      "AI for Sustainability",
+      "IoT-Enabled Sustainability",
+      "Green Computing",
+      "Scalability and Adaptability",
+      "Blockchain for Sustainability",
+      "Technology, Sociology, and Economy for Sustainable Development",
+      "Software Engineering for Sustainability"
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "registration_link": null,
+    "timelines": null,
+    "event_format": "Hybrid Conference",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null
+  }
+}

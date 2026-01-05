@@ -1,0 +1,355 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Seoul",
+    "research_focus": [
+      "search-based software engineering",
+      "AI and optimization in software engineering",
+      "Transformative role of AI and optimization in software engineering"
+    ],
+    "responsibilities": [
+      "invite high-quality research submissions"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "collaboration": "co-located with ASE",
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": [
+        null
+      ]
+    },
+    "submission_info": {
+      "submission_types": [
+        "research papers"
+      ],
+      "submission_deadline": "August 21, 2025",
+      "application_link": "https://lnkd.in/gwxVDG5q",
+      "platform": null
+    },
+    "contact_person": {
+      "name": "Man Zhang and Shin Hong",
+      "department": null,
+      "phone": null,
+      "email": null,
+      "address": null
+    },
+    "website": null,
+    "event": {
+      "name": "17th Symposium on Search-Based Software Engineering (SSBSE 2025)",
+      "abbreviation": "SSBSE 2025",
+      "dates": "16 November 2025"
+    },
+    "dates": {
+      "start": "2025-11-16",
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": "ASE",
+        "website": "https://lnkd.in/gTDTsXuX"
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "SSBSE 2025 will focus on high-quality research submissions in search-based software engineering.",
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Automated Software Engineering",
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "August 21, 2025",
+      "notification_of_acceptance": "September 25, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "October 3, 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null
+    },
+    "program_highlights": [
+      "Novel applications of SBSE in emerging domains",
+      "Theoretical advances in search algorithms for software engineering",
+      "Rigorous empirical evaluations with reproducible results",
+      "Industrial experiences and real-world deployments",
+      "Integrations of SBSE with AI, machine learning, and cutting-edge technologies"
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "Call for Papers – SSBSE 2025, Seoul",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "search-based software engineering",
+      "AI and optimization"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "2025-06-19",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": "https://lnkd.in/gwxVDG5q",
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      null
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "key_topics": [
+        {
+          "theme": null,
+          "subtopics": [
+            null
+          ]
+        }
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": null,
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": null,
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": "https://lnkd.in/gwxVDG5q",
+    "conference_title": "SSBSE 2025",
+    "event_details": {
+      "date": "16 November 2025",
+      "location": "Seoul",
+      "submission_link": "https://lnkd.in/gwxVDG5q"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": null
+  }
+}

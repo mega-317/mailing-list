@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": false,
+  "has_submission_deadline": false,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "The event is not a conference or similar single-event; it describes job positions, and there are no specific event start dates or submission deadlines mentioned."
+}

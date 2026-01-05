@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Kutaisi, Georgia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "name": "[log in to unmask]",
+      "email": "[log in to unmask]"
+    },
+    "website": "https://viam.science.tsu.ge/jelia2025/",
+    "event": "JELIA 2025",
+    "dates": {
+      "event_dates": "1-5 September 2025"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The organizers of the JELIA conference are inviting proposals for affiliated workshops and tutorials.",
+    "submission_details": {
+      "submission_open": true,
+      "topics": "Any topic related to Artificial Intelligence.",
+      "focus": [
+        {
+          "type": "workshop",
+          "description": "Presenting ongoing research that is not yet ready for formal publication."
+        },
+        {
+          "type": "tutorial",
+          "description": "In-depth introductions to specific topics or extended demonstrations of software tools."
+        }
+      ],
+      "special_interest": "Workshops exploring the intersection of statistical and symbolic AI."
+    },
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Machine Learning",
+      "Knowledge Representation",
+      "Logic",
+      "Cognitive Systems"
+    ],
+    "community_invitation": "Proposals that aim to bridge communities and foster dialogue.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": "Call for Workshop and Tutorial Proposals",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

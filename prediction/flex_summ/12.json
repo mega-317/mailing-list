@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "special_issue": "Agentic AI in Software",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "submission_link": "https://mc.manuscriptcentral.com/tosem",
+      "submission_categories": [
+        "Automation of SE tasks via agents",
+        "Enhancing trust in agent outputs",
+        "Integration of agents into existing software workflows",
+        "Agent – human interaction in SE teams and team dynamics",
+        "Any other agent in SE topics not covered in the preceding list"
+      ],
+      "broad_area": "AI and SE",
+      "submission_timelines": {
+        "paper_submission_deadline": "2025-11-01",
+        "first_reviews_appear": "2025-01-31",
+        "revisions_due": "2026-03-31",
+        "outcome_of_revised_papers": "2026-05",
+        "papers_appear_online": "2026-07",
+        "special_issue_planned": "2026-08"
+      }
+    },
+    "contact_person": [
+      {
+        "name": "Abhik Roychoudhury",
+        "role": "Editor-in-Chief"
+      },
+      {
+        "name": "Foutse Khomh",
+        "role": "Guest Editor"
+      },
+      {
+        "name": "Denys Poshyvanyk",
+        "role": "Guest Editor"
+      }
+    ],
+    "website": "http://sigsoft.org/resources/seworld.html",
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue will invite original research articles on automation due to agentic AI in software and its impact on future software teams. AI's impact in Software Engineering (SE) includes coding, testing, analysis, patching, documentation, and design.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

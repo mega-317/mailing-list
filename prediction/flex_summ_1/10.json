@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "position": [
+      {
+        "title": "Postdoctoral Fellow",
+        "duration": "up to three years"
+      },
+      {
+        "title": "Research Fellow",
+        "duration": "up to five years"
+      }
+    ],
+    "institution": [
+      "Aalto University",
+      "University of Helsinki"
+    ],
+    "location": "Helsinki, Finland",
+    "department": null,
+    "research_focus": [
+      "Artificial Intelligence",
+      "Computational Health",
+      "Cybersecurity",
+      "Data Science",
+      "Foundations of Computing"
+    ],
+    "responsibilities": null,
+    "employment_terms": {
+      "contract_length": "negotiable",
+      "starting_ending_dates": "negotiable"
+    },
+    "collaboration": null,
+    "eligibility": {
+      "encouraged_groups": "Researchers from underrepresented groups"
+    },
+    "submission_info": {
+      "advisable_contact": "Contacting the PIs before applying is advisable but not mandatory",
+      "submission_link": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/"
+    },
+    "contact_person": {
+      "name": "Prof. Mika M채ntyl채",
+      "institution": "University of Helsinki",
+      "department": "Software / Computer Science",
+      "email": null,
+      "phone": "+358 50 577 1684",
+      "website": "https://mmantyla.github.io/"
+    },
+    "website": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/",
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": "Both Aalto University and the University of Helsinki are committed to fostering an inclusive environment with people from diverse backgrounds.",
+    "visa_information": null,
+    "topics_of_interest": [
+      {
+        "PI": "Fabian Fagerholm",
+        "topics": [
+          "Human Factors in Software Engineering",
+          "Developer Experience",
+          "Affect in Software Engineering"
+        ]
+      },
+      {
+        "PI": "Mika M채ntyl채",
+        "topics": [
+          "Software Monitoring",
+          "Software Test Automation",
+          "Automating Systematic Literature Reviews"
+        ]
+      }
+    ],
+    "community_invitation": null,
+    "academic_reputation": "Aalto University and the University of Helsinki are the two leading universities in Finland in computer science and information technology.",
+    "affiliated_universities": [
+      "Aalto University",
+      "University of Helsinki"
+    ],
+    "submission_guidelines": null,
+    "submission_link": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

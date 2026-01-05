@@ -1,0 +1,158 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "UNIRIO",
+    "location": "Rio de Janeiro, Brazil",
+    "department": "Complex Systems Engineering Lab",
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions",
+      "submission_details": {
+        "details": [
+          {
+            "max_pages": 5,
+            "proposal_structure": {
+              "max_pages_for_text": 4,
+              "references": true,
+              "appendices": true,
+              "figures": true,
+              "draft_call_for_submissions": true
+            }
+          },
+          {
+            "format_requirements": {
+              "file_format": "pdf",
+              "font_size": "12 point",
+              "adherence_to_acm_style": "not required"
+            }
+          },
+          {
+            "main_body_content": [
+              "Workshop Title and Acronym",
+              "Abstract (200 words or fewer)",
+              "Contact Information for all workshop organizers",
+              "Motivation and Objectives",
+              "Format and Required Services",
+              "Target Audience",
+              "Proceedings",
+              "Workshop History",
+              "Organizers’ bios"
+            ]
+          }
+        ]
+      }
+    },
+    "contact_person": {
+      "name": "Prof. Rodrigo Santos",
+      "role": "Head of Complex Systems Engineering Lab",
+      "website": "https://conf.researchr.org/profile/icse-2026/rodrigosantos"
+    },
+    "website": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops",
+    "event": "48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+    "dates": {
+      "workshop_dates": [
+        {
+          "start_date": "2026-04-12",
+          "end_date": "2026-04-14"
+        },
+        {
+          "start_date": "2026-04-18",
+          "end_date": null
+        }
+      ],
+      "important_dates": [
+        {
+          "title": "Workshop Proposal Submissions Deadline",
+          "date": "2025-06-23"
+        },
+        {
+          "title": "Workshop Proposal Acceptance Notification",
+          "date": "2025-07-28"
+        },
+        {
+          "title": "Workshop Websites Online",
+          "date": "2025-08-25"
+        },
+        {
+          "title": "Workshop Papers Submission Deadline for all Workshops",
+          "date": "2025-10-20"
+        },
+        {
+          "title": "Workshop Papers Acceptance Notification",
+          "date": "2025-11-24"
+        },
+        {
+          "title": "Workshop Papers info to Workshop Chairs & Web Chairs",
+          "date": "2025-12-22"
+        },
+        {
+          "title": "Workshop Papers Camera Ready",
+          "date": "TBA"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": {
+      "requirements": "All participants, including workshop organizers, keynote speakers, and invited guests, must register for the workshop.",
+      "free_registration_conditions": "One keynote speaker per workshop can benefit from a free workshop registration."
+    },
+    "description": "The workshops at ICSE serve as incubators for scientific communities and discussion platforms for software engineering research.",
+    "submission_guidelines": {
+      "criteria": "Proposals for workshops should avoid duplication or significant overlaps with existing events.",
+      "review_process": "Proposals will be evaluated by at least three members of the program committee."
+    },
+    "publication_details": {
+      "workshop_papers": {
+        "max_length": 8,
+        "type": "ACM",
+        "submission_limits": {
+          "extended_abstracts": {
+            "max_pages": 5,
+            "apc": "free"
+          },
+          "short_papers": {
+            "charged": true
+          }
+        }
+      }
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": {
+      "chairs": [
+        {
+          "name": "Rodrigo Santos",
+          "affiliation": "UNIRIO"
+        },
+        {
+          "name": "Antonia Bertolino",
+          "affiliation": "Gran Sasso Science Institute, Italy"
+        }
+      ]
+    },
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

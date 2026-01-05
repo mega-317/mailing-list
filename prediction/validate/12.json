@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": true,
+  "has_event_start_date": false,
+  "has_submission_deadline": true,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "Event start date is missing; the dates provided only refer to deadlines and review dates."
+}

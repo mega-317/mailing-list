@@ -1,0 +1,88 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Extremadura",
+    "location": "Cáceres, Spain",
+    "department": null,
+    "research_focus": "LLM-based Agents for Software Engineering",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": "Researchers, PhD students, and professionals",
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://i3lab.unex.es/summer-school/",
+    "event": "1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025)",
+    "dates": {
+      "start_date": "2025-09-01",
+      "end_date": "2025-09-03"
+    },
+    "co_located_events": null,
+    "registration": {
+      "fee": "Free of charge",
+      "inclusions": [
+        "All course materials",
+        "Coffee breaks",
+        "Daily lunches",
+        "One guided tourist activity",
+        "Social dinner",
+        "Certificate of attendance"
+      ]
+    },
+    "description": "The summer school targets researchers, PhD students, and professionals interested in the integration of Large Language Models (LLMs) and Agentic AI into the field of software engineering.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": [
+      {
+        "type": "Lecture",
+        "focus": "LLM-based agents for software development tasks, evaluation and benchmarking of agent-based systems, human-agent collaboration in software engineering"
+      },
+      {
+        "type": "Hands-on workshops",
+        "delivered_by": "Internationally recognized experts in AI and software engineering"
+      }
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": [
+      {
+        "type": "Accommodation scholarships",
+        "details": "A limited number of accommodation scholarships are available for students."
+      }
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "LLM-based agents for software development tasks",
+      "Evaluation and benchmarking of agent-based systems",
+      "Human-agent collaboration in software engineering"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "co_chair": "Prof. Dr. Roberto Rodríguez Echeverría",
+        "affiliation": "University of Extremadura, Spain"
+      },
+      {
+        "co_chair": "Prof. Dr. José María Conejero",
+        "affiliation": "University of Extremadura, Spain"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": "https://i3lab.unex.es/summer-school/"
+  }
+}

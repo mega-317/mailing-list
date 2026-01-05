@@ -1,0 +1,483 @@
+{
+  "summary": {
+    "position": "Assistant Professor",
+    "institution": "University of L’Aquila",
+    "location": "L'Aquila, Italy",
+    "department": null,
+    "research_focus": [
+      "Intelligent DevOps for Performance, Sustainability, and Reliability"
+    ],
+    "responsibilities": [
+      "Contribute to the special issue by submitting research on Intelligent DevOps"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        "Heng Li, Polytechnique Montreal, Montréal Quebec, Canada",
+        "Weiyi Shang, University of Waterloo, Waterloo Ontario, Canada"
+      ],
+      "supervisors": [
+        "Luca Traini, University of L’Aquila, L'Aquila, Italy"
+      ]
+    },
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "Research papers"
+      ],
+      "submission_deadline": "30 September 2025",
+      "application_link": "https://www.sciencedirect.com/journal/journal-of-systems-and-software/publish/guide-for-authors",
+      "platform": "Elsevier Editorial System"
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": "mailto:[log in to unmask]",
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability",
+    "event": {
+      "name": null,
+      "abbreviation": null,
+      "dates": null,
+      "main_conferences": []
+    },
+    "dates": {
+      "start": null,
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": "A special issue aimed at consolidating research on Intelligent DevOps focusing on performance, sustainability, and reliability. This special issue seeks to explore the balance between the advantages of DevOps in accelerating software delivery and the challenges it poses to quality assurance, particularly regarding performance, sustainability, and reliability.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "30 September 2025",
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "JSS Special Issue on Intelligent DevOps",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Observability in DevOps",
+      "AIOps techniques",
+      "Anomaly detection",
+      "Data-driven feedback loops",
+      "Intelligent test automation",
+      "AI and data analytics in CI/CD",
+      "Infrastructure as code",
+      "Sustainability methods",
+      "Performance analysis",
+      "Automation DevOps",
+      "Observability and monitoring in DevOps pipelines",
+      "Application of AIOps techniques for quality assurance",
+      "Automated anomaly detection and incident prediction",
+      "Data-driven feedback loops for continuous improvement",
+      "Intelligent test automation and AI-driven defect prediction",
+      "Integration of AI into CI/CD pipelines",
+      "Infrastructure as code with intelligent performance tuning",
+      "AI methods to enhance software quality",
+      "Sustainability techniques such as energy-efficient builds",
+      "Predictive modeling for capacity planning and reliability",
+      "Use of large language models in DevOps automation",
+      "Software architecture modeling informed by operational data",
+      "Quality assurance tools for microservices",
+      "Comparative evaluations and empirical studies in quality assurance"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Sat, 17 May 2025 04:12:12 -0000",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      "University of Waterloo, Waterloo Ontario, Canada",
+      "Polytechnique Montreal, Montréal Quebec, Canada"
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": null,
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": "Intelligent DevOps for Performance, Sustainability, and Reliability",
+      "publication_year": null,
+      "focus": "The integration of development and operations to enhance software quality.",
+      "themes": [
+        "Performance",
+        "Sustainability",
+        "Reliability"
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": "Luca Traini",
+        "email": null,
+        "institution": "University of L’Aquila",
+        "phone": null
+      },
+      {
+        "name": "Heng Li",
+        "email": null,
+        "institution": "Polytechnique Montreal",
+        "phone": null
+      },
+      {
+        "name": "Weiyi Shang",
+        "email": null,
+        "institution": "University of Waterloo",
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      null
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": null,
+    "event_details": {
+      "date": null,
+      "location": null,
+      "submission_link": null
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": "Journal of Systems and Software",
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      "Intelligent DevOps",
+      "Software Engineering"
+    ],
+    "technical": [
+      "Automation",
+      "Quality Assurance"
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

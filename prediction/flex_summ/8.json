@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "position": "Research Fellow-Edge Software Vulnerability Detection",
+    "institution": "Queen's University Belfast",
+    "location": "Belfast, UK",
+    "department": "School of Electronics, Electrical Engineering and Computer Science",
+    "research_focus": [
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Edge Computing",
+      "Cybersecurity"
+    ],
+    "responsibilities": [
+      {
+        "activity": "Understanding Vulnerabilities",
+        "details": "Investigate, characterise, and develop ontologies of software vulnerabilities in the edge computing environment."
+      },
+      {
+        "activity": "Vulnerability Detection",
+        "details": "Monitor and/or analyse source code, software behaviours, and software environment to identify potential vulnerabilities and assess their impacts."
+      },
+      {
+        "activity": "Remediation and Prevention",
+        "details": "Predict or identify vulnerabilities early to fix them quickly and effectively, preventing potential exploitation."
+      },
+      {
+        "activity": "Anomaly Detection and Malware Detection",
+        "details": "Investigate software quality certification/robustness to cyber disturbances and cyber-attacks."
+      },
+      {
+        "activity": "Quality Issues Identification",
+        "details": "Identify quality issues with AI models implementation on edge and offer mitigation strategies."
+      }
+    ],
+    "employment_terms": {
+      "type": "Fixed term contract",
+      "duration": "2 years",
+      "renewal": "May be renewed or made permanent subject to availability of funding."
+    },
+    "collaboration": "Member of the National Edge AI Hub research project.",
+    "eligibility": {
+      "degree": "PhD in Artificial Intelligence, Software Engineering, or Computer Science",
+      "research_experience": [
+        "Recent relevant research experience in areas of Artificial Intelligence, Software Engineering, Edge Computing, and/or Cybersecurity.",
+        "Hands-on experience with machine learning frameworks such as PyTorch, Keras, or TensorFlow.",
+        "Solid understanding of edge intelligence and software vulnerabilities.",
+        "Ability to work effectively as part of a research team."
+      ]
+    },
+    "submission_info": {
+      "application_link": "https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA",
+      "closing_date": "21-07-2025"
+    },
+    "contact_person": null,
+    "website": "https://www.qub.ac.uk/sites/QUBJobVacancies/ResearchJobs/",
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": {
+      "expected": "Strong publication record commensurate with stage of career."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": "School of Electronics, Electrical Engineering and Computer Science",
+    "closing_date": "21-07-2025",
+    "candidate_requirements": {
+      "essential": [
+        "Have or be about to obtain a PhD degree in relevant field.",
+        "Recent relevant research experience.",
+        "Hands-on experience with machine learning frameworks."
+      ],
+      "desirable": [
+        "Strong publication record."
+      ]
+    },
+    "benefits": {
+      "salary": "Competitive salary",
+      "holiday_entitlement": "Up to 8.4 weeks a year",
+      "pension_scheme": "Available",
+      "development_opportunities": "Provided",
+      "support_for_wellbeing": [
+        "Flexible working options",
+        "Work-life balance initiatives",
+        "Support for physical and mental health"
+      ]
+    },
+    "equality_commitment": "Queen's University is committed to promoting equality of opportunity to all.",
+    "visa_information": "If an international applicant doesn't already hold a visa, they should self-assess whether the University can support a visa application.",
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

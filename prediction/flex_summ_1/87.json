@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "UCLouvain, Louvain-la-Neuve, Belgium",
+    "department": null,
+    "research_focus": "Informatics Education Research",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": {
+      "who_should_attend": [
+        "PhD students",
+        "postdocs",
+        "researchers with an interest in Informatics Education Research"
+      ]
+    },
+    "submission_info": {
+      "application_deadline": "25 June 2025",
+      "submission_link": "https://www.informatics-europe.org/education/informatics-education-research-school.html"
+    },
+    "contact_person": null,
+    "website": null,
+    "event": "2025 Summer School on Informatics Education Research (SCHIER)",
+    "dates": {
+      "event_dates": "8–12 September 2025"
+    },
+    "co_located_events": null,
+    "registration": {
+      "fees": [
+        {
+          "type": "Participants from IE member institutes",
+          "amount": "EUR 350",
+          "registration_link": "https://www.informatics-europe.org/join-us/current-members.html"
+        },
+        {
+          "type": "Other participants",
+          "amount": "EUR 400"
+        }
+      ],
+      "participant_limit": 40,
+      "registration_type": "first-come, first-served"
+    },
+    "description": "SCHIER: the only summer school in Europe exclusively focused on research in Informatics Education.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": [
+      "Expert-led lectures and interactive sessions on key topics and methodologies.",
+      "Collaborative discussions on emerging research challenges.",
+      "Networking opportunities that foster meaningful, long-term collaboration and advancement."
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": "unique opportunity to engage with a vibrant community of researchers shaping the future of Informatics Education in Europe.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

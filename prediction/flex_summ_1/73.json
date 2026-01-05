@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Paris, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": [
+      {
+        "organization": "Ada-Europe",
+        "type": "organizer"
+      },
+      {
+        "organization": "Ada-France",
+        "type": "organizer"
+      },
+      {
+        "organization": "ACM SIGPLAN",
+        "type": "cooperation"
+      },
+      {
+        "organization": "Embedded France",
+        "type": "sponsor"
+      },
+      {
+        "organization": "AdaCore",
+        "type": "sponsor"
+      },
+      {
+        "organization": "Emenda",
+        "type": "sponsor"
+      },
+      {
+        "organization": "Systerel",
+        "type": "sponsor"
+      },
+      {
+        "organization": "Scitools",
+        "type": "sponsor"
+      },
+      {
+        "organization": "Pacte Novation",
+        "type": "sponsor"
+      },
+      {
+        "organization": "Institut Frederik Bull",
+        "type": "sponsor"
+      },
+      {
+        "organization": "Mines Paris",
+        "type": "sponsor"
+      }
+    ],
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "name": "Dirk Craeynest",
+      "role": "Publicity Chair",
+      "email": "[log in to unmask]"
+    },
+    "website": "http://www.ada-europe.org/conference2025",
+    "event": {
+      "name": "29th Ada-Europe International Conference on Reliable Software Technologies (AEiC 2025)",
+      "dates": {
+        "start": "2025-06-10",
+        "end": "2025-06-13"
+      },
+      "venue": "Mines Paris"
+    },
+    "dates": {
+      "early_registration_deadline": "2025-05-27"
+    },
+    "co_located_events": [
+      {
+        "name": "Ada Developers Workshop",
+        "date": "2025-06-13",
+        "fee": "25 EUR"
+      },
+      {
+        "name": "4th ADEPT workshop",
+        "date": "2025-06-13",
+        "link": "http://www.ada-europe.org/conference2025/workshop_adept.html"
+      },
+      {
+        "name": "10th International Workshop on Dependable and Cyber-Physical System Engineering (DeCPS 2025)",
+        "date": "2025-06-13",
+        "link": "http://www.ada-europe.org/conference2025/decps.html"
+      }
+    ],
+    "registration": {
+      "link": "http://www.ada-europe.org/conference2025/registration.html",
+      "details": [
+        "early registration discount until May 27, 2025",
+        "payment possible by credit card or bank transfer",
+        "strong discount on conference fees for students",
+        "registration includes coffee breaks, lunches and social events",
+        "minimal fee for Ada Developers Workshop"
+      ]
+    },
+    "description": "The 29th Ada-Europe International Conference on Reliable Software Technologies promotes interaction and collaboration between academics and industrial practitioners in reliable software technologies.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": [
+      "Keynote and invited talks",
+      "Journal track",
+      "Industrial track",
+      "Work-in-progress track",
+      "Vendor exhibition",
+      "Parallel tutorials",
+      "Satellite workshops"
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": "The conference invites participation from practitioners and researchers in reliable software technologies.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "In-person with tutorials and workshops",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

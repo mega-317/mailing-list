@@ -1,0 +1,453 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Recife, PE, Brazil",
+    "department": null,
+    "research_focus": [
+      "Software Engineering"
+    ],
+    "responsibilities": [
+      "participating in mentoring sessions",
+      "presenting a poster with a lightning talk about research"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        "CBSoft - XVI Brazilian Conference on Software: Practice and Theory"
+      ],
+      "supervisors": [
+        "Prof. Lina Garcés (USP)"
+      ]
+    },
+    "eligibility": {
+      "qualifications": "PhD or MSc students from Latin American institutions, or recent PhD graduates who work in Latin American organizations/universities",
+      "preference": "Highly motivated undergraduate students",
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "structured abstract and poster presentation"
+      ],
+      "submission_deadline": "June 30th, 2025",
+      "application_link": "https://jems3.sbc.org.br/latamschool2025",
+      "platform": null
+    },
+    "contact_person": {
+      "name": "Prof. Lina Garcés",
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": "[log in to unmask]",
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://cbsoft.sbc.org.br/2025/escola",
+    "event": {
+      "name": "5th LATAM School in Software Engineering Research",
+      "abbreviation": null,
+      "dates": "September 22nd and 23rd, 2025",
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2025-09-22",
+      "end": "2025-09-23"
+    },
+    "co_located_events": [
+      {
+        "name": "CBSoft - XVI Brazilian Conference on Software: Practice and Theory",
+        "website": "https://cbsoft.sbc.org.br/2025/cbsoft/"
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        "Free registration for the School (including lunch and coffee break)",
+        "Free participation in CBSoft"
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": "An exceptional opportunity for students and young researchers to learn about pursuing a career in Software Engineering research.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "1 page for the structured abstract",
+          "format": "structured abstract must include Context/Problem, Aims, Method, and Results",
+          "identification": "must state the names of the applicant, advisor, and affiliation"
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          "poster outlining research - dimensions 122cm height and 92cm width"
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": "10 minutes",
+          "discussion_time": "30 minutes"
+        },
+        "posters": {
+          "format": "balance of visuals and text",
+          "presentation_time": "30 minutes for mentoring sessions"
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": "July 20th, 2025",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": "June 30th, 2025",
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": "Keynote topics",
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": "Some participants may receive financial support subject to available funding.",
+      "more_info": "Sponsorship is possible thanks to the ACM SIGSOFT."
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": "Participants will interact with top academic and industry researchers.",
+      "more_info": null
+    },
+    "sponsors": [
+      "ACM SIGSOFT"
+    ],
+    "subject": "Call for participation - 5th LATAM School in Software Engineering Research",
+    "reference_number": null,
+    "school": "LATAM School of SE",
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": "PhD, MSc, or highly motivated undergraduate students",
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      "Free registration for the School",
+      "Free participation in the CBSoft"
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Software Engineering"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "2025-06-25",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            "software engineering topics"
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": "electronically through JEMS3",
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": "in-person",
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      "mentoring program",
+      "panel with experienced researchers"
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": "June 30th, 2025",
+      "application_requirements": "structured abstract and poster outlining research",
+      "application_portal": "JEMS3"
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      "undergraduate, MSc, and PhD students from Latin American institutions",
+      "recent PhD graduates from 2024"
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": "Prof. Lina Garcés",
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      "USP"
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      "Software Engineering"
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": "June 30th, 2025",
+    "more_info_link": null,
+    "conference_title": "5th LATAM School in Software Engineering Research",
+    "event_details": {
+      "date": "September 22nd to 23rd, 2025",
+      "location": "Recife, PE, Brazil",
+      "submission_link": "https://jems3.sbc.org.br/latamschool2025"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": "[log in to unmask]",
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": "to help Software Engineering researchers become part of the larger software engineering community",
+      "evaluation_criteria": [
+        "academic background",
+        "research topic",
+        "diversity"
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        "Software Engineering"
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": "Submissions must explicitly state the names of the applicant, advisor, and affiliation.",
+        "required_documents": [
+          "structured abstract",
+          "poster outline"
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": "June 30th, 2025"
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    "Research methodologies",
+    "Open science",
+    "Industry research",
+    "Life balance and health"
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Iași, România",
+    "research_focus": [
+      "Category theory in computer science",
+      "Distributed systems and concurrency",
+      "Formal languages and automata theory",
+      "Formal modeling, verification, and testing",
+      "Logic in computer science",
+      "Mathematical structures in computer science",
+      "Semantics of programming languages",
+      "Type systems",
+      "Automated reasoning and model generation",
+      "Certified programs",
+      "Deductive verification",
+      "Model checking",
+      "Proof mining",
+      "Symbolic computation",
+      "Term rewriting",
+      "Formal Methods in ML/LLMs/AI",
+      "Computational logic",
+      "Computer mathematics",
+      "Program analysis",
+      "Software and hardware verification"
+    ],
+    "responsibilities": [
+      "Contributing new theoretical results, methods, techniques, and frameworks.",
+      "Creating or using software tools that apply theoretical contributions.",
+      "Inviting speakers."
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "collaboration": "Organized by Verimag, CNRS, University of Grenoble Alpes, and Faculty of Computer Science, Alexandru Ioan Cuza University of Iași.",
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": [
+        null
+      ]
+    },
+    "submission_info": {
+      "submission_types": [
+        "Research papers",
+        "Extended abstracts"
+      ],
+      "submission_deadline": "June 22, 2025",
+      "application_link": "https://easychair.org/conferences?conf=from2025",
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": "[log in to unmask]",
+      "address": null
+    },
+    "website": "https://fromsymposium.github.io/",
+    "event": {
+      "name": "9th Working Formal Methods Symposium",
+      "abbreviation": "FROM",
+      "dates": "September 17-19, 2025"
+    },
+    "dates": {
+      "start": "September 17, 2025",
+      "end": "September 19, 2025"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "Georgiana Caltais",
+        "topic": null
+      },
+      {
+        "name": "Jérôme Leroux",
+        "topic": null
+      },
+      {
+        "name": "Rupak Majumdar",
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "The Working Formal Methods Symposium (FROM) aims to bring together researchers and practitioners working on formal methods.",
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "up to 16 pages",
+          "format": "EPTCS template",
+          "identification": "original research results not submitted or published elsewhere."
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          "Extended abstracts of up to 8 pages."
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Journal of Logical and Algebraic Methods in Programming",
+          "indexing": [
+            "subject to formal approval by Elsevier"
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": "September 2, 2025",
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "June 22, 2025",
+      "notification_of_acceptance": "July 22, 2025",
+      "registration_payment_deadline": "September 2, 2025",
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "CFP for 9th Working Formal Methods Symposium",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      null
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Tue, 10 Jun 2025 15:23:23 -0000",
+    "affiliated_universities": [
+      "University of Twente",
+      "Laboratoire Bordelais de Recherche en Informatique (LaBRI)",
+      "Max Planck Institute for Software Systems",
+      "University of Grenoble Alpes",
+      "Alexandru Ioan Cuza University of Iași",
+      "West University of Timișoara",
+      "University Paris Cité",
+      "Eötvös Loránd University",
+      "University of Bucharest",
+      "CRIStAL, CNRS & University of Lille",
+      "INRIA Lille Nord Europe",
+      "Universitat Politècnica de València",
+      "Brno University of Technology",
+      "Technische Universität Wien"
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      "Bogdan Aman - Alexandru Ioan Cuza University of Iași",
+      "Andrei Arusoaie - Alexandru Ioan Cuza University of Iași",
+      "Ștefan Ciobâcă - Alexandru Ioan Cuza University of Iași",
+      "Mădălina Erașcu - West University of Timișoara",
+      "Pierre Ganty - IMDEA Software, Madrid",
+      "Peter Habermehl - IRIF, University Paris Cité",
+      "Dániel Horpácsi - Eötvös Loránd University, Budapest",
+      "Radu Iosif - Verimag, CNRS, University of Grenoble Alpes (chair)",
+      "Laurențiu Leuștean - Faculty of Mathematics and Computer Science, University of Bucharest",
+      "Dorel Lucanu - Alexandru Ioan Cuza University of Iași",
+      "Mircea Marin - West University of Timișoara",
+      "David Nowak - CRIStAL, CNRS & University of Lille, France",
+      "Vlad Rusu - INRIA Lille Nord Europe, France",
+      "Arnaud Sangnier - IRIF, Univ Paris Diderot, CNRS, France",
+      "Mihaela Sighireanu - LMF, ENS Paris Saclay",
+      "Andrei Sipoș - University of Bucharest",
+      "Viorica Sofronie-Stokkermans - University of Koblenz",
+      "Alicia Villanueva - VRAIN - Universitat Politècnica de València",
+      "Tomáš Vojnar - Masaryk University and Brno University of Technology",
+      "Florian Zuleger - Technische Universität Wien"
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": null,
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": null,
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "9th Working Formal Methods Symposium",
+    "event_details": {
+      "date": "September 17-19, 2025",
+      "location": "Iași, România",
+      "submission_link": "https://easychair.org/conferences?conf=from2025"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": "[log in to unmask]",
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  }
+}

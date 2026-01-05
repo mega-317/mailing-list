@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "30 September 2025",
+      "submission_guidelines": "Submissions should be prepared according to the Guide for Authors.",
+      "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+      "article_type": "VSI:Intelligent DevOps"
+    },
+    "contact_person": null,
+    "website": {
+      "special_issue": "https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability",
+      "journal": "https://www.sciencedirect.com/journal/journal-of-systems-and-software",
+      "guide_for_authors": "https://www.sciencedirect.com/journal/journal-of-systems-and-software/publish/guide-for-authors"
+    },
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue aims to consolidate the latest research and advancements on the topic of Intelligent DevOps for performance, sustainability, and reliability.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": [
+      {
+        "event": "Submission Deadline",
+        "date": "30 September 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Observability and monitoring in DevOps pipelines",
+      "Application of AIOps techniques to support quality assurance",
+      "Automated anomaly detection and incident prediction",
+      "Data-driven feedback loops for continuous improvement",
+      "Intelligent test automation and AI-driven defect prediction",
+      "Integration of AI and data analytics tools into CI/CD workflows",
+      "Infrastructure as code solutions with performance tuning",
+      "Methods leveraging AI to enhance software quality",
+      "Techniques for improving sustainability in software engineering",
+      "Model-based performance analysis and predictive modeling",
+      "Leveraging large language models for automation in DevOps",
+      "Software architecture modeling informed by operational data",
+      "Quality assurance tools and methodologies in microservices",
+      "Comparative evaluations and empirical studies of quality assurance tools"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "university": "University of L’Aquila",
+        "location": "L'Aquila, Italy",
+        "editor": "Luca Traini, Assistant Professor"
+      },
+      {
+        "university": "Polytechnique Montreal",
+        "location": "Montréal Quebec, Canada",
+        "editor": "Heng Li, Assistant Professor"
+      },
+      {
+        "university": "University of Waterloo",
+        "location": "Waterloo Ontario, Canada",
+        "editor": "Weiyi Shang, Associate Professor"
+      }
+    ],
+    "submission_guidelines": "Submissions should be prepared according to the Guide for Authors.",
+    "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

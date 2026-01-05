@@ -1,11 +1,11 @@
 {
-  "summary_1": {
+  "summary": {
     "position": null,
     "institution": "Universidad Tecnológica de Honduras",
     "location": "Roatán Island, Honduras",
     "research_focus": "Information Technology & Systems",
     "responsibilities": [
-      "Present and discuss recent innovations, trends, results, experiences and concerns in the perspectives of Information Technology & Systems."
+      "Present and discuss recent innovations, trends, results, experiences and concerns in Information Technology & Systems."
     ],
     "employment_terms": {
       "initial_research_proportion": null,
@@ -13,35 +13,25 @@
     },
     "collaboration": null,
     "eligibility": {
-      "qualifications": null,
+      "qualifications": "Authors' names and affiliations must not be included in the version for evaluation by the Scientific Committee.",
       "preference": null,
       "special_considerations": null
     },
-    "application_deadline": "September 28, 2025",
+    "submission_info": {
+      "submission_types": [
+        "Original papers"
+      ],
+      "submission_deadline": "September 28, 2025"
+    },
     "contact_person": {
       "name": null,
       "department": null,
       "phone": null,
       "email": null
     },
-    "application_link": "https://icits.me/"
-  },
-  "summary_2": {
-    "event": "ICITS'26 - 9th International Conference on Information Technology & Systems",
-    "topic": null,
-    "submission_info": {
-      "submission_types": [
-        "Original papers"
-      ],
-      "notification_date": "November 5, 2025"
-    },
-    "event_details": {
-      "dates": "16-18 February 2026",
-      "co_location": null
-    }
-  },
-  "summary_3": {
     "website": "https://icits.me/",
+    "event": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+    "dates": "16-18 February 2026",
     "co_located_events": [
       {
         "name": null,

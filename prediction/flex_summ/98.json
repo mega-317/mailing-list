@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Catania, Italy",
+    "department": null,
+    "research_focus": "Collaborative Software Systems, AI, Data Science, Cyber-physical Technologies",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "May 31, 2025",
+      "submission_guidelines": "Papers must be original content not published or submitted for publication elsewhere. Papers must be written in English and formatted according to specific guidelines.",
+      "submission_link": "https://cmt3.research.microsoft.com/WETICE2025",
+      "max_length": "6 pages, including figures and references"
+    },
+    "contact_person": null,
+    "website": "https://www.dmi.unict.it/wetice2025",
+    "event": "33rd IEEE International Conference on Enabling Technologies (WETICE 2025)",
+    "dates": {
+      "event_dates": "July 23–25, 2025",
+      "registration_dates": {
+        "early_registration_ends": "July 11, 2025"
+      }
+    },
+    "co_located_events": null,
+    "registration": "All registration info is available at the conference website",
+    "description": "WETICE 2025 is a leading international forum dedicated to advancing research, fostering collaboration, and sharing innovations in the landscape of collaborative intelligence and decentralized software systems.",
+    "submission_details": null,
+    "publication_details": "Proceedings will be submitted for inclusion in IEEE Xplore, Scopus, DBLP, and Google Scholar.",
+    "important_dates": [
+      {
+        "deadline_type": "Submission deadline",
+        "date": "May 31, 2025"
+      },
+      {
+        "deadline_type": "Early registration ends",
+        "date": "July 11, 2025"
+      }
+    ],
+    "program_highlights": [
+      "Two keynotes",
+      "Paper sessions covering hot topics in various areas of computer science and software technologies",
+      "Social activities and an excursion on the last day"
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Collaborative methodologies",
+      "AI",
+      "Blockchain",
+      "IoT",
+      "Cyber-physical Technologies"
+    ],
+    "community_invitation": "We’d love to see you there.",
+    "academic_reputation": "Technically sponsored by IEEE.org, IEEE Computer Society Italy Chapter and IEEE Systems, Man and Cybernetics Society Italy Chapter",
+    "affiliated_universities": [
+      "University of Catania"
+    ],
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": [
+      "Presentations",
+      "Keynote sessions",
+      "Group discussions"
+    ],
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

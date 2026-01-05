@@ -1,0 +1,106 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Dubrovnik, Croatia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://imeta-conference.org/",
+    "event": "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
+    "dates": {
+      "event_dates": "14-17 October 2025",
+      "important_dates": {
+        "late_track_submission": {
+          "papers_due": "July 30, 2025",
+          "acceptance_notification": "August 20, 2025",
+          "camera_ready_paper_due": "August 31, 2025"
+        },
+        "workshop_papers": {
+          "papers_due": "July 30, 2025",
+          "acceptance_notification": "August 30, 2025",
+          "camera_ready_paper_due": "September 10, 2025"
+        }
+      }
+    },
+    "co_located_events": [
+      {
+        "title": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse (IDTSC)",
+        "url": "https://imeta-conference.org/2025/workshops#WS1"
+      },
+      {
+        "title": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse (BCIME)",
+        "url": "https://imeta-conference.org/2025/workshops#WS2"
+      },
+      {
+        "title": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems (EASME)",
+        "url": "https://imeta-conference.org/2025/workshops#WS3"
+      },
+      {
+        "title": "1st International Workshop on Generative AI for Immersive Experience Design (GAIXR)",
+        "url": "https://imeta-conference.org/2025/workshops#WS4"
+      },
+      {
+        "title": "1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)",
+        "url": "https://imeta-conference.org/2025/workshops#WS5"
+      },
+      {
+        "title": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse (SPAAUM)",
+        "url": "https://imeta-conference.org/2025/workshops#WS6"
+      }
+    ],
+    "registration": null,
+    "description": "The iMETA 2025 conference aims to bring together leading researchers, academics, and industry experts to explore the various aspects of the distributive metaverse, including technologies, applications, and implications for various industries. Attendees can expect keynote speeches, panel discussions, and presentations on cutting-edge research.",
+    "submission_details": null,
+    "publication_details": {
+      "publication_info": "All accepted papers in iMETA 2025 and the workshops co-located with it will be submitted to IEEEXplore, dblp and Scopus for inclusion."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Large Language Models (LLMs) in the Metaverse",
+      "Native AI for Metaverse Technologies",
+      "Security and Privacy",
+      "Networking and Communications",
+      "Systems and Computing",
+      "Multimedia and Computer Vision",
+      "Immersive Technologies and Services",
+      "Storage and Processing"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": {
+      "guidelines": "Manuscripts must be original, not previously published, or under review by another conference or journal. Submissions should adhere to the IEEE Conference Proceedings Format, using a double-column layout, 10-point font, and letter-sized paper.",
+      "length": {
+        "review_process": "not exceed 6 pages",
+        "camera_ready": "maximum of 8 pages"
+      },
+      "submission_format": "PDF",
+      "overlength_fee": "subject to an overlength page fee"
+    },
+    "submission_link": "https://easychair.org/my/conference?conf=imeta2025",
+    "timelines": null,
+    "event_format": "Hybrid Conference",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

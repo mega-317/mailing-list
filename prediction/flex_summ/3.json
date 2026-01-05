@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Kutaisi International University",
+    "location": "Kutaisi, Georgia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": "[log in to unmask]",
+    "website": "https://www.logic.at/tbilisi25/",
+    "event": "Nineteenth International Tbilisi Summer School in Logic and Language",
+    "dates": {
+      "start_date": "September 4th, 2025",
+      "end_date": "September 7th, 2025"
+    },
+    "co_located_events": [
+      {
+        "event_name": "JELIA 2025",
+        "event_link": "https://viam.science.tsu.ge/jelia2025/"
+      },
+      {
+        "event_name": "TbiLLC 2025",
+        "event_link": "https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
+      }
+    ],
+    "registration": {
+      "registration_fee": "free",
+      "details": "Free for all registered participants of JELIA 2025. Others have to pay 60 Euros"
+    },
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": [
+      {
+        "lecturer": "M. Baaz & M. Gamsakhurdia",
+        "topic": "Gödels Logics"
+      },
+      {
+        "lecturer": "S. Ghilardi",
+        "topic": "Categorical Logic: A Gentle Introduction"
+      },
+      {
+        "lecturer": "M. Jibladze",
+        "topic": "TBA"
+      },
+      {
+        "lecturer": "V. Marra",
+        "topic": "TBA"
+      },
+      {
+        "lecturer": "F. Honsell",
+        "topic": "Constructive Type Theories and Logical Frameworks"
+      }
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

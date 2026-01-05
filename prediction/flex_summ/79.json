@@ -1,0 +1,123 @@
+{
+  "summary": {
+    "position": "Workshops Co-Chair",
+    "institution": "UNIRIO",
+    "location": "Rio de Janeiro, Brazil",
+    "department": "Complex Systems Engineering Lab",
+    "research_focus": "Software Engineering",
+    "responsibilities": "Overseeing workshop proposals for ICSE 2026",
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions",
+      "submission_details": {
+        "max_pages": 5,
+        "format": "pdf, 12 point font",
+        "body_requirements": [
+          {
+            "title": "Workshop Title and Acronym"
+          },
+          {
+            "title": "Abstract",
+            "max_length": "200 words"
+          },
+          {
+            "title": "Contact Information for all workshop organizers"
+          },
+          {
+            "title": "Motivation and Objectives"
+          },
+          {
+            "title": "Format and Required Services"
+          },
+          {
+            "title": "Target Audience"
+          },
+          {
+            "title": "Proceedings"
+          },
+          {
+            "title": "Workshop History"
+          },
+          {
+            "title": "Organizers’ bios"
+          }
+        ]
+      }
+    },
+    "contact_person": {
+      "name": "Prof. Rodrigo Santos",
+      "email": "[log in to unmask]",
+      "role": "Head of Complex Systems Engineering Lab, Associate Professor of CS/IS/SoftEng"
+    },
+    "website": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops",
+    "event": "48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+    "dates": {
+      "workshop_dates": [
+        "April 12, 2026",
+        "April 13, 2026",
+        "April 14, 2026",
+        "April 18, 2026"
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "ICSE Workshops provide a forum for discussion in software engineering research and practice.",
+    "submission_details": {
+      "max_length": "5 pages including 4 pages for proposal text and 1 for Call for Submissions"
+    },
+    "publication_details": {
+      "workshop_papers": "Published by ACM"
+    },
+    "important_dates": {
+      "submission_deadline": "June 23, 2025",
+      "acceptance_notification": "July 28, 2025",
+      "websites_online": "August 25, 2025",
+      "papers_submission_deadline": "October 20, 2025",
+      "papers_acceptance_notification": "November 24, 2025",
+      "info_to_chairs_web_chairs": "December 22, 2025"
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": {
+      "types": [
+        "paper presentations",
+        "keynotes",
+        "breakout sessions",
+        "panel-like discussions"
+      ]
+    },
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "name": "Rodrigo Santos",
+        "institution": "UNIRIO",
+        "country": "Brazil"
+      },
+      {
+        "name": "Antonia Bertolino",
+        "institution": "Gran Sasso Science Institute",
+        "country": "Italy"
+      }
+    ],
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

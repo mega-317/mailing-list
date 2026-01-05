@@ -1,0 +1,466 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Auckland, New Zealand",
+    "department": null,
+    "research_focus": [
+      "software evolution",
+      "maintenance",
+      "analysis"
+    ],
+    "responsibilities": [
+      "Enhance global exchange of ideas",
+      "Networking opportunities with researchers, practitioners, and students"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        "IEEE Computer Society",
+        "IEEE TCSE"
+      ],
+      "supervisors": [
+        null
+      ]
+    },
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        null
+      ],
+      "submission_deadline": "July 15, 2025, at 23:59 AoE",
+      "application_link": null,
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://conf.researchr.org/home/icsme-2025",
+    "event": {
+      "name": "41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+      "abbreviation": "ICSME 2025",
+      "dates": "September 7-12, 2025",
+      "main_conferences": [
+        "SCAM",
+        "VISSOFT"
+      ]
+    },
+    "dates": {
+      "start": "2025-09-07",
+      "end": "2025-09-12"
+    },
+    "co_located_events": [
+      {
+        "name": "SCAM",
+        "website": "https://conf.researchr.org/home/scam-2025"
+      },
+      {
+        "name": "VISSOFT",
+        "website": "https://vissoft.io/2025/"
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null,
+        "affiliation": "International thought leaders"
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": "https://conf.researchr.org/home/icsme-2025",
+      "early_bird_deadline": "August 1, 2025",
+      "link": null
+    },
+    "description": "The ICSME 2025 is one of the premier academic conferences for researchers and practitioners working on the maintenance and evolution of software systems.",
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          null
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": null,
+      "notification_of_acceptance": null,
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": "July 15, 2025, at 23:59 AoE",
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": "Cutting-edge research on software evolution, maintenance, and analysis",
+        "website": null
+      },
+      {
+        "name": "Invited keynotes",
+        "website": "https://conf.researchr.org/info/icsme-2025/keynotes"
+      },
+      {
+        "name": "Conference reception and cultural activities in vibrant Auckland",
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": "Get involved, meet mentors, and experience the conference from the inside.",
+      "application_deadline": "July 15, 2025, at 23:59 AoE",
+      "more_info": "https://conf.researchr.org/attending/icsme-2025/student-volunteer"
+    },
+    "travel_support": {
+      "availability": "Travel support for US-based attendees is available through generous NSF funding.",
+      "more_info": "https://conf.researchr.org/attending/icsme-2025/travel-support"
+    },
+    "logistics_and_sustainability": {
+      "focused_on": "environmentally conscious and socially inclusive",
+      "discount_codes": "Discount codes for nearby hotels and international travel will be provided upon registration.",
+      "accessibility": "Arrangements to ensure accessibility and inclusivity for all attendees."
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": "Networking opportunities with researchers, practitioners, and students from around the globe.",
+      "more_info": null
+    },
+    "sponsors": [
+      "IEEE Computer Society",
+      "IEEE TCSE"
+    ],
+    "subject": "Call for Participation: 41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": "Ensuring accessibility and inclusivity for all attendees.",
+    "visa_information": null,
+    "topics_of_interest": [
+      "software evolution",
+      "maintenance",
+      "analysis"
+    ],
+    "community_invitation": "help spread the word via local networks",
+    "sender": "SEWORLD Moderator",
+    "date": "2025-07-10",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": "Arrangements to ensure accessibility and inclusivity for all attendees.",
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": null,
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": null,
+        "institution": null
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      null
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+    "event_details": {
+      "date": "September 7-12, 2025",
+      "location": "Auckland, New Zealand",
+      "submission_link": null
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    "software evolution",
+    "maintenance",
+    "analysis"
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

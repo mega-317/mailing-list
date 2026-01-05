@@ -1,0 +1,123 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Bologna, Italy",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_types": [
+        {
+          "type": "Research Papers",
+          "details": {
+            "full_papers": "up to 10 pages + 2 for references",
+            "short_papers": "up to 4 pages + 1 for references"
+          }
+        },
+        {
+          "type": "Experience Reports",
+          "details": {
+            "length": "up to 6 pages + 1 for references"
+          }
+        }
+      ],
+      "guidelines": "All submissions must be original, previously unpublished, and not under consideration or review by any other publication venue."
+    },
+    "contact_person": null,
+    "website": "https://collab.di.uniba.it/mlops/",
+    "event": "MLOps25 - Workshop on Machine Learning Operations",
+    "dates": {
+      "co_located_with": {
+        "event_name": "28th European Conference on Artificial Intelligence (ECAI 2025)",
+        "event_dates": "October 25-30, 2025"
+      },
+      "important_dates": [
+        {
+          "event": "Paper submission deadline",
+          "date": "Tuesday, May 20, 2025"
+        },
+        {
+          "event": "Notification of acceptance",
+          "date": "Thursday, June 26, 2025"
+        },
+        {
+          "event": "Camera-ready submission",
+          "date": "Tuesday, August 26, 2025"
+        },
+        {
+          "event": "Workshop date",
+          "date": "TBD (during ECAI 2025)"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "event_name": "28th European Conference on Artificial Intelligence (ECAI 2025)",
+        "event_dates": "October 25-30, 2025"
+      }
+    ],
+    "registration": null,
+    "description": "This workshop encourages discussions on bridging the gap between data science experimentation and the reliable operation of ML components in production. We invite submissions that address the open challenges, latest breakthroughs, and practical use cases in the rapidly evolving field of MLOps.",
+    "submission_details": null,
+    "publication_details": {
+      "accepted_papers": "Will be published in the CEUR Workshop Proceedings (CEUR-WS.org).",
+      "extended_version": "Authors will be invited to submit an extended version for consideration in the 'Special Issue on MLOps Advancements: Improving Development, Management, and Interpretability in AI and Machine Learning' in the journal Future Generation Computer Systems (FGCS), ranked Q1 in the Scimago Journal Rank (SJR)."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "MLOps frameworks",
+      "ML systems lifecycle management",
+      "ML pipelines orchestration",
+      "Practices to ensure ML model reproducibility, traceability, and explainability",
+      "Continuous integration/continuous delivery (CI/CD) practices for ML models",
+      "ML model monitoring and observability",
+      "Application of MLOps principles to large language models (LLMOps)",
+      "ML-specific architecture design and patterns",
+      "Experience reports on real-world MLOps applications",
+      "Challenges in applying MLOps to specific domains (e.g., healthcare and finance)",
+      "Ethics and Accountability in MLOps",
+      "AutoML applications in MLOps",
+      "Collaboration and team dynamics in MLOps",
+      "Regulatory and policy aspects of MLOps",
+      "MLOps strategies for Green AI",
+      "Security and data privacy in MLOps"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": {
+      "formatting_instructions": "Submissions must follow the CEURART style required by CEUR Workshop Proceedings. Authors can use the LaTeX, Word (DOCX), or LibreOffice (ODT) templates available. An Overleaf template is also available.",
+      "style_requirements": "1-column style version with the Libertinus font."
+    },
+    "submission_link": "EasyChair submission site",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": {
+      "evaluation_criteria": [
+        "Originality and novelty",
+        "Research and industrial relevance",
+        "Technical quality and soundness",
+        "Clarity of presentation"
+      ]
+    },
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Bologna, Italy",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "28th European Conference on Artificial Intelligence (ECAI 2025)",
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": "The OC of MLOps25",
+    "website": "https://collab.di.uniba.it/mlops/",
+    "event": "MLOps25 - Workshop on Machine Learning Operations",
+    "dates": {
+      "event_dates": {
+        "start": "October 25, 2025",
+        "end": "October 30, 2025"
+      },
+      "important_dates": [
+        {
+          "event": "Paper submission deadline",
+          "date": "Tuesday, May 20, 2025"
+        },
+        {
+          "event": "Notification of acceptance",
+          "date": "Thursday, June 26, 2025"
+        },
+        {
+          "event": "Camera-ready submission",
+          "date": "Tuesday, August 26, 2025"
+        },
+        {
+          "event": "Workshop date",
+          "date": "TBD during ECAI 2025"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "event_name": "28th European Conference on Artificial Intelligence (ECAI 2025)",
+        "event_dates": {
+          "start": "October 25, 2025",
+          "end": "October 30, 2025"
+        }
+      }
+    ],
+    "registration": null,
+    "description": "The workshop encourages discussions on bridging the gap between data science experimentation and the reliable operation of ML components in production. It aims to foster the exchange of valuable insights and advancements in the field of MLOps.",
+    "submission_details": {
+      "submission_types": [
+        {
+          "type": "Research Papers",
+          "details": [
+            "Full-papers (up to 10 pages + 2 for references)",
+            "Short-papers (up to 4 pages + 1 for references)"
+          ]
+        },
+        {
+          "type": "Experience Reports",
+          "details": "Reports on practical applications, lessons learned, and case studies related to MLOps implementation in real-world scenarios (up to 6 pages + 1 for references)."
+        }
+      ],
+      "requirements": "Submitted work must be original, previously unpublished, and not under consideration or review by any other publication venue.",
+      "formatting_instructions": "Submissions must follow the CEURART style required by CEUR Workshop Proceedings and be double-blind."
+    },
+    "publication_details": {
+      "accepted_papers": "Will be published in the CEUR Workshop Proceedings (CEUR-WS.org).",
+      "extended_version_invitation": "Authors of accepted papers will be invited to submit an extended version for consideration in the Special Issue on MLOps Advancements in the journal Future Generation Computer Systems (FGCS)."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": "Call for Papers",
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "MLOps frameworks",
+      "ML systems lifecycle management",
+      "ML pipelines orchestration",
+      "Practices to ensure ML model reproducibility, traceability, and explainability",
+      "Continuous integration/continuous delivery (CI/CD) practices for ML models",
+      "ML model monitoring and observability",
+      "Application of MLOps principles to large language models (LLMOps)",
+      "ML-specific architecture design and patterns",
+      "Experience reports on real-world MLOps applications",
+      "Challenges in applying MLOps to specific domains (e.g., healthcare and finance)",
+      "Ethics and Accountability in MLOps",
+      "AutoML applications in MLOps",
+      "Collaboration and team dynamics in MLOps",
+      "Regulatory and policy aspects of MLOps",
+      "MLOps strategies for Green AI",
+      "Security and data privacy in MLOps"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

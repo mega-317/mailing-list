@@ -1,0 +1,91 @@
+{
+  "summary": {
+    "position": "Post-Doc",
+    "institution": "Johannes Kepler University (JKU) Linz Institute of Technology (LIT)",
+    "location": "Linz, Austria",
+    "department": null,
+    "research_focus": [
+      "Distributed Software Systems and Software Architectures",
+      "Cloud Computing and Software Performance",
+      "Real-Time, Scalable Data Processing and Querying"
+    ],
+    "responsibilities": [
+      "Conduct research in software engineering",
+      "Collaborate with Dynatrace on scalable data-driven software applications",
+      "Apply for research grants",
+      "Publish and present research findings",
+      "Collaborate with fellow researchers and industry partners",
+      "(Co-)supervise Ph.D./Master's/Bachelor's students"
+    ],
+    "employment_terms": {
+      "duration": "up to three years",
+      "type": "full time"
+    },
+    "collaboration": {
+      "partner": "Dynatrace",
+      "website": "https://research.dynatrace.com/"
+    },
+    "eligibility": {
+      "degree": "Doctorate/Ph.D. in Computer Science or related field",
+      "experience": "Experience in research areas mentioned in research focus",
+      "language": "Strong proficiency in English (C1 level)"
+    },
+    "submission_info": {
+      "submission_link": "https://tinyurl.com/CoInnovPostDoc",
+      "closing_date": "Aug 10"
+    },
+    "contact_person": {
+      "name": "Rick Rabiser",
+      "position": "Univ.-Prof. Mag. Dr.",
+      "email": "[log in to unmask]",
+      "phone": "+43 732 2468 4363"
+    },
+    "website": "jku.at/lit/cps-lab",
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": [
+      {
+        "title": "10.1145/3629526.3645036",
+        "link": "https://doi.org/10.1145/3629526.3645036"
+      },
+      {
+        "title": "10.1145/3629104.3666040",
+        "link": "https://doi.org/10.1145/3629104.3666040"
+      }
+    ],
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": "Aug 10",
+    "candidate_requirements": [
+      "Strong software engineering background",
+      "Experience in distributed systems, cloud computing, software performance",
+      "Publication and presentation experience",
+      "Hands-on experience in object-oriented programming",
+      "Familiarity with Apache Spark, Apache Flink, Apache Kafka, Kubernetes"
+    ],
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

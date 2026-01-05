@@ -1,0 +1,111 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": "empirical evaluation of software engineering technologies, practices, and tools; transferring and applying empirical research methods from other disciplines to empirical software engineering",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "call_for_contributions": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+      "submission_link": "mailto:[log in to unmask]",
+      "website": "http://sigsoft.org/resources/seworld.html"
+    },
+    "contact_person": null,
+    "website": null,
+    "event": "EASE'25: 29th International Conference on Evaluation and Assessment in Software Engineering",
+    "dates": {
+      "start_date": "2025-06-17",
+      "end_date": "2025-06-20"
+    },
+    "co_located_events": [
+      {
+        "event_name": "Workshops",
+        "date": "2025-06-17",
+        "details": "EASE will feature five workshops"
+      }
+    ],
+    "registration": {
+      "link": "https://conf.researchr.org/attending/ease-2025/registration"
+    },
+    "description": "The International Conference on Evaluation and Assessment in Software Engineering (EASE) provides a stimulating forum where researchers and practitioners can present and discuss recent research results.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": {
+      "keynotes": [
+        {
+          "speaker": "Prof. Dr. Sven Apel",
+          "affiliation": "Saarland University",
+          "topic": "AI4SE: Adventures in the Promised Land",
+          "date": "2025-06-18"
+        },
+        {
+          "speaker": "Prof. Dr. Brian Fitzgerald",
+          "affiliation": "Lero - the Irish Software Research Centre",
+          "topic": "The Rise and Rise of InnerSource",
+          "date": "2025-06-19"
+        },
+        {
+          "speaker": "Dr. Celal Ziftci",
+          "affiliation": "Google",
+          "topic": "Beyond Code Completion: Harnessing LLMs for Complex Code Migrations in an Enterprise Setting at Google",
+          "date": "2025-06-20"
+        }
+      ],
+      "tracks": [
+        {
+          "track_name": "Research Track",
+          "number_of_papers": 57
+        },
+        {
+          "track_name": "Industry Track",
+          "number_of_papers": 13
+        },
+        {
+          "track_name": "Short Papers Track",
+          "number_of_papers": 29
+        },
+        {
+          "track_name": "AI Models & Data Evaluation",
+          "number_of_papers": 24
+        },
+        {
+          "track_name": "Vision & Poster Track",
+          "number_of_papers": 2
+        },
+        {
+          "track_name": "Doctoral Track",
+          "number_of_papers": 4
+        },
+        {
+          "track_name": "Journal First Track",
+          "number_of_papers": 2
+        }
+      ]
+    },
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

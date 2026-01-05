@@ -1,0 +1,171 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Ural Federal University",
+    "location": "Russia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://www.iccq.ru/2025.html",
+    "event": {
+      "name": "5th International Conference on Code Quality (ICCQ)",
+      "dates": {
+        "conference_start": "2025-12-13",
+        "important_dates": [
+          {
+            "event": "Paper/abstract submission",
+            "date": "2025-08-10"
+          },
+          {
+            "event": "Author notification",
+            "date": "2025-11-01"
+          },
+          {
+            "event": "Camera-ready submissions",
+            "date": "2025-11-25"
+          }
+        ]
+      },
+      "co_located_events": null,
+      "registration": null,
+      "description": "The conference aims to gather cutting-edge researchers to share ideas on static analysis, program verification, bug detection, and software maintenance. It is a hybrid event, allowing speakers to attend in person or present remotely via Zoom.",
+      "submission_details": {
+        "submission_guidelines": {
+          "format": "PDF",
+          "size": {
+            "min_pages": 6,
+            "max_pages": 20
+          },
+          "template": "acmart (sigplan, 11pt, anonymous)"
+        },
+        "submission_link": "https://easychair.org/cfp/iccq25"
+      },
+      "publications_details": {
+        "criteria": [
+          "Novelty: The paper presents new ideas and results.",
+          "Importance: Contributes to the advancement of knowledge.",
+          "Evidence: Sufficient evidence supporting claims.",
+          "Clarity: Presents contributions, methodology, and results clearly."
+        ],
+        "review_process": "Double-blind review by three PC members."
+      },
+      "program_committee": [
+        {
+          "name": "Alexander Legalov",
+          "affiliation": "HSE University"
+        },
+        {
+          "name": "Sara Abbaspour",
+          "affiliation": "Mälardalen University"
+        },
+        {
+          "name": "Rabe Abdalkareem",
+          "affiliation": "Omar al-Mukhtar University"
+        },
+        {
+          "name": "Mohammad Alshayeb",
+          "affiliation": "King Fahd University of Petroleum and Minerals"
+        },
+        {
+          "name": "Thomas Ball",
+          "affiliation": "Microsoft Research"
+        },
+        {
+          "name": "William J. Bowman",
+          "affiliation": "University of British Columbia"
+        },
+        {
+          "name": "Jacques Carette",
+          "affiliation": "McMaster University"
+        },
+        {
+          "name": "Bernhard Egger",
+          "affiliation": "Seoul National University"
+        },
+        {
+          "name": "Umar Farooq",
+          "affiliation": "Louisiana State University"
+        },
+        {
+          "name": "Eduardo Fernandes",
+          "affiliation": "University of Southern Denmark"
+        },
+        {
+          "name": "Javier Luis Cánovas Izquierdo",
+          "affiliation": "Universitat Oberta de Catalunya"
+        },
+        {
+          "name": "Ranjit Jhala",
+          "affiliation": "University of California, San Diego"
+        },
+        {
+          "name": "Antoine Miné",
+          "affiliation": "Sorbonne Université"
+        },
+        {
+          "name": "Murali Krishna Ramanathan",
+          "affiliation": "Amazon Web Services"
+        },
+        {
+          "name": "Francis Palma",
+          "affiliation": "University of New Brunswick"
+        },
+        {
+          "name": "Amr Sabry",
+          "affiliation": "Indiana University"
+        },
+        {
+          "name": "Bjorn De Sutter",
+          "affiliation": "Ghent University"
+        },
+        {
+          "name": "G. Gary Tan",
+          "affiliation": "Pennsylvania State University"
+        },
+        {
+          "name": "Didier Verna",
+          "affiliation": "EPITA"
+        },
+        {
+          "name": "Guowei Yang",
+          "affiliation": "University of Queensland"
+        },
+        {
+          "name": "Vadim Zaytsev",
+          "affiliation": "University of Twente"
+        },
+        {
+          "name": "Jian Zhang",
+          "affiliation": "Nanyang Technological University"
+        }
+      ],
+      "sponsors": [
+        "IEEE",
+        "Ural Federal University",
+        "HSE",
+        "Innopolis University"
+      ]
+    },
+    "dates": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "program_highlights": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "timelines": null,
+    "event_format": "Hybrid",
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

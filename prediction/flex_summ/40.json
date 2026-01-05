@@ -1,0 +1,93 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "IEEE Computer Magazine",
+    "location": null,
+    "department": null,
+    "research_focus": "Software Engineering in Generative Art",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": "Open conversation between software engineers, generative artists, and caretakers of artworks.",
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "mailto:[log in to unmask]",
+      "submission_details": "Encouragement for authors to make their code and data publicly accessible."
+    },
+    "contact_person": {
+      "guest_editors": [
+        {
+          "name": "Benoit Baudry",
+          "institution": "Université de Montréal",
+          "website": "https://softwarediversity.eu/"
+        },
+        {
+          "name": "Patricia Falcao",
+          "institution": "Tate Modern",
+          "website": "https://www.tate.org.uk/research/studentships/patricia-falc%C3%A3o"
+        },
+        {
+          "name": "Erik Fredericks",
+          "institution": "Grand Valley State University",
+          "website": "https://efredericks.github.io/"
+        }
+      ]
+    },
+    "website": "https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art",
+    "event": null,
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "Special Issue on Software Engineering in Generative Art discussing software engineering concerns in relation to generative art practices.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": {
+      "deadlines": [
+        {
+          "type": "Submission Deadline",
+          "date": "December 15, 2025"
+        },
+        {
+          "type": "Feedback to Authors",
+          "date": "March 15, 2026"
+        },
+        {
+          "type": "Submission of Revised Papers",
+          "date": "April 15, 2026"
+        },
+        {
+          "type": "Final Notification to Authors",
+          "date": "May 15, 2026"
+        }
+      ]
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "maintenance of algorithmic artworks",
+      "preservation of artifact integrity",
+      "software engineering lifespan in art projects",
+      "performance in real-time interactions",
+      "domain-specific abstractions for artistic expression"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

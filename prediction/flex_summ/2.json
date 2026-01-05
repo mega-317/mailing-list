@@ -1,0 +1,67 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Rennes, France",
+    "department": null,
+    "research_focus": [
+      "Verification",
+      "Model Checking",
+      "Abstract Interpretation"
+    ],
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_types": [
+        "regular papers",
+        "tools papers",
+        "case studies"
+      ],
+      "submission_deadline": "10th September 2025",
+      "notification_date": "6th November 2025"
+    },
+    "contact_person": null,
+    "website": "https://conf.researchr.org/home/VMCAI-2026",
+    "event": "VMCAI 2026",
+    "dates": {
+      "event_dates": "January 12-13, 2026",
+      "co_located_event": "POPL 2026"
+    },
+    "co_located_events": [
+      {
+        "event_name": "POPL 2026"
+      }
+    ],
+    "registration": null,
+    "description": "VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "physical (in-person)",
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

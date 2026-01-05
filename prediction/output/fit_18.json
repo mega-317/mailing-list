@@ -1,6 +1,6 @@
 {
-  "summary_1": {
-    "position": "faculty positions",
+  "summary": {
+    "position": null,
     "institution": "UCLouvain",
     "location": "Belgium",
     "research_focus": [
@@ -8,45 +8,51 @@
       "Programming systems and languages",
       "Software dependability",
       "Software security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "System security",
+      "Cyber-physical systems security",
+      "AI for security",
+      "Security for AI",
+      "Privacy",
+      "Distributed systems security"
     ],
     "responsibilities": [
-      "resume, teaching/research statement, etc."
+      null
     ],
     "employment_terms": {
       "initial_research_proportion": null,
-      "resources": "excellent research infrastructure and support"
+      "resources": "Excellent research infrastructure and support",
+      "contract_duration": null
     },
     "collaboration": null,
     "eligibility": {
       "qualifications": null,
-      "preference": "No need to speak French to apply (but willingness to learn in a few years if appointed)",
-      "special_considerations": null
+      "preference": null,
+      "special_considerations": "No need to speak French to apply"
     },
-    "application_deadline": null,
+    "submission_info": {
+      "submission_types": [
+        "Resume",
+        "Teaching/research statement"
+      ],
+      "submission_deadline": "A few weeks after early September",
+      "application_link": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+    },
     "contact_person": {
       "name": "Etienne Riviere",
-      "department": "Computer Science Dept.",
+      "department": "Computer Science",
       "phone": null,
       "email": "[log in to unmask]"
     },
-    "application_link": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
-  },
-  "summary_2": {
-    "event": null,
-    "topic": null,
-    "submission_info": {
-      "submission_types": [
-        null
-      ],
-      "notification_date": null
+    "website": null,
+    "event": {
+      "name": null,
+      "abbreviation": null
     },
-    "event_details": {
-      "dates": null,
-      "co_location": null
-    }
-  },
-  "summary_3": {
+    "dates": {
+      "start": null,
+      "end": null
+    },
     "co_located_events": [
       {
         "name": null,
@@ -64,11 +70,11 @@
     },
     "registration": {
       "cost": null,
-      "inquiries_contact": null
-    }
-  },
-  "summary_4": {
-    "description": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "Three full-time faculty positions targeting excellent profiles.",
     "submission_details": {
       "languages": [
         null
@@ -121,99 +127,16 @@
       "paper_submission": null,
       "notification_of_acceptance": null,
       "registration_payment_deadline": null,
-      "camera_ready_submission_deadline": null
-    }
-  },
-  "summary_5": {
-    "website": null,
-    "call_for_papers": {
-      "description": null,
-      "submission_instructions": {
-        "peer_review_process": null,
-        "format_requirements": [
-          null
-        ],
-        "track_requirements": {
-          "Research Track": null,
-          "Industrial Papers Track": null,
-          "Short Papers and Posters Track": null,
-          "Early Research Achievement (ERA) Track": null,
-          "Reproducibility Studies and Negative Results (RENE) Track": null,
-          "Tool Demo Track": null,
-          "Journal-First Papers Track": null,
-          "Registered Report Track": null
-        },
-        "double_anonymous_review": null
-      },
-      "special_journal_issue": null,
-      "workshop_information": {
-        "description": null,
-        "submission_deadline": null,
-        "organization_requirements": [
-          null
-        ]
-      },
-      "tutorial_information": {
-        "description": null,
-        "submission_instructions": {
-          "max_length": null,
-          "evaluation_criteria": [
-            null
-          ]
-        }
-      },
-      "important_dates": {
-        "Research Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "Industrial Track": {
-          "Abstract Submission Deadline": null,
-          "Paper Submission Deadline": null,
-          "Notifications": null,
-          "Camera-Ready": null
-        },
-        "workshop_and_tutorials": {
-          "Workshop Proposals Submission": null,
-          "Workshop Proposals Notification": null,
-          "Tutorial Proposals Submission": null,
-          "Tutorial Proposals Notification": null,
-          "Tutorial Camera-Ready Version": null
-        }
-      }
-    },
-    "organizing_committee": {
-      "General Chair": null,
-      "Local Organizing Chair": null,
-      "Program Chairs": [
-        null
-      ],
-      "Industrial Chairs": [
-        null
-      ],
-      "shortPapersAndPostersChairs": [
-        null
-      ],
-      "workshopTutorialChairs": [
-        null
-      ]
-    }
-  },
-  "summary_6": {
-    "department": "Computer Science",
-    "position_type": null,
-    "note": null
-  },
-  "summary_7": {
-    "registration": {
-      "early_bird_deadline": null
+      "camera_ready_submission_deadline": null,
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null
     },
     "program_highlights": [
-      "a vibrant work environment just south of Brussels",
-      "moderate teaching load and access to excellent students",
-      "competitive salaries and benefits"
+      "A vibrant work environment just south of Brussels",
+      "Moderate teaching load and access to excellent students",
+      "Competitive salaries and benefits"
     ],
     "student_volunteers": {
       "description": null,
@@ -233,159 +156,102 @@
       "engagement_with_researchers": null,
       "more_info": null
     },
-    "sponsors": null
-  },
-  "summary_8": {
+    "sponsors": [
+      null
+    ],
+    "subject": "3 upcoming academic positions at UCLouvain, Belgium (2 in software engineering, 1 in security)",
     "reference_number": null,
+    "school": null,
     "closing_date": null,
-    "position_details": {
-      "role": "faculty positions",
-      "main_activities_responsibilities": [
-        "resume, teaching/research statement, etc."
-      ]
-    },
     "candidate_requirements": {
       "education": null,
       "research_experience": [
         null
       ]
     },
-    "contract_duration": null,
     "benefits": [
-      "competitive salaries and benefits"
+      "Competitive salaries",
+      "Benefits"
     ],
     "equality_commitment": null,
-    "visa_information": null
-  },
-  "summary_9": {
-    "format": null,
+    "visa_information": null,
     "topics_of_interest": [
-      "Software engineering",
-      "Cybersecurity"
+      null
     ],
-    "call_for_papers": {
-      "submission_requirements": {
-        "submission_method": "UCLouvain job portal",
-        "pdf_format": null
-      },
-      "presentation_requirement": null,
-      "originality_policy": null
-    },
-    "important_dates": {
-      "workshop_paper_submission_deadline": null
-    },
-    "community_invitation": null
-  },
-  "summary_10": {
-    "subject": "3 upcoming academic positions at UCLouvain, Belgium (2 in software engineering, 1 in security)",
-    "sender": "SEWORLD Moderator",
+    "community_invitation": null,
+    "sender": "Etienne Riviere",
     "date": "Tue, 1 Jul 2025 06:53:33 -0000",
-    "opportunity": {
-      "positions": [
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
         {
-          "title": "faculty positions",
-          "duration": null
+          "name": null,
+          "topics": [
+            "Software engineering",
+            "Programming systems and languages",
+            "Software dependability",
+            "Software security",
+            "Cybersecurity"
+          ]
         }
       ],
-      "contract_terms": null
-    },
-    "focus_areas": [
-      "Software engineering",
-      "Cybersecurity"
-    ],
-    "software_engineering_focus": {
       "contact_advisory": null
     },
-    "contact_person": {
-      "institution": "UCLouvain",
-      "address": null,
-      "website": null
-    }
-  },
-  "summary_11": {
-    "calls": [
-      {
-        "type": "academic positions",
-        "theme": "Software engineering and Cybersecurity",
-        "important_dates": {
-          "abstract_due": null,
-          "papers_due": null
-        },
-        "submission_guidelines": "UCLouvain job portal"
-      }
-    ],
-    "workshop_proposals": {
-      "accepting": null,
-      "details": null,
-      "submission_deadline": null,
-      "submission_guidelines": null
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
     },
-    "closing_statement": null
-  },
-  "summary_12": {
+    "closing_statement": null,
     "special_issue": {
+      "title": null,
       "publication_year": null,
-      "focus": null
-    },
-    "submission_details": {
-      "broad_area": null,
-      "timelines": {
-        "first_reviews": null,
-        "revisions_due": null,
-        "outcome_of_revised_papers": null,
-        "papers_online": null,
-        "special_issue_implementation": null
-      }
+      "focus": null,
+      "themes": [
+        null
+      ]
     },
     "editor_contacts": [
-      null
-    ],
-    "queries_contact": null
-  },
-  "summary_13": {
-    "conference_name": null,
-    "type": null,
-    "sponsor": null,
-    "tracks": [
-      null
-    ],
-    "important_dates": {
-      "late_track_submission": {
-        "papers_due": null,
-        "acceptance_notification": null,
-        "camera_ready_due": null
-      },
-      "workshop_papers": {
-        "papers_due": null,
-        "acceptance_notification": null,
-        "camera_ready_due": null
-      }
-    },
-    "submission_guidelines": {
-      "manuscript_length": {
-        "review_process": null,
-        "camera_ready": null
-      }
-    }
-  },
-  "summary_14": {
-    "positions": [
       {
-        "title": "faculty positions",
-        "group": null
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
       }
-    ]
-  },
-  "summary_15": {},
-  "summary_16": {
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      null
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
     "additional_resources": {
       "newcomers_guide": null,
       "ACM_format": null,
       "ACM_policy": null
-    }
-  },
-  "summary_17": {
+    },
+    "chairs": [
+      null
+    ],
     "call_for_contributions": {
+      "book_title": null,
       "publisher": null,
       "editors": [
         {
@@ -406,13 +272,20 @@
         }
       ],
       "important_dates": {
-        "notification_of_abstracts": null
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
       },
       "submission_guidelines": {
         "requirements": null,
+        "chapter_length": null,
         "co_authorship": null,
         "proposal_length": null
-      }
+      },
+      "submission_link": null,
+      "contact_email": null
     }
   }
 }

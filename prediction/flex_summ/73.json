@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Paris, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": [
+      {
+        "organization": "Ada-Europe",
+        "role": "Organizer"
+      },
+      {
+        "organization": "Ada-France",
+        "role": "Organizer"
+      },
+      {
+        "organization": "ACM SIGPLAN",
+        "role": "Cooperation"
+      }
+    ],
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": {
+      "name": "Dirk Craeynest",
+      "role": "Publicity Chair",
+      "email": "[log in to unmask]"
+    },
+    "website": "http://www.ada-europe.org/conference2025",
+    "event": {
+      "name": "29th Ada-Europe International Conference on Reliable Software Technologies (AEiC 2025)",
+      "dates": {
+        "start": "2025-06-10",
+        "end": "2025-06-13"
+      },
+      "location": "Mines Paris",
+      "description": "A conference focusing on reliable software technologies with various tracks and social events.",
+      "important_dates": {
+        "early_registration_deadline": "2025-05-27"
+      },
+      "program_highlights": [
+        {
+          "type": "Tutorials",
+          "details": [
+            {
+              "title": "Developing Bare-metal Embedded Software in SPARK Ada for 64-bit ARM Platforms",
+              "instructor": "J. Germán Rivera"
+            },
+            {
+              "title": "Multiple Double and Multiword Arithmetic",
+              "instructor": "Jan Verschelde"
+            },
+            {
+              "title": "Unleash the Power of Ada Generics",
+              "instructor": "Gautier de Montmollin"
+            },
+            {
+              "title": "Turning your Programming Language into a Modeling Language",
+              "instructor": "S. Tucker Taft"
+            },
+            {
+              "title": "Introduction to the ALiRe Package Manager",
+              "instructor": "Quentin Dauprat"
+            }
+          ]
+        },
+        {
+          "type": "Keynotes",
+          "details": [
+            {
+              "speaker": "Stefano Zacchiroli",
+              "institution": "Télécom Paris, France",
+              "topic": "Building a Safer Open Source Supply Chain with Software Heritage, the Great Library of Source Code",
+              "date": "2025-06-11"
+            },
+            {
+              "speaker": "Tullio Vardanega",
+              "institution": "University of Padua, Italy",
+              "topic": "Language Ownership: Key Moments in the Lifetime of Ada",
+              "date": "2025-06-11"
+            }
+          ]
+        },
+        {
+          "type": "Workshops",
+          "details": [
+            {
+              "title": "4th ADEPT workshop 'AADL by its practitioners'",
+              "link": "http://www.ada-europe.org/conference2025/workshop_adept.html"
+            },
+            {
+              "title": "10th International Workshop on 'Challenges and New Approaches for Dependable and Cyber-Physical System Engineering' (DeCPS 2025)",
+              "link": "http://www.ada-europe.org/conference2025/decps.html"
+            },
+            {
+              "title": "2nd 'Ada Developers Workshop'",
+              "description": "An informal gathering for developers in the Ada community with technical presentations.",
+              "link": "http://www.ada-europe.org/conference2025/workshop_adadev.html"
+            }
+          ]
+        }
+      ],
+      "co_located_events": null,
+      "registration": {
+        "link": "http://www.ada-europe.org/conference2025/registration.html",
+        "fees": "Discounted registration until May 27, 2025.",
+        "details": "Registration includes coffee breaks, lunches, and social events."
+      },
+      "venue": {
+        "name": "Mines Paris",
+        "description": "Located along the Luxembourg gardens, next to the Quartier Latin, and close to public transportation.",
+        "website": "http://www.ada-europe.org/conference2025/venue.html"
+      }
+    },
+    "dates": null,
+    "registration_link": "http://www.ada-europe.org/conference2025/registration.html",
+    "closing_date": "2025-05-27",
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null
+  }
+}

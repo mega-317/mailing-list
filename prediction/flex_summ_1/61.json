@@ -1,0 +1,249 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": "programming languages and systems",
+    "responsibilities": "Contributions on all aspects of programming language research.",
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_categories": [
+        {
+          "category": "Research Papers",
+          "description": "Articles that advance the state-of-the-art on the theory and practice of programming languages and systems.",
+          "formatting": "Springer's LNCS, ACM’s PACMPL, or ACM’s TOPLAS format",
+          "page_limit": {
+            "for_review": "No page limit",
+            "for_camera_ready": "Must not exceed 25 pages (excluding bibliography)"
+          }
+        },
+        {
+          "category": "Experience Reports",
+          "description": "Articles reporting on systems and techniques developed in practice, including a critical evaluation.",
+          "formatting": "Springer's LNCS, must not exceed 15 pages (excluding bibliography)"
+        },
+        {
+          "category": "Fresh Perspectives",
+          "description": "Articles promoting new insights on programming languages and systems.",
+          "formatting": "Springer's LNCS, must not exceed 15 pages (excluding bibliography)"
+        }
+      ]
+    },
+    "contact_person": null,
+    "website": "https://etaps.org/2026/important-dates",
+    "event": "ESOP 2026",
+    "dates": {
+      "rounds": [
+        {
+          "round": 1,
+          "important_dates": {
+            "submission_deadline": "June 3, 2025",
+            "rebuttal_dates": "July 21-23, 2025",
+            "notification_date": "August 1, 2025"
+          }
+        },
+        {
+          "round": 2,
+          "important_dates": {
+            "submission_deadline": "October 16, 2025",
+            "rebuttal_dates": "December 8-10, 2025",
+            "notification_date": "December 22, 2025"
+          }
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+    "submission_details": {
+      "double_blind": "The paper review process will be double-blind. Authors must anonymize their submissions."
+    },
+    "publication_details": "Accepted papers will be published in Springer’s Lecture Notes in Computer Science series.",
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "programming paradigms and styles",
+      "methods and tools to specify and reason about programs and languages",
+      "programming language foundations",
+      "methods and tools for implementation, concurrency and distribution",
+      "applications and emerging topics"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "Radboud University Nijmegen",
+        "country": "Netherlands"
+      },
+      {
+        "name": "University of Cambridge",
+        "country": "UK"
+      },
+      {
+        "name": "Aarhus University",
+        "country": "Denmark"
+      },
+      {
+        "name": "Uppsala University",
+        "country": "Sweden"
+      },
+      {
+        "name": "University of Ljubljana",
+        "country": "Slovenia"
+      },
+      {
+        "name": "LMF Université Paris-Saclay",
+        "country": "France"
+      },
+      {
+        "name": "University of Wrocław",
+        "country": "Poland"
+      },
+      {
+        "name": "Academia Sinica",
+        "country": "Taiwan"
+      },
+      {
+        "name": "Aix Marseille Univ, CNRS, LIS",
+        "country": "France"
+      },
+      {
+        "name": "Indian Institute of Science",
+        "country": "India"
+      },
+      {
+        "name": "Boston University",
+        "country": "USA"
+      },
+      {
+        "name": "Illinois Institute of Technology",
+        "country": "USA"
+      },
+      {
+        "name": "University of Konstanz",
+        "country": "Germany"
+      },
+      {
+        "name": "Imperial College London",
+        "country": "UK"
+      },
+      {
+        "name": "University of Padua",
+        "country": "Italy"
+      },
+      {
+        "name": "Cornell University",
+        "country": "USA"
+      },
+      {
+        "name": "Eötvös Loránd University",
+        "country": "Hungary"
+      },
+      {
+        "name": "TU Darmstadt",
+        "country": "Germany"
+      },
+      {
+        "name": "Tel Aviv University",
+        "country": "Israel"
+      },
+      {
+        "name": "University of Oldenburg and DTU Compute",
+        "country": "Germany"
+      },
+      {
+        "name": "LASIGE, University of Lisbon",
+        "country": "Portugal"
+      },
+      {
+        "name": "University of Groningen",
+        "country": "Netherlands"
+      },
+      {
+        "name": "Tokyo University of Agriculture and Technology",
+        "country": "Japan"
+      },
+      {
+        "name": "National University of Singapore",
+        "country": "Singapore"
+      },
+      {
+        "name": "Heriot-Watt University",
+        "country": "UK"
+      },
+      {
+        "name": "NOVA FCT and NOVA LINCS",
+        "country": "Portugal"
+      },
+      {
+        "name": "Radboud University Nijmegen",
+        "country": "Netherlands"
+      },
+      {
+        "name": "Imperial College London",
+        "country": "UK"
+      },
+      {
+        "name": "University College London",
+        "country": "UK"
+      }
+    ],
+    "submission_guidelines": {
+      "link": "https://esop26.hotcrp.com/"
+    },
+    "submission_link": "https://esop26.hotcrp.com/",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": {
+      "chair": "Robbert Krebbers (Radboud University Nijmegen, Netherlands)",
+      "members": [
+        "Alasdair Armstrong (University of Cambridge, UK)",
+        "Aslan Askarov (Aarhus University, Denmark)",
+        "Mohamed Faouzi Atig (Uppsala University, Sweden)",
+        "Andrej Bauer (University of Ljubljana, Slovenia)",
+        "Veronique Benzaken (LMF Université Paris-Saclay, France)",
+        "Małgorzata Biernacka (University of Wrocław, Poland)",
+        "Liang-Ting Chen (Academia Sinica, Taiwan)",
+        "Raphaëlle Crubillé (Aix Marseille Univ, CNRS, LIS, France)",
+        "Deepak D'Souza (Indian Institute of Science, India)",
+        "Ankush Das (Boston University, USA)",
+        "Farzaneh Derakhshan (Illinois Institute of Technology, USA)",
+        "Emanuele D’Osualdo (University of Konstanz, Germany)",
+        "Paulo Emílio de Vilhena (Imperial College London, UK)",
+        "Francesco Gavazzo (University of Padua, Italy)",
+        "Justin Hsu (Cornell University, USA)",
+        "Ambrus Kaposi (Eötvös Loránd University, Hungary)",
+        "Sven Keidel (TU Darmstadt, Germany)",
+        "Ori Lahav (Tel Aviv University, Israel)",
+        "Christoph Matheja (University of Oldenburg and DTU Compute, Germany)",
+        "Andreia Mordido (LASIGE, University of Lisbon, Portugal)",
+        "Christopher Pulte (University of Cambridge, UK)",
+        "Jorge A. Pérez (University of Groningen, Netherlands)",
+        "Ryosuke Sato (Tokyo University of Agriculture and Technology, Japan)",
+        "Ilya Sergey (National University of Singapore, Singapore)",
+        "Kathrin Stark (Heriot-Watt University, UK)",
+        "Bernardo Toninho (NOVA FCT and NOVA LINCS, Portugal)",
+        "Jana Wagemaker (Radboud University Nijmegen, Netherlands)",
+        "John Wickerson (Imperial College London, UK)",
+        "Fabio Zanasi (University College London, UK)"
+      ]
+    },
+    "publications_criteria": null,
+    "conference_scope": "Fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

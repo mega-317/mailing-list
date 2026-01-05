@@ -1,0 +1,77 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Montreal, Canada",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "call_for_contributions": {
+        "poster_abstract_deadline": "May 30th, 2025",
+        "details_link": "https://semla.polymtl.ca/call-for-posters/"
+      }
+    },
+    "contact_person": null,
+    "website": "https://semla.polymtl.ca",
+    "event": "SEMLA 2025",
+    "dates": {
+      "event_dates": {
+        "start_date": "June 17, 2025",
+        "end_date": "June 19, 2025"
+      },
+      "important_dates": {
+        "early_registration_deadline": "June 6th, 2025"
+      }
+    },
+    "co_located_events": null,
+    "registration": {
+      "link": "https://www.eventbrite.ca/e/semla-2025-tickets-1323634559599?aff=oddtdtcreator"
+    },
+    "description": "The eighth edition of the Software Engineering for Machine Learning Applications (SEMLA) symposium brings together leading experts in software engineering and machine learning to discuss the challenges of developing complex data-intensive software systems.",
+    "submission_details": null,
+    "publication_details": null,
+    "program_highlights": [
+      {
+        "date": "June 17, 2025",
+        "title": "AgentOps Day",
+        "focus": "Keynotes, sessions, and discussions focused on operationalizing intelligent agents."
+      },
+      {
+        "date": "June 18, 2025",
+        "title": "Intelligent Systems",
+        "focus": "Presentations, expert talks, and discussions on AI-enhanced systems and sustainability."
+      },
+      {
+        "date": "June 19, 2025",
+        "title": "Tutorials and SEMTL Meeting",
+        "focus": "Hands-on tutorials and the SEMTL meeting."
+      }
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AgentOps",
+      "Intelligent Systems"
+    ],
+    "community_invitation": "Practitioners and researchers from all related fields are invited to participate.",
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null
+  }
+}

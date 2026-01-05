@@ -1,0 +1,231 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Koblenz, Germany",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": [
+      "https://conf.researchr.org/home/sle-2025",
+      "https://www.sleconf.org/2025/",
+      "https://x.com/sleconf"
+    ],
+    "event": {
+      "name": "18th ACM SIGPLAN International Conference on Software Language Engineering",
+      "abbreviation": "SLE 2025",
+      "dates": {
+        "start_date": "2025-06-12",
+        "end_date": "2025-06-13"
+      },
+      "venue": {
+        "name": "University of Koblenz",
+        "website": "https://conf.researchr.org/venue/sle-2025/staf-2025-venue"
+      },
+      "registration": {
+        "early_bird_deadline": "2025-05-10",
+        "registration_link": "https://conf.researchr.org/attending/staf-2025/staf-2025-registration"
+      },
+      "keynotes": [
+        {
+          "speaker": "Thorsten Berger",
+          "affiliation": "Ruhr University Bochum, Germany",
+          "title": "A New DSL Textbook in Town!"
+        },
+        {
+          "speaker": "Friedrich Steimann",
+          "affiliation": "Fernuniversität in Hagen, Germany",
+          "title": "an Programming Be Liberated from the Functional Style?"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Distinguished paper",
+          "description": "Award for the most notable paper, as determined by the PC chairs based on the recommendations of the program committee."
+        },
+        {
+          "name": "Distinguished artefact",
+          "description": "Award for the artefact most significantly exceeding expectations, as determined by the AEC chairs based on the recommendations of the artefact evaluation committee."
+        },
+        {
+          "name": "Distinguished reviewer",
+          "description": "Award for the programme committee member that produced the most useful reviews as assessed by paper authors."
+        },
+        {
+          "name": "Most Influential Paper",
+          "description": "Award for the SLE 2015 paper with the greatest impact, as judged by the SLE Steering Committee."
+        },
+        {
+          "name": "COLA Award",
+          "description": "2024 Journal of Computer Languages Best Paper Award"
+        }
+      ],
+      "accepted_papers": [
+        {
+          "title": "A Model-Driven Approach to Design, Generation, and Deployment of GUI Component Libraries",
+          "authors": [
+            "Arkadii Gerasimov",
+            "Nico Jansen",
+            "Judith Michael",
+            "Bernhard Rumpe",
+            "Sebastian Will"
+          ]
+        },
+        {
+          "title": "AnyText: Incremental, left-recursive Parsing and Pretty-Printing from a single Grammar Definition with first-class LSP support",
+          "authors": [
+            "Georg Hinkel",
+            "Alexander Hert",
+            "Niklas Hettler",
+            "Kevin Weinert"
+          ]
+        },
+        {
+          "title": "Boosting Parallel Parsing through Cyclic Operator Precedence Grammars",
+          "authors": [
+            "Michele Chiari",
+            "Michele Giornetta",
+            "Dino Mandrioli",
+            "Matteo Pradella"
+          ]
+        },
+        {
+          "title": "Detecting Resource Leaks on Android with Alpakka",
+          "authors": [
+            "Gustavo Amorim Santos",
+            "Alexandra Mendes",
+            "João Bispo"
+          ]
+        },
+        {
+          "title": "Dynamic Dependency-Based Purity Checking",
+          "authors": [
+            "Anton Risberg Alaküla",
+            "Niklas Fors",
+            "Christoph Reichenbach"
+          ]
+        },
+        {
+          "title": "Exploratory, Omniscient, and Multiverse Diagnostics in Debuggers for Non-Deterministic Languages",
+          "authors": [
+            "Damian Frölich",
+            "Tommaso Pacciani",
+            "L. Thomas van Binsbergen"
+          ]
+        },
+        {
+          "title": "Handling Grammar Cycles in the 1997 Standard ML Definition",
+          "authors": [
+            "Elizabeth Scott",
+            "Adrian Johnstone"
+          ]
+        },
+        {
+          "title": "Integrating Model Checking into a Live Modeling Environment",
+          "authors": [
+            "Joeri Exelmans",
+            "Ciprian Teodorov",
+            "Hans Vangheluwe"
+          ]
+        },
+        {
+          "title": "Lessons Learned: Challenges of Modular Language Design",
+          "authors": [
+            "Alex Lüpges",
+            "Nico Jansen",
+            "Bernhard Rumpe"
+          ]
+        },
+        {
+          "title": "Optimal Language Design is Hard: A Case Study in ECMAScript (JavaScript) Standardization",
+          "authors": [
+            "Philipp Riemer",
+            "Yury Nikulin",
+            "Ashley Claymore",
+            "Mikhail Barash"
+          ]
+        },
+        {
+          "title": "Optimize Effect Handling for Tail-resumption with Stack Unwinding",
+          "authors": [
+            "Yuze Fu",
+            "Shigeru Chiba"
+          ]
+        },
+        {
+          "title": "Property-based Testing of Attribute Grammars",
+          "authors": [
+            "José Nuno Macedo",
+            "Marcos Viera",
+            "João Saraiva"
+          ]
+        },
+        {
+          "title": "Scheduling the Construction and Interrogation of Scope Graphs Using Attribute Grammars",
+          "authors": [
+            "Luke Bessant",
+            "Eric Van Wyk"
+          ]
+        },
+        {
+          "title": "(Semantic) Feature Model Differences with (Q)SAT",
+          "authors": [
+            "Simone Heisinger",
+            "Maximilian Heisinger",
+            "Martina Seidl"
+          ]
+        },
+        {
+          "title": "TranspileJS, an Intelligent Framework for Transpiling JavaScript to WebAssembly",
+          "authors": [
+            "José Pedro Ferreira",
+            "João Bispo",
+            "Susana Lima"
+          ]
+        },
+        {
+          "title": "Variability Fault Localization by Abstract Interpretation and its Application to SPL Repair",
+          "authors": [
+            "Aleksandar S. Dimovski"
+          ]
+        }
+      ]
+    },
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": "https://conf.researchr.org/attending/staf-2025/staf-2025-registration"
+  }
+}

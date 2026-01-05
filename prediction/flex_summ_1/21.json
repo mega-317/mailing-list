@@ -1,0 +1,118 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Aarhus, Denmark",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://conferences.au.dk/confest2025",
+    "event": [
+      {
+        "name": "CONCUR 2025",
+        "type": "International Conference",
+        "description": "36th International Conference on Concurrency Theory"
+      },
+      {
+        "name": "FMICS 2025",
+        "type": "International Conference",
+        "description": "30th International Conference on Formal Methods for Industrial Critical Systems"
+      },
+      {
+        "name": "QEST+FORMATS 2025",
+        "type": "Joint International Conference",
+        "description": [
+          "Quantitative Evaluation of Systems",
+          "Formal Modeling and Analysis of Timed Systems"
+        ]
+      }
+    ],
+    "dates": {
+      "event_start_date": "2025-08-25",
+      "event_end_date": "2025-08-30",
+      "early_registration_deadline": "2025-07-25"
+    },
+    "co_located_events": [
+      {
+        "name": "BMQL 2025",
+        "description": "1st IW on Behavioural Metrics and Quantitative Logics"
+      },
+      {
+        "name": "Express/SOS 2025",
+        "description": "combined IW on Expressiveness in Concurrency and Structural Operational Semantics"
+      },
+      {
+        "name": "FMQC 2025",
+        "description": "IW on Formal Methods in Quantum Computing"
+      },
+      {
+        "name": "PFQA 2025",
+        "description": "Colloquium on Principles of Formal Quantitative Analysis"
+      },
+      {
+        "name": "Radical 2025",
+        "description": "4th IW on Recent Advances in Concurrency and Logic"
+      },
+      {
+        "name": "SynCoP 2025",
+        "description": "10th IW on Synthesis of Complex Parameters"
+      }
+    ],
+    "registration": {
+      "link": "https://conferences.au.dk/confest2025/registration",
+      "details": "Early Registration deadline is July 25, 2025."
+    },
+    "description": "CONFEST 2025 invites participation with exciting opportunities to follow advancements and network.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": {
+      "registration_close": "2025-07-25",
+      "event_dates": {
+        "start": "2025-08-25",
+        "end": "2025-08-30"
+      }
+    },
+    "program_highlights": [
+      {
+        "type": "Invited Talks",
+        "count": 8
+      },
+      {
+        "type": "Conference Paper Presentations",
+        "count": 75
+      },
+      {
+        "type": "Co-located Workshops",
+        "count": 6
+      }
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

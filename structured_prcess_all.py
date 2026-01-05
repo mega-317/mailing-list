@@ -1,7 +1,7 @@
 # process_all.py
 from pathlib import Path
 import glob
-from structured.graph import process_one_file, save_json
+from structured_pipeline.graph import process_one_file, save_json
 
 version = 1
 TEXT_DIR = Path("./data/texts")

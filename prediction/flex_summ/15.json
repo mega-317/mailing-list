@@ -1,0 +1,206 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Ural Federal University, Russia",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/cfp/iccq25",
+      "submission_guidelines": {
+        "format": "PDF, printable in black and white on US Letter sized paper",
+        "template": "acmart template (sigplan, 11pt, anonymous)",
+        "page_length": {
+          "min": 6,
+          "max": 20
+        }
+      }
+    },
+    "contact_person": null,
+    "website": "https://www.iccq.ru/2025.html",
+    "event": "5th International Conference on Code Quality (ICCQ)",
+    "dates": {
+      "conference_date": "Dec 13, 2025",
+      "important_dates": [
+        {
+          "type": "Paper/abstract submission",
+          "date": "10 Aug 2025"
+        },
+        {
+          "type": "Author notification",
+          "date": "1 Nov 2025"
+        },
+        {
+          "type": "Camera-ready submissions",
+          "date": "25 Nov 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "Aimed at improving source code quality by gathering cutting-edge researchers to share ideas on static analysis, program verification, bug detection, and software maintenance.",
+    "submission_details": null,
+    "publication_details": {
+      "criteria": [
+        {
+          "aspect": "Novelty",
+          "description": "The paper presents new ideas and results and places them appropriately within the context established by previous research."
+        },
+        {
+          "aspect": "Importance",
+          "description": "The paper contributes to the advancement of knowledge in the field."
+        },
+        {
+          "aspect": "Evidence",
+          "description": "The paper presents sufficient evidence supporting its claims, such as proofs, implemented systems, experimental results, statistical analyses, case studies, and anecdotes."
+        },
+        {
+          "aspect": "Clarity",
+          "description": "The paper presents its contributions, methodology, and results clearly."
+        }
+      ],
+      "review_process": "Papers will be reviewed by three PC members using a double-blind review process."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      "HSE University",
+      "Mälardalen University",
+      "Omar al-Mukhtar University",
+      "King Fahd University of Petroleum and Minerals",
+      "Microsoft Research",
+      "University of British Columbia",
+      "McMaster University",
+      "Seoul National University",
+      "Louisiana State University",
+      "University of Southern Denmark",
+      "Universitat Oberta de Catalunya",
+      "University of California, San Diego",
+      "Sorbonne Université",
+      "Amazon Web Services",
+      "University of New Brunswick",
+      "Indiana University",
+      "Ghent University",
+      "Pennsylvania State University",
+      "EPITA",
+      "University of Queensland",
+      "University of Twente",
+      "Nanyang Technological University"
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "Hybrid event allowing in-person and remote presentations over Zoom.",
+    "program_committee": [
+      {
+        "name": "Alexander Legalov",
+        "affiliation": "HSE University"
+      },
+      {
+        "name": "Sara Abbaspour",
+        "affiliation": "Mälardalen University"
+      },
+      {
+        "name": "Rabe Abdalkareem",
+        "affiliation": "Omar al-Mukhtar University"
+      },
+      {
+        "name": "Mohammad Alshayeb",
+        "affiliation": "King Fahd University of Petroleum and Minerals"
+      },
+      {
+        "name": "Thomas Ball",
+        "affiliation": "Microsoft Research"
+      },
+      {
+        "name": "William J. Bowman",
+        "affiliation": "University of British Columbia"
+      },
+      {
+        "name": "Jacques Carette",
+        "affiliation": "McMaster University"
+      },
+      {
+        "name": "Bernhard Egger",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Umar Farooq",
+        "affiliation": "Louisiana State University"
+      },
+      {
+        "name": "Eduardo Fernandes",
+        "affiliation": "University of Southern Denmark"
+      },
+      {
+        "name": "Javier Luis Cánovas Izquierdo",
+        "affiliation": "Universitat Oberta de Catalunya"
+      },
+      {
+        "name": "Ranjit Jhala",
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "name": "Antoine Miné",
+        "affiliation": "Sorbonne Université"
+      },
+      {
+        "name": "Murali Krishna Ramanathan",
+        "affiliation": "Amazon Web Services"
+      },
+      {
+        "name": "Francis Palma",
+        "affiliation": "University of New Brunswick"
+      },
+      {
+        "name": "Amr Sabry",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Bjorn De Sutter",
+        "affiliation": "Ghent University"
+      },
+      {
+        "name": "G. Gary Tan",
+        "affiliation": "Pennsylvania State University"
+      },
+      {
+        "name": "Didier Verna",
+        "affiliation": "EPITA"
+      },
+      {
+        "name": "Guowei Yang",
+        "affiliation": "University of Queensland"
+      },
+      {
+        "name": "Vadim Zaytsev",
+        "affiliation": "University of Twente"
+      },
+      {
+        "name": "Jian Zhang",
+        "affiliation": "Nanyang Technological University"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

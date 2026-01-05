@@ -1,0 +1,560 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "Alexandru Ioan Cuza University of Iași",
+    "location": "Iași, România",
+    "department": "Faculty of Computer Science",
+    "research_focus": [
+      "formal methods"
+    ],
+    "responsibilities": [
+      "contributing new theoretical results, methods, techniques, and frameworks",
+      "creating or using software tools that apply theoretical contributions"
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null,
+      "type": null,
+      "full_time": null,
+      "salary": null,
+      "position_count": null
+    },
+    "funding": {
+      "duration": null,
+      "possibility_of_extension": null
+    },
+    "collaboration": {
+      "project": null,
+      "partners": [
+        "Verimag",
+        "CNRS",
+        "University of Grenoble Alpes"
+      ],
+      "supervisors": null
+    },
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null,
+      "additional_eligibility": []
+    },
+    "submission_info": {
+      "submission_types": [
+        "research papers",
+        "extended abstracts"
+      ],
+      "submission_deadline": "June 22, 2025",
+      "application_link": "https://easychair.org/conferences?conf=from2025",
+      "platform": null
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "position": null,
+      "phone": null,
+      "email": null,
+      "address": null,
+      "room": null,
+      "institute_link": null
+    },
+    "website": "https://fromsymposium.github.io/",
+    "event": {
+      "name": "9th Working Formal Methods Symposium",
+      "abbreviation": "FROM 2025",
+      "dates": "September 17-19, 2025",
+      "main_conferences": []
+    },
+    "dates": {
+      "start": "2025-09-17",
+      "end": "2025-09-19"
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "Georgiana Caltais",
+        "topic": null,
+        "affiliation": "University of Twente"
+      },
+      {
+        "name": "Jérôme Leroux",
+        "topic": null,
+        "affiliation": "Laboratoire Bordelais de Recherche en Informatique (LaBRI)"
+      },
+      {
+        "name": "Rupak Majumdar",
+        "topic": null,
+        "affiliation": "Max Planck Institute for Software Systems and Automated Reasoning Group, Amazon Web Services"
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": [
+        null
+      ],
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null,
+      "link": null
+    },
+    "description": null,
+    "submission_details": {
+      "languages": [
+        null
+      ],
+      "review_process": "Papers will be reviewed and selected based on scientific merit and relevance.",
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": "16 pages",
+          "format": "EPTCS template",
+          "identification": "must contain original research results not submitted or published elsewhere"
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "additional_requirements": [
+          "extensive abstract (up to 8 pages)"
+        ]
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": "Journal of Logical and Algebraic Methods in Programming",
+          "indexing": []
+        },
+        "Spanish-Portuguese": {
+          "publication": null,
+          "indexing": []
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "June 22, 2025",
+      "notification_of_acceptance": "July 22, 2025",
+      "registration_payment_deadline": "September 2, 2025",
+      "camera_ready_submission_deadline": "August 29, 2025",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null,
+      "application_deadline": null,
+      "feedback_to_authors": null,
+      "submission_of_revised_papers": null,
+      "final_notification_to_authors": null,
+      "proposal_submission_deadline": null,
+      "author_rebuttal_period": null
+    },
+    "program_highlights": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": [
+      null
+    ],
+    "subject": "FROM 2025 - 9th Working Formal Methods Symposium (CFP)",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [],
+      "additional_experience": []
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Category theory in computer science",
+      "Distributed systems and concurrency",
+      "Formal languages and automata theory",
+      "Formal modeling, verification, and testing",
+      "Logic in computer science",
+      "Mathematical structures in computer science",
+      "Semantics of programming languages",
+      "Type systems",
+      "Automated reasoning and model generation",
+      "Certified programs",
+      "Deductive verification",
+      "Model checking",
+      "Proof mining",
+      "Symbolic computation",
+      "Term rewriting",
+      "Formal Methods in ML/LLMs/AI",
+      "Computational logic",
+      "Computer mathematics",
+      "Program analysis",
+      "Software and hardware verification"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "2025-06-10",
+    "academic_reputation": null,
+    "affiliated_universities": [
+      "University of Twente",
+      "Laboratoire Bordelais de Recherche en Informatique (LaBRI)",
+      "Max Planck Institute for Software Systems",
+      "University of Grenoble Alpes",
+      "West University of Timișoara",
+      "University Paris Cité",
+      "Eötvös Loránd University",
+      "University of Bucharest",
+      "University of Koblenz",
+      "VRAIN - Universitat Politècnica de València",
+      "Brno University of Technology",
+      "Technische Universität Wien"
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null,
+      "submission_method": null,
+      "information_requested": []
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": null,
+      "publication_year": null,
+      "focus": null,
+      "themes": [
+        null
+      ]
+    },
+    "editor_contacts": [
+      {
+        "name": null,
+        "email": null,
+        "institution": null,
+        "phone": null
+      }
+    ],
+    "queries_contact": null,
+    "submission_button": null,
+    "submission_link": null,
+    "broad_area": null,
+    "timelines": {
+      "first_reviews": null,
+      "revisions_due": null,
+      "outcome_of_revised_papers": null,
+      "papers_online": null,
+      "special_issue_implementation": null
+    },
+    "venue": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Bogdan Aman",
+        "institution": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Andrei Arusoaie",
+        "institution": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Ștefan Ciobâcă",
+        "institution": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Mădălina Erașcu",
+        "institution": "West University of Timișoara"
+      },
+      {
+        "name": "Pierre Ganty",
+        "institution": "IMDEA Software, Madrid"
+      },
+      {
+        "name": "Peter Habermehl",
+        "institution": "IRIF, University Paris Cité"
+      },
+      {
+        "name": "Dániel Horpácsi",
+        "institution": "Eötvös Loránd University, Budapest"
+      },
+      {
+        "name": "Radu Iosif",
+        "institution": "Verimag, CNRS, University of Grenoble Alpes (chair)"
+      },
+      {
+        "name": "Laurențiu Leuștean",
+        "institution": "Faculty of Mathematics and Computer Science, University of Bucharest"
+      },
+      {
+        "name": "Dorel Lucanu",
+        "institution": "Alexandru Ioan Cuza University of Iași"
+      },
+      {
+        "name": "Mircea Marin",
+        "institution": "West University of Timișoara"
+      },
+      {
+        "name": "David Nowak",
+        "institution": "CRIStAL, CNRS & University of Lille, France"
+      },
+      {
+        "name": "Vlad Rusu",
+        "institution": "INRIA Lille Nord Europe, France"
+      },
+      {
+        "name": "Arnaud Sangnier",
+        "institution": "IRIF, Univ Paris Diderot, CNRS, France"
+      },
+      {
+        "name": "Mihaela Sighireanu",
+        "institution": "LMF, ENS Paris Saclay"
+      },
+      {
+        "name": "Andrei Sipoș",
+        "institution": "University of Bucharest"
+      },
+      {
+        "name": "Viorica Sofronie-Stokkermans",
+        "institution": "University of Koblenz"
+      },
+      {
+        "name": "Alicia Villanueva",
+        "institution": "VRAIN - Universitat Politècnica de València"
+      },
+      {
+        "name": "Tomáš Vojnar",
+        "institution": "Masaryk University and Brno University of Technology"
+      },
+      {
+        "name": "Florian Zuleger",
+        "institution": "Technische Universität Wien"
+      }
+    ],
+    "publications_criteria": [
+      null
+    ],
+    "conference_scope": null,
+    "additional_resources": {
+      "newcomers_guide": null,
+      "ACM_format": null,
+      "ACM_policy": null
+    },
+    "chairs": [
+      null
+    ],
+    "call_for_contributions": {
+      "book_title": null,
+      "publisher": null,
+      "editors": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "scope": null,
+      "focus_areas": [
+        null
+      ],
+      "important_dates": {
+        "abstract_submission": null,
+        "notification_of_abstracts": null,
+        "full_chapter_submission": null,
+        "notification_of_full_chapters": null,
+        "camera_ready_copy": null
+      },
+      "submission_guidelines": {
+        "requirements": null,
+        "chapter_length": null,
+        "co_authorship": null,
+        "proposal_length": null
+      },
+      "submission_link": null,
+      "contact_email": null
+    },
+    "positions": [
+      {
+        "position_id": null,
+        "domain": null
+      }
+    ],
+    "seniority_levels": null,
+    "highlights": [
+      null
+    ],
+    "application_details": {
+      "vacancy_announcement": null,
+      "application_deadline": null,
+      "application_requirements": null,
+      "application_portal": null
+    },
+    "applications_open_until": null,
+    "event_dates": {
+      "satellite_event_dates": null
+    },
+    "target_audience": [
+      null
+    ],
+    "registration_link": null,
+    "flyer_link": null,
+    "organizer": null,
+    "note": null
+  },
+  "new_info": {
+    "organization": [
+      null
+    ],
+    "project": {
+      "name": null,
+      "description": null,
+      "url": null
+    },
+    "research_focus": [
+      null
+    ],
+    "tools_and_techniques": {
+      "name": null,
+      "url": null,
+      "purpose": null
+    },
+    "job_description_links": {
+      "english": null,
+      "french": null
+    },
+    "application_deadline": null,
+    "more_info_link": null,
+    "conference_title": "9th Working Formal Methods Symposium",
+    "event_details": {
+      "date": "September 17-19, 2025",
+      "location": "Iași, România",
+      "submission_link": "https://easychair.org/conferences?conf=from2025"
+    },
+    "conference_theme": null,
+    "contact_information": {
+      "email": null,
+      "general_co_chairs": [
+        null
+      ]
+    },
+    "additional_info": {
+      "purpose": null,
+      "evaluation_criteria": [
+        null
+      ],
+      "award_ceremony": {
+        "date": null,
+        "event": null,
+        "location": null,
+        "event_website": null
+      }
+    }
+  },
+  "institution": null,
+  "call_for_applications": {
+    "positions": {
+      "type": null,
+      "areas_of_interest": [
+        null
+      ],
+      "other_areas": null,
+      "tenure_level": null
+    },
+    "requirements": {
+      "tenure_track_candidates": null,
+      "tenured_candidates": null
+    },
+    "application_process": {
+      "stages": null,
+      "first_stage": {
+        "description": null,
+        "required_documents": [
+          null
+        ],
+        "submission_details": {
+          "email": null,
+          "subject": null
+        },
+        "deadline": null
+      },
+      "second_stage": null
+    },
+    "additional_information": null
+  },
+  "goal": null,
+  "focus": null,
+  "topics_covered": [
+    null
+  ],
+  "exclusions": null,
+  "journal": null,
+  "rank": null,
+  "citeScore": null,
+  "impactFactor": null,
+  "submissionOpenDate": null,
+  "editorialAcceptanceDeadline": null,
+  "topics": {
+    "conceptual": [
+      null
+    ],
+    "technical": [
+      null
+    ]
+  },
+  "offerings": [
+    null
+  ],
+  "capacity": null,
+  "awards": {
+    "best_paper_award": null,
+    "journal_special_issues": null
+  }
+}

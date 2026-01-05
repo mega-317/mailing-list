@@ -1,0 +1,65 @@
+{
+  "summary": {
+    "position": "Post Doctoral Researcher in Human-Centered AI for Software Engineering",
+    "institution": "Aarhus University",
+    "location": "Helsingforsgade 10, 8200 Aarhus N, Denmark",
+    "department": "Department of Electrical and Computer Engineering",
+    "research_focus": "Empirical Software Engineering (EMSE), Human-Centered Adoption of Artificial Intelligence for Software Engineering",
+    "responsibilities": {
+      "main_responsibility": "Conduct research on Large Language Models within the context of software project management",
+      "collaboration": "Work with a team of researchers and practitioners from leading Danish universities and software companies",
+      "expected_contributions": "Engage in existing research projects and facilitate multidisciplinary collaboration"
+    },
+    "employment_terms": {
+      "duration": "Two-year fixed-term",
+      "start_date": "1st of November 2025"
+    },
+    "collaboration": {
+      "partners": [
+        {
+          "type": "universities",
+          "name": "leading Danish universities"
+        },
+        {
+          "type": "industry",
+          "name": "industrial partners in Denmark and Sweden"
+        }
+      ],
+      "project": "AI4SE1DK - Human-Centered Adoption of Artificial Intelligence for Software Engineering"
+    },
+    "eligibility": {
+      "degree": "PhD in Computer Science or related field",
+      "qualifications": [
+        "Solid research experience in applied AI, particularly with Large Language Models",
+        "Solid programming expertise in Python",
+        "Main author of at least one journal publication in the area of AI4SE",
+        "Fast learner with interests in multidisciplinary research",
+        "Excellent English skills, both orally and written",
+        "Ability to collaborate effectively within a multidisciplinary and multicultural team"
+      ]
+    },
+    "submission_info": {
+      "closure_date": "10 August 2025",
+      "application_details": "Applications must include a CV, degree certificate, list of publications, statement of future research plans, teaching portfolio, and verified information on previous teaching experience"
+    },
+    "contact_person": {
+      "name": "Professor Emilia Mendes",
+      "email": "[log in to unmask]"
+    },
+    "website": {
+      "department": "https://ece.au.dk/en/about-the-department",
+      "research_section": "https://ece.au.dk/en/research/key-areas-in-research-and-development/software-engineering-computing-systems"
+    },
+    "important_dates": {
+      "applications_open_until": "10 August 2025",
+      "employment_start": "1st of November 2025"
+    },
+    "program_highlights": [
+      "Access to a rich ecosystem of researchers and practitioners",
+      "Opportunities for high-impact publications",
+      "Collaboration with industry for practical validation of research"
+    ],
+    "description": "This position is funded by Innovation Fund Denmark Grand Solutions project focusing on the responsible and human-centered adoption of AI technologies in software engineering.",
+    "application_procedure": "Shortlisting will be used for the selection process, with notifications sent to applicants regarding their application status."
+  }
+}

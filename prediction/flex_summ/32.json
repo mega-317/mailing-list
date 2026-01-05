@@ -1,0 +1,154 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "categories": [
+        {
+          "type": "Regular research papers",
+          "description": "Describing novel contributions involving managed language platforms.",
+          "evaluation_criteria": [
+            "relevance",
+            "novelty",
+            "technical rigor",
+            "contribution to the state-of-the-art"
+          ],
+          "format": "up to 12 pages, excluding bibliography and appendix"
+        },
+        {
+          "type": "Work-in-progress research papers",
+          "description": "Describing hot topics or promising new ideas, potentially less mature than full papers.",
+          "evaluation_criteria": [
+            "novelty",
+            "potential of new ideas"
+          ],
+          "format": "up to 6 pages, excluding bibliography and appendix"
+        },
+        {
+          "type": "Industry and tool papers",
+          "description": "Presenting technical challenges and solutions for managed language platforms in deployed contexts.",
+          "evaluation_criteria": [
+            "relevance",
+            "usefulness",
+            "results",
+            "suitability for demonstration and availability"
+          ],
+          "format": "up to 6 pages, excluding bibliography and appendix; up to 12 pages allowed if justified by content"
+        }
+      ],
+      "submission_format": "ACM SIGPLAN format with the sigplan style",
+      "latex_instructions": "Use 'acmart' document class with 'sigplan' option and ensure legibility in black and white.",
+      "submission_site": "https://mplr25.hotcrp.com"
+    },
+    "contact_person": {
+      "name": "Tomoharu Ugawa",
+      "email": "ugawa ci i u-tokyo ac jp"
+    },
+    "website": null,
+    "event": {
+      "name": "22nd International Conference on Managed Programming Languages & Runtimes (MPLR’25)",
+      "description": "A premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems.",
+      "topics_of_interest": [
+        {
+          "area": "Languages and Compilers",
+          "subtopics": [
+            "Managed languages (e.g., Java, Scala, JavaScript, Python, Ruby, C#, F#, Clojure, Groovy, Kotlin, R, Smalltalk, Racket, Rust, Go, Lua, MATLAB, Raku, Pony)",
+            "Domain-specific languages",
+            "Language design",
+            "Compilers and interpreters",
+            "Type systems and program logics",
+            "Language interoperability",
+            "Parallelism, distribution, and concurrency"
+          ]
+        },
+        {
+          "area": "Virtual Machines",
+          "subtopics": [
+            "Portable intermediate representations (e.g., JVM, WebAssembly, RPython)",
+            "Managed runtime systems (e.g., GraalVM, Android Runtime, V8)",
+            "VM design and optimization",
+            "VMs for mobile and embedded devices",
+            "VMs for real-time applications",
+            "Memory management and garbage collection",
+            "Hardware/software co-design",
+            "Persistence"
+          ]
+        },
+        {
+          "area": "Techniques, Tools, and Applications",
+          "subtopics": [
+            "Static and dynamic program analysis",
+            "Testing and debugging",
+            "Refactoring",
+            "Program understanding",
+            "Program synthesis",
+            "Security and privacy",
+            "Performance analysis and monitoring",
+            "Compiler and program verification and model checking"
+          ]
+        }
+      ]
+    },
+    "dates": {
+      "important_dates": [
+        {
+          "event": "Paper Submission Deadline",
+          "date": "June 24, 2025"
+        },
+        {
+          "event": "Paper Author Notification",
+          "date": "July 28, 2025"
+        },
+        {
+          "event": "Camera Ready for Papers",
+          "date": "August 25, 2025"
+        },
+        {
+          "event": "Conference Date",
+          "date": "October 14, 2025"
+        }
+      ],
+      "all_deadlines": "23:59 AoE (UTC-12h)"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": null,
+    "submission_details": null,
+    "publication_details": {
+      "publisher": "ACM Digital Library",
+      "prior_publication_policy": "MPLR 2025 submissions must conform to the ACM Policy on Prior Publication and Simultaneous Submissions and to the SIGPLAN Republication Policy"
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

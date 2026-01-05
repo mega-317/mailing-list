@@ -1,0 +1,283 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": "fundamental issues in the specification, design, analysis, and implementation of programming languages and systems",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_categories": [
+        {
+          "type": "Research Papers",
+          "description": "Articles that advance the state-of-the-art on the theory and practice of programming languages and systems. Submitted papers may be formatted in Springer’s LNCS, ACM’s PACMPL, or ACM’s TOPLAS format with a maximum of 25 pages for camera-ready versions."
+        },
+        {
+          "type": "Experience Reports",
+          "description": "Articles reporting on systems and techniques developed in practice, including artifacts, tools, mechanized proofs, and educational systems. Submissions must not exceed 15 pages and include a critical evaluation."
+        },
+        {
+          "type": "Fresh Perspectives",
+          "description": "Articles that promote new insights on programming languages and systems. Submissions must not exceed 15 pages."
+        }
+      ],
+      "submission_link": "https://esop26.hotcrp.com/"
+    },
+    "contact_person": null,
+    "website": null,
+    "event": "ESOP 2026",
+    "dates": {
+      "submission_rounds": [
+        {
+          "round": 1,
+          "submission_deadline": "June 3, 2025",
+          "rebuttal_period": "July 21-23, 2025",
+          "notification_date": "August 1, 2025"
+        },
+        {
+          "round": 2,
+          "submission_deadline": "October 16, 2025",
+          "rebuttal_period": "December 8-10, 2025",
+          "notification_date": "December 22, 2025"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "ESOP is an annual conference focused on programming language research.",
+    "submission_details": null,
+    "publication_details": {
+      "accepted_papers_format": "Springer’s Lecture Notes in Computer Science series",
+      "double_blind_review": true,
+      "anonymization_requirement": "Authors must anonymize their submissions and not identify themselves."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "programming paradigms and styles",
+      "methods and tools to specify and reason about programs and languages",
+      "programming language foundations",
+      "methods and tools for implementation, concurrency and distribution",
+      "applications and emerging topics"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "Robbert Krebbers",
+        "institution": "Radboud University Nijmegen, Netherlands",
+        "role": "PC Chair"
+      },
+      {
+        "name": "Alasdair Armstrong",
+        "institution": "University of Cambridge, UK",
+        "role": "PC Member"
+      },
+      {
+        "name": "Aslan Askarov",
+        "institution": "Aarhus University, Denmark",
+        "role": "PC Member"
+      },
+      {
+        "name": "Mohamed Faouzi Atig",
+        "institution": "Uppsala University, Sweden",
+        "role": "PC Member"
+      },
+      {
+        "name": "Andrej Bauer",
+        "institution": "University of Ljubljana, Slovenia",
+        "role": "PC Member"
+      },
+      {
+        "name": "Veronique Benzaken",
+        "institution": "LMF Université Paris-Saclay, France",
+        "role": "PC Member"
+      },
+      {
+        "name": "Małgorzata Biernacka",
+        "institution": "University of Wrocław, Poland",
+        "role": "PC Member"
+      },
+      {
+        "name": "Liang-Ting Chen",
+        "institution": "Academia Sinica, Taiwan",
+        "role": "PC Member"
+      },
+      {
+        "name": "Raphaëlle Crubillé",
+        "institution": "Aix Marseille Univ, CNRS, LIS, France",
+        "role": "PC Member"
+      },
+      {
+        "name": "Deepak D'Souza",
+        "institution": "Indian Institute of Science, India",
+        "role": "PC Member"
+      },
+      {
+        "name": "Ankush Das",
+        "institution": "Boston University, USA",
+        "role": "PC Member"
+      },
+      {
+        "name": "Farzaneh Derakhshan",
+        "institution": "Illinois Institute of Technology, USA",
+        "role": "PC Member"
+      },
+      {
+        "name": "Emanuele D’Osualdo",
+        "institution": "University of Konstanz, Germany",
+        "role": "PC Member"
+      },
+      {
+        "name": "Paulo Emílio de Vilhena",
+        "institution": "Imperial College London, UK",
+        "role": "PC Member"
+      },
+      {
+        "name": "Francesco Gavazzo",
+        "institution": "University of Padua, Italy",
+        "role": "PC Member"
+      },
+      {
+        "name": "Justin Hsu",
+        "institution": "Cornell University, USA",
+        "role": "PC Member"
+      },
+      {
+        "name": "Ambrus Kaposi",
+        "institution": "Eötvös Loránd University, Hungary",
+        "role": "PC Member"
+      },
+      {
+        "name": "Sven Keidel",
+        "institution": "TU Darmstadt, Germany",
+        "role": "PC Member"
+      },
+      {
+        "name": "Ori Lahav",
+        "institution": "Tel Aviv University, Israel",
+        "role": "PC Member"
+      },
+      {
+        "name": "Christoph Matheja",
+        "institution": "University of Oldenburg and DTU Compute, Germany",
+        "role": "PC Member"
+      },
+      {
+        "name": "Andreia Mordido",
+        "institution": "LASIGE, University of Lisbon, Portugal",
+        "role": "PC Member"
+      },
+      {
+        "name": "Christopher Pulte",
+        "institution": "University of Cambridge, UK",
+        "role": "PC Member"
+      },
+      {
+        "name": "Jorge A. Pérez",
+        "institution": "University of Groningen, Netherlands",
+        "role": "PC Member"
+      },
+      {
+        "name": "Ryosuke Sato",
+        "institution": "Tokyo University of Agriculture and Technology, Japan",
+        "role": "PC Member"
+      },
+      {
+        "name": "Ilya Sergey",
+        "institution": "National University of Singapore, Singapore",
+        "role": "PC Member"
+      },
+      {
+        "name": "Kathrin Stark",
+        "institution": "Heriot-Watt University, UK",
+        "role": "PC Member"
+      },
+      {
+        "name": "Bernardo Toninho",
+        "institution": "NOVA FCT and NOVA LINCS, Portugal",
+        "role": "PC Member"
+      },
+      {
+        "name": "Jana Wagemaker",
+        "institution": "Radboud University Nijmegen, Netherlands",
+        "role": "PC Member"
+      },
+      {
+        "name": "John Wickerson",
+        "institution": "Imperial College London, UK",
+        "role": "PC Member"
+      },
+      {
+        "name": "Fabio Zanasi",
+        "institution": "University College London, UK",
+        "role": "PC Member"
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": "https://esop26.hotcrp.com/",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": {
+      "chairs": [
+        {
+          "name": "Robbert Krebbers",
+          "institution": "Radboud University Nijmegen, Netherlands"
+        }
+      ],
+      "members": [
+        "Alasdair Armstrong",
+        "Aslan Askarov",
+        "Mohamed Faouzi Atig",
+        "Andrej Bauer",
+        "Veronique Benzaken",
+        "Małgorzata Biernacka",
+        "Liang-Ting Chen",
+        "Raphaëlle Crubillé",
+        "Deepak D'Souza",
+        "Ankush Das",
+        "Farzaneh Derakhshan",
+        "Emanuele D’Osualdo",
+        "Paulo Emílio de Vilhena",
+        "Francesco Gavazzo",
+        "Justin Hsu",
+        "Ambrus Kaposi",
+        "Sven Keidel",
+        "Ori Lahav",
+        "Christoph Matheja",
+        "Andreia Mordido",
+        "Christopher Pulte",
+        "Jorge A. Pérez",
+        "Ryosuke Sato",
+        "Ilya Sergey",
+        "Kathrin Stark",
+        "Bernardo Toninho",
+        "Jana Wagemaker",
+        "John Wickerson",
+        "Fabio Zanasi"
+      ]
+    },
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": [
+      {
+        "name": "Robbert Krebbers",
+        "institution": "Radboud University Nijmegen, Netherlands"
+      }
+    ],
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

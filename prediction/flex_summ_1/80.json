@@ -1,0 +1,113 @@
+{
+  "summary": {
+    "position": "Postdoctoral Researcher",
+    "institution": "UCLouvain",
+    "location": "Belgium, near Brussels",
+    "department": null,
+    "research_focus": "Edge and cloud computing",
+    "responsibilities": "Develop an independent research project, collaborate with Ph.D. students and professors",
+    "employment_terms": {
+      "duration": "1 year",
+      "extension": "Possibility for extension",
+      "starting_date": "Flexible"
+    },
+    "collaboration": {
+      "project": "RAINDROP",
+      "partner_institution": "UNamur",
+      "PI_contacts": [
+        {
+          "name": "Pr. Etienne Rivière",
+          "email": "[log in to unmask]"
+        },
+        {
+          "name": "Pr. Ramin Sadre",
+          "email": "[log in to unmask]"
+        },
+        {
+          "name": "Pr. Anthony Cleve",
+          "email": null
+        }
+      ]
+    },
+    "eligibility": {
+      "criteria": [
+        "Currently outside Belgium",
+        "Holder of a Ph.D. in computer science or related field at the starting time"
+      ]
+    },
+    "submission_info": {
+      "application_material": [
+        "CV",
+        "Link to current publication record",
+        "Description of topics of interest"
+      ],
+      "application_process": "Upon identifying a common interest, candidates will be invited to send a complete application package."
+    },
+    "website": null,
+    "event": null,
+    "dates": {
+      "application_screening_start": "Immediately",
+      "closing_date": "Until positions are filled"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "Two postdoctoral positions available, thematically open to candidates' interest and expertise as part of the collaborative RAINDROP project.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": [
+      {
+        "theme": "Middleware and runtimes",
+        "focus": "Ease programming of distributed cloud applications"
+      },
+      {
+        "theme": "Scheduling and resource management",
+        "focus": "Assign cloud/edge resources according to applications' needs"
+      },
+      {
+        "theme": "Adaptation techniques",
+        "focus": "Place state and computation across cloud/edge resources"
+      },
+      {
+        "theme": "Visualization and monitoring techniques",
+        "focus": "Assist developers in improving applications for cloud/edge continuum"
+      },
+      {
+        "theme": "Performance modeling and simulation",
+        "focus": "For cloud/edge applications"
+      }
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": [
+      "Currently outside Belgium",
+      "Holder of a Ph.D. in computer science or directly-related field at the starting time"
+    ],
+    "benefits": {
+      "salary": "Competitive",
+      "support": "Access to large-scale experimental testbeds"
+    },
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": "Top Belgian university",
+    "affiliated_universities": [
+      "UCLouvain",
+      "UNamur"
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Grand Rapids, Michigan, United States",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://2025.models-conf.com/",
+    "event": "ACM / IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+    "dates": {
+      "main_conference": "Oct 5-10, 2025",
+      "workshops": {
+        "dates": "Thu 3 Jul 2025 - Submissions Deadline, Thu 31 Jul 2025 - Notification of Authors, Thu 7 Aug 2025 - Camera-ready Deadline"
+      }
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "MODELS 2025, including the workshops, will be organized as a hybrid event with in-person and virtual participation. Presenters of accepted papers may present their work virtually.",
+    "submission_details": {
+      "workshops": [
+        {
+          "title": "International Workshop on Collaborative and Participatory Modeling (CoPaMo 2025)",
+          "organizers": [
+            "Istvan David",
+            "Anne Gutschmidt",
+            "Luciano Marchezan",
+            "Philippe Giabbanelli"
+          ],
+          "link": "https://copamo.github.io/",
+          "description": "Collaborative modeling is a key enabler to engineering complex systems."
+        },
+        {
+          "title": "2nd International Workshop on Sustainability and Modeling (SusMod’25)",
+          "organizers": [
+            "Istvan David",
+            "Arianna Fedeli",
+            "Vincenzo Stoico"
+          ],
+          "link": "https://sustainability-and-modeling.github.io/",
+          "description": "Sustainability is becoming a key characteristic of modern systems."
+        },
+        {
+          "title": "MDE Intelligence: 7th Workshop on Artificial Intelligence and Model-driven Engineering",
+          "organizers": [
+            "Lola Burgueño",
+            "Dominik Bork",
+            "Claudio Di Sipio"
+          ],
+          "link": "https://mde-intelligence.github.io/",
+          "description": "AI has become part of everyone’s life and impacts the system and software development lifecycle."
+        },
+        {
+          "title": "Modeling Language Engineering (MLE)",
+          "organizers": [
+            "Josselin Enet",
+            "Ivan Kurtev",
+            "Andreas Wortmann"
+          ],
+          "link": "https://mleworkshop.github.io/editions/mle2025/",
+          "description": "Modeling is a key paradigm to successfully engineer software intensive systems."
+        },
+        {
+          "title": "MULTI 2025",
+          "organizers": [
+            "Arne Lange",
+            "Fernando Macías",
+            "Pierre Maier"
+          ],
+          "link": "https://multi-workshop.github.io/2025/",
+          "description": "The MULTI workshop series is the premier venue for researchers and practitioners working on multi-level modeling."
+        },
+        {
+          "title": "Models and Evolution 2025 (ME 2025)",
+          "organizers": [
+            "Wael Kessentini",
+            "Juri Di Rocco",
+            "Djamel Eddine Khelladi"
+          ],
+          "link": "https://models-and-evolution.github.io/",
+          "description": "The workshop will discuss the latest developments around the topic of the evolution of models."
+        },
+        {
+          "title": "Second International Workshop on Model Management (MoM)",
+          "organizers": [
+            "Dominique Blouin",
+            "Sylvain Guérin",
+            "Arne Lange",
+            "Moussa Amrani",
+            "Anish Bhobe",
+            "Chahrazed Boudjemila",
+            "Thomas Weber"
+          ],
+          "link": "https://mom2025.wp.imt.fr/",
+          "description": "The goal is to improve the state of the art in Model Management (MoM)."
+        },
+        {
+          "title": "LowCode 2025: Low-Code Development Platforms",
+          "organizers": [
+            "Luca Berardinelli",
+            "Juri Di Rocco",
+            "Dimitris Kolovos",
+            "Jean-Marie Mottu"
+          ],
+          "link": "https://lowcode-workshop.github.io/",
+          "description": "The workshop explores opportunities for technology and experience transfer between low-code and model-driven engineering communities."
+        },
+        {
+          "title": "MoDeVVa’25: Model Driven Engineering, Verification and Validation",
+          "organizers": [
+            "Iulian Ober",
+            "Jens Kosiol",
+            "Saad Bin Abid",
+            "Rakshit Mittal",
+            "Juergen Dingel",
+            "Ernesto Posse"
+          ],
+          "link": "https://sites.google.com/site/modevva/call-for-papers",
+          "description": "Discussion on verification and validation (V&V) in Model-Based Systems Engineering and Model Driven software Engineering."
+        },
+        {
+          "title": "onto:Nexus Ontological Modeling and Analysis Workshop",
+          "organizers": [
+            "Maged Elaasar",
+            "Bentley Oakes",
+            "Abdelwahab Hamou-Lhadj",
+            "Mohammad Hamdaqa"
+          ],
+          "link": "https://www.opencaesar.io/events/onto-Nexus-Workshop-2025",
+          "description": "Focus on ontological modeling and analysis in model-based software and systems engineering."
+        },
+        {
+          "title": "MoDIoT – 1st International Workshop on Model-Based Development for the IoT",
+          "organizers": [
+            "Imad Berrouyne",
+            "Yann-Gaël Guéhéneuc",
+            "Hassnaa Moustafa"
+          ],
+          "link": "https://modiot2025.imad.org/",
+          "description": "Discussion on model-based development in addressing the challenges of IoT."
+        }
+      ]
+    },
+    "publication_details": null,
+    "important_dates": {
+      "submissions_deadline": "Thu 3 Jul 2025",
+      "notification_of_authors": "Thu 31 Jul 2025",
+      "camera_ready_deadline": "Thu 7 Aug 2025",
+      "conference_dates": "Sun 5 Oct - Tue 7 Oct 2025"
+    },
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": "Hybrid: in-person and virtual participation",
+    "program_committee": [
+      {
+        "role": "Workshop Co-Chair",
+        "members": [
+          "Shiva Nejati",
+          "Foyzul Hassan"
+        ]
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

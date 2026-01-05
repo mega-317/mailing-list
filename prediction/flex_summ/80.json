@@ -1,0 +1,85 @@
+{
+  "summary": {
+    "position": "Postdoctoral Researcher",
+    "institution": "UCLouvain",
+    "location": "Belgium, near Brussels",
+    "department": null,
+    "research_focus": "Edge/cloud computing",
+    "responsibilities": {
+      "collaboration": "Collaborate with Ph.D. students and professors",
+      "independent_research": "Develop an independent research project based on interests and under mentoring"
+    },
+    "employment_terms": {
+      "duration": "1 year with possibility for extension",
+      "starting_date": "Flexible",
+      "eligible_candidates": "Holders of a Ph.D. in computer science currently outside Belgium"
+    },
+    "collaboration": {
+      "project": "RAINDROP",
+      "partners": [
+        {
+          "institution": "UCLouvain",
+          "contact_person": "Pr. Etienne Rivière",
+          "email": "[log in to unmask]"
+        },
+        {
+          "institution": "UNamur",
+          "contact_person": "Pr. Ramin Sadre",
+          "email": "[log in to unmask]"
+        }
+      ]
+    },
+    "eligibility": "Candidates must have a Ph.D. in computer science (or related field) and be currently outside Belgium.",
+    "submission_info": {
+      "contact": "Interested candidates should contact Pr. Etienne Rivière and Pr. Ramin Sadre for questions or to schedule a call.",
+      "application_details": "Include CV and a link to your current publication record"
+    },
+    "website": null,
+    "event": null,
+    "dates": {
+      "application_screening": "Immediate until positions are filled"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "Thematically open to the interest and expertise of the candidates.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": [
+      "Currently outside Belgium",
+      "Ph.D. in computer science or directly-related field"
+    ],
+    "benefits": [
+      "Competitive salary and support",
+      "Access to large-scale experimental testbeds"
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Middleware and runtimes for distributed cloud applications",
+      "Scheduling and resource management for cloud/edge resources",
+      "Adaptation techniques for state and computation placement",
+      "Visualization and monitoring techniques for cloud/edge applications",
+      "Performance modeling and simulation for cloud/edge applications"
+    ],
+    "community_invitation": null,
+    "academic_reputation": "UCLouvain is a top Belgian university",
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

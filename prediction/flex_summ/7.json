@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Auckland, New Zealand",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://conf.researchr.org/home/icsme-2025",
+    "event": "41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+    "dates": {
+      "start_date": "2025-09-07",
+      "end_date": "2025-09-12"
+    },
+    "co_located_events": [
+      {
+        "name": "SCAM",
+        "website": "https://conf.researchr.org/home/scam-2025"
+      },
+      {
+        "name": "VISSOFT",
+        "website": "https://vissoft.io/2025/"
+      }
+    ],
+    "registration": {
+      "early_bird_deadline": "2025-08-01",
+      "registration_link": "https://conf.researchr.org/home/icsme-2025"
+    },
+    "description": "The IEEE International Conference on Software Maintenance and Evolution (ICSME) is one of the premier academic conferences for researchers and practitioners working on the maintenance and evolution of software systems.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": [
+      {
+        "event": "Student Volunteer Application Deadline",
+        "date": "2025-07-15T23:59:00",
+        "time_zone": "AoE"
+      }
+    ],
+    "program_highlights": [
+      "Cutting-edge research on software evolution, maintenance, and analysis",
+      "Invited keynotes by international thought leaders",
+      "Panels, tool demos, and community activities",
+      "Networking opportunities with researchers, practitioners, and students from around the globe",
+      "Conference reception and cultural activities in vibrant Auckland"
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": "ICSME 2025 aims to be environmentally conscious and socially inclusive, with arrangements to ensure accessibility and inclusivity for all attendees, including those from LGBTQ+, disabled, and neurodiverse communities.",
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": "Spread the word via your local networks.",
+    "academic_reputation": "ICSME 2025 is sponsored by the IEEE Computer Society, with support from IEEE TCSE and other research organizations, welcoming support from industry and academic sponsors worldwide.",
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

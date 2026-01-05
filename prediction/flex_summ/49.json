@@ -1,0 +1,133 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Rio de Janeiro, Brazil",
+    "department": null,
+    "research_focus": "Software Engineering",
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "Friday, July 18, 2025",
+      "submission_process": {
+        "submission_cycles": [
+          {
+            "cycle": "First",
+            "status": "in progress"
+          },
+          {
+            "cycle": "Second",
+            "submission": "July 18, 2025",
+            "author_response_period": "September 23-25, 2025",
+            "notification": "October 17, 2025",
+            "revision_due": "November 14, 2025",
+            "final_decision": "December 19, 2025"
+          }
+        ],
+        "submission_format": "PDF",
+        "submission_guidelines": [
+          "Must conform to ACM Primary Article Template",
+          "Maximum of 10 pages for main text, two additional pages for references"
+        ]
+      }
+    },
+    "contact_person": "Mira Mezini and Thomas Zimmermann",
+    "website": "https://conf.researchr.org/home/icse-2026",
+    "event": "International Conference on Software Engineering (ICSE)",
+    "dates": {
+      "conference_dates": "April 12-18, 2026"
+    },
+    "co_located_events": null,
+    "registration": {
+      "requirement": "At least one author must register and present",
+      "registration_link": null
+    },
+    "description": "The ICSE is the premier forum for Software Engineering research.",
+    "submission_details": {
+      "important_changes": [
+        {
+          "change": "Starting in 2026, all articles will be Open Access.",
+          "benefit": "Increased usage and citation of research."
+        },
+        {
+          "change": "ACM will provide financial subsidies for APCs."
+        }
+      ],
+      "review_process": "Double-anonymous review process with detailed criteria."
+    },
+    "publication_details": {
+      "open_access": "All articles published by ACM will be Open Access starting 2026.",
+      "apc_info": {
+        "covered_by_acm_open": "Most authors will not have to pay",
+        "not_covered": [
+          {
+            "membership": "ACM/SIG members",
+            "apc": "$250"
+          },
+          {
+            "membership": "Non-members",
+            "apc": "$350"
+          }
+        ]
+      }
+    },
+    "important_dates": [
+      {
+        "event": "Submission deadline",
+        "date": "July 18, 2025"
+      },
+      {
+        "event": "Author response period",
+        "date": "September 23-25, 2025"
+      },
+      {
+        "event": "Notification",
+        "date": "October 17, 2025"
+      },
+      {
+        "event": "Revision due",
+        "date": "November 14, 2025"
+      },
+      {
+        "event": "Final decision",
+        "date": "December 19, 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "AI for Software Engineering",
+      "Analytics",
+      "Architecture and Design",
+      "Dependability and Security",
+      "Evolution",
+      "Human and Social Aspects",
+      "Requirements and Modeling",
+      "Software Engineering for AI",
+      "Testing and Analysis"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": "https://icse2026.hotcrp.com/",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

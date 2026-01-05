@@ -1,0 +1,113 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Torino, Italy",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://cgi.cse.unsw.edu.au/~eptcs/ETAPS/",
+      "submission_details": [
+        {
+          "detail": "Name and acronym of the satellite event"
+        },
+        {
+          "detail": "Names and contact information of the organizers"
+        },
+        {
+          "detail": "Duration (one or two days) and preferred period (April 11 / April 12 / April 11–12)"
+        },
+        {
+          "detail": "Expected number of participants"
+        },
+        {
+          "detail": "Brief description (approximately 120 words) for the event topic"
+        },
+        {
+          "detail": "Explanation of event topic relevance to ETAPS"
+        },
+        {
+          "detail": "Organizer's background and relevant experience in organizing workshops"
+        },
+        {
+          "detail": "Publicity strategy and selection procedure of contributions"
+        },
+        {
+          "detail": "Tentative schedule for paper submission and acceptance"
+        },
+        {
+          "detail": "Plans for formal publication"
+        }
+      ]
+    },
+    "contact_person": {
+      "chairs": [
+        {
+          "name": "Vincenzo Ciancia",
+          "affiliation": "CNR-ISTI, Pisa, Italy",
+          "email": "[log in to unmask]"
+        },
+        {
+          "name": "Luca Paolini",
+          "affiliation": "University of Torino, Torino, Italy",
+          "email": "[log in to unmask]"
+        },
+        {
+          "name": "Enrico Beraldo",
+          "affiliation": "Synesthesia, Torino, Italy",
+          "email": "[log in to unmask]"
+        }
+      ]
+    },
+    "website": null,
+    "event": {
+      "name": "ETAPS 2026",
+      "description": "The primary forum for academic and industrial researchers working on Software Science.",
+      "dates": {
+        "main_conferences": {
+          "start": "2026-04-13",
+          "end": "2026-04-16"
+        },
+        "satellite_events": {
+          "start": "2026-04-11",
+          "end": "2026-04-12"
+        }
+      },
+      "co_located_events": [
+        "ESOP: European Symposium on Programming",
+        "FASE: Fundamental Approaches to Software Engineering",
+        "FoSSaCS: Foundations of Software Science and Computation Structures",
+        "TACAS: Tools and Algorithms for the Construction and Analysis of Systems"
+      ]
+    },
+    "important_dates": {
+      "proposal_deadline": "2025-06-26",
+      "notification_of_acceptance": "2025-07-09",
+      "final_files_due": "2026-01-15"
+    },
+    "registration": {
+      "details": "Event registration is part of the overall registration for ETAPS.",
+      "participation_fee": "Collected from registrants."
+    },
+    "description": "ETAPS 2026 is set to be a gathering for discussions on emerging research and practical experiences in software science.",
+    "submission_guidelines": null,
+    "submission_link": "https://cgi.cse.unsw.edu.au/~eptcs/ETAPS/",
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "community_invitation": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "candidate_requirements": null,
+    "benefits": null
+  }
+}

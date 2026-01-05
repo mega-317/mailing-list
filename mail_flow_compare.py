@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 from statistics import mean, median
 
-version = 44
+version = 1
 label_dir = './data/seworld_label'
-predict_dir = f'./prediction/predictions_{version}'
+predict_dir = f'./prediction/validate'
 
 fields_to_compare = [
     "conference_name",
@@ -46,7 +46,7 @@ for f in fields_to_compare:
 # 비교 루프
 for i in range(1, 101):
     label_path = os.path.join(label_dir, f"{i}_label.json")
-    predict_path = os.path.join(predict_dir, f"{i}_predict.json")
+    predict_path = os.path.join(predict_dir, f"{i}.json")
 
     with open(label_path, 'r', encoding='utf-8') as f:
         label_data = json.load(f)
@@ -57,7 +57,7 @@ for i in range(1, 101):
 
     # --- 이진: is_call_for_paper vs is_call_for_conference_paper ---
     y = label_data.get("is_call_for_paper")
-    yhat = predict_data.get("is_cfp")
+    yhat = predict_data.get("is_valid_cfp")
     per_field["is_call_for_paper"]["total"] += 1
     if y == yhat:
         per_field["is_call_for_paper"]["matches"] += 1
@@ -81,34 +81,34 @@ for i in range(1, 101):
         
 
     # --- 일반 필드 ---
-    for field in fields_to_compare:
-        # label_value = label_data.get("conference_name")
-        # predict_value = predict_data.get("infos", {}).get("conf_name_final")
+    # for field in fields_to_compare:
+    #     # label_value = label_data.get("conference_name")
+    #     # predict_value = predict_data.get("infos", {}).get("conf_name_final")
         
-        label_value = label_data.get(field)
-        predict_value = predict_data.get(field)
-        # predict_value = predict_data.get("infos")
-        per_field[field]["total"] += 1
+    #     label_value = label_data.get(field)
+    #     predict_value = predict_data.get(field)
+    #     # predict_value = predict_data.get("infos")
+    #     per_field[field]["total"] += 1
 
-        if label_value == predict_value:
-            per_field[field]["matches"] += 1
-            continue
+    #     if label_value == predict_value:
+    #         per_field[field]["matches"] += 1
+    #         continue
 
-        # 불일치 기록
-        per_field[field]["errors"] += 1
-        if label_value is None and predict_value is not None:
-            per_field[field]["null_to_value"] += 1
-        elif label_value is not None and predict_value is None:
-            per_field[field]["value_to_null"] += 1
-        else:
-            per_field[field]["wrong_value"] += 1
+    #     # 불일치 기록
+    #     per_field[field]["errors"] += 1
+    #     if label_value is None and predict_value is not None:
+    #         per_field[field]["null_to_value"] += 1
+    #     elif label_value is not None and predict_value is None:
+    #         per_field[field]["value_to_null"] += 1
+    #     else:
+    #         per_field[field]["wrong_value"] += 1
 
-        # 상세 목록에 추가
-        mismatched_fields.append({
-            "field": field,
-            "label_value": label_value,
-            "predict_value": predict_value
-        })
+    #     # 상세 목록에 추가
+    #     mismatched_fields.append({
+    #         "field": field,
+    #         "label_value": label_value,
+    #         "predict_value": predict_value
+    #     })
 
     if mismatched_fields:
         comparison_results.append({

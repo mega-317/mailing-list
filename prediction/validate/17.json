@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": true,
+  "has_submission_deadline": true,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "The event is a 'Book Publication' which does not indicate a single primary conference or event and includes multiple affiliated universities, thus failing the is_single_main_event criteria."
+}

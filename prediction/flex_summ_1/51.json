@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Paris, France",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+      "submission_guidelines": "Submissions must be prepared using the EPTCS LaTeX style.",
+      "submission_categories": [
+        {
+          "category": "Vision papers",
+          "length": "6 pages",
+          "description": "Describe directions for research into Formal Methods for Autonomous Systems."
+        },
+        {
+          "category": "Research previews",
+          "length": "6 pages",
+          "description": "Describe well-defined research ideas that are in their early stages, particularly from PhD students."
+        },
+        {
+          "category": "Experience report papers",
+          "length": "15 pages",
+          "description": "Report on practical experiences in applying Formal Methods to Autonomous Systems."
+        },
+        {
+          "category": "Regular papers",
+          "length": "15 pages",
+          "description": "Describe completed applications of Formal Methods to an Autonomous System."
+        }
+      ]
+    },
+    "contact_person": null,
+    "website": "https://fmasworkshop.github.io/FMAS2025/",
+    "event": "7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)",
+    "dates": {
+      "workshop": "17th to 19th of November 2025",
+      "important_dates": [
+        {
+          "event": "Submission",
+          "date": "22nd of August 2025"
+        },
+        {
+          "event": "Notification",
+          "date": "6th of October 2025"
+        },
+        {
+          "event": "Final version",
+          "date": "17th of October 2025"
+        }
+      ]
+    },
+    "co_located_events": [
+      {
+        "event_name": "International Conference on Integrated Formal Methods (iFM) 2025",
+        "event_website": "https://ifm2025.ens.psl.eu/"
+      }
+    ],
+    "registration": {
+      "info": "At least one author per paper must register and pay for on-site attendance at FMAS."
+    },
+    "description": "FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems.",
+    "submission_details": "Each submission will receive at least three single-blind reviews. Accepted papers will be published via EPTCS.",
+    "publication_details": "A journal special issue will be organised to collect extensions of papers accepted in FMAS 2025.",
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Applicable, tool-supported Formal Methods suited to Autonomous Systems",
+      "Runtime Verification approaches for the reality gap",
+      "Verification against safety assurance arguments or standards documents",
+      "Formal specification, modelling, and requirements engineering for autonomous systems",
+      "Case Studies identifying challenges when applying formal methods",
+      "Experience Reports on tackling challenges",
+      "Discussions on future directions of the field",
+      "Special Topic: Human-AI Teams"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": "FMAS welcomes submissions that use formal methods to specify, model, or verify autonomous systems.",
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

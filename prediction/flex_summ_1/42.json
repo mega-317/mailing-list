@@ -1,0 +1,122 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "workshops": [
+        {
+          "name": "Cognition and OntologiesS (CAOS9)"
+        },
+        {
+          "name": "14th International Workshop on Formal Ontologies Meet Industry (FOMI)"
+        },
+        {
+          "name": "Fifth International Workshop on Semantic Web and Ontology Design for Cultural Heritage (SWODCH 2025)"
+        },
+        {
+          "name": "The Ninth Image Schema Day (ISD9)"
+        },
+        {
+          "name": "Integrated Food Ontology Workshop (IFOW 2025)"
+        },
+        {
+          "name": "9th Workshop on Foundational Ontology (FOUST IX)"
+        },
+        {
+          "name": "2nd Playing with Meanings workshop (PwM2)"
+        },
+        {
+          "name": "Knowledge Management and process mining for Law (KM4LAW)"
+        },
+        {
+          "name": "The 2nd International Workshop on Modeling for Cybersecurity (Shields 2)"
+        },
+        {
+          "name": "Second Annual Workshop on Convergence of Large-Language Models and Ontologies (ONTOLLM 2025)"
+        },
+        {
+          "name": "Explicit and Implicit Knowledge Extraction (EIKE)"
+        },
+        {
+          "name": "Ontologies for Services and Social-good (OSS)"
+        },
+        {
+          "name": "Workshop on Promoting Healthy Aging through the Semantic Enrichment of Social Science (PHASES 2025)"
+        },
+        {
+          "name": "Perspectival Ontology Workshop on Entities that can be Realized (POWERs)"
+        },
+        {
+          "name": "Planning and Ontology Workshop (PLATO)"
+        }
+      ],
+      "co_hosted_event": {
+        "name": "15th International Conference on Formal Ontology in Information Systems (FOIS)",
+        "location": "Catania",
+        "dates": "September 8-12, 2025"
+      },
+      "submission_deadlines": {
+        "workshop_paper": {
+          "initial": "May 25, 2025",
+          "extended": "June 14, 2025"
+        },
+        "author_notification": "July 14, 2025",
+        "camera_ready_submission": "September 1, 2025"
+      }
+    },
+    "contact_person": [
+      {
+        "name": "César Bernabé",
+        "role": "FOIS Publicity Chair"
+      },
+      {
+        "name": "Eric Top",
+        "role": "FOIS Publicity Chair"
+      }
+    ],
+    "website": "https://www.dmi.unict.it/fois2025/?page_id=499",
+    "event": "Joint Ontologies Workshops (JOWO)",
+    "dates": null,
+    "co_located_events": null,
+    "registration": {
+      "early_bird_deadline": "July 25, 2025",
+      "on_site_deadline": "August 31, 2025",
+      "registration_page": "https://www.dmi.unict.it/fois2025/?page_id=728"
+    },
+    "description": null,
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

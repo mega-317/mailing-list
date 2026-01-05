@@ -1,0 +1,108 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_open_date": "May 1, 2025",
+      "submission_deadline": "September 30, 2025",
+      "editorial_acceptance_deadline": "May 1, 2026"
+    },
+    "contact_person": [
+      {
+        "name": "Prof. Sarah Bouraga, Ph.D.",
+        "institution": "EM Normandie Business School, France",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Dr. Felix Härer, Ph.D.",
+        "institution": "FHNW University of Applied Sciences, Switzerland",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Dr. Alessandro Marcelletti, Ph.D.",
+        "institution": "University of Camerino, Italy",
+        "email": "[log in to unmask]"
+      }
+    ],
+    "website": "https://www.sciencedirect.com/special-issue/319734/conceptual-and-technical-engineering-of-blockchain-based-information-systems",
+    "event": "Special Issue on Conceptual and Technical Engineering of Blockchain-based Information Systems",
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue aims to advance the state of Blockchain-based Information Systems (BISs) and their engineering by addressing conceptual and technical challenges at different levels. It invites theoretical, conceptual, technical, and practical contributions on various topics related to Blockchain-based Information Systems (BISs).",
+    "submission_details": {
+      "submission_link": "https://www.editorialmanager.com/infosys/default.aspx",
+      "submission_guidelines": "Authors should prepare their manuscripts according to the 'Guide for Authors' of the Information Systems journal outlined at the journal website."
+    },
+    "publication_details": null,
+    "important_dates": {
+      "submission_open_date": "May 1, 2025",
+      "submission_deadline": "September 30, 2025",
+      "editorial_acceptance_deadline": "May 1, 2026"
+    },
+    "program_highlights": [
+      {
+        "category": "Conceptual-oriented",
+        "topics": [
+          "Models, methods, and tools for the design of BISs",
+          "Meta-models and ontologies",
+          "Challenges related to the design of BISs",
+          "Sustainability",
+          "Empirical material providing and assessing approaches to the design of BISs",
+          "Field experience providing details, benefits, or challenges in the design of BISs",
+          "Modeling of BISs",
+          "Innovation and re-engineering using Blockchain Technology",
+          "Blockchain-enabled business processes for specific industries",
+          "Governance of blockchain-based networks",
+          "Blockchain to support organizational governance",
+          "Decentralized Autonomous Organizations (DAOs)"
+        ]
+      },
+      {
+        "category": "Technical-oriented",
+        "topics": [
+          "Blockchain data management including sharing and provenance",
+          "Data privacy and confidentiality on the blockchain",
+          "Blockchain-based authentication and access control",
+          "Layer-two solutions for BISs",
+          "Off-chain solutions for BISs",
+          "Oracles for trusted data",
+          "Optimization in smart contracts",
+          "Blockchain hybrid architectures",
+          "Cross-chain, interoperable and bridge solutions for BISs",
+          "Analysis techniques of blockchain data and BISs",
+          "Query languages on blockchain",
+          "Data auditing and monitoring on blockchain"
+        ]
+      }
+    ],
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": "Ranked Q1 on Scimago, 9.4 CiteScore, 3.0 Impact Factor.",
+    "affiliated_universities": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

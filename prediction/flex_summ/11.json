@@ -1,0 +1,69 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": "Amsterdam, Netherlands",
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": null,
+    "contact_person": null,
+    "website": "https://conf.researchr.org/home/icsa-2026",
+    "event": "23rd IEEE International Conference on Software Architecture (ICSA 2026)",
+    "dates": {
+      "event_dates": "June 22-26, 2026",
+      "important_dates": [
+        {
+          "track": "Research Track",
+          "abstract_due": "November 28, 2025",
+          "papers_due": "December 5, 2025",
+          "submission_link": "https://conf.researchr.org/track/icsa-2026/icsa-2026-papers"
+        },
+        {
+          "track": "Software Architecture in Practice Track",
+          "abstract_due": "November 28, 2025",
+          "papers_due": "December 5, 2025",
+          "submission_link": "https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track"
+        },
+        {
+          "track": "Workshop Proposals",
+          "submission_deadline": "October 3, 2025",
+          "submission_link": "https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+        }
+      ]
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "The premier conference for software architecture.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": null,
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

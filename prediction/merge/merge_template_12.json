@@ -1,0 +1,222 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "ACM Transactions on Software Engineering and Methodology",
+    "location": null,
+    "research_focus": [
+      "Agentic Artificial Intelligence in Software"
+    ],
+    "responsibilities": [
+      "Submit original research articles on automation due to agentic AI in software, and its impact on future software teams."
+    ],
+    "employment_terms": {
+      "initial_research_proportion": null,
+      "resources": null,
+      "contract_duration": null
+    },
+    "collaboration": null,
+    "eligibility": {
+      "qualifications": null,
+      "preference": null,
+      "special_considerations": null
+    },
+    "submission_info": {
+      "submission_types": [
+        "Research papers"
+      ],
+      "submission_deadline": "Nov 1, 2025",
+      "application_link": "https://mc.manuscriptcentral.com/tosem"
+    },
+    "contact_person": {
+      "name": null,
+      "department": null,
+      "phone": null,
+      "email": null
+    },
+    "website": "http://sigsoft.org/resources/seworld.html",
+    "event": {
+      "name": "Special issue on Agentic AI in Software",
+      "abbreviation": null
+    },
+    "dates": {
+      "start": null,
+      "end": null
+    },
+    "co_located_events": [
+      {
+        "name": null,
+        "website": null
+      }
+    ],
+    "lecturers": [
+      {
+        "name": null,
+        "topic": null
+      }
+    ],
+    "excursion_dinner": {
+      "description": null
+    },
+    "registration": {
+      "cost": null,
+      "inquiries_contact": null,
+      "website": null,
+      "early_bird_deadline": null
+    },
+    "description": "A special issue on Agentic AI in Software is planned in TOSEM in 2026, and papers are being solicited for this purpose.",
+    "submission_details": {
+      "languages": [
+        "English"
+      ],
+      "review_process": null,
+      "submission_requirements": {
+        "English_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        },
+        "Spanish_Portuguese_papers": {
+          "page_limit": null,
+          "format": null,
+          "identification": null
+        }
+      },
+      "presentation_format": {
+        "accepted_papers": {
+          "presentation_time": null,
+          "discussion_time": null
+        },
+        "posters": {
+          "format": null,
+          "presentation_time": null
+        }
+      }
+    },
+    "publication_details": {
+      "accepted_papers": {
+        "English": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        },
+        "Spanish_Portuguese": {
+          "publication": null,
+          "indexing": [
+            null
+          ]
+        }
+      },
+      "registration_requirements": {
+        "deadline": null,
+        "limit": null
+      }
+    },
+    "important_dates": {
+      "paper_submission": "Nov 1, 2025",
+      "notification_of_acceptance": "Jan 31, 2026",
+      "registration_payment_deadline": null,
+      "camera_ready_submission_deadline": "March 31, 2026",
+      "workshop_proposals_deadline": null,
+      "workshop_paper_submission_deadline": null,
+      "abstract_due": null,
+      "papers_due": null
+    },
+    "program_highlights": [
+      null
+    ],
+    "student_volunteers": {
+      "description": null,
+      "application_deadline": null,
+      "more_info": null
+    },
+    "travel_support": {
+      "availability": null,
+      "more_info": null
+    },
+    "logistics_and_sustainability": {
+      "focused_on": null,
+      "discount_codes": null,
+      "accessibility": null
+    },
+    "networking_opportunity": {
+      "engagement_with_researchers": null,
+      "more_info": null
+    },
+    "sponsors": null,
+    "subject": "Call for Papers: TOSEM special issue in Agentic AI",
+    "reference_number": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": {
+      "education": null,
+      "research_experience": [
+        null
+      ]
+    },
+    "benefits": [
+      null
+    ],
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Automation of SE tasks via agents",
+      "Enhancing trust in agent outputs",
+      "Integration of agents into existing software workflows",
+      "Agent – human interaction in SE teams and team dynamics",
+      "Any other agent in SE topics not covered in the preceding list"
+    ],
+    "community_invitation": null,
+    "sender": "SEWORLD Moderator",
+    "date": "Mon, 7 Jul 2025 03:12:28 -0000",
+    "affiliated_universities": [
+      null
+    ],
+    "diversity_statement": null,
+    "software_engineering_focus": {
+      "candidates": [
+        {
+          "name": null,
+          "topics": [
+            null
+          ]
+        }
+      ],
+      "contact_advisory": null
+    },
+    "submission_guidelines": {
+      "Research_Track": null,
+      "Software_Architecture_in_Practice_Track": null,
+      "Workshop_Proposals": null
+    },
+    "closing_statement": null,
+    "special_issue": {
+      "title": "Agentic Artificial Intelligence (AI) in Software",
+      "publication_year": "2026",
+      "focus": "The special issue will focus on the impact of Agentic AI on software engineering, including various branches such as coding, testing, analysis, patching, documentation, and design.",
+      "themes": [
+        "Automation of SE tasks via agents",
+        "Enhancing trust in agent outputs",
+        "Integration of agents into existing software workflows",
+        "Agent-human interaction in SE teams and team dynamics",
+        "Other agent in SE topics not covered in the preceding list"
+      ]
+    },
+    "editor_contacts": [
+      "Abhik Roychoudhury (Editor-in-Chief)",
+      "Foutse Khomh (Guest Editor)",
+      "Denys Poshyvanyk (Guest Editor)"
+    ],
+    "queries_contact": "SEWORLD email",
+    "submission_button": "Special issue 2025: Agentic AI in Software",
+    "submission_link": "https://mc.manuscriptcentral.com/tosem",
+    "broad_area": "AI and SE",
+    "timelines": {
+      "first_reviews": "Jan 31, 2026",
+      "revisions_due": "March 31, 2026",
+      "outcome_of_revised_papers": "May 2026",
+      "papers_online": "July 2026",
+      "special_issue_implementation": "August 2026"
+    }
+  }
+}

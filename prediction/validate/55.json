@@ -1,0 +1,8 @@
+{
+  "is_single_main_event": false,
+  "has_event_start_date": true,
+  "has_submission_deadline": false,
+  "has_official_url": true,
+  "is_valid_cfp": false,
+  "reason": "The event refers to a job position rather than a conference, making it invalid as a CFP. There is no clear deadline for submission, only an application review start date."
+}

@@ -1,0 +1,95 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "30 September 2025",
+      "submission_instructions": {
+        "description": "Submissions should be prepared according to the Guide for Authors.",
+        "guide_link": "https://www.sciencedirect.com/journal/journal-of-systems-and-software/publish/guide-for-authors",
+        "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+        "article_type": "VSI:Intelligent DevOps"
+      }
+    },
+    "contact_person": [
+      {
+        "name": "Luca Traini",
+        "position": "Assistant Professor",
+        "institution": "University of L’Aquila",
+        "location": "L'Aquila, Italy"
+      },
+      {
+        "name": "Heng Li",
+        "position": "Assistant Professor",
+        "institution": "Polytechnique Montreal",
+        "location": "Montréal Quebec, Canada"
+      },
+      {
+        "name": "Weiyi Shang",
+        "position": "Associate Professor",
+        "institution": "University of Waterloo",
+        "location": "Waterloo Ontario, Canada"
+      }
+    ],
+    "website": [
+      "https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability",
+      "https://www.sciencedirect.com/journal/journal-of-systems-and-software"
+    ],
+    "event": "JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”",
+    "dates": {
+      "submission_deadline": "30 September 2025"
+    },
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue aims to consolidate the latest research and advancements on the topic of Intelligent DevOps for performance, sustainability, and reliability.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Observability and monitoring in DevOps pipelines, including data collection, visualization, and analysis",
+      "Application of AIOps techniques to support quality assurance, continuous integration and deployment",
+      "Automated anomaly detection, incident prediction, and root cause analysis",
+      "Data-driven feedback loops for continuous improvement",
+      "Intelligent test automation, model-based testing, and AI-driven defect prediction",
+      "Integration of AI and data analytics tools into CI/CD pipelines and DevOps workflows",
+      "Infrastructure as code solutions augmented by intelligent self-adaptation and performance tuning",
+      "Methods and tools leveraging AI to enhance software quality at development time",
+      "Techniques and frameworks for improving sustainability, such as energy-efficient builds and resource optimization that reduce environmental impact",
+      "Model-based performance analysis and predictive modeling to proactively address capacity planning, scalability, and reliability concerns",
+      "Leveraging large language models for automation DevOps processes",
+      "Software architecture modeling, analysis, and adaptation informed by operational data",
+      "Tools and methodologies for quality assurance in microservices-based systems",
+      "Comparative evaluations, benchmarks, and empirical studies of tools, frameworks, and methodologies for quality assurance spanning the entire software delivery lifecycle"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": null,
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

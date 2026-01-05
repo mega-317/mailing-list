@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "position": null,
+    "institution": "University of Toronto",
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_deadline": "30 October 2025",
+      "submission_guidelines": "All submissions will undergo a single-blind peer-review process coordinated by the guest editors in coordination with the IP&M EiC. Authors must disclose any overlapping publications and provide clear documentation of changes in revised submissions.",
+      "submission_link": "https://www.editorialmanager.com/ipm/default.aspx",
+      "important_dates": {
+        "call_for_papers_open": "May 2025",
+        "submission_deadline": "30 October 2025"
+      },
+      "types_of_submissions": [
+        {
+          "type": "research articles",
+          "description": "empirical findings, theoretical contributions, or methodological innovations"
+        },
+        {
+          "type": "review articles",
+          "description": "comprehensive and systematic surveys of specific sub-areas within responsible AI, synthesizing existing knowledge and identifying emerging trends, challenges, and opportunities for future research"
+        }
+      ]
+    },
+    "contact_person": {
+      "name": "Calvin Hillis",
+      "position": "Program Coordinator - Responsible Development of Artificial Intelligence",
+      "institution": "Toronto Metropolitan University",
+      "linked_in": "https://www.linkedin.com/in/calvin-hillis-3a608ba4"
+    },
+    "website": "https://www.torontomu.ca/responsible-ai/",
+    "event": "Special Issue on Responsible Artificial Intelligence",
+    "dates": null,
+    "co_located_events": null,
+    "registration": null,
+    "description": "This special issue seeks to bring together cutting-edge research, methodologies, and critical reflections on Responsible Artificial Intelligence (RAI). The issue aims to deepen our understanding of the ethical, legal, technical, and societal dimensions of AI systems.",
+    "submission_details": null,
+    "publication_details": null,
+    "important_dates": [
+      {
+        "event": "Call for Papers Open",
+        "date": "May 2025"
+      },
+      {
+        "event": "Submission Deadline",
+        "date": "30 October 2025"
+      }
+    ],
+    "program_highlights": null,
+    "subject": "Call for Papers: Responsible AI Special Issue Journal - Information Processing & Management",
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Fairness and Bias Mitigation in AI",
+      "Adversarial AI and Red Teaming",
+      "Interpretability and Explainability",
+      "Trust, Reliability, and Safety",
+      "Accountability in Algorithmic Decision-Making",
+      "Auditing and Monitoring AI Systems",
+      "Human-Centered AI Design",
+      "Sociotechnical and Cultural Dimensions of AI",
+      "Environmental Impact of AI",
+      "Regulatory, Legal, and Policy Considerations",
+      "Responsible AI Education and Training",
+      "Social Impact and Labor Implications"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "University of Toronto",
+        "role": "Managing Guest Editor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "University of Waterloo",
+        "role": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Toronto Metropolitan University",
+        "role": "Assistant Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "McGill University",
+        "role": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Université du Québec à Montréal",
+        "role": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "McGill University",
+        "role": "Assistant Professor",
+        "email": "[log in to unmask]"
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": null,
+    "publications_criteria": null,
+    "conference_scope": null,
+    "chairs": null,
+    "call_for_contributions": null,
+    "application_details": null,
+    "applications_open_until": null,
+    "registration_link": null
+  }
+}

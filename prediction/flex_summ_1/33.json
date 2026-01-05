@@ -1,0 +1,179 @@
+{
+  "summary": {
+    "position": null,
+    "institution": null,
+    "location": null,
+    "department": null,
+    "research_focus": null,
+    "responsibilities": null,
+    "employment_terms": null,
+    "collaboration": null,
+    "eligibility": null,
+    "submission_info": {
+      "submission_link": "https://easychair.org/conferences/?conf=edtconf25",
+      "submission_guidelines": [
+        {
+          "type": "Regular Papers",
+          "page_limit": "max 10+2 pages",
+          "description": "Novel research contributions with substantive evaluation."
+        },
+        {
+          "type": "Vision / New Ideas Papers",
+          "page_limit": "max 6+1 pages",
+          "description": "Innovative and forward-looking ideas which may not yet be fully developed or evaluated."
+        },
+        {
+          "type": "Tool Demonstration Papers",
+          "page_limit": "max 4+1 pages",
+          "description": "Practical insights and tools; include appendix with demo outline."
+        },
+        {
+          "type": "Exemplar Papers",
+          "page_limit": "max 6+1 pages",
+          "description": "Engineering-focused implementations or specs of DTs in certain domains."
+        }
+      ],
+      "formatting": {
+        "template": "IEEE Proceedings Template (LaTeX or Word)",
+        "note": [
+          "Conference format must be used.",
+          "Page limits are strict.",
+          "Papers must be original and not under review elsewhere.",
+          "ORCID usage is recommended."
+        ]
+      }
+    },
+    "contact_person": {
+      "name": null,
+      "email": "[log in to unmask]"
+    },
+    "website": "www.edtconf.org",
+    "event": "2nd International Conference on Engineering Digital Twins (EDTconf 2025)",
+    "dates": {
+      "co_located_events": {
+        "event": "MODELS 2025",
+        "location": "Michigan, US",
+        "dates": "October 6–7, 2025"
+      },
+      "important_dates": [
+        {
+          "event": "Abstract submission deadline",
+          "date": "June 27, 2025"
+        },
+        {
+          "event": "Paper submission deadline",
+          "date": "July 02, 2025"
+        },
+        {
+          "event": "Notification of acceptance",
+          "date": "August 05, 2025"
+        },
+        {
+          "event": "Camera-ready submission",
+          "date": "August 20, 2025"
+        }
+      ]
+    },
+    "description": "EDTconf 2025 aims to bring together researchers and practitioners from academia and industry to shape the future of engineering Digital Twins in a systematic, scalable, and principled way.",
+    "submission_details": null,
+    "publication_details": {
+      "selected_best_papers": "Authors of selected regular papers will be invited to submit extended versions to the Journal on Software and Systems Modeling (SoSyM), with at least 30% new material required."
+    },
+    "important_dates": null,
+    "program_highlights": null,
+    "subject": null,
+    "school": null,
+    "closing_date": null,
+    "candidate_requirements": null,
+    "benefits": null,
+    "equality_commitment": null,
+    "visa_information": null,
+    "topics_of_interest": [
+      "Modeling concepts and languages, methods, and tools for developing DTs",
+      "AI for DTs/DTs for AI",
+      "DevOps for DTs/DTs for DevOps",
+      "Quality assurance for and evaluation of DTs",
+      "DT modeling, simulation, and co-simulation of CPS",
+      "Deployment and operation of DTs",
+      "Model consistency, management, and evolution of engineering models and DT models",
+      "DTs for dynamic (re)configuration and optimization",
+      "Evolution and compositionality of DTs",
+      "Uncertainty and fidelity in DTs",
+      "DT reliability, trust, and security",
+      "Architectural patterns for DTs",
+      "Virtual commissioning based on DTs",
+      "DTs for continuous learning and improvement",
+      "Combining models and data in DTs",
+      "Case studies, experience reports, comparisons in various application domains",
+      "Empirical studies of DT development and use",
+      "Teaching and education of DT skills"
+    ],
+    "community_invitation": null,
+    "academic_reputation": null,
+    "affiliated_universities": [
+      {
+        "name": "University of Teramo",
+        "country": "IT",
+        "roles": [
+          "General Co-Chair"
+        ]
+      },
+      {
+        "name": "Johannes Kepler University Linz",
+        "country": "AT",
+        "roles": [
+          "Program Co-Chair"
+        ]
+      },
+      {
+        "name": "King’s College London",
+        "country": "UK",
+        "roles": [
+          "Program Co-Chair"
+        ]
+      },
+      {
+        "name": "Aarhus University",
+        "country": "DK",
+        "roles": [
+          "Publicity & Web Co-Chair"
+        ]
+      },
+      {
+        "name": "University of Teramo",
+        "country": "IT",
+        "roles": [
+          "Publicity & Web Co-Chair"
+        ]
+      }
+    ],
+    "submission_guidelines": null,
+    "submission_link": null,
+    "timelines": null,
+    "event_format": null,
+    "program_committee": [
+      {
+        "name": "Romina Eramo",
+        "role": "General Co-Chair"
+      },
+      {
+        "name": "Manuel Wimmer",
+        "role": "Program Co-Chair"
+      },
+      {
+        "name": "Steffen Zschaler",
+        "role": "Program Co-Chair"
+      },
+      {
+        "name": "Claudio Gomes",
+        "role": "Publicity & Web Co-Chair"
+      },
+      {
+        "name": "Vittoriano Muttillo",
+        "role": "Publicity & Web Co-Chair"
+      }
+    ],
+    "publications_criteria": null,
+    "conference_scope": "Digital Twins (DTs) have emerged as a key approach to understand, monitor, and improve systems across various domains including agriculture, automotive, avionics, construction, healthcare, manufacturing, and smart cities."
+  }
+}

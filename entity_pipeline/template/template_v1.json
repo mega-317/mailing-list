@@ -2,21 +2,29 @@
   "extracted_entities": [
     {
       "type": "Conference",
-      "name": "VMCAI 2026",
+      "name": "ETAPS 2026",
       "details": {
         "dates": {
-          "event": "January 12-13, 2026",
-          "submission_deadline": "10th September 2025",
-          "notification_date": "6th November 2025"
+          "conference": "April 13–16, 2026",
+          "satellite_events": "April 11–12, 2026",
+          "submission_deadline": "June 26, 2025",
+          "notification_of_acceptance": "July 9, 2025",
+          "final_files_due": "January 15, 2026"
         },
-        "location": "Rennes, France",
-        "co_located_with": "POPL 2026",
-        "submission_types": [
-          "regular papers",
-          "tools papers",
-          "case studies"
-        ],
-        "website": "https://conf.researchr.org/home/VMCAI-2026"
+        "location": "Torino, Italy",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": "Satellite events to complement the main conferences.",
+        "requirements": {
+          "organizers": null,
+          "submission_information": null,
+          "promotion": {
+            "organizers_committee": "ETAPS 2026 organizing committee will promote the event.",
+            "registration": "Organizers will handle registration as part of ETAPS.",
+            "participation_fee": "Fees will be collected from registrants."
+          }
+        },
+        "additional_links": null
       }
     }
   ]

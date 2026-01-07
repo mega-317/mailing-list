@@ -1,0 +1,66 @@
+{
+  "email": {
+    "subject": "Call for Papers - The 33rd IEEE International Conference on Enabling Technologies (WETICE 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:03:40 -0000",
+    "content_type": "text/plain",
+    "conference": {
+      "name": "33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises",
+      "acronym": "WETICE 2025",
+      "dates": {
+        "start": "2025-07-23",
+        "end": "2025-07-25"
+      },
+      "location": {
+        "city": "Catania",
+        "country": "Italy",
+        "details": "historical UNESCO World heritage site, Benedictine Monastery from the XVIth century"
+      },
+      "website": "https://www.dmi.unict.it/wetice2025",
+      "sponsors": [
+        "IEEE.org",
+        "IEEE Computer Society Italy Chapter",
+        "IEEE Systems, Man and Cybernetics Society Italy Chapter"
+      ],
+      "proceedings_inclusion": [
+        "IEEE Xplore",
+        "Scopus",
+        "DBLP",
+        "Google Scholar"
+      ],
+      "submission": {
+        "deadline": "2025-05-31",
+        "open": true,
+        "maximum_length": "6 pages",
+        "formatting_guidelines": "https://www.ieee.org/conferences/publishing/templates.html",
+        "submission_link": "https://cmt3.research.microsoft.com/WETICE2025"
+      },
+      "important_dates": {
+        "early_registration_end": "2025-07-11"
+      },
+      "call_for_papers": {
+        "description": "WETICE invites participation in advancing research and collaboration in collaborative intelligence and decentralised software systems. Focus on AI, Data Science, and Cyber-physical Technologies.",
+        "topics": [
+          "AI",
+          "Blockchain",
+          "IoT",
+          "collaboration tools",
+          "software technology developments"
+        ]
+      },
+      "activities": {
+        "keynotes": 2,
+        "paper_sessions": "many",
+        "social_activities": "yes",
+        "excursion": "on last day"
+      }
+    }
+  }
+}

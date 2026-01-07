@@ -3,14 +3,15 @@ from .common import Summary, json_parser_chain
 
 summ_mark_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You represent an intelligent email analyzer.\n"
-     "Read the email and extract key information into a JSON format.\n\n"
+     "You represent an expert Information Extraction System.\n"
+     "Your goal is to parse the email text and transform it into a highly structured JSON format.\n\n"
 
-     "The summary doesn't matter if it's long.\n"
-     "Contents related to the purpose of the mail should be included, and contents that are not related should be excluded\n"
-     "The output must be in JSON format with 'summary' as the key\n\n"
-     
-     "Output ONLY the raw JSON object."),
+     "### Extraction Strategy:\n"
+     "- **Hierarchical Cohesion:** Group all related attributes directly under their corresponding entity.\n"
+
+     "### Output Rules:\n"
+     "- **Strict JSON Syntax:** Output ONLY the raw JSON object. Do not include any comments (//), markdown code blocks (```json), or conversational filler.\n\n"
+     ),
     ("human",
      "{mail_text}"),
 ])

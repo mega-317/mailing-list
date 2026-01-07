@@ -1,0 +1,68 @@
+{
+  "email": {
+    "subject": "3 upcoming academic positions at UCLouvain, Belgium (2 in software engineering, 1 in security)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 1 Jul 2025 06:53:33 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear colleagues,",
+      "call_to_action": "Please forward this to high-profile candidates looking for a permanent position at a top university at the heart of Europe.",
+      "positions": {
+        "description": "The Computer Science department at UCLouvain (Belgium) will soon open three full-time faculty positions targeting excellent profiles in the following domains:",
+        "list": [
+          {
+            "title": "Position 1 and 2",
+            "areas": [
+              "Software engineering",
+              "Programming systems and languages",
+              "Software dependability, including formal methods"
+            ]
+          },
+          {
+            "title": "Position 3",
+            "areas": [
+              "Software security",
+              "Cybersecurity",
+              "System security",
+              "Cyber-physical systems security",
+              "AI for security & security for AI",
+              "Privacy",
+              "Distributed systems security"
+            ]
+          }
+        ],
+        "seniority_levels": "The three positions will be open to all seniority levels (assistant/associate or full)."
+      },
+      "highlights": [
+        "A vibrant work environment just south of Brussels",
+        "A department with excellent research infrastructure and support",
+        "Moderate teaching load and access to excellent students",
+        "Competitive salaries and benefits",
+        "No need to speak French to apply (but willingness to learn in a few years if appointed)"
+      ],
+      "application_details": {
+        "expected_announcements": "We expect vacancies to be announced on the UCLouvain job portal in early September, with a deadline a few weeks later for a standard application package (resume, teaching/research statement, etc.).",
+        "submission_platform": "Applications will only be accepted on the UCLouvain job portal.",
+        "contact": {
+          "title": "department chair",
+          "email": "[log in to unmask]",
+          "note": "Pending this official publication, however, interested potential candidates are welcome to contact the department chair with any questions."
+        }
+      },
+      "closing": "Best regards,",
+      "signature": {
+        "name": "Etienne Riviere",
+        "title": "Computer Science Dept. Chair (elect)",
+        "institution": "UCLouvain, Belgium"
+      },
+      "application_link": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+    }
+  }
+}

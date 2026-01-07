@@ -1,0 +1,57 @@
+{
+  "email": {
+    "subject": "Open Positions: Assistant Professors in Software Engineering and AI, University of Victoria, Canada",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 19 Jun 2025 17:13:35 -0000",
+    "contentType": "text/plain",
+    "body": {
+      "announcement": {
+        "institution": "University of Victoria",
+        "department": "Faculty of Engineering and Computer Science",
+        "positionsAvailable": 4,
+        "positionType": "Tenure-track assistant professor",
+        "fields": [
+          "Software Engineering",
+          "AI"
+        ],
+        "applicationDeadline": "August 15, 2025",
+        "startingDate": "January 1, 2026",
+        "requiredQualifications": {
+          "degree": "Ph.D. in Computer Science, Software Engineering, Electrical or Computer Engineering (with a research focus in Software), or equivalent",
+          "researchRecord": "Demonstrated record of research accomplishment, including publications in respected venues",
+          "teachingCommitment": "Commitment to teaching senior undergraduate and graduate software engineering courses",
+          "mentorship": "Plan for graduate student supervision and prior experience in mentoring considered an asset",
+          "professionalism": "Display required professionalism for collegial academic environment"
+        },
+        "preferredQualifications": {
+          "teachingExperience": "Prior teaching experience preferred",
+          "complementaryExpertise": "Complementary expertise to existing faculty is considered an asset",
+          "collaboration": "Evidence of collaboration considered an asset",
+          "engagementWithGenerativeAI": "Engagement with Generative AI topics as part of existing or future research program encouraged"
+        },
+        "additionalLinks": {
+          "fullJobAd": "https://www.uvic.ca/ecs/computerscience/assets/docs/employment/cosi_seng_research-faculty-ad-2025_final.pdf",
+          "applicationSite": "https://academicjobsonline.org/ajo/jobs/30135"
+        },
+        "contact": {
+          "name": "Neil Ernst, Ph.D.",
+          "position": "Associate Professor",
+          "department": "Computer Science",
+          "institution": "University of Victoria",
+          "website": [
+            "https://neilernst.net",
+            "https://oac.uvic.ca/matrix/"
+          ]
+        },
+        "acknowledgment": "I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory I live and work, and the Songhees, Esquimalt and W̱SÁNEĆ peoples whose historical relationships with the land continue to this day."
+      }
+    }
+  }
+}

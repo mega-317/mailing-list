@@ -1,0 +1,74 @@
+{
+  "email": {
+    "subject": "Call for Participation: 41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 10 Jul 2025 16:20:47 -0000",
+    "content_type": "text/plain",
+    "conference": {
+      "name": "IEEE International Conference on Software Maintenance and Evolution",
+      "abbreviation": "ICSME",
+      "year": 2025,
+      "location": {
+        "city": "Auckland",
+        "country": "New Zealand"
+      },
+      "dates": {
+        "start": "2025-09-07",
+        "end": "2025-09-12"
+      },
+      "website": "https://conf.researchr.org/home/icsme-2025",
+      "registration": {
+        "link": "https://conf.researchr.org/home/icsme-2025",
+        "early_bird_deadline": "2025-08-01"
+      },
+      "program_highlights": [
+        "Cutting-edge research on software evolution, maintenance, and analysis",
+        "Invited keynotes by international thought leaders",
+        "Co-located conferences: SCAM and VISSOFT are taking place earlier in the week.",
+        "Panels, tool demos, and community activities",
+        "Networking opportunities with researchers, practitioners, and students from around the globe",
+        "Conference reception and cultural activities in vibrant Auckland"
+      ],
+      "program_overview_link": "https://conf.researchr.org/info/icsme-2025/program-overview",
+      "student_volunteers": {
+        "description": "Get involved, meet mentors, and experience the conference from the inside.",
+        "application_link": "https://conf.researchr.org/attending/icsme-2025/student-volunteer",
+        "application_deadline": "2025-07-15T23:59:00AoE",
+        "travel_support": {
+          "description": "Travel support for US-based attendees is available through generous NSF funding.",
+          "link": "https://conf.researchr.org/attending/icsme-2025/travel-support"
+        }
+      },
+      "logistics_and_sustainability": {
+        "description": "ICSME 2025 aims to be environmentally conscious and socially inclusive.",
+        "discount_codes": "Discount codes for nearby hotels and international travel will be provided upon registration.",
+        "accessibility_inclusivity": "Making arrangements to ensure accessibility and inclusivity for all attendees, including those from LGBTQ+, disabled, and neurodiverse communities."
+      },
+      "explore_research": {
+        "description": "If you are attending ICSME in Auckland and plan to travel the country, you can contact some of NZ's software engineering researchers for a chat, a seminar, or simply to (re)connect.",
+        "link": "https://conf.researchr.org/info/icsme-2025/explore-se-research-in-nz#engage-with-software-engineering-researchers-in-aotearoa-new-zealand"
+      },
+      "sponsorship": {
+        "main_sponsor": "IEEE Computer Society",
+        "support": [
+          "IEEE TCSE",
+          "other research organizations",
+          "industry and academic sponsors worldwide"
+        ]
+      },
+      "closing_remarks": "We look forward to seeing you this September in Auckland for a week of inspiration, connection, and impactful research in software evolution."
+    },
+    "contribution": {
+      "method": "To contribute to SEWORLD, send your submission to",
+      "email_link": "mailto:[log in to unmask]",
+      "more_info_link": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

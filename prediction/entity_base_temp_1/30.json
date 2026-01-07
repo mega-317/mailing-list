@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Award",
+      "name": "ERCIM STM WG 2025 Award for the Best Ph.D. Thesis on Security and Trust Management",
+      "details": {
+        "dates": {
+          "conference": "September 25-26, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 31, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Toulouse, France",
+        "main_conferences": [
+          "21st International Workshop on Security and Trust Management (STM 2025)"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Cristina Alcaraz"
+          ],
+          "submission_information": [
+            "Applications consisting of the Ph.D. Thesis (in PDF format), a short summary of the Thesis (mandatory in English), a curriculum vitae (in PDF format), and letters of support from at least two researchers, one of whom should be from an ERCIM STM WG Institution."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://www.nics.uma.es/stm2025/"
+          }
+        ]
+      }
+    }
+  ]
+}

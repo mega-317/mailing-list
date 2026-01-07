@@ -1,0 +1,40 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral and Research Fellow Positions",
+      "name": "Helsinki Institute for Information Technology (HIIT)",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Helsinki, Finland",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": {
+            "Aalto University": "Leading university in Finland for computer science and information technology",
+            "University of Helsinki": "Leading university in Finland for computer science and information technology"
+          },
+          "submission_information": {
+            "contract_length": {
+              "Postdoctoral Fellow": "up to three years",
+              "Research Fellow": "up to five years"
+            },
+            "negotiable_dates": "Starting and ending dates are negotiable"
+          },
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/"
+      }
+    }
+  ]
+}

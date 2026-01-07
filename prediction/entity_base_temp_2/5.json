@@ -1,0 +1,299 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+      "details": {
+        "dates": {
+          "conference": {
+            "start": "2026-03-17",
+            "end": "2026-03-20"
+          },
+          "satellite_events": null,
+          "submission_deadline": {
+            "Research Track": {
+              "abstract": "2025-10-09",
+              "paper": "2025-10-16",
+              "notification": "2025-12-09",
+              "camera_ready": "2026-01-09"
+            },
+            "Industrial Track": {
+              "abstract": "2025-11-10",
+              "paper": "2025-11-17",
+              "notification": "2025-12-19",
+              "camera_ready": "2026-01-14"
+            },
+            "Short Papers and Posters Track": {
+              "abstract": "2025-11-10",
+              "paper": "2025-11-17",
+              "notification": "2025-12-19",
+              "camera_ready": "2026-01-14"
+            },
+            "Early Research Achievement (ERA) Track": {
+              "abstract": "2025-11-10",
+              "paper": "2025-11-17",
+              "notification": "2025-12-19",
+              "camera_ready": "2026-01-14"
+            },
+            "Reproducibility Studies and Negative Results (RENE) Track": {
+              "abstract": "2025-11-10",
+              "paper": "2025-11-17",
+              "notification": "2025-12-19",
+              "camera_ready": "2026-01-14"
+            },
+            "Tool Demo Track": {
+              "paper": "2025-11-17",
+              "notification": "2025-12-19",
+              "camera_ready": "2026-01-14"
+            },
+            "Journal-First Track": {
+              "paper": "2025-12-08",
+              "notification": "2025-12-22"
+            },
+            "Registered Report Track": {
+              "submission": "2025-11-07",
+              "first_notification": "2025-12-05",
+              "second_round_submission": "2025-12-12",
+              "final_notification": "2025-12-22",
+              "accepted_report_submission": "2026-01-09"
+            },
+            "Workshop Proposals": {
+              "submission": "2025-08-20",
+              "notification": "2025-08-27"
+            },
+            "Tutorial Proposals": {
+              "submission": "2026-01-12",
+              "notification": "2026-01-12",
+              "camera_ready": "2026-01-16"
+            }
+          },
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "5* St. Raphael Resort and Marina, Limassol, Cyprus",
+        "main_conferences": null,
+        "workshops": {
+          "schedule": "March 17, 2026",
+          "details": "Workshops can be full or half-day focused on topics related to software analysis, evolution, and reengineering."
+        },
+        "call_for_proposals": {
+          "workshops": {
+            "submission": "2025-08-20",
+            "evaluation": {
+              "criteria": [
+                "novelty of the workshop topic",
+                "importance to the field",
+                "composition of the organizing team"
+              ]
+            }
+          },
+          "tutorials": {
+            "submission": "2026-01-12",
+            "evaluation": {
+              "criteria": [
+                "overall quality of the proposal",
+                "relevance to the SANER audience",
+                "level of interest",
+                "experience of the presenters",
+                "avoidance of duplication"
+              ]
+            }
+          }
+        },
+        "requirements": {
+          "organizers": [
+            {
+              "position": "General Chair",
+              "name": "Georgia Kapitsaki",
+              "affiliation": "University of Cyprus, Cyprus"
+            },
+            {
+              "position": "Local Organizing Chair",
+              "name": "George Angelos Papadopoulos",
+              "affiliation": "University of Cyprus, Cyprus"
+            },
+            {
+              "position": "Program Chairs",
+              "members": [
+                {
+                  "name": "Eunjong Choi",
+                  "affiliation": "Kyoto Institute of Technology, Japan"
+                },
+                {
+                  "name": "Matthias Galster",
+                  "affiliation": "University of Canterbury, New Zealand"
+                }
+              ]
+            },
+            {
+              "position": "Industrial Chairs",
+              "members": [
+                {
+                  "name": "Anne Etien",
+                  "affiliation": "University of Lille, France"
+                },
+                {
+                  "name": "Tushar Sharma",
+                  "affiliation": "Dalhousie University, Canada"
+                }
+              ]
+            },
+            {
+              "position": "ERA Chairs",
+              "members": [
+                {
+                  "name": "Mairieli Wessel",
+                  "affiliation": "Radboud University, Netherlands"
+                },
+                {
+                  "name": "Christoph Treude",
+                  "affiliation": "Singapore Management University, Singapore"
+                }
+              ]
+            },
+            {
+              "position": "Short Papers and Posters Chairs",
+              "members": [
+                {
+                  "name": "Eleni Constantinou",
+                  "affiliation": "University of Cyprus, Cyprus"
+                },
+                {
+                  "name": "Sandro Schulze",
+                  "affiliation": "Anhalt University of Applied Sciences, Germany"
+                }
+              ]
+            },
+            {
+              "position": "RENE Chairs",
+              "members": [
+                {
+                  "name": "Apostolos Ampatzoglou",
+                  "affiliation": "University of Macedonia, Greece"
+                },
+                {
+                  "name": "Sebastian Proksch",
+                  "affiliation": "Delft University of Technology, Netherlands"
+                }
+              ]
+            },
+            {
+              "position": "Workshop/Tutorial Chairs",
+              "members": [
+                {
+                  "name": "Marcelo De Almeida Maia",
+                  "affiliation": "Federal University of Uberlandia, Brazil"
+                },
+                {
+                  "name": "Juri Di Rocco",
+                  "affiliation": "University of L'Aquila, Italy"
+                }
+              ]
+            },
+            {
+              "position": "Journal-First Chairs",
+              "members": [
+                {
+                  "name": "Luigi Lavazza",
+                  "affiliation": "Università degli Studi dell'Insubria, Italy"
+                },
+                {
+                  "name": "Yuxia Zhang",
+                  "affiliation": "Beijing Institute of Technology, China"
+                }
+              ]
+            },
+            {
+              "position": "Registered Report Chairs",
+              "members": [
+                {
+                  "name": "Sherlock A. Licorish",
+                  "affiliation": "University of Otago, New Zealand"
+                },
+                {
+                  "name": "Sebastiano Panichella",
+                  "affiliation": "Zurich University of Applied Science, Switzerland"
+                }
+              ]
+            },
+            {
+              "position": "Tool Demo Chairs",
+              "members": [
+                {
+                  "name": "Maliheh Izadi",
+                  "affiliation": "Delft University of Technology, Netherlands"
+                },
+                {
+                  "name": "Roberto Verdecchia",
+                  "affiliation": "University of Florence, Italy"
+                }
+              ]
+            },
+            {
+              "position": "Diversity, Inclusion, and Newcomers Chairs",
+              "members": [
+                {
+                  "name": "Catia Trubiani",
+                  "affiliation": "Gran Sasso Science Institute, Italy"
+                },
+                {
+                  "name": "Aldeida Aleti",
+                  "affiliation": "Monash University, Australia"
+                }
+              ]
+            },
+            {
+              "position": "Proceedings Chair",
+              "name": "Raula Gaikovina Kula",
+              "affiliation": "Osaka University, Japan"
+            },
+            {
+              "position": "Most Influential Paper Award Chairs",
+              "members": [
+                {
+                  "name": "Alexander Chatzigeorgiou",
+                  "affiliation": "University of Macedonia, Greece"
+                },
+                {
+                  "name": "Michele Lanza",
+                  "affiliation": "Software Institute - USI, Lugano, Switzerland"
+                }
+              ]
+            },
+            {
+              "position": "Sustainability Chair",
+              "name": "Maria Papoutsoglou",
+              "affiliation": "University of Cyprus, Cyprus"
+            },
+            {
+              "position": "Financial Chair",
+              "name": "Constantinos Pattichis",
+              "affiliation": "University of Cyprus, Cyprus"
+            },
+            {
+              "position": "Publicity and Social Media Chair",
+              "name": "Erina Makihara",
+              "affiliation": "Ritsumeikan University, Japan"
+            }
+          ],
+          "submission_information": {
+            "format": "PDF",
+            "requirements": [
+              "original and unpublished work",
+              "must conform to IEEE Conference Proceedings Formatting Guidelines"
+            ]
+          },
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://conf.researchr.org/home/saner-2026",
+          "https://easychair.org/my/conference?conf=saner2026"
+        ]
+      }
+    }
+  ]
+}

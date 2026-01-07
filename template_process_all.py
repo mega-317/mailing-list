@@ -3,10 +3,10 @@ from pathlib import Path
 import glob
 from template_pipeline.graph import process_one_file, save_json
 
-version = 1
+version = 2
 TEXT_DIR = Path("./data/texts")
-OUT_DIR = Path(f"./prediction/flex_summ_1")  # 결과 저장 폴더
-REF_DIR = Path("./prediction/merge/template_v3.json")
+OUT_DIR = Path(f"./prediction/entity_base_temp_{version}")  # 결과 저장 폴더
+REF_DIR = Path("./entity_pipeline/template/template_v1.json")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # === 배치 실행 ===

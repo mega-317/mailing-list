@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opportunity",
+      "name": "Assistant Professor Position at the University of Coimbra",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "August 7, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "University of Coimbra, Portugal",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": "international call for applications for one tenure-track position at the level of Assistant Professor in the field of Informatics Engineering",
+        "requirements": {
+          "organizers": [
+            "Department of Informatics Engineering, University of Coimbra"
+          ],
+          "submission_information": [
+            "Applications are open until August 7, 2025. More details and the official application portal can be found here: https://apply.uc.pt/IT136-25-15300"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Application Portal": "https://apply.uc.pt/IT136-25-15300"
+          }
+        ]
+      }
+    }
+  ]
+}

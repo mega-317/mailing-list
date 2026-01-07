@@ -1,0 +1,64 @@
+{
+  "email": {
+    "subject": "Special Issue on Innovative Frontiers in Automated Software Engineering",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Fri, 23 May 2025 14:20:55 -0000",
+    "contentType": "text/plain",
+    "body": {
+      "callForPapers": {
+        "title": "Special Issue on Innovative Frontiers in Automated Software Engineering",
+        "submissionDeadline": "July 21, 2025",
+        "overview": {
+          "description": "Automation has long been at the heart of software engineering, revolutionizing how we design, develop, and maintain complex systems. As artificial intelligence and advanced computational techniques continue to evolve, we find ourselves at a pivotal moment, one that demands bold new ideas, visionary thinking, and a reexamination of the fundamental principles shaping automated software engineering.",
+          "goals": "This special issue seeks to go beyond incremental advances, welcoming transformative research that challenges conventional assumptions, explores radical new perspectives, and envisions the future of automation in software engineering."
+        },
+        "aimsAndScope": {
+          "description": "This special issue aims to collect contributions for innovative ideas, visionary perspectives, and critical reflections that can potentially reshape automated software engineering significantly.",
+          "typesOfPapers": [
+            {
+              "type": "Innovative, groundbreaking new ideas",
+              "description": "Supported by promising initial results – This includes exciting new directions in early research stages with initial evidence, or startling new results that challenge established findings and call for fundamentally new research directions."
+            },
+            {
+              "type": "Visions of the future",
+              "description": "Bold, forward-looking ideas that may not yet have solid results but are backed by strong scientific intuition."
+            },
+            {
+              "type": "Reflections on the past",
+              "description": "Critical reassessments of current research directions that may be misguided, as well as thoughtful analyses of key ideas in software engineering’s history."
+            }
+          ]
+        },
+        "topicsOfInterest": [
+          "Radical approaches to automating software engineering tasks supported by preliminary evidence",
+          "Novel applications of automation in software engineering contexts are traditionally considered unsuitable",
+          "Bold predictions about transformative directions in automated software engineering",
+          "The untapped potential of automation in emergent software domains and paradigms",
+          "Novel theoretical frameworks for rethinking fundamental aspects of automated software development",
+          "Reassessments of foundational assumptions in automated software engineering",
+          "Examination of ethical implications and unintended consequences in the evolution of automated software engineering",
+          "Reimagining correctness and verification in an era of AI-generated software",
+          "Novel approaches to handling uncertainty and ambiguity in automated software engineering",
+          "Transformative applications of large language models beyond current paradigms",
+          "Radical new perspectives on software composition and integration",
+          "Innovative socio-technical approaches that reconsider the relationship between automation and human developers",
+          "Disruptive ideas for automated testing, verification, and validation that break from established paradigms"
+        ]
+      },
+      "submissionGuidelines": {
+        "link": "https://link.springer.com/journal/10515/submission-guidelines"
+      },
+      "guestEditors": {
+        "contact": "mailto:[log in to unmask]",
+        "moreInformationLink": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

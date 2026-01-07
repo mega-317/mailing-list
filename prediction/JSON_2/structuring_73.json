@@ -1,0 +1,251 @@
+{
+  "subject": "Ada-Europe Int.Conf. Reliable Software Technologies, AEiC 2025",
+  "from": {
+    "name": "SEWORLD Moderator",
+    "email": "[log in to unmask]"
+  },
+  "reply_to": {
+    "name": "SEWORLD Moderator",
+    "email": "[log in to unmask]"
+  },
+  "date": "Mon, 19 May 2025 15:46:45 -0000",
+  "content_type": "text/plain",
+  "conference": {
+    "name": "29th Ada-Europe International Conference on Reliable Software Technologies",
+    "acronym": "AEiC 2025",
+    "dates": {
+      "start": "2025-06-10",
+      "end": "2025-06-13"
+    },
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "website": "www.ada-europe.org/conference2025",
+    "early_registration_deadline": "May 27, 2025",
+    "sponsor_details": {
+      "organized_by": [
+        "Ada-Europe",
+        "Ada-France"
+      ],
+      "cooperation": [
+        "ACM SIGPLAN"
+      ],
+      "sponsored_by": [
+        "Embedded France",
+        "AdaCore",
+        "Emenda",
+        "Systerel",
+        "Scitools",
+        "Pacte Novation",
+        "Institut Frederik Bull",
+        "Mines Paris"
+      ]
+    },
+    "overview": {
+      "description": "Preparations for AEiC 2025 are well underway! Experience a packed program and enjoy social events.",
+      "highlights": [
+        "Keynote and invited talks",
+        "Journal, industrial, and work-in-progress tracks",
+        "Vendor exhibition",
+        "Networking events"
+      ]
+    },
+    "schedule": {
+      "Tuesday": {
+        "date": "2025-06-10",
+        "events": [
+          "4 half-day tutorials",
+          "1 full-day tutorial",
+          "welcome reception"
+        ]
+      },
+      "Wednesday": {
+        "date": "2025-06-11",
+        "events": [
+          "core technical program",
+          "conference banquet"
+        ]
+      },
+      "Thursday": {
+        "date": "2025-06-12",
+        "events": [
+          "core technical program",
+          "post conference chill-out"
+        ]
+      },
+      "Friday": {
+        "date": "2025-06-13",
+        "events": [
+          "3 full-day workshops"
+        ]
+      }
+    },
+    "venue": {
+      "name": "Mines Paris",
+      "description": "Located along the Luxembourg gardens, near public transportation.",
+      "website": "http://www.ada-europe.org/conference2025/venue.html"
+    },
+    "invited_speakers": [
+      {
+        "name": "Stefano Zacchiroli",
+        "affiliation": "Télécom Paris, France",
+        "topic": "Building a Safer Open Source Supply Chain with Software Heritage, the Great Library of Source Code",
+        "date": "2025-06-11",
+        "time": "morning"
+      },
+      {
+        "name": "Tullio Vardanega",
+        "affiliation": "University of Padua, Italy",
+        "topic": "Language Ownership: Key Moments in the Lifetime of Ada",
+        "date": "2025-06-11",
+        "time": "afternoon"
+      }
+    ],
+    "tutorials": {
+      "full_day": {
+        "title": "Developing Bare-metal Embedded Software in SPARK Ada for 64-bit ARM Platforms",
+        "instructor": "J. Germán Rivera",
+        "affiliation": "Tesla, USA"
+      },
+      "half_day": [
+        {
+          "title": "Multiple Double and Multiword Arithmetic",
+          "instructor": "Jan Verschelde",
+          "affiliation": "University of Illinois at Chicago, USA"
+        },
+        {
+          "title": "Unleash the Power of Ada Generics",
+          "instructor": "Gautier de Montmollin",
+          "affiliation": "Ada-Switzerland, Switzerland"
+        },
+        {
+          "title": "Turning your Programming Language into a Modeling Language",
+          "instructor": "S. Tucker Taft",
+          "affiliation": "AdaCore, USA"
+        },
+        {
+          "title": "Introduction to the ALiRe Package Manager",
+          "instructor": "Quentin Dauprat",
+          "affiliation": "Université de Caen, Normandie, France"
+        }
+      ]
+    },
+    "workshops": {
+      "Friday": [
+        {
+          "title": "4th ADEPT workshop \"AADL by its practitioners\"",
+          "url": "http://www.ada-europe.org/conference2025/workshop_adept.html"
+        },
+        {
+          "title": "10th International Workshop on \"Challenges and New Approaches for Dependable and Cyber-Physical System Engineering\" (DeCPS 2025)",
+          "url": "http://www.ada-europe.org/conference2025/decps.html"
+        },
+        {
+          "title": "2nd \"Ada Developers Workshop\"",
+          "description": "An informal gathering for developers in the Ada community.",
+          "url": "http://www.ada-europe.org/conference2025/workshop_adadev.html"
+        }
+      ]
+    },
+    "social_program": {
+      "details": "Various opportunities to socialize are available.",
+      "events": [
+        {
+          "type": "Daily",
+          "description": "Coffee breaks and lunches for networking."
+        },
+        {
+          "type": "Welcome Reception",
+          "date": "2025-06-10"
+        },
+        {
+          "type": "Conference Banquet",
+          "date": "2025-06-11",
+          "location": "Bouillon Racine"
+        },
+        {
+          "type": "Chill Event",
+          "date": "2025-06-12",
+          "location": "Café Latin"
+        }
+      ]
+    },
+    "further_information": {
+      "registration": {
+        "details": "See registration page for more details.",
+        "url": "http://www.ada-europe.org/conference2025/registration.html",
+        "discounts": {
+          "early_registration": "Until May 27, 2025",
+          "author_fee": "Special low conference fee for authors",
+          "student_fee": "Strong discount for students"
+        }
+      },
+      "promotion": {
+        "hashtags": [
+          "#AEiC2025",
+          "#AdaEurope",
+          "#AdaProgramming"
+        ]
+      },
+      "contact": {
+        "organizers": [
+          {
+            "name": "Ada-Europe",
+            "url": "http://www.ada-europe.org/"
+          },
+          {
+            "name": "Ada-France",
+            "url": "https://www.ada-france.org/"
+          }
+        ],
+        "supporters": [
+          {
+            "name": "ACM SIGPLAN",
+            "url": "http://www.sigplan.org/"
+          },
+          {
+            "name": "Embedded France",
+            "url": "https://www.embedded-france.org/"
+          },
+          {
+            "name": "AdaCore",
+            "url": "https://www.adacore.com/"
+          },
+          {
+            "name": "Emenda",
+            "url": "https://emenda.com/"
+          },
+          {
+            "name": "Systerel",
+            "url": "https://www.systerel.fr/"
+          },
+          {
+            "name": "Scitools",
+            "url": "https://scitools.com/"
+          },
+          {
+            "name": "Pacte Novation",
+            "url": "https://www.pactenovation.fr/index.php/logiciel-critique-ada-fondements-et-enjeux/"
+          },
+          {
+            "name": "Institut Frederik Bull",
+            "url": "https://institutbull.fr/"
+          },
+          {
+            "name": "Mines Paris",
+            "url": "https://www.minesparis.psl.eu/"
+          }
+        ]
+      }
+    }
+  },
+  "sign_off": {
+    "name": "Dirk Craeynest",
+    "title": "AEiC 2025 Publicity Chair",
+    "emails": [
+      "[log in to unmask]",
+      "[log in to unmask]"
+    ]
+  }
+}

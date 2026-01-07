@@ -1,0 +1,88 @@
+{
+  "email": {
+    "subject": "Tenure track position in software engineering at Blekinge Institute of Technology in Karlskrona, Sweden",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 16 Jul 2025 06:18:38 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "position": {
+        "title": "ASSOCIATE SENIOR LECTURER (TENURE TRACK)",
+        "field": "AI for SOFTWARE ENGINEERING",
+        "institution": "Blekinge Institute of Technology",
+        "location": "Karlskrona, Sweden",
+        "description": "Blekinge Institute of Technology is an internationally top-ranked research environment in empirical software engineering. Our campus is located at the shore of the Baltic Sea in the Southeast of Sweden. We offer study programmes in software engineering from undergraduate to postgraduate levels.",
+        "employment_details": {
+          "responsibilities": [
+            "research",
+            "teaching",
+            "supervision in software engineering",
+            "participate in leading and developing the department's research and educational activities",
+            "apply for external research funding, nationally and internationally"
+          ],
+          "research_focus": "using and developing (generative) AI to improve software development processes as well as the quality of software artefacts (e.g., code or designs)",
+          "required_experience": [
+            "quantitative and qualitative research",
+            "tool development for the collection and analysis of software development data",
+            "empirical research in close collaboration with industry or government agencies"
+          ],
+          "teaching_details": {
+            "activities": [
+              "lectures",
+              "practical elements",
+              "course development at undergraduate and graduate levels",
+              "supervision of degree and project work at undergraduate and graduate levels",
+              "opportunity for the supervision of doctoral students"
+            ]
+          },
+          "initial_research_proportion": "at least 60%",
+          "resources": "resources to finance one doctoral student"
+        },
+        "strategic_research_area": {
+          "name": "IT and mobile communication",
+          "partnership": "ELLIIT",
+          "collaborating_institutions": [
+            "Linköping University",
+            "Lund University",
+            "Halmstad University",
+            "Blekinge Institute of Technology"
+          ],
+          "expectation": "contribute to ELLIIT's broader goals in research, postgraduate education, collaboration, and dissemination"
+        },
+        "eligibility": {
+          "criteria": [
+            "completed a doctoral degree or has equivalent scientific competence",
+            {
+              "preferred_timing": "no more than five years prior to the application deadline",
+              "exceptions": [
+                "leave due to illness",
+                "parental leave",
+                "other similar circumstances"
+              ]
+            }
+          ]
+        },
+        "application_deadline": "August 1, 2025",
+        "more_info": "https://www.bth.se/english/vacancies/job/associate-senior-lecturer-in-ai-for-software-engineering-tenure-track-karlskrona"
+      },
+      "contact_person": {
+        "name": "Prof Jürgen Börstler",
+        "department": "Department of Software Engineering",
+        "phone": "+46 (455) 38 58 67",
+        "email": "[log in to unmask]",
+        "address": "SE-371 79 Karlskrona, SWEDEN"
+      },
+      "contribution_info": {
+        "call": "To contribute to SEWORLD, send your submission to",
+        "email": "mailto:[log in to unmask]",
+        "more_info_link": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

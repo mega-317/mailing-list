@@ -1,0 +1,63 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "SBMF 2025",
+      "details": {
+        "dates": {
+          "conference": "December 3-5, 2025",
+          "satellite_events": null,
+          "submission_deadline": "August 8, 2025",
+          "notification_of_acceptance": "September 26, 2025",
+          "final_files_due": "October 10, 2025"
+        },
+        "location": "Recife - Pernambuco, Brazil",
+        "main_conferences": [
+          "28th Brazilian Symposium on Formal Methods"
+        ],
+        "workshops": [],
+        "call_for_proposals": "Call for Papers for SBMF 2025 is open.",
+        "requirements": {
+          "organizers": [
+            {
+              "General Chair": "Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)"
+            },
+            {
+              "Program Chairs": [
+                "Leopoldo Teixeira (Universidade Federal de Pernambuco, Brazil)",
+                "Maurice ter Beek (CNR-ISTI, Italy)"
+              ]
+            }
+          ],
+          "submission_information": [
+            "Papers should be written in English and prepared using Springer’s Lecture Notes in Computer Science (LNCS) format.",
+            "Submissions should be made via the provided submission link."
+          ],
+          "promotion": {
+            "organizers_committee": [
+              "Ciprian Teodorov (ENSTA Bretagne, France)",
+              "Haniel Barbosa (Universidade Federal de Minas Gerais, Brazil)",
+              "Lucas Lima (Universidade Federal Rural de Pernambuco, Brazil)",
+              "Sidney Nogueira (Universidade Federal Rural de Pernambuco, Brazil)",
+              "Vince Molnár (Budapest University of Technology and Economics, Hungary)",
+              "Yoni Zohar (Bar-Ilan University, Israel)"
+            ],
+            "registration": "Registered authors must submit their camera-ready copy.",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "http://sbmf2025.ufrpe.br/"
+          },
+          {
+            "Submission Link": "https://easychair.org/conferences/?conf=sbmf2025"
+          },
+          {
+            "Springer Guidelines": "https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"
+          }
+        ]
+      }
+    }
+  ]
+}

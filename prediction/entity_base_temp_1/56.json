@@ -1,0 +1,47 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Post-Doctoral Research Position",
+      "name": "Post-Doctoral Researcher in Model-Driven Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Johannes Kepler University Linz, Austria",
+        "main_conferences": [
+          "ICSE",
+          "MODELS",
+          "ICSME",
+          "ASE"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Prof. Alexander Egyed"
+          ],
+          "submission_information": [
+            "Detailed curriculum vitae in English, one page description of research interests and connection to the work."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Research Group": "https://www.jku.at/en/institute-of-software-systems-engineering/research/tools/designspace/"
+          },
+          {
+            "Team Information": "https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE AIxSE",
+      "details": {
+        "dates": {
+          "conference": "October 1-3, 2025",
+          "satellite_events": [
+            "AIxSET",
+            "AIxHEART",
+            "AIxB"
+          ],
+          "submission_deadline": "July 15, 2025 PT",
+          "notification_of_acceptance": "August 1, 2025 PT",
+          "final_files_due": "September 1, 2025 PT"
+        },
+        "location": "The Hills Hotel, Laguna Hills, California",
+        "main_conferences": null,
+        "workshops": {
+          "workshop_proposals_deadline": "July 22, 2025 PT",
+          "workshop_paper_submission_deadline": "August 20, 2025 PT"
+        },
+        "call_for_proposals": {
+          "call_for_papers_details": "Authors are invited to submit an 8-page (regular), 4-page (short), and 2-page (poster and demo) manuscript in double-column IEEE format. Manuscripts must be written in English and follow the instructions in the Manuscript Formatting and Templates page."
+        },
+        "requirements": {
+          "organizers": [
+            "Daryush Laqab",
+            "Giovanni Pilato",
+            "Phillip Sheu"
+          ],
+          "submission_information": {
+            "submission_link": "https://easychair.org/conferences?conf=aixse2025",
+            "submission_format": "PDF",
+            "review_process": "All paper submissions will be carefully reviewed by at least three experts."
+          },
+          "promotion": {
+            "organizers_committee": [
+              "Srividya Bansal",
+              "Bryan Chou",
+              "Massimo Cossentino",
+              "Sheida Malekpour",
+              "Mustafa Sert"
+            ],
+            "registration": "Main Conference and Workshop Registration Deadline: September 1, 2025 PT",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "http://www.AIxSE.org",
+          "https://www.aixse.org/community"
+        ]
+      }
+    }
+  ]
+}

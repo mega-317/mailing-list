@@ -1,0 +1,58 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Emerging Concerns in Technical Debt Management",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "June 9, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "Empirical Software Engineering (EMSE)"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Dr. Giammaria Giordano, University of Salerno, Italy",
+            "Dr. Zadia Codabux, University of Saskatchewan, Canada",
+            "Dr. Marcus Ciolkowski, QAware GmbH., Germany",
+            "Dr. Florian Deissenboeck, CQSE GmbH, Germany",
+            "Prof. Maria Teresa Baldassarre, University of Bari, Italy"
+          ],
+          "submission_information": [
+            "Authors are not required to submit using a prescribed template.",
+            "The pre-screening process may take several days before the submission is assigned to the guest editors."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Dr. Giammaria Giordano": "https://giammariagiordano.github.io/giammaria-giordano/"
+          },
+          {
+            "Dr. Zadia Codabux": "https://www.cs.usask.ca/faculty/zadiacodabux/"
+          },
+          {
+            "Dr. Marcus Ciolkowski": "https://www.qaware.de/team/marcus-ciolkowski/"
+          },
+          {
+            "Dr. Florian Deissenboeck": "https://cqse.eu/deissenboeck"
+          },
+          {
+            "Prof. Maria Teresa Baldassarre": "https://www.uniba.it/docenti/baldassarre-maria-teresa"
+          }
+        ]
+      }
+    }
+  ]
+}

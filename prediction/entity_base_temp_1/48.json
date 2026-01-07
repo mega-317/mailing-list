@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "postdoctoral_positions",
+      "name": "Fuzz Testing at National University of Singapore",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "National University of Singapore",
+        "main_conferences": [
+          "NCR programme named 'Fuzz Testing' funded 2023-2027"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Abhik Roychoudhury"
+          ],
+          "submission_information": [
+            "CV, including publications",
+            "Research statement",
+            "Names of two referees"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Fuzz Testing": "https://nus-tss.github.io/fuzzing/"
+          },
+          {
+            "Agentic AI project": "https://spartan-nus.github.io/coderover-s.html"
+          },
+          {
+            "Abhik Roychoudhury's Website": "https://abhikrc.com"
+          }
+        ]
+      }
+    }
+  ]
+}

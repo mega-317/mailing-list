@@ -1,0 +1,138 @@
+{
+  "email": {
+    "subject": "CfP EICS 2026 - First Submission Round",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 7 Jul 2025 03:07:01 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference_details": {
+        "name": "EICS 2026: The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+        "acronym": "EICS",
+        "dates": "June 22-26, 2025",
+        "location": "Trier, Germany",
+        "website": "https://eics.acm.org/2026/",
+        "submission_link": "https://new.precisionconference.com"
+      },
+      "important_dates": {
+        "paper_submission": "July 25, 2025",
+        "notification_of_acceptance": null,
+        "final_manuscript_camera_ready": null
+      },
+      "awards": {
+        "best_paper_award": {
+          "description": null,
+          "recommended_journals": [
+            {
+              "name": "Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)",
+              "impact_factor": null
+            }
+          ]
+        }
+      },
+      "conference_aims": {
+        "description": "EICS 2026 is devoted to engineering interactive computing systems and their user interfaces, addressing one or more software quality factors, such as usability, user experience, reliability, security, etc.",
+        "focus_areas": [
+          "Usability",
+          "User Experience",
+          "Reliability",
+          "Security"
+        ]
+      },
+      "submission_topics": {
+        "eHealth_topics": [
+          "Modelling, specification and analysis of interaction and interactive systems",
+          "Requirements engineering for interactive systems",
+          "Methods, processes, principles and/or tools for building interactive systems",
+          "Software architectures for interactive systems",
+          "Formal methods within interactive systems engineering",
+          "Bridging the gap between engineering and design practices",
+          "Engineering design and evaluation tools",
+          "Computational techniques for designing and evaluating interactive systems",
+          "Interactive data-driven systems",
+          "Explore and/or employ of diverse interaction techniques and devices",
+          "Engineering hardware or software integration in interactive systems",
+          "Engineering interactive systems for diverse user groups",
+          "Engineering collaborative multi-user interactive systems",
+          "Engineering interactive systems embedding AI-technologies",
+          "Engineering interaction-driven AI-technologies",
+          "Applying AI technologies in methods, processes and tools for building interactive systems"
+        ]
+      },
+      "paper_format_submission": {
+        "format": "ACM format",
+        "length": {
+          "max_pages": null,
+          "extra_page": {
+            "allowed": null,
+            "cost": null
+          }
+        },
+        "review_process": "Traditional journal model of reviewing with options for recommendations or revisions.",
+        "publication": {
+          "platform": "Journal Proceedings of the ACM on Human-Computer Interaction (PACM - EICS series)",
+          "journal_publication_conditions": "Accepted papers may be either regular research papers or technical notes."
+        },
+        "preparation": {
+          "formats": [
+            "ACM format"
+          ],
+          "submission_format": "Papers should comply with ACM policy.",
+          "instructions": "See ACM guidelines for authors."
+        },
+        "language": "English"
+      },
+      "organization_committee": {
+        "general_chairs": [
+          {
+            "name": "Célia Martinie",
+            "affiliation": null
+          },
+          {
+            "name": "Davide Spano",
+            "affiliation": null
+          }
+        ],
+        "tpc_chairs": [],
+        "keynote_chair": {
+          "name": null,
+          "affiliation": null
+        },
+        "industry_forum_chair": {
+          "name": null,
+          "affiliation": null
+        },
+        "tutorial_chairs": [],
+        "workshop_chairs": [],
+        "poster_chairs": [],
+        "publicity_chairs": [],
+        "publication_chairs": [],
+        "registration_chair": {
+          "name": null,
+          "affiliation": null
+        },
+        "web_chair": {
+          "name": null,
+          "affiliation": null
+        },
+        "financial_chair": {
+          "name": null,
+          "affiliation": null
+        },
+        "local_chairs": []
+      },
+      "contribution_info": {
+        "seworld_contribution": {
+          "email": "[log in to unmask]",
+          "more_info_link": "http://sigsoft.org/resources/seworld.html"
+        }
+      }
+    }
+  }
+}

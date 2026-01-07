@@ -1,0 +1,108 @@
+{
+  "email": {
+    "subject": "IEEE AIxSE 2025 Call for Papers",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 10 Jul 2025 16:14:12 -0000",
+    "content_type": "text/plain"
+  },
+  "conference": {
+    "name": "IEEE Artificial Intelligence x Software Engineering",
+    "abbreviation": "AIxSE",
+    "dates": {
+      "start": "October 1, 2025",
+      "end": "October 3, 2025"
+    },
+    "location": {
+      "venue": "The Hills Hotel",
+      "city": "Laguna Hills",
+      "state": "California"
+    },
+    "website": "http://www.AIxSE.org",
+    "format": "Hybrid",
+    "co_located_events": [
+      "AIxSET",
+      "AIxHEART",
+      "AIxB"
+    ],
+    "topics_of_interest": {
+      "software_engineering": [
+        "Software design",
+        "Requirements engineering",
+        "Automatic programming",
+        "Software development",
+        "Software testing",
+        "Software maintenance"
+      ],
+      "ai_technologies": [
+        "Generative AI",
+        "Transformer based technology",
+        "Agent technology",
+        "Semantic computing",
+        "Decision making",
+        "Machine learning",
+        "Symbolic AI including Knowledge and data engineering, planning",
+        "Problem solving",
+        "Knowledge discovery",
+        "Knowledge integration",
+        "Multi-modal interactions"
+      ]
+    },
+    "submission": {
+      "requirements": {
+        "manuscript_length": {
+          "regular": "8 pages",
+          "short": "4 pages",
+          "poster_demo": "2 pages"
+        },
+        "format": "double-column IEEE format",
+        "language": "English",
+        "originality": "must submit original material where copyright of all parts is owned by the authors declared and which is not currently under review elsewhere"
+      },
+      "submission_instructions": {
+        "method": "electronic submission",
+        "platform": "EasyChair",
+        "link": "https://easychair.org/conferences?conf=aixse2025",
+        "file_format": "PDF"
+      },
+      "review_process": "Manuscripts will be carefully reviewed by at least three experts."
+    },
+    "important_dates": {
+      "workshop_proposals_deadline": "July 22, 2025 PT",
+      "paper_submission_deadline": "July 15, 2025 PT (Extended Deadline)",
+      "paper_acceptance": "August 1, 2025 PT",
+      "workshop_paper_submission_deadline": "August 20, 2025 PT",
+      "registration_deadline": "September 1, 2025 PT",
+      "camera_ready_deadline": "September 1, 2025 PT"
+    },
+    "community_invitation": {
+      "link": "https://www.aixse.org/community",
+      "description": "You are invited to join the AIxSE community to receive new announcements and notifications from the conference by email."
+    },
+    "contacts": {
+      "general_co_chairs": [
+        "Daryush Laqab",
+        "Giovanni Pilato",
+        "Phillip Sheu"
+      ],
+      "program_co_chairs": [
+        "Srividya Bansal",
+        "Bryan Chou",
+        "Massimo Cossentino",
+        "Sheida Malekpour",
+        "Mustafa Sert"
+      ],
+      "general_contact_email": "[log in to unmask]"
+    },
+    "additional_info": {
+      "contribution_link": "mailto:[log in to unmask]",
+      "seworld_info": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

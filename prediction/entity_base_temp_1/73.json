@@ -1,0 +1,69 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "29th Ada-Europe International Conference on Reliable Software Technologies (AEiC 2025)",
+      "details": {
+        "dates": {
+          "conference": "2025-06-10 to 2025-06-13",
+          "satellite_events": "2025-06-13",
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Paris, France",
+        "main_conferences": [
+          {
+            "title": "AEiC 2025",
+            "dates": {
+              "start_date": "2025-06-10",
+              "end_date": "2025-06-13"
+            },
+            "website": "http://www.ada-europe.org/conference2025"
+          }
+        ],
+        "workshops": [
+          {
+            "title": "4th ADEPT workshop \"AADL by its practitioners\"",
+            "date": "2025-06-13",
+            "link": "http://www.ada-europe.org/conference2025/workshop_adept.html"
+          },
+          {
+            "title": "10th International Workshop on \"Challenges and New Approaches for Dependable and Cyber-Physical System Engineering\" (DeCPS 2025)",
+            "date": "2025-06-13",
+            "link": "http://www.ada-europe.org/conference2025/decps.html"
+          },
+          {
+            "title": "2nd \"Ada Developers Workshop\"",
+            "date": "2025-06-13",
+            "description": "An informal gathering for developers in the Ada community.",
+            "link": "http://www.ada-europe.org/conference2025/workshop_adadev.html"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Ada-Europe",
+            "Ada-France",
+            "ACM SIGPLAN"
+          ],
+          "submission_information": [
+            "Early registration fee discount until May 27, 2025"
+          ],
+          "promotion": {
+            "organizers_committee": [
+              "Dirk Craeynest, AEiC 2025 Publicity Chair"
+            ],
+            "registration": "Discounts available for students and members of Ada-Europe and ACM SIGPLAN",
+            "participation_fee": "25 EUR for Ada Developers Workshop, discounted fees for early registration"
+          }
+        },
+        "additional_links": [
+          {
+            "AEiC 2025": "http://www.ada-europe.org/conference2025"
+          }
+        ]
+      }
+    }
+  ]
+}

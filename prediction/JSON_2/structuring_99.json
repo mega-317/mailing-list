@@ -1,0 +1,166 @@
+{
+  "email": {
+    "subject": "AICCSA'25 CFP-Doha-Qatar",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 15 May 2025 21:19:44 -0000",
+    "contentType": "text/plain"
+  },
+  "conference": {
+    "name": "ACS/IEEE 22nd International Conference on Computer Systems and Applications (AICCSA 2025)",
+    "dates": {
+      "start": "19 October 2025",
+      "end": "22 October 2025"
+    },
+    "location": "Doha, Qatar",
+    "website": "https://conferences.sigappfr.org/aiccsa2025/",
+    "description": "The ACS/IEEE International Conference on Computer Systems and Applications (AICCSA) is the premier conference covering all contemporary areas in computer systems and applications. It implements an international forum for academics, industry researchers, developers, and practitioners to report and share groundbreaking contributions in various IT fields that range from distributed computing to data science, security, and machine learning.",
+    "tracks": [
+      {
+        "name": "Track 1",
+        "topic": "Ubiquitous, Parallel, and Distributed Computing (including cloud, IoT, network, sensors, and blockchain technologies)"
+      },
+      {
+        "name": "Track 2",
+        "topic": "Security, Privacy, and Trust"
+      },
+      {
+        "name": "Track 3",
+        "topic": "Data science, knowledge engineering, and ontologies (including Information Retrieval, Big Data, Databases, and Knowledge Systems)"
+      },
+      {
+        "name": "Track 4",
+        "topic": "Artificial Intelligence & Cognitive Systems"
+      },
+      {
+        "name": "Track 5",
+        "topic": "Natural Language Processing"
+      },
+      {
+        "name": "Track 6",
+        "topic": "Multimedia, Computer Vision, and Image Processing"
+      }
+    ],
+    "submissionGuidelines": {
+      "font": "10-point",
+      "format": "IEEE 8.5″ x 11″ two-column conference format",
+      "pageLimit": 8,
+      "submissionType": "PDF format and anonymous",
+      "submissionLink": "https://easychair.org/conferences/?conf=aiccsa2025"
+    },
+    "importantDates": {
+      "mainConference": {
+        "regularSubmissionDeadline": "19 May 2025",
+        "notificationToAuthors": "30 June 2025",
+        "cameraReadySubmissionDeadline": "01 September 2025",
+        "authorsRegistrationDeadline": "01 September 2025"
+      },
+      "tutorialProposals": {
+        "due": "30 June 2025",
+        "notificationOfAcceptance": "07 July 2025"
+      },
+      "phdForumAndPosters": {
+        "proposalsDue": "30 June 2025",
+        "notificationOfAcceptance": "28 July 2025"
+      }
+    },
+    "committees": {
+      "generalCoChairs": [
+        {
+          "name": "Rima Grati",
+          "country": "UAE"
+        },
+        {
+          "name": "Schahram Dustdar",
+          "country": "Austria"
+        }
+      ],
+      "programCommitteeChairs": [
+        {
+          "name": "Sana Sellami",
+          "country": "France"
+        },
+        {
+          "name": "Yannis Manolopoulos",
+          "country": "Greece"
+        }
+      ],
+      "workshopsSpecialTracksAndTutorialsChairs": [
+        {
+          "name": "Haithem Mezni",
+          "country": "KSA"
+        },
+        {
+          "name": "Abdallah Makhoul",
+          "country": "France"
+        },
+        {
+          "name": "Joe Tekli",
+          "country": "Lebanon"
+        }
+      ],
+      "posterChairs": [
+        {
+          "name": "Khouloud Salameh",
+          "country": "UAE"
+        },
+        {
+          "name": "Karam Bou Chaaya",
+          "country": "France"
+        }
+      ],
+      "phdSymposiumChairs": [
+        {
+          "name": "Ali Akouglou",
+          "country": "USA"
+        },
+        {
+          "name": "Saeid Hosseini",
+          "country": "Oman"
+        },
+        {
+          "name": "Bashar Al-Shboul",
+          "country": "Jordan"
+        }
+      ],
+      "publicationChairs": [
+        {
+          "name": "Cihan Tunc",
+          "country": "USA"
+        },
+        {
+          "name": "Karam Bou Chaaya",
+          "country": "France"
+        }
+      ],
+      "publicityChair": {
+        "name": "Salma Sassi",
+        "country": "France"
+      }
+    }
+  },
+  "contact": {
+    "name": "Najla Fattouch",
+    "position": "PhD student in Computer Science",
+    "institution": "FSEGS, University of Sfax, Tunisia",
+    "mobile": "(+216) 93 203 835",
+    "email": "[log in to unmask]",
+    "affiliations": [
+      {
+        "name": "MIRACL Laboratory",
+        "website": "http://www.miracl.rnu.tn/"
+      }
+    ],
+    "socialLinks": {
+      "googleScholar": "https://scholar.google.com/citations?user=tgf4hzQAAAAJ&hl=en",
+      "dblp": "https://dblp.org/pid/267/7458.html",
+      "orcid": "https://orcid.org/0000-0003-4468-4929"
+    }
+  }
+}

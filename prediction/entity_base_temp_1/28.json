@@ -1,0 +1,76 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICTAC 2025",
+      "details": {
+        "dates": {
+          "conference": "November 24th to 28th, 2025",
+          "satellite_events": null,
+          "submission_deadline": {
+            "abstracts": "July 3rd, 2025",
+            "full_papers": "July 9th, 2025"
+          },
+          "notification_of_acceptance": "August 30th, 2025",
+          "final_files_due": "September 15th, 2025"
+        },
+        "location": "Marrakech, Morocco",
+        "main_conferences": [
+          {
+            "name": "International Colloquium on Theoretical Aspects of Computing",
+            "topics_of_interest": [
+              "Formal languages and automata",
+              "Semantics of programming languages",
+              "Logic in computer science",
+              "Lambda calculus, type theory, and category theory",
+              "Domain-specific languages",
+              "Theories of concurrency and mobility",
+              "Theories of distributed computing",
+              "Models of objects and components",
+              "Coordination models",
+              "Security and privacy",
+              "Static analysis",
+              "Software verification",
+              "Timed, hybrid, and cyber-physical systems",
+              "Verification, analysis and control synthesis",
+              "Software testing",
+              "Program generation and transformation",
+              "Model checking and theorem-proving",
+              "Quantum computing",
+              "Trustworthy AI",
+              "Machine learning algorithms",
+              "Applications and experience"
+            ]
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "Call for Papers - ICTAC 2025",
+        "requirements": {
+          "organizers": [
+            "Ahmed Bouajjani, Université de Paris, France",
+            "Mohammed Erradi, ENSIAS, UM5R, Morocco"
+          ],
+          "submission_information": [
+            "All accepted papers will be published in Springer's Lecture Notes in Computer Science.",
+            "Springer sponsors the ICTAC 2025 Best Paper Award with a cash prize of 1.000 Euro.",
+            "There will be a special issue for selected papers from ICTAC 2025 in the Elsevier’s journal Theoretical Computer Science."
+          ],
+          "promotion": {
+            "organizers_committee": [
+              "Zhiming Liu, Southwest University, China",
+              "Adnane Saoud, UM6P, Morocco",
+              "Heike Wehrheim, University of Oldenburg, Germany"
+            ],
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://ictac2025.digital-hub.sh/"
+          }
+        ]
+      }
+    }
+  ]
+}

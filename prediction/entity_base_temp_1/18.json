@@ -1,0 +1,45 @@
+{
+  "extracted_entities": [
+    {
+      "type": "academic_position",
+      "name": "Faculty Positions at UCLouvain",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "early September 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "UCLouvain, Belgium",
+        "main_conferences": [
+          "Software engineering",
+          "Programming systems and languages",
+          "Software dependability",
+          "Software security",
+          "Cybersecurity"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Etienne Riviere"
+          ],
+          "submission_information": [
+            "Applications will only be accepted on the UCLouvain job portal."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "UCLouvain Job Portal": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Opportunity",
+      "name": "Postdoctoral Fellow in Software Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "University of Otago, New Zealand",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": "Automating software violation detection and repair: future-proofing software reputation and skills development.",
+        "requirements": {
+          "organizers": [
+            "Associate Professor Sherlock Licorish, University of Otago"
+          ],
+          "submission_information": [
+            "Interested candidates should have a background in software engineering, AI, or related fields."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Apply Here": "https://otago.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=2500780"
+          }
+        ]
+      }
+    }
+  ]
+}

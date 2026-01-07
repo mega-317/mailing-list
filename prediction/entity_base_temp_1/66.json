@@ -1,0 +1,56 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "JELIA 2025",
+      "details": {
+        "dates": {
+          "conference": "1-5 September 2025",
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Kutaisi, Georgia",
+        "main_conferences": [
+          {
+            "title": "19th edition of the European Conference on Logics in Artificial Intelligence",
+            "date": "1-5 September 2025",
+            "url": "https://viam.science.tsu.ge/jelia2025/"
+          }
+        ],
+        "workshops": [
+          {
+            "description": "Affiliated workshops and tutorials related to Artificial Intelligence.",
+            "focus": "Intersection of statistical and symbolic AI.",
+            "goals": "Bridge communities and foster dialogue between researchers."
+          }
+        ],
+        "call_for_proposals": "Inviting proposals for workshops and tutorials on any topic related to Artificial Intelligence.",
+        "requirements": {
+          "organizers": [
+            {
+              "contact": "[log in to unmask]",
+              "role": "Organizer of JELIA 2025"
+            }
+          ],
+          "submission_information": [
+            {
+              "details": "Submissions open for proposing workshops and tutorials."
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICITS'26",
+      "details": {
+        "dates": {
+          "conference": "16-18 February 2026",
+          "satellite_events": null,
+          "submission_deadline": "September 28, 2025",
+          "notification_of_acceptance": "November 5, 2025",
+          "final_files_due": "November 19, 2025"
+        },
+        "location": "Roatán Island, Honduras",
+        "main_conferences": [
+          "ICITS'26 - 9th Int. Conference on Information Technology & Systems"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "ICITS'26 Team"
+          ],
+          "submission_information": [
+            "All papers must comply with specified formats and not include author identification in evaluation versions."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": "At least one author must be registered by November 5, 2025.",
+            "participation_fee": "Additional fees apply for publication of extra papers."
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://icits.me/"
+          }
+        ]
+      }
+    }
+  ]
+}

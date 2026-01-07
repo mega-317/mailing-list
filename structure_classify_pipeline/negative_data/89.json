@@ -1,0 +1,26 @@
+{
+  "email": {
+    "subject": "CfP PoEM 2025 – 18th IFIP WG8.1 Working Conference on the Practice of Enterprise Modeling",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:23:51 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "apology": "sorry for cross-postings",
+      "submission_info": {
+        "instruction": "To contribute to SEWORLD, send your submission to",
+        "email": "[log in to unmask]"
+      },
+      "links": {
+        "seworld_information": "http://sigsoft.org/resources/seworld.html",
+        "archive": "links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

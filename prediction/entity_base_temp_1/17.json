@@ -1,0 +1,56 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Book Chapter Call for Contributions",
+      "name": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "September 1, 2025",
+          "notification_of_acceptance": "September 15, 2025",
+          "final_files_due": "March 1, 2026"
+        },
+        "location": null,
+        "main_conferences": [
+          {
+            "name": "System of Systems Engineering Conference",
+            "url": "https://easychair.org/conferences/?conf=sose2025"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": {
+          "theme": "Contributions on System of Systems Engineering",
+          "submission_details": "Proposals should outline the scope, methodology, and expected contributions of the chapter."
+        },
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Bedir Tekinerdogan",
+              "affiliation": "Wageningen University, The Netherlands"
+            },
+            {
+              "name": "Khalil Drira",
+              "affiliation": "LAAS-CNRS Université de Toulouse, France"
+            }
+          ],
+          "submission_information": [
+            {
+              "guidelines": "Each chapter should be approximately 7,500 words and follow Elsevier's formatting guidelines. Contributions should be original, unpublished, and not under review elsewhere."
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://easychair.org/conferences/?conf=sose2025"
+          }
+        ]
+      }
+    }
+  ]
+}

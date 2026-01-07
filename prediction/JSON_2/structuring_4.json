@@ -1,0 +1,126 @@
+{
+  "email": {
+    "subject": "(CFP) ICITS'26 - 9th Int. Conference on Information Technology & Systems | Roatán Island, Honduras",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": "[log in to unmask]",
+    "date": "Wed, 16 Jul 2025 06:14:35 -0000",
+    "content_type": "text/plain"
+  },
+  "conference": {
+    "name": "ICITS'26 - 9th International Conference on Information Technology & Systems",
+    "location": {
+      "venue": "Universidad Tecnológica de Honduras",
+      "city": "Roatán Island",
+      "country": "Honduras"
+    },
+    "dates": {
+      "start": "2026-02-16",
+      "end": "2026-02-18"
+    },
+    "website": "https://icits.me/",
+    "theme": "An international forum for researchers and practitioners to present and discuss the most recent innovations, trends, results, experiences, and concerns in the several perspectives of Information Technology & Systems.",
+    "submission": {
+      "invitation": "We are pleased to invite you to submit your original papers to ICITS'26.",
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "review_process": "All submissions will be reviewed on the basis of relevance, originality, importance, and clarity."
+    },
+    "topics": [
+      "Information and Knowledge Management (IKM)",
+      "Organizational Models and Information Systems (OMIS)",
+      "Software and Systems Modeling (SSM)",
+      "Software Systems, Architectures, Applications and Tools (SSAAT)",
+      "Multimedia Systems and Applications (MSA)",
+      "Computer Networks, Mobility and Pervasive Systems (CNMPS)",
+      "Intelligent and Decision Support Systems (IDSS)",
+      "Big Data Analytics and Applications (BDAA)",
+      "Human-Computer Interaction (HCI)",
+      "Ethics, Computers and Security (ECS)",
+      "Health Informatics (HIS)",
+      "Information Technologies in Education (ITE)",
+      "Media, Applied Technology and Communication (MATC)"
+    ],
+    "submission_details": {
+      "English": {
+        "page_limit": 12,
+        "format": "Lecture Notes in Networks and Systems",
+        "requirements": [
+          "Must not have been published before.",
+          "Not under review for any other conference or publication.",
+          "Authors’ names and affiliations should not be included in the evaluation version."
+        ]
+      },
+      "Spanish_Portuguese": {
+        "page_limit": 15,
+        "format": "RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação",
+        "requirements": [
+          "Must not have been published before.",
+          "Not under review for any other conference or publication.",
+          "Authors’ names and affiliations should not be included in the evaluation version."
+        ]
+      },
+      "review_process": "All papers will be subjected to a double-blind review by at least two members of the Scientific Committee."
+    },
+    "presentation": {
+      "accepted_papers": {
+        "format": "15 minutes presentation, followed by 5 minutes discussion.",
+        "accepted_posters": {
+          "requirements": "Must build and print a poster in A1 or A2 vertical format.",
+          "presentation_time": "7 minutes per poster."
+        }
+      }
+    },
+    "publication": {
+      "accepted_as_paper": {
+        "requirements": [
+          "At least one author must be registered by the 5th of November 2025.",
+          "Must comply with layout and page-limit.",
+          "All recommended changes must be addressed before camera-ready submission."
+        ],
+        "details": {
+          "English": {
+            "published_in": "Proceedings by Springer",
+            "series": "Lecture Notes in Networks and Systems",
+            "indexing": [
+              "Scopus",
+              "WoS",
+              "DBLP",
+              "Google Scholar"
+            ]
+          },
+          "Spanish_Portuguese": {
+            "published_in": "Special Issue of RISTI",
+            "indexing": [
+              "ProQuest",
+              "EBSCO",
+              "Google Scholar"
+            ]
+          }
+        }
+      },
+      "right_to_publish": "No more than one paper per registration will be published."
+    },
+    "important_dates": {
+      "paper_submission": "2025-09-28",
+      "notification_of_acceptance": "2025-11-05",
+      "payment_of_registration": "2025-11-19",
+      "camera_ready_submission": "2025-11-19"
+    }
+  },
+  "contact": {
+    "team": {
+      "name": "ICITS'26 Team",
+      "website": "https://icits.me/"
+    },
+    "contribution_info": {
+      "email": "[log in to unmask]",
+      "website": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

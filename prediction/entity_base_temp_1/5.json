@@ -1,0 +1,159 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+      "details": {
+        "dates": {
+          "conference": "17-20 March, 2026",
+          "satellite_events": null,
+          "submission_deadline": {
+            "Research Track": {
+              "abstract": "9 October, 2025",
+              "paper": "16 October, 2025"
+            },
+            "Industrial Track": {
+              "abstract": "10 November, 2025",
+              "paper": "17 November, 2025"
+            },
+            "Short Papers and Posters Track": {
+              "abstract": "10 November, 2025",
+              "paper": "17 November, 2025"
+            },
+            "Early Research Achievement (ERA) Track": {
+              "abstract": "10 November, 2025",
+              "paper": "17 November, 2025"
+            },
+            "Reproducibility Studies and Negative Results (RENE) Track": {
+              "abstract": "10 November, 2025",
+              "paper": "17 November, 2025"
+            },
+            "Tool Demo Track": {
+              "paper": "17 November, 2025"
+            },
+            "Journal-First Track": {
+              "paper": "8 December, 2025"
+            },
+            "Registered Report Track": {
+              "submission": "7 November, 2025"
+            },
+            "Workshop Proposals": {
+              "submission": "20 August, 2025"
+            },
+            "Tutorial Proposals": {
+              "submission": "12 January, 2026"
+            }
+          },
+          "notification_of_acceptance": {
+            "Research Track": "9 December, 2025",
+            "Industrial Track": "19 December, 2025",
+            "Short Papers and Posters Track": "19 December, 2025",
+            "Early Research Achievement (ERA) Track": "19 December, 2025",
+            "Reproducibility Studies and Negative Results (RENE) Track": "19 December, 2025",
+            "Tool Demo Track": "19 December, 2025",
+            "Journal-First Track": "22 December, 2025",
+            "Registered Report Track": "22 December, 2025",
+            "Workshop Proposals": "27 August, 2025",
+            "Tutorial Proposals": "12 January, 2026"
+          },
+          "final_files_due": {
+            "Research Track": "9 January, 2026",
+            "Industrial Track": "14 January, 2026",
+            "Short Papers and Posters Track": "14 January, 2026",
+            "Early Research Achievement (ERA) Track": "14 January, 2026",
+            "Reproducibility Studies and Negative Results (RENE) Track": "14 January, 2026",
+            "Tool Demo Track": "14 January, 2026",
+            "Journal-First Track": null,
+            "Registered Report Track": "9 January, 2026",
+            "Tutorial Proposals": "16 January, 2026"
+          }
+        },
+        "location": "5* St. Raphael Resort and Marina, Limassol, Cyprus",
+        "main_conferences": [
+          "IEEE International Conference on Software Analysis, Evolution and Reengineering"
+        ],
+        "workshops": [
+          {
+            "name": "Workshops",
+            "schedule": "Tentatively scheduled for 17 March, 2026",
+            "submission_info": {
+              "submission_link": "https://easychair.org/my/conference?conf=saner2026"
+            }
+          }
+        ],
+        "call_for_proposals": "Workshop Proposals",
+        "requirements": {
+          "organizers": [
+            {
+              "type": "General Chair",
+              "name": "Georgia Kapitsaki",
+              "affiliation": "University of Cyprus, Cyprus"
+            },
+            {
+              "type": "Local Organizing Chair",
+              "name": "George Angelos Papadopoulos",
+              "affiliation": "University of Cyprus, Cyprus"
+            },
+            {
+              "type": "Program Chairs",
+              "members": [
+                {
+                  "name": "Eunjong Choi",
+                  "affiliation": "Kyoto Institute of Technology, Japan"
+                },
+                {
+                  "name": "Matthias Galster",
+                  "affiliation": "University of Canterbury, New Zealand"
+                }
+              ]
+            }
+          ],
+          "submission_information": [
+            {
+              "track": "Research Track",
+              "details": "Submissions should not exceed 12 pages."
+            },
+            {
+              "track": "Industrial Papers Track",
+              "details": "Full papers should not exceed 12 pages; talk proposals should not exceed 2 pages."
+            },
+            {
+              "track": "Short Papers and Posters Track",
+              "details": "Submissions should not exceed 6 pages; posters should not exceed 2 pages."
+            },
+            {
+              "track": "Early Research Achievement (ERA) Track",
+              "details": "Submissions should not exceed 6 pages."
+            },
+            {
+              "track": "Reproducibility Studies and Negative Results (RENE) Track",
+              "details": "Submissions should not exceed 5 pages for appendices or 12 pages for new studies."
+            },
+            {
+              "track": "Tool Demo Track",
+              "details": "Submissions should not exceed 5 pages."
+            },
+            {
+              "track": "Journal-First Papers Track",
+              "details": "Submissions should not exceed 1 page."
+            },
+            {
+              "track": "Registered Report Track",
+              "details": "Submissions should not exceed 7 pages."
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://conf.researchr.org/home/saner-2026"
+          }
+        ]
+      }
+    }
+  ]
+}

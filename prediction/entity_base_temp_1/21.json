@@ -1,0 +1,77 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "CONFEST 2025",
+      "details": {
+        "dates": {
+          "conference": "August 25-30, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 25, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Aarhus, Denmark",
+        "main_conferences": [
+          {
+            "name": "CONCUR 2025",
+            "description": "36th International Conference on Concurrency Theory"
+          },
+          {
+            "name": "FMICS 2025",
+            "description": "30th International Conference on Formal Methods for Industrial Critical Systems"
+          },
+          {
+            "name": "QEST+FORMATS 2025",
+            "description": "Joint International Conference on Quantitative Evaluation of Systems and Formal Modeling and Analysis of Timed Systems"
+          }
+        ],
+        "workshops": [
+          {
+            "name": "BMQL 2025",
+            "description": "1st IW on Behavioural Metrics and Quantitative Logics"
+          },
+          {
+            "name": "Express/SOS 2025",
+            "description": "combined IW on Expressiveness in Concurrency and Structural Operational Semantics"
+          },
+          {
+            "name": "FMQC 2025",
+            "description": "IW on Formal Methods in Quantum Computing"
+          },
+          {
+            "name": "PFQA 2025",
+            "description": "Colloquium on Principles of Formal Quantitative Analysis"
+          },
+          {
+            "name": "Radical 2025",
+            "description": "4th IW on Recent Advances in Concurrency and Logic"
+          },
+          {
+            "name": "SynCoP 2025",
+            "description": "10th IW on Synthesis of Complex Parameters"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "CONFEST Organization Committee"
+          ],
+          "submission_information": [
+            "Early Registration until July 25, 2025"
+          ],
+          "promotion": {
+            "organizers_committee": "CONFEST Organization Committee",
+            "registration": "https://conferences.au.dk/confest2025/registration",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://conferences.au.dk/confest2025"
+          }
+        ]
+      }
+    }
+  ]
+}

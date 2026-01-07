@@ -1,0 +1,69 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "5th IEEE International Conference on Code Quality (ICCQ'25)",
+      "details": {
+        "dates": {
+          "conference": "Dec 13, 2025",
+          "satellite_events": null,
+          "submission_deadline": "10 Aug 2025",
+          "notification_of_acceptance": "1 Nov 2025",
+          "final_files_due": "25 Nov 2025"
+        },
+        "location": "Ural Federal University, Russia",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "IEEE",
+            "Ural Federal University",
+            "HSE",
+            "Innopolis University"
+          ],
+          "submission_information": {
+            "format": "PDF, printable in black and white on US Letter sized paper",
+            "template": "acmart template (sigplan, 11pt, anonymous)",
+            "page_limit": {
+              "min": 6,
+              "max": 20
+            },
+            "submission_link": "https://easychair.org/cfp/iccq25"
+          },
+          "promotion": {
+            "organizers_committee": [
+              "Alexander Legalov (Chair), HSE University",
+              "Sara Abbaspour, Mälardalen University",
+              "Rabe Abdalkareem, Omar al-Mukhtar University",
+              "Mohammad Alshayeb, King Fahd University of Petroleum and Minerals",
+              "Thomas Ball, Microsoft Research",
+              "William J. Bowman, University of British Columbia",
+              "Jacques Carette, McMaster University",
+              "Bernhard Egger, Seoul National University",
+              "Umar Farooq, Louisiana State University",
+              "Eduardo Fernandes, University of Southern Denmark",
+              "Javier Luis Cánovas Izquierdo, Universitat Oberta de Catalunya",
+              "Ranjit Jhala, University of California, San Diego",
+              "Antoine Miné, Sorbonne Université",
+              "Murali Krishna Ramanathan, Amazon Web Services",
+              "Francis Palma, University of New Brunswick",
+              "Amr Sabry, Indiana University",
+              "Bjorn De Sutter, Ghent University",
+              "G. Gary Tan, Pennsylvania State University",
+              "Didier Verna, EPITA",
+              "Guowei Yang, University of Queensland",
+              "Vadim Zaytsev, University of Twente",
+              "Jian Zhang, Nanyang Technological University"
+            ],
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://www.iccq.ru/2025.html"
+        ]
+      }
+    }
+  ]
+}

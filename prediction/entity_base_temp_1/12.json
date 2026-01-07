@@ -1,0 +1,47 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Agentic AI in Software",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "Nov 1, 2025",
+          "notification_of_acceptance": "Jan 31, 2025",
+          "final_files_due": "March 31, 2026"
+        },
+        "location": null,
+        "main_conferences": [
+          {
+            "name": "ACM Transactions on Software Engineering and Methodology",
+            "event_type": "Special Issue",
+            "publication_year": 2026
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Abhik Roychoudhury (Editor-in-Chief)",
+            "Foutse Khomh (Guest Editor)",
+            "Denys Poshyvanyk (Guest Editor)"
+          ],
+          "submission_information": [
+            "Authors can mention one of the submission categories in the cover letter: [Auto], [Trust], [Integrate], [A-H], [Oth]"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Manuscript Submission": "https://mc.manuscriptcentral.com/tosem"
+          }
+        ]
+      }
+    }
+  ]
+}

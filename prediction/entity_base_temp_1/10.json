@@ -1,0 +1,42 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Research Position",
+      "name": "Postdoctoral and Research Fellowship Positions",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Helsinki, Finland",
+        "main_conferences": [
+          "Aalto University",
+          "University of Helsinki"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Helsinki Institute for Information Technology (HIIT)"
+          ],
+          "submission_information": [
+            "Applications for Postdoctoral Fellows and Research Fellows are invited."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "HIIT Fellowship Details": "https://www.hiit.fi/hiit-postdoctoral-and-research-fellow-positions/"
+          }
+        ]
+      }
+    }
+  ]
+}

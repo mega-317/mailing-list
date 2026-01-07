@@ -1,0 +1,124 @@
+{
+  "email": {
+    "subject": "PostDoc in Model-Driven Engineering @ JKU",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 27 May 2025 13:51:47 -0000",
+    "content_type": "text/plain"
+  },
+  "position": {
+    "title": "POST-DOCTORAL RESEARCHER in MODEL-DRIVEN ENGINEERING",
+    "institution": "Johannes Kepler University Linz",
+    "location": "Linz, Austria",
+    "starting_date": "2025",
+    "description": {
+      "vision": "We are seeking a postdoctoral researcher to explore model-driven, structured engineering. Our work emphasizes tracking model changes rather than model states, improving our understanding of engineering history and enabling advanced services such as collaborative modeling, live constraint checking, and conflict detection.",
+      "key_areas": [
+        "Supervision and mentoring of doctoral and other students",
+        "Leading and supporting publications in high-impact venues",
+        "Designing and conducting experimental and empirical studies",
+        "Contributing to grant writing and research proposal development",
+        "Overseeing and guiding software development efforts",
+        "Connecting the dots between various student works to push the bigger picture",
+        "Teaching responsibilities (equivalent to 4 semester hours per week)"
+      ]
+    },
+    "candidate_profile": {
+      "evaluation_criteria": "excellence",
+      "requirements": [
+        "hold a Doctorate/Ph.D. degree in Informatics or a related academic area",
+        "have a strong command of English",
+        "have excellent programming skills"
+      ],
+      "language_skills": {
+        "mandatory": "English",
+        "optional": "German"
+      }
+    },
+    "duration_and_salary": {
+      "employment_type": "full-time",
+      "initial_term": "3-4 years",
+      "annual_performance_evaluation": true,
+      "extension_possible": true,
+      "gross_annual_salary": "€69,000",
+      "cost_of_living": "Austria offers a relatively affordable cost of living, and low-cost housing options for university employees may be available."
+    },
+    "topics_of_interest": [
+      "traceability",
+      "consistency and repair",
+      "change propagation",
+      "collaborative engineering",
+      "co-evolution",
+      "variability"
+    ],
+    "local_industry_interest": "significant interest in addressing the broader challenges of developing software-intensive systems, particularly in the context of hardware/software co-modeling."
+  },
+  "university_profile": {
+    "description": "The research will be conducted in Linz, Austria—a vibrant city located just north of the Alps, known for being safe, clean, and healthy.",
+    "nearby_city": {
+      "name": "Vienna",
+      "description": "has repeatedly been ranked the world’s most livable city."
+    }
+  },
+  "group_profile": {
+    "description": "Our research group at the Johannes Kepler University, Linz, Austria consists of a dynamic, multi-national staff of researchers.",
+    "working_language": "English",
+    "achievements": [
+      "recognition in Communications of the ACM (2007)",
+      "Springer Scientometrics (May 2014)",
+      "numerous best paper awards",
+      "Recognition of Service awards"
+    ],
+    "publication_outlets": [
+      "ICSE",
+      "MODELS",
+      "ICSME",
+      "ASE"
+    ],
+    "journals": [
+      "IEEE TSE",
+      "JSS",
+      "IST",
+      "SoSyM"
+    ],
+    "alumni_success": "many of our former postdoctoral researchers have gone on to secure prestigious professorships worldwide."
+  },
+  "application_details": {
+    "application_process": "Applications, including a detailed curriculum vitae (in English), should be sent to Prof. Alexander Egyed.",
+    "contact": {
+      "name": "Prof. Alexander Egyed",
+      "email": "[log in to unmask]"
+    },
+    "requirements": [
+      "one page description of your research interests and how it connects to our work."
+    ],
+    "administrative_inquiries": {
+      "email": "[log in to unmask]"
+    },
+    "scientific_inquiries": {
+      "email": "[log in to unmask]"
+    }
+  },
+  "contact_information": {
+    "full_name": "Univ.-Prof. Dr. DI Alexander Egyed, MSc.",
+    "title": "Head of Institute for Software Systems Engineering",
+    "address": {
+      "university": "JOHANNES KEPLER UNIVERSITY LINZ",
+      "street": "Altenberger Straße 69",
+      "room": "SP3, 246",
+      "postal_code": "4040",
+      "city": "Linz",
+      "country": "Austria"
+    },
+    "phone": "+43 732 2468 4382",
+    "mobile": "+43 664 60 2468 440",
+    "email": "[log in to unmask]",
+    "website": "www.jku.at"
+  }
+}

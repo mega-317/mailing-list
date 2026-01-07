@@ -1,0 +1,58 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "SDS2025",
+      "details": {
+        "dates": {
+          "conference": "2025-12-02 to 2025-12-05",
+          "satellite_events": null,
+          "submission_deadline": "2025-08-31",
+          "notification_of_acceptance": "2025-10-20",
+          "final_files_due": "2025-10-30"
+        },
+        "location": "Lyon, France",
+        "main_conferences": [
+          {
+            "name": "The 12th International Conference on Software Defined Systems",
+            "venue": "University Lyon 1, Lyon, France"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Larbi Boubchir",
+              "affiliation": "University of Paris 8, France"
+            },
+            {
+              "name": "Tamara Zhukabayeva",
+              "affiliation": "L.N Eurasian National University, Kazakhstan"
+            },
+            {
+              "name": "Jaime Lloret",
+              "affiliation": "Universitat Politècnica de València, Spain"
+            }
+          ]
+        },
+        "submission_information": [
+          {
+            "submission_link": "https://easychair.org/conferences/?conf=sds202501",
+            "guidelines": "All proposals should meet the specified formatting and originality requirements."
+          }
+        ],
+        "promotion": {
+          "organizers_committee": "SDS2025 General Co-Chairs",
+          "registration": null,
+          "participation_fee": null
+        },
+        "additional_links": [
+          {
+            "SDS2025": "https://www.gcet-conference.com/SDS2025"
+          }
+        ]
+      }
+    }
+  ]
+}

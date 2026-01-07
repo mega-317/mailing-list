@@ -1,0 +1,45 @@
+{
+  "email": {
+    "subject": "PhD and Postdoc Positions at CISPA/University of Stuttgart",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:17:19 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear colleagues,",
+      "main_content": {
+        "openings": {
+          "positions": [
+            "postdoc"
+          ],
+          "topics": [
+            "AI to reason about and modify software (e.g., LLM agents for finding and fixing bugs)",
+            "static and dynamic program analysis (e.g., to infer specifications)",
+            "test input generation (e.g., to compare the behavior of old and new code via differential testing)"
+          ]
+        },
+        "website": "https://software-lab.org/",
+        "details": "The positions will be at CISPA, are fully funded, and will be filled as soon as possible.",
+        "workplace": {
+          "location": "Stuttgart, Germany"
+        }
+      },
+      "contact": {
+        "name": "Michael Pradel",
+        "email": "[log in to unmask]"
+      },
+      "closing": "Best, Michael",
+      "note": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+      "resources": {
+        "url": "http://sigsoft.org/resources/seworld.html",
+        "info": "provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

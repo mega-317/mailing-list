@@ -1,0 +1,37 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Posting",
+      "name": "Lecturer/Senior Lecturer Positions",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "School of Mathematical & Computational Sciences, Albany Campus, Auckland, New Zealand",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": null,
+          "submission_information": {
+            "details": "Information on how to apply is provided in the link."
+          },
+          "promotion": {
+            "organizers_committee": "Professor Hans Guesgen",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://masseyunicareers.nga.net.nz/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=C28B71DC-E87D-C4D2-DA96-E3ECC8834915&CurATC=EXT&CurBID=62AFB35D%2D9273%2D4A11%2D8DCC%2D9DB401354197&JobListID=22FC4F47%2DE994%2D46A3%2DB8C9%2D9BC901269F43&jobsListKey=37959d9a%2D77a2%2D45c6%2Da2aa%2D9eea6cbb8464&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=39906670120&rmuh=7E4712B214DF233A12700BB7E34A99F32F4ADE7D",
+          "mailto:[log in to unmask]",
+          "http://sigsoft.org/resources/seworld.html"
+        ]
+      }
+    }
+  ]
+}

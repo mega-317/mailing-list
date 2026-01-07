@@ -1,0 +1,79 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE Artificial Intelligence x Software Engineering (AIxSE)",
+      "details": {
+        "dates": {
+          "conference": "October 1-3, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 15, 2025 PT (Extended Deadline)",
+          "notification_of_acceptance": "August 1, 2025 PT",
+          "final_files_due": "September 1, 2025 PT"
+        },
+        "location": "The Hills Hotel, Laguna Hills, California",
+        "main_conferences": [
+          {
+            "name": "AIxSET",
+            "dates": {
+              "conference": null,
+              "satellite_events": null
+            }
+          },
+          {
+            "name": "AIxHEART",
+            "dates": {
+              "conference": null,
+              "satellite_events": null
+            }
+          },
+          {
+            "name": "AIxB",
+            "dates": {
+              "conference": null,
+              "satellite_events": null
+            }
+          }
+        ],
+        "workshops": [
+          {
+            "name": "Workshop Proposals",
+            "submission_deadline": "July 22, 2025 PT"
+          },
+          {
+            "name": "Workshop Paper Submission",
+            "submission_deadline": "August 20, 2025 PT"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Daryush Laqab",
+            "Giovanni Pilato",
+            "Phillip Sheu"
+          ],
+          "submission_information": [
+            "Manuscripts must be written in English and in double-column IEEE format.",
+            "Only electronic submissions will be accepted via EasyChair."
+          ],
+          "promotion": {
+            "organizers_committee": "General Co-Chairs and Program Co-Chairs",
+            "registration": "Main Conference and Workshop Registration Deadline: September 1, 2025 PT",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "AIxSE 2025": "http://www.AIxSE.org"
+          },
+          {
+            "Community Join": "https://www.aixse.org/community"
+          },
+          {
+            "Submission Link": "https://easychair.org/conferences?conf=aixse2025"
+          }
+        ]
+      }
+    }
+  ]
+}

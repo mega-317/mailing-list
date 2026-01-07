@@ -1,0 +1,125 @@
+{
+  "email": {
+    "subject": "[Late Track& Workshops] IEEE iMETA 2025: The 3rd International Conference on Intelligent Metaverse Technologies & Applications, Dubrovnik, Croatia [Hybrid Conference]",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 7 Jul 2025 03:10:35 -0000",
+    "contentType": "text/plain"
+  },
+  "conference": {
+    "name": "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
+    "dates": {
+      "start": "14 October 2025",
+      "end": "17 October 2025"
+    },
+    "location": {
+      "city": "Dubrovnik",
+      "country": "Croatia"
+    },
+    "format": "Hybrid Conference",
+    "sponsor": {
+      "organization": "IEEE Croatia section"
+    },
+    "website": "https://imeta-conference.org/",
+    "description": "The International Conference on Intelligent Metaverse Technologies & Applications (iMETA) is to bring together leading researchers, academics, and industry experts to explore the various aspects of the distributive metaverse, including its technologies, applications, and implications for various industries. Attendees can expect to participate in exciting keynote speeches, panel discussions, and presentations on cutting-edge research field.",
+    "objectives": [
+      "Inspire new ideas",
+      "Foster innovation",
+      "Spark collaborations that push the boundaries of the metaverse"
+    ],
+    "tracks": [
+      {
+        "name": "Track 1",
+        "topic": "Large Language Models (LLMs) in the Metaverse"
+      },
+      {
+        "name": "Track 2",
+        "topic": "Native AI for Metaverse Technologies"
+      },
+      {
+        "name": "Track 3",
+        "topic": "Security and Privacy"
+      },
+      {
+        "name": "Track 4",
+        "topic": "Networking and Communications"
+      },
+      {
+        "name": "Track 5",
+        "topic": "Systems and Computing"
+      },
+      {
+        "name": "Track 6",
+        "topic": "Multimedia and Computer Vision"
+      },
+      {
+        "name": "Track 7",
+        "topic": "Immersive Technologies and Services"
+      },
+      {
+        "name": "Track 8",
+        "topic": "Storage and Processing"
+      }
+    ],
+    "workshops": [
+      {
+        "name": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse (IDTSC)",
+        "url": "https://imeta-conference.org/2025/workshops#WS1"
+      },
+      {
+        "name": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse (BCIME)",
+        "url": "https://imeta-conference.org/2025/workshops#WS2"
+      },
+      {
+        "name": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems (EASME)",
+        "url": "https://imeta-conference.org/2025/workshops#WS3"
+      },
+      {
+        "name": "1st International Workshop on Generative AI for Immersive Experience Design (GAIXR)",
+        "url": "https://imeta-conference.org/2025/workshops#WS4"
+      },
+      {
+        "name": "1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)",
+        "url": "https://imeta-conference.org/2025/workshops#WS5"
+      },
+      {
+        "name": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse (SPAAUM)",
+        "url": "https://imeta-conference.org/2025/workshops#WS6"
+      }
+    ],
+    "publication": {
+      "sponsor": "IEEE",
+      "details": "All accepted papers in iMETA 2025 and the workshops co-located with it will be submitted to IEEEXplore, dblp and Scopus for inclusion."
+    },
+    "importantDates": {
+      "lateTrackSubmission": {
+        "papersDue": "July 30, 2025",
+        "acceptanceNotification": "August 20, 2025",
+        "cameraReadyDue": "August 31, 2025"
+      },
+      "workshopPapers": {
+        "papersDue": "July 30, 2025",
+        "acceptanceNotification": "August 30, 2025",
+        "cameraReadyDue": "September 10, 2025"
+      }
+    },
+    "submissionGuidelines": {
+      "requirements": [
+        "Manuscripts must be original, not previously published, or under review by another conference or journal.",
+        "Submissions should adhere to the IEEE Conference Proceedings Format, using a double-column layout, 10-point font, and letter-sized paper.",
+        "Manuscripts must be submitted in PDF format and should not exceed 6 pages for the review process.",
+        "Accepted papers may extend to a maximum of 8 pages for the camera-ready version, subject to an overlength page fee."
+      ],
+      "submissionLink": "https://easychair.org/my/conference?conf=imeta2025"
+    },
+    "organizingCommittee": {
+      "name": "IEEE iMETA 2025 Organizing Committee"
+    }
+  }
+}

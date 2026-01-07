@@ -1,0 +1,168 @@
+{
+  "email": {
+    "subject": "Postdoctoral Position in Software Engineering and AI for Sustainable Food Choices",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 27 May 2025 13:52:11 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "position": {
+        "title": "Postdoctoral Researcher",
+        "duration": "2 years",
+        "institution": "University of Southern Denmark",
+        "department": "Software Engineering section",
+        "institute": "Maersk Mc-Kinney Moller Institute",
+        "project": "Nudge2Green",
+        "application_deadline": "10 June 2025",
+        "start_date": "1 August 2025 or as soon as possible thereafter",
+        "description": [
+          "Contribute to Nudge2Green research project.",
+          "Apply software development and AI methods to design digital nudging tools.",
+          "Encourage sustainable consumer behavior in food choices."
+        ],
+        "collaboration": {
+          "partners": [
+            "Aarhus University",
+            "University of Copenhagen",
+            "Food Organization of Denmark",
+            "Heco et al."
+          ],
+          "focus": [
+            "Markets",
+            "Consumer behavior",
+            "Sustainable food",
+            "Technical and data requirements"
+          ]
+        },
+        "research_focus": "AI-driven nudging tools for environmentally friendly decision-making in food consumption.",
+        "responsibilities": [
+          "Conduct research on AI-driven nudging tools.",
+          "Collaborate with project partners.",
+          "Manage SDU-led work packages.",
+          "Coordinate deliverables and project reporting."
+        ]
+      },
+      "offer": {
+        "environment": "Dynamic and supportive research environment.",
+        "team": "Open, collaborative team.",
+        "values": [
+          "Teamwork",
+          "Professional diligence",
+          "Innovation"
+        ],
+        "support": [
+          "Flexible work conditions",
+          "Mentorship",
+          "Opportunities for skill expansion"
+        ],
+        "collaborations": {
+          "description": "Engage with national and European research projects and industrial partners.",
+          "publication_support": "Encouragement to publish research and engage in knowledge exchange."
+        },
+        "working_language": "English",
+        "workplace_values": [
+          "Diversity",
+          "Inclusion",
+          "Personal and professional growth"
+        ]
+      },
+      "expectations": {
+        "qualifications": [
+          {
+            "requirement": "PhD in Software Engineering, Computer Science, AI, or related field",
+            "status": "completed or soon to complete"
+          },
+          {
+            "requirement": "Strong software development and programming skills"
+          },
+          {
+            "requirement": "Research experience in AI and/or machine learning methods"
+          },
+          {
+            "requirement": "Interest in behavioral software systems"
+          },
+          {
+            "requirement": "Experience with data-driven user modeling and AI-driven personalization",
+            "description": "e.g., recommender systems, user profiling, adaptive user interfaces"
+          },
+          {
+            "requirement": "Knowledge of sustainable computing or related projects"
+          },
+          {
+            "requirement": "Proficiency in English and excellent communication skills"
+          },
+          {
+            "requirement": "Ability to work independently and collaboratively"
+          },
+          {
+            "requirement": "Strong research record or potential"
+          }
+        ]
+      },
+      "contact_information": {
+        "contacts": [
+          {
+            "name": "Mahyar Tourchi Moghaddam",
+            "title": "Associate Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Mina Alipour",
+            "title": "Assistant Professor",
+            "email": "[log in to unmask]"
+          },
+          {
+            "support": {
+              "email": "[log in to unmask]",
+              "description": "SDU’s HR support for technical problems with online application"
+            }
+          }
+        ]
+      },
+      "application_procedure": {
+        "guidelines": [
+          "Read SDU's guidelines on how to apply.",
+          "Follow specific faculty instructions for applications."
+        ],
+        "documents": [
+          "Motivated application (cover letter)",
+          "Curriculum Vitae",
+          "Certificates/Diplomas",
+          "Complete list of publications",
+          "Examples of relevant publications (5 full-text PDFs)"
+        ],
+        "recommended_documents": [
+          "Research statement",
+          "Summary of teaching experience",
+          "Reference letters/contact information for references",
+          "Link to GitHub",
+          "Other relevant qualifications"
+        ],
+        "upload_guide": {
+          "cover_letter": "Upload as 'Cover letter'",
+          "cv": "Upload as 'Resume'",
+          "other_documents": "Upload as 'Miscellaneous' attachments"
+        },
+        "deadline": "10 June 2025 at 11:59 PM / 23:59 CEST"
+      },
+      "signature": {
+        "name": "Mahyar T. Moghaddam",
+        "title": "Associate Professor",
+        "department": "SDU Software Engineering",
+        "institute": "The Maersk Mc-Kinney Moller Institute",
+        "institution": "University of Southern Denmark",
+        "links": {
+          "linkedin": "https://www.linkedin.com/in/mahyar-moghaddam/",
+          "profile": "https://portal.findresearcher.sdu.dk/en/persons/mtmo",
+          "website": "https://www.mahyarmoghaddam.com/"
+        }
+      }
+    }
+  }
+}

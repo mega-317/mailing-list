@@ -1,0 +1,73 @@
+{
+  "job_posting": {
+    "subject": "Research Associate / Postdoctoral Research Assistant for Platform - Software Engineer for the Project JusTN0W - Durham University (UK)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:19:14 -0000",
+    "content_type": "text/plain",
+    "institution": "Durham University",
+    "department": "Computer Science",
+    "position": "Research Associate / Postdoctoral Research Assistant",
+    "project": "JusTN0W",
+    "location": "UK",
+    "key_responsibilities": [
+      "Develop a framework and software prototype for an AI-based compliance control system.",
+      "Apply Natural Language Processing (NLP) and Large Language Models (LLMs) to analyze compliance of treaties and agreements.",
+      "Focus on bilateral agreements relevant for Article 6 of the Paris Agreement."
+    ],
+    "application_info": {
+      "more_info_link": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25000444&tz=GMT%2B01%3A00&tzname=Europe%2FLondon",
+      "closing_date": "26-May-2025, 11:59:00 PM"
+    },
+    "contact_person": {
+      "name": "Dr Nelly Bencomo",
+      "title": "Associate Professor in CS",
+      "institution": "Durham University, UK",
+      "email": "[log in to unmask]",
+      "website": "www.nellybencomo.me",
+      "roles": [
+        {
+          "title": "co-Director",
+          "project": "SRF JustN0W Just Transitions to a Net Zero world",
+          "link": "https://www.durham.ac.uk/research/institutes-and-centres/csdlp/justn0w"
+        },
+        {
+          "title": "PI",
+          "project": "EPSRC Twenty20Insight",
+          "link": "https://aihs.webspace.durham.ac.uk/twenty20insight/"
+        },
+        {
+          "title": "PI",
+          "project": "IAA EPSRC weDecide",
+          "link": "https://aihs.webspace.durham.ac.uk/wedecide/"
+        },
+        {
+          "title": "Fellow",
+          "organization": "Centre for Sustainable Development Law and Policy"
+        },
+        {
+          "title": "Associate Fellow",
+          "organization": "Institute of Advanced Study"
+        },
+        {
+          "title": "Fellow",
+          "organization": "Wolfson Research Institute for Health and Wellbeing"
+        }
+      ]
+    },
+    "tags": [
+      "NLP",
+      "LLM",
+      "ML",
+      "AI",
+      "JustTransitions",
+      "softwareengineering"
+    ]
+  }
+}

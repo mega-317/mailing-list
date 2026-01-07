@@ -1,0 +1,75 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "ISSRE 2025",
+      "details": {
+        "dates": {
+          "conference": "October 21-24, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 21, 2025",
+          "notification_of_acceptance": "August 11, 2025",
+          "final_files_due": "August 18, 2025"
+        },
+        "location": "São Paulo, Brazil",
+        "main_conferences": [
+          "ISSRE"
+        ],
+        "workshops": [
+          {
+            "name": "WoSAR",
+            "description": "The 17th International Workshop on Software Aging and Rejuvenation",
+            "link": "https://www.wosar.net/"
+          },
+          {
+            "name": "ASSURE",
+            "description": "The 10th International Workshop on Assurance for Software-intensive Systems",
+            "link": "https://sites.google.com/aiit.ac.jp/assure2025/"
+          },
+          {
+            "name": "IWSF & SHIFT",
+            "description": "The 9th International Workshop on Software Faults & The 7th Annual International Workshop on Software Hardware Interaction Faults",
+            "link": null
+          },
+          {
+            "name": "AISQ",
+            "description": "The 2nd International Workshop on Advanced Intelligent Software Quality",
+            "link": "https://sites.google.com/view/aisq-2025/home"
+          },
+          {
+            "name": "ReSAISE",
+            "description": "The 3rd IEEE International Workshop on Reliable and Secure AI for Software Engineering",
+            "link": "https://resaise.github.io/2025/"
+          },
+          {
+            "name": "HFSD",
+            "description": "The 2nd International Workshop on Human Factors for Software Dependability",
+            "link": "https://hfsdworkshop.github.io/"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            null
+          ],
+          "submission_information": [
+            "Submit your paper via the EasyChair website, selecting the correct track for your submission: https://easychair.org/my/conference?conf=issre2025"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ISSRE 2025": "https://issre.net"
+          },
+          {
+            "Workshops CFP": "https://issre.github.io/2025/calls_cfp-workshop-papers.html"
+          }
+        ]
+      }
+    }
+  ]
+}

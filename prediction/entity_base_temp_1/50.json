@@ -1,0 +1,46 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "The International Symposium on Sustainable Systems Technologies and Green Computing (STGC)",
+      "details": {
+        "dates": {
+          "conference": "15-17 October 2025",
+          "satellite_events": [
+            {
+              "name": "3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025)",
+              "dates": "14-17 October 2025"
+            }
+          ],
+          "submission_deadline": "August 2, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Dubrovnik, Croatia",
+        "main_conferences": [
+          "The International Symposium on Sustainable Systems Technologies and Green Computing (STGC)"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "IEEE Croatia Section"
+          ],
+          "submission_information": [
+            "Submit original research papers, case studies, and industry insights."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "STGC 2025": "https://flta-conference.org/flta-2025/sts.php"
+          }
+        ]
+      }
+    }
+  ]
+}

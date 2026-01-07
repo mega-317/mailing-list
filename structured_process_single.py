@@ -4,8 +4,8 @@ from structured_pipeline.graph import process_one_file, save_text, save_json
 
 # json으로 결과 저장
 # --- 여기서 단일 파일 실행 ---
-input_path = Path("./data/texts/5.txt")           # 입력 파일
-output_path = Path("./prediction/markdown_5.json")   # 출력 파일
+input_path = Path("./data/texts/2.txt")           # 입력 파일
+output_path = Path("./structuring_2.json")   # 출력 파일
 
 out = process_one_file(input_path)
 save_json(out, output_path)

@@ -1,0 +1,54 @@
+{
+  "extracted_entities": [
+    {
+      "type": "job_posting",
+      "name": "Assistant Professors in Software Engineering and AI",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "2025-08-15",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "University of Victoria, Canada",
+        "main_conferences": [
+          "ICSE",
+          "FSE",
+          "ASE",
+          "ICSME",
+          "ESEM"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Faculty of Engineering and Computer Science, University of Victoria"
+          ],
+          "submission_information": [
+            "Ph.D. in Computer Science, Software Engineering, Electrical or Computer Engineering, or equivalent; commitment to teaching and developing a research program in Software Engineering and AI."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Full job ad": "https://www.uvic.ca/ecs/computerscience/assets/docs/employment/cosi_seng_research-faculty-ad-2025_final.pdf"
+          },
+          {
+            "Application site": "https://academicjobsonline.org/ajo/jobs/30135"
+          },
+          {
+            "Neil Ernst's website": "https://neilernst.net"
+          },
+          {
+            "OAC UVic": "https://oac.uvic.ca/matrix/"
+          }
+        ]
+      }
+    }
+  ]
+}

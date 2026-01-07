@@ -1,0 +1,35 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Announcement",
+      "name": "Assistant Professor Position",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "August 7, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "University of Coimbra, Portugal",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": null,
+          "submission_information": {
+            "application_portal": "https://apply.uc.pt/IT136-25-15300"
+          },
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "http://sigsoft.org/resources/seworld.html"
+        ]
+      }
+    }
+  ]
+}

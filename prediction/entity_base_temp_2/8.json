@@ -1,0 +1,43 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Posting",
+      "name": "Research Fellow in Edge Software Vulnerability Detection",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "21-07-2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Queen's University Belfast, UK",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": {
+            "organization": "Queen's University Belfast",
+            "school": "School of Electronics, Electrical Engineering and Computer Science"
+          },
+          "submission_information": {
+            "application_link": "https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA",
+            "candidate_information": "Ensure you clearly evidence how you meet the essential and desirable criteria"
+          },
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://www.qub.ac.uk/sites/QUBJobVacancies/ResearchJobs/",
+          "https://edgeaihub.co.uk/",
+          "https://www.qub.ac.uk/directorates/HumanResources/pay-reward-and-benefits/",
+          "http://go.qub.ac.uk/internationalstaffsupport",
+          "www.qub.ac.uk/diversity"
+        ]
+      }
+    }
+  ]
+}

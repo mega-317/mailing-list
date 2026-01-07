@@ -1,0 +1,370 @@
+{
+  "email": {
+    "subject": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026): Call for Papers and Workshop & Tutorial Proposals",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 16 Jul 2025 06:13:29 -0000",
+    "contentType": "text/plain",
+    "conference": {
+      "name": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)",
+      "dates": {
+        "start": "2026-03-17",
+        "end": "2026-03-20"
+      },
+      "location": {
+        "venue": "5* St. Raphael Resort and Marina",
+        "city": "Limassol",
+        "country": "Cyprus"
+      },
+      "website": "https://conf.researchr.org/home/saner-2026",
+      "callForPapers": {
+        "description": "The SANER 2026 invites high-quality submissions of papers describing original and unpublished research results.",
+        "topicsOfInterest": [
+          "AI for Software Engineering and Software Engineering for AI",
+          "Generative AI and LLM applied to analysis, evolution and reengineering of software",
+          "Software Analysis, Parsing, and Fact Extraction",
+          "Software Maintenance and Evolution, Evolution Analysis",
+          "Software Reverse Engineering and Reengineering",
+          "Program Comprehension",
+          "Software Architecture Recovery and Reverse Architecting",
+          "Program Transformation and Refactoring",
+          "Mining Software Repositories and Software Analytics",
+          "Software Visualization",
+          "Software Reconstruction and Migration",
+          "Program Repair",
+          "Software Release Engineering, Continuous Integration and Delivery",
+          "Software Tools for Software Evolution and Maintenance",
+          "Human factors and legal aspects in the context of Software Analysis, Evolution and Reengineering",
+          "Empirical studies on all the above topics",
+          "Education related to all of the above topics"
+        ],
+        "submissionInstructions": {
+          "reviewProcess": "All submitted papers will undergo a rigorous peer review process.",
+          "originalityRequirement": "Submissions must be original, not published, accepted, or under review elsewhere.",
+          "format": "PDF format and conform to the IEEE Conference Proceedings Formatting Guidelines.",
+          "tracks": {
+            "researchTrack": {
+              "pageLimit": 12,
+              "referencePages": 2
+            },
+            "industrialPapersTrack": {
+              "fullPaperLimit": {
+                "pageLimit": 12,
+                "referencePages": 2
+              },
+              "talkProposalsLimit": {
+                "pageLimit": 2
+              }
+            },
+            "shortPapersAndPostersTrack": {
+              "pageLimit": 6,
+              "posterLimit": {
+                "pageLimit": 2
+              }
+            },
+            "earlyResearchAchievementTrack": {
+              "pageLimit": 6,
+              "referencePages": 1
+            },
+            "reproducibilityStudiesAndNegativeResultsTrack": {
+              "appendicesLimit": 5,
+              "newStudiesLimit": {
+                "pageLimit": 12,
+                "referencePages": 2
+              }
+            },
+            "toolDemoTrack": {
+              "pageLimit": 5
+            },
+            "journalFirstPapersTrack": {
+              "pageLimit": 1
+            },
+            "registeredReportTrack": {
+              "pageLimit": 7,
+              "referencePages": 1
+            }
+          },
+          "doubleAnonymousReview": "Research, Short Papers and Posters, ERA, and RENE Tracks follow a double-anonymous review process."
+        },
+        "specialJournalIssue": {
+          "description": "Authors of selected research papers accepted at SANER 2026 will be invited to submit revised, extended versions of their manuscripts for a special issue featured by Springer’s Empirical Software Engineering Journal (EMSE).",
+          "awards": "The best papers from the conference will be awarded."
+        }
+      },
+      "callForWorkshops": {
+        "description": "In SANER 2026, we solicit proposals for workshops to be held in conjunction with the main conference.",
+        "submissionInstructions": {
+          "submissionDeadline": "20th August, 2025 AoE",
+          "format": "Workshop proposal (in the form of call for papers) should be submitted to the workshops EasyChair page.",
+          "submissionFormat": "PDF file (no more than two pages) or public link to a call for papers webpage",
+          "requiredInformation": [
+            "Workshop title",
+            "Description of the workshop topic and scope",
+            "Indication of whether the workshop will take ½ day or a full day",
+            "Link to the workshop website",
+            "Contact information"
+          ]
+        },
+        "importantDates": {
+          "abstractSubmission": "12 December, 2025",
+          "paperSubmission": "18 December, 2025",
+          "notification": "14 January, 2026",
+          "cameraReady": "20 January, 2026"
+        }
+      },
+      "callForTutorials": {
+        "description": "The SANER 2026 Workshops & Tutorials track invites practitioners and researchers to deliver insightful tutorials.",
+        "categories": [
+          {
+            "type": "Technical Tutorial",
+            "description": "Speakers present the use of a tool or technology that aids developers in Software Analysis, Evolution, and Reengineering."
+          },
+          {
+            "type": "Research problem",
+            "description": "Speakers provide a general view of the state-of-the-art for a topic and present details of a specific research problem."
+          }
+        ],
+        "submissionInstructions": {
+          "pageLimit": "1 page (with up to 1 additional page for references)",
+          "requiredInformation": [
+            "Title",
+            "Type of proposal (Technical Tutorial or Research problem)",
+            "Names of presenters and their affiliation",
+            "Duration",
+            "Outline of the tutorial talk",
+            "Target audience",
+            "Learning objectives",
+            "Details on hands-on activities and computer specifications",
+            "Preferred dates"
+          ]
+        }
+      },
+      "submissionLink": "https://easychair.org/my/conference?conf=saner2026",
+      "importantDates": {
+        "researchTrack": {
+          "abstractSubmission": "9 October, 2025",
+          "paperSubmission": "16 October, 2025",
+          "notifications": "9 December, 2025",
+          "cameraReady": "9 January, 2026"
+        },
+        "industrialTrack": {
+          "abstractSubmission": "10 November, 2025",
+          "paperSubmission": "17 November, 2025",
+          "notifications": "19 December, 2025",
+          "cameraReady": "14 January, 2026"
+        },
+        "shortPapersAndPostersTrack": {
+          "abstractSubmission": "10 November, 2025",
+          "paperSubmission": "17 November, 2025",
+          "notifications": "19 December, 2025",
+          "cameraReady": "14 January, 2026"
+        },
+        "earlyResearchAchievementTrack": {
+          "abstractSubmission": "10 November, 2025",
+          "paperSubmission": "17 November, 2025",
+          "notifications": "19 December, 2025",
+          "cameraReady": "14 January, 2026"
+        },
+        "reproducibilityStudiesAndNegativeResultsTrack": {
+          "abstractSubmission": "10 November, 2025",
+          "paperSubmission": "17 November, 2025",
+          "notifications": "19 December, 2025",
+          "cameraReady": "14 January, 2026"
+        },
+        "toolDemoTrack": {
+          "paperSubmission": "17 November, 2025",
+          "notifications": "19 December, 2025",
+          "cameraReady": "14 January, 2026"
+        },
+        "journalFirstTrack": {
+          "paperSubmission": "8 December, 2025",
+          "notifications": "22 December, 2025"
+        },
+        "registeredReportTrack": {
+          "submissionDeadline": "7 November, 2025",
+          "firstNotification": "5 December, 2025",
+          "secondRoundSubmission": "12 December, 2025",
+          "finalNotification": "22 December, 2025",
+          "acceptedReportSubmission": "9 January, 2026"
+        },
+        "workshopAndTutorialProposals": {
+          "workshopProposalsSubmission": "20 August, 2025",
+          "workshopProposalsNotification": "27 August, 2025",
+          "tutorialProposalsSubmission": "12 January, 2026",
+          "tutorialProposalsNotification": "12 January, 2026",
+          "tutorialCameraReadyVersion": "16 January, 2026"
+        }
+      },
+      "organizingCommittee": {
+        "generalChair": {
+          "name": "Georgia Kapitsaki",
+          "affiliation": "University of Cyprus",
+          "country": "Cyprus"
+        },
+        "localOrganizingChair": {
+          "name": "George Angelos Papadopoulos",
+          "affiliation": "University of Cyprus",
+          "country": "Cyprus"
+        },
+        "programChairs": [
+          {
+            "name": "Eunjong Choi",
+            "affiliation": "Kyoto Institute of Technology",
+            "country": "Japan"
+          },
+          {
+            "name": "Matthias Galster",
+            "affiliation": "University of Canterbury",
+            "country": "New Zealand"
+          }
+        ],
+        "industrialChairs": [
+          {
+            "name": "Anne Etien",
+            "affiliation": "University of Lille",
+            "country": "France"
+          },
+          {
+            "name": "Tushar Sharma",
+            "affiliation": "Dalhousie University",
+            "country": "Canada"
+          }
+        ],
+        "eraChairs": [
+          {
+            "name": "Mairieli Wessel",
+            "affiliation": "Radboud University",
+            "country": "Netherlands"
+          },
+          {
+            "name": "Christoph Treude",
+            "affiliation": "Singapore Management University",
+            "country": "Singapore"
+          }
+        ],
+        "shortPapersAndPostersChairs": [
+          {
+            "name": "Eleni Constantinou",
+            "affiliation": "University of Cyprus",
+            "country": "Cyprus"
+          },
+          {
+            "name": "Sandro Schulze",
+            "affiliation": "Anhalt University of Applied Sciences",
+            "country": "Germany"
+          }
+        ],
+        "reneChairs": [
+          {
+            "name": "Apostolos Ampatzoglou",
+            "affiliation": "University of Macedonia",
+            "country": "Greece"
+          },
+          {
+            "name": "Sebastian Proksch",
+            "affiliation": "Delft University of Technology",
+            "country": "Netherlands"
+          }
+        ],
+        "workshopTutorialChairs": [
+          {
+            "name": "Marcelo De Almeida Maia",
+            "affiliation": "Federal University of Uberlandia",
+            "country": "Brazil"
+          },
+          {
+            "name": "Juri Di Rocco",
+            "affiliation": "University of L'Aquila",
+            "country": "Italy"
+          }
+        ],
+        "journalFirstChairs": [
+          {
+            "name": "Luigi Lavazza",
+            "affiliation": "Università degli Studi dell'Insubria",
+            "country": "Italy"
+          },
+          {
+            "name": "Yuxia Zhang",
+            "affiliation": "Beijing Institute of Technology",
+            "country": "China"
+          }
+        ],
+        "registeredReportChairs": [
+          {
+            "name": "Sherlock A. Licorish",
+            "affiliation": "University of Otago",
+            "country": "New Zealand"
+          },
+          {
+            "name": "Sebastiano Panichella",
+            "affiliation": "Zurich University of Applied Science",
+            "country": "Switzerland"
+          }
+        ],
+        "toolDemoChairs": [
+          {
+            "name": "Maliheh Izadi",
+            "affiliation": "Delft University of Technology",
+            "country": "Netherlands"
+          },
+          {
+            "name": "Roberto Verdecchia",
+            "affiliation": "University of Florence",
+            "country": "Italy"
+          }
+        ],
+        "diversityInclusionAndNewcomersChairs": [
+          {
+            "name": "Catia Trubiani",
+            "affiliation": "Gran Sasso Science Institute",
+            "country": "Italy"
+          },
+          {
+            "name": "Aldeida Aleti",
+            "affiliation": "Monash University",
+            "country": "Australia"
+          }
+        ],
+        "proceedingsChair": {
+          "name": "Raula Gaikovina Kula",
+          "affiliation": "Osaka University",
+          "country": "Japan"
+        },
+        "mostInfluentialPaperAwardChairs": [
+          {
+            "name": "Alexander Chatzigeorgiou",
+            "affiliation": "University of Macedonia",
+            "country": "Greece"
+          },
+          {
+            "name": "Michele Lanza",
+            "affiliation": "Software Institute - USI",
+            "country": "Switzerland"
+          }
+        ],
+        "sustainabilityChair": {
+          "name": "Maria Papoutsoglou",
+          "affiliation": "University of Cyprus",
+          "country": "Cyprus"
+        },
+        "financialChair": {
+          "name": "Constantinos Pattichis",
+          "affiliation": "University of Cyprus",
+          "country": "Cyprus"
+        },
+        "publicityAndSocialMediaChair": {
+          "name": "Erina Makihara",
+          "affiliation": "Ritsumeikan University",
+          "country": "Japan"
+        }
+      }
+    }
+  }
+}

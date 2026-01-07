@@ -1,0 +1,65 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ER 2025",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "27 June 2025",
+          "notification_of_acceptance": "28 July 2025",
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "ER 2025"
+        ],
+        "workshops": [
+          {
+            "name": "Fundamentals of Conceptual Modeling (FCM)",
+            "link": "https://ae-ainf.aau.at/fcm/"
+          },
+          {
+            "name": "6th International Workshop on Conceptual Modeling for Life Sciences (CMLS)",
+            "link": "https://purl.org/cmls-2025"
+          },
+          {
+            "name": "3rd International Workshop Modeling in the Age of Large Language Models (LLM4Modeling)",
+            "link": "https://www.unifr.ch/inf/digits/en/events/3rd-international-workshop-modeling-in-the-age-of-large-language-models-(llm4modeling).html"
+          },
+          {
+            "name": "11th International Workshop on Ontologies and Conceptual Modeling (OntoCom)",
+            "link": "https://ontocomworkshops.github.io/OntoCom2025/"
+          },
+          {
+            "name": "6th International Workshop on Quality and Measurement of Model-Driven Software Development (QUAMES)",
+            "link": "https://quames.testar.org"
+          }
+        ],
+        "call_for_proposals": "Details regarding the Call for Papers for each workshop can be found on the respective workshop's website.",
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Anna Bernasconi",
+              "affiliation": "Politécnico de Milano, Italy"
+            },
+            {
+              "name": "Sergio de Cesare",
+              "affiliation": "University of Westminster, UK"
+            },
+            {
+              "name": "Claudenir Morais Fonseca",
+              "affiliation": "University of Twente, Netherlands"
+            }
+          ]
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

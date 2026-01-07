@@ -1,0 +1,148 @@
+{
+  "email": {
+    "subject": "CfP: 5th IEEE International Conference on Code Quality (ICCQ'25)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 7 Jul 2025 03:08:13 -0000",
+    "content_type": "text/plain"
+  },
+  "conference": {
+    "name": "5th International Conference on Code Quality (ICCQ)",
+    "date": "Dec 13, 2025",
+    "venue": "Ural Federal University, Russia",
+    "website": "https://www.iccq.ru/2025.html",
+    "published_by": "IEEE Xplore (in cooperation with IEEE Computer Society)",
+    "description": "We believe that the quality of the source code that millions of programmers write every day could be much higher than it is now. We believe that the contribution computer science can make to improve this situation is greatly undervalued. We aim to solve this problem by gathering together cutting-edge researchers and letting them share their most recent ideas on static analysis, program verification, bug detection, and software maintenance.",
+    "format": "hybrid",
+    "important_dates": {
+      "paper_abstract_submission": "10 Aug 2025",
+      "author_notification": "1 Nov 2025",
+      "camera_ready_submissions": "25 Nov 2025",
+      "conference_date": "13 Dec 2025"
+    },
+    "program_committee": [
+      {
+        "name": "Alexander Legalov",
+        "affiliation": "HSE University"
+      },
+      {
+        "name": "Sara Abbaspour",
+        "affiliation": "Mälardalen University"
+      },
+      {
+        "name": "Rabe Abdalkareem",
+        "affiliation": "Omar al-Mukhtar University"
+      },
+      {
+        "name": "Mohammad Alshayeb",
+        "affiliation": "King Fahd University of Petroleum and Minerals"
+      },
+      {
+        "name": "Thomas Ball",
+        "affiliation": "Microsoft Research"
+      },
+      {
+        "name": "William J. Bowman",
+        "affiliation": "University of British Columbia"
+      },
+      {
+        "name": "Jacques Carette",
+        "affiliation": "McMaster University"
+      },
+      {
+        "name": "Bernhard Egger",
+        "affiliation": "Seoul National University"
+      },
+      {
+        "name": "Umar Farooq",
+        "affiliation": "Louisiana State University"
+      },
+      {
+        "name": "Eduardo Fernandes",
+        "affiliation": "University of Southern Denmark"
+      },
+      {
+        "name": "Javier Luis Cánovas Izquierdo",
+        "affiliation": "Universitat Oberta de Catalunya"
+      },
+      {
+        "name": "Ranjit Jhala",
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "name": "Antoine Miné",
+        "affiliation": "Sorbonne Université"
+      },
+      {
+        "name": "Murali Krishna Ramanathan",
+        "affiliation": "Amazon Web Services"
+      },
+      {
+        "name": "Francis Palma",
+        "affiliation": "University of New Brunswick"
+      },
+      {
+        "name": "Amr Sabry",
+        "affiliation": "Indiana University"
+      },
+      {
+        "name": "Bjorn De Sutter",
+        "affiliation": "Ghent University"
+      },
+      {
+        "name": "G. Gary Tan",
+        "affiliation": "Pennsylvania State University"
+      },
+      {
+        "name": "Didier Verna",
+        "affiliation": "EPITA"
+      },
+      {
+        "name": "Guowei Yang",
+        "affiliation": "University of Queensland"
+      },
+      {
+        "name": "Vadim Zaytsev",
+        "affiliation": "University of Twente"
+      },
+      {
+        "name": "Jian Zhang",
+        "affiliation": "Nanyang Technological University"
+      }
+    ],
+    "publications": {
+      "evaluation_criteria": [
+        "Novelty: The paper presents new ideas and results and places them appropriately within the context established by previous research.",
+        "Importance: The paper contributes to the advancement of knowledge in the field. We also welcome papers that diverge from the dominant trajectory of the field.",
+        "Evidence: The paper presents sufficient evidence supporting its claims, such as proofs, implemented systems, experimental results, statistical analyses, case studies, and anecdotes.",
+        "Clarity: The paper presents its contributions, methodology, and results clearly."
+      ],
+      "review_process": "double-blind review process",
+      "submission_requirements": {
+        "format": "PDF",
+        "printing": "black and white on US Letter sized paper",
+        "template": "acmart template (sigplan, 11pt, anonymous)",
+        "page_length": {
+          "min": 6,
+          "max": 20
+        }
+      },
+      "submission_link": "https://easychair.org/cfp/iccq25"
+    },
+    "sponsors": [
+      "IEEE",
+      "Ural Federal University",
+      "HSE",
+      "Innopolis University"
+    ],
+    "contact": {
+      "email": "[log in to unmask]"
+    }
+  }
+}

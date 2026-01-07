@@ -1,0 +1,58 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "44th International Conference on Conceptual Modeling (ER 2025)",
+      "details": {
+        "dates": {
+          "conference": "20-23 October 2025",
+          "satellite_events": null,
+          "submission_deadline": {
+            "full_paper_abstracts": "19 MAY 2025",
+            "full_paper": "26 MAY 2025"
+          },
+          "notification_of_acceptance": "30 JULY 2025",
+          "final_files_due": "18 AUGUST 2025"
+        },
+        "location": "Poitiers, France",
+        "main_conferences": [
+          {
+            "name": "ER 2025",
+            "theme": "Building Trust Through Conceptual Modeling"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "We welcome submissions of original research on a variety of topics on conceptual modeling, including well-established and emerging areas of research and practice.",
+        "requirements": {
+          "organizers": [
+            {
+              "general_chairs": [
+                "Ladjel Bellatreche, ISAE-ENSMA, Poitiers, France",
+                "Oscar Pastor, Universitat Politècnica de València"
+              ],
+              "program_chairs": [
+                "Shazia Sadiq, The University of Queensland, Australia",
+                "Dominik Bork, TU Wien, Austria",
+                "Roman Lukyanenko, University of Virginia, USA"
+              ]
+            }
+          ],
+          "submission_information": [
+            "Manuscripts must be submitted in the LNCS style and cannot exceed 16 pages (excluding references).",
+            "Submissions must not be under evaluation for or have already been published in other journals or conferences."
+          ],
+          "promotion": {
+            "organizers_committee": "General and Program Chairs mentioned above.",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://er2025.ensma.fr/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "extracted_entities": [
+    {
+      "type": "School",
+      "name": "5th LATAM School in Software Engineering Research",
+      "details": {
+        "dates": {
+          "conference": "September 22nd to 26th, 2025",
+          "satellite_events": null,
+          "submission_deadline": "June 30th, 2025",
+          "notification_of_acceptance": "July 20th, 2025",
+          "final_files_due": null
+        },
+        "location": "Recife, PE, Brazil",
+        "main_conferences": [
+          {
+            "name": "CBSoft",
+            "details": {
+              "type": "Brazilian Conference on Software: Practice and Theory",
+              "dates": "September 22nd to 26th, 2025"
+            }
+          }
+        ],
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": "Prof. Lina Garcés (USP)",
+          "submission_information": {
+            "documents_required": [
+              {
+                "type": "structured abstract",
+                "description": "A structured abstract of your research describing the research plan, 1-page limit."
+              },
+              {
+                "type": "poster",
+                "description": "The poster should provide an overview of research and must adhere to specified dimensions."
+              },
+              {
+                "type": "publication list",
+                "description": "Document containing a list of papers published in journals and conferences between 2022 and 2025."
+              }
+            ]
+          },
+          "promotion": {
+            "organizers_committee": "ACM SIGSOFT",
+            "registration": "Detailed registration procedure will be provided upon acceptance.",
+            "participation_fee": "Free registration for selected participants, including lunch and coffee break."
+          }
+        },
+        "additional_links": [
+          "https://cbsoft.sbc.org.br/2025/escola",
+          "https://jems3.sbc.org.br/latamschool2025"
+        ]
+      }
+    }
+  ]
+}

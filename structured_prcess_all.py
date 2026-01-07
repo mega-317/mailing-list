@@ -3,9 +3,9 @@ from pathlib import Path
 import glob
 from structured_pipeline.graph import process_one_file, save_json
 
-version = 1
+version = 2
 TEXT_DIR = Path("./data/texts")
-OUT_DIR = Path(f"./prediction/markdown_{version}")  # 결과 저장 폴더
+OUT_DIR = Path(f"./prediction/JSON_{version}")  # 결과 저장 폴더
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # === 배치 실행 ===
@@ -25,7 +25,7 @@ errors = []
 for n, path in txt_files:
     try:
         out = process_one_file(path)
-        out_name = f"markdown_{n}.json"
+        out_name = f"structuring_{n}.json"
         save_json(out, OUT_DIR / out_name)
         print(f"[OK] {path.name} -> {out_name}")
     except Exception as e:

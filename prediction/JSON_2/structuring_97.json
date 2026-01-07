@@ -1,0 +1,68 @@
+{
+  "email": {
+    "subject": "Call for Papers-21st International Conference on Information Systems Security (ICISS 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:11:34 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear Colleagues,",
+      "invitation": {
+        "conference_name": "21st International Conference on Information Systems Security (ICISS 2025)",
+        "host": "Indian Institute of Technology Indore (IIT Indore)",
+        "location": "India",
+        "dates": {
+          "start_date": "December 16, 2025",
+          "end_date": "December 20, 2025"
+        }
+      },
+      "description": "ICISS is a premier international forum that brings together researchers, academicians, and industry professionals to share their latest findings and insights in the fields of cybersecurity, cryptography, system security, and hardware security.",
+      "history": {
+        "inception_year": 2005,
+        "significance": "ICISS has played a critical role in shaping the research landscape and fostering meaningful collaborations in information systems security."
+      },
+      "important_dates": {
+        "submission_deadline": "July 10, 2025",
+        "acceptance_notification": "September 30, 2025",
+        "camera_ready_deadline": "October 15, 2025",
+        "conference_dates": {
+          "start_date": "December 16, 2025",
+          "end_date": "December 20, 2025"
+        }
+      },
+      "venue": {
+        "name": "IIT Indore",
+        "established": 2009,
+        "reputation": "excellence in education, research, and innovation",
+        "features": [
+          "diverse academic programs",
+          "state-of-the-art infrastructure",
+          "vibrant campus life"
+        ]
+      },
+      "closing": "We look forward to your contributions and participation in ICISS 2025!",
+      "website": {
+        "official": "https://iciss.isrdc.in/"
+      },
+      "sign_off": "Best regards,",
+      "from_group": "Organizing Committee",
+      "conference_signature": "ICISS 2025"
+    },
+    "footer": {
+      "contribution_info": {
+        "message": "To contribute to SEWORLD, send your submission to",
+        "email": "mailto:[log in to unmask]"
+      },
+      "more_info": {
+        "link": "http://sigsoft.org/resources/seworld.html",
+        "description": "provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Workshop",
+      "name": "MLOps25",
+      "details": {
+        "dates": {
+          "conference": "October 25-30, 2025",
+          "satellite_events": null,
+          "submission_deadline": "May 20, 2025",
+          "notification_of_acceptance": "June 26, 2025",
+          "final_files_due": "August 26, 2025"
+        },
+        "location": "Bologna, Italy",
+        "main_conferences": [
+          {
+            "name": "28th European Conference on Artificial Intelligence (ECAI 2025)",
+            "dates": "October 25-30, 2025"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "The OC of MLOps25"
+          ],
+          "submission_information": [
+            "Research Papers: Original research contributions advancing the state-of-the-art in MLOps.",
+            "Experience Reports: Reports on practical applications, lessons learned, and case studies related to MLOps implementation in real-world scenarios."
+          ],
+          "promotion": {
+            "organizers_committee": "The OC of MLOps25",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://collab.di.uniba.it/mlops/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "email": {
+    "subject": "Last Chance: Join Europe’s Only Summer School on Informatics Education Research (SCHIER 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 1 Jul 2025 06:46:43 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear colleagues,",
+      "call_to_action": "Eager to expand your expertise and make a greater impact in Informatics Education? Join Europe's Only Summer School on Informatics Education Research (SCHIER 2025)!",
+      "application_deadline": "Applications remain open until July 11th or until all spots are filled.",
+      "program_details": {
+        "description": "Building on the success of its inaugural edition last year, SCHIER 2025 offers a week of:",
+        "highlights": [
+          "Expert-led lectures and interactive sessions on key topics and methodologies.",
+          "Collaborative discussions on emerging research challenges.",
+          "Networking opportunities that foster meaningful, long-term collaboration and advancement.",
+          "Special Presentation on 'Education in Quantum Computing' by Fabio Scafirimuto, IBM Quantum Education and Workforce Development EMEA Team Lead."
+        ]
+      },
+      "event": {
+        "when": "8–12 September 2025",
+        "where": "UCLouvain, Louvain-la-Neuve, Belgium",
+        "who_should_attend": "PhD students, postdocs, and researchers with an interest in Informatics Education Research"
+      },
+      "links": {
+        "application": "https://tinyurl.com/5pbfk85e",
+        "flyers": "https://tinyurl.com/3syjsypf",
+        "additional_resource": "https://www.informatics-europe.org/images/documents/IE-PhD-School-Informatics-Education-Research.pdf"
+      },
+      "closing": "Let's join dedicated experts and researchers shaping the future of Informatics Education in Europe!",
+      "signature": "Best regards,\nInformatics Europe",
+      "remark": "Informatics Education is a growing and vital field recognised by the EU Council."
+    },
+    "footer": {
+      "contribution_information": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+      "more_information": "http://sigsoft.org/resources/seworld.html provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+    }
+  }
+}

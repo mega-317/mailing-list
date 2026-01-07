@@ -1,0 +1,67 @@
+{
+  "event": {
+    "title": "Nineteenth International Tbilisi Summer School in Logic and Language",
+    "location": {
+      "institution": "Kutaisi International University",
+      "city": "Kutaisi",
+      "country": "Georgia"
+    },
+    "date": {
+      "start": "2025-09-04",
+      "end": "2025-09-07"
+    },
+    "website": "https://www.logic.at/tbilisi25/",
+    "co_located_events": [
+      {
+        "name": "JELIA 2025",
+        "website": "https://viam.science.tsu.ge/jelia2025/"
+      },
+      {
+        "name": "TbiLLC 2025",
+        "website": "https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
+      }
+    ],
+    "lecturers": [
+      {
+        "name": "M. Baaz & M. Gamsakhurdia",
+        "topic": "Gödel Logics"
+      },
+      {
+        "name": "S. Ghilardi",
+        "topic": "Categorical Logic: A Gentle Introduction"
+      },
+      {
+        "name": "M. Jibladze",
+        "topic": "TBA"
+      },
+      {
+        "name": "V. Marra",
+        "topic": "TBA"
+      },
+      {
+        "name": "F. Honsell",
+        "topic": "Constructive Type Theories and Logical Frameworks"
+      }
+    ],
+    "excursion": {
+      "details": "Free for all registered participants of JELIA 2025. Others have to pay 60 Euros."
+    },
+    "registration": {
+      "fee": "Free",
+      "inquiries_contact": "[log in to unmask]"
+    }
+  },
+  "email_metadata": {
+    "subject": "Nineteenth International Tbilisi Summer School in Logic and Language",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "2025-07-16T06:15:32Z",
+    "content_type": "text/plain"
+  }
+}

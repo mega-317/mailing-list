@@ -1,0 +1,221 @@
+{
+  "email": {
+    "subject": "ESOP 2026 - Second Call for Papers",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Fri, 23 May 2025 14:21:41 -0000",
+    "content_type": "text/plain"
+  },
+  "conference": {
+    "name": "ESOP 2026",
+    "description": "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+    "areas_of_contribution": [
+      "programming paradigms and styles",
+      "methods and tools to specify and reason about programs and languages",
+      "programming language foundations",
+      "methods and tools for implementation, concurrency and distribution",
+      "applications and emerging topics"
+    ],
+    "important_dates": {
+      "submission_rounds": [
+        {
+          "round": 1,
+          "submission_deadline": "June 3, 2025",
+          "rebuttal_period": "July 21-23, 2025",
+          "notification_date": "August 1, 2025"
+        },
+        {
+          "round": 2,
+          "submission_deadline": "October 16, 2025",
+          "rebuttal_period": "December 8-10, 2025",
+          "notification_date": "December 22, 2025"
+        }
+      ]
+    },
+    "submission_categories": {
+      "research_papers": {
+        "description": "Articles that advance the state-of-the-art on the theory and practice of programming languages and systems.",
+        "formatting": "Springer’s LNCS, ACM’s PACMPL, or ACM’s TOPLAS format.",
+        "page_limit": {
+          "regular_submissions": "no limit",
+          "camera_ready": "not exceed 25 pages (excluding bibliography)"
+        }
+      },
+      "experience_reports": {
+        "description": "Articles reporting on systems and techniques developed in practice, including critical evaluation.",
+        "formatting": "Springer’s LNCS.",
+        "page_limit": {
+          "regular_submissions": "not exceed 15 pages (excluding bibliography)"
+        }
+      },
+      "fresh_perspectives": {
+        "description": "Articles that promote new insights on programming languages and systems in an elegant manner.",
+        "formatting": "Springer’s LNCS.",
+        "page_limit": {
+          "regular_submissions": "not exceed 15 pages (excluding bibliography)"
+        }
+      }
+    },
+    "review_process": {
+      "type": "double-blind",
+      "notes": "Authors must anonymize submissions."
+    },
+    "publication": {
+      "accepted_papers": "Springer’s Lecture Notes in Computer Science series.",
+      "submission_link": "https://esop26.hotcrp.com/"
+    },
+    "paper_submission_evaluation": {
+      "review_process": "Submissions evaluated for technical soundness and originality."
+    },
+    "artifact_evaluation": {
+      "description": "Voluntary artifact evaluation post-paper acceptance. Does not affect acceptance decision.",
+      "further_details": "To be announced later."
+    },
+    "program_committee": {
+      "chair": {
+        "name": "Robbert Krebbers",
+        "affiliation": "Radboud University Nijmegen, Netherlands"
+      },
+      "members": [
+        {
+          "name": "Alasdair Armstrong",
+          "affiliation": "University of Cambridge, UK"
+        },
+        {
+          "name": "Aslan Askarov",
+          "affiliation": "Aarhus University, Denmark"
+        },
+        {
+          "name": "Mohamed Faouzi Atig",
+          "affiliation": "Uppsala University, Sweden"
+        },
+        {
+          "name": "Andrej Bauer",
+          "affiliation": "University of Ljubljana, Slovenia"
+        },
+        {
+          "name": "Veronique Benzaken",
+          "affiliation": "LMF Université Paris-Saclay, France"
+        },
+        {
+          "name": "Małgorzata Biernacka",
+          "affiliation": "University of Wrocław, Poland"
+        },
+        {
+          "name": "Liang-Ting Chen",
+          "affiliation": "Academia Sinica, Taiwan"
+        },
+        {
+          "name": "Raphaëlle Crubillé",
+          "affiliation": "Aix Marseille Univ, CNRS, LIS, France"
+        },
+        {
+          "name": "Deepak D'Souza",
+          "affiliation": "Indian Institute of Science, India"
+        },
+        {
+          "name": "Ankush Das",
+          "affiliation": "Boston University, USA"
+        },
+        {
+          "name": "Farzaneh Derakhshan",
+          "affiliation": "Illinois Institute of Technology, USA"
+        },
+        {
+          "name": "Emanuele D’Osualdo",
+          "affiliation": "University of Konstanz, Germany"
+        },
+        {
+          "name": "Paulo Emílio de Vilhena",
+          "affiliation": "Imperial College London, UK"
+        },
+        {
+          "name": "Francesco Gavazzo",
+          "affiliation": "University of Padua, Italy"
+        },
+        {
+          "name": "Justin Hsu",
+          "affiliation": "Cornell University, USA"
+        },
+        {
+          "name": "Ambrus Kaposi",
+          "affiliation": "Eötvös Loránd University, Hungary"
+        },
+        {
+          "name": "Sven Keidel",
+          "affiliation": "TU Darmstadt, Germany"
+        },
+        {
+          "name": "Ori Lahav",
+          "affiliation": "Tel Aviv University, Israel"
+        },
+        {
+          "name": "Christoph Matheja",
+          "affiliation": "University of Oldenburg and DTU Compute, Germany"
+        },
+        {
+          "name": "Andreia Mordido",
+          "affiliation": "LASIGE, University of Lisbon, Portugal"
+        },
+        {
+          "name": "Christopher Pulte",
+          "affiliation": "University of Cambridge, UK"
+        },
+        {
+          "name": "Jorge A. Pérez",
+          "affiliation": "University of Groningen, Netherlands"
+        },
+        {
+          "name": "Ryosuke Sato",
+          "affiliation": "Tokyo University of Agriculture and Technology, Japan"
+        },
+        {
+          "name": "Ilya Sergey",
+          "affiliation": "National University of Singapore, Singapore"
+        },
+        {
+          "name": "Kathrin Stark",
+          "affiliation": "Heriot-Watt University, UK"
+        },
+        {
+          "name": "Bernardo Toninho",
+          "affiliation": "NOVA FCT and NOVA LINCS, Portugal"
+        },
+        {
+          "name": "Jana Wagemaker",
+          "affiliation": "Radboud University Nijmegen, Netherlands"
+        },
+        {
+          "name": "John Wickerson",
+          "affiliation": "Imperial College London, UK"
+        },
+        {
+          "name": "Fabio Zanasi",
+          "affiliation": "University College London, UK"
+        }
+      ]
+    },
+    "journal_submissions": {
+      "journal_first": {
+        "description": "Authors can submit research papers via a Journal-First channel at TOPLAS.",
+        "process": [
+          "Authors submit their papers directly to TOPLAS before the Round 1 submission deadline.",
+          "In their cover letter, indicate paper is for ESOP Journal-First consideration.",
+          "TOPLAS handles the reviewing process.",
+          "Authors should notify the ESOP PC chair about their TOPLAS submission.",
+          "If accepted before the end of Round 2 rebuttal period, may be presented at ETAPS."
+        ]
+      },
+      "journal_after": {
+        "description": "Revised versions of accepted ESOP research papers eligible for ESOP Journal-After TOPLAS channel.",
+        "call_open": "January after ESOP notification."
+      }
+    }
+  }
+}

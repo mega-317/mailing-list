@@ -1,0 +1,102 @@
+{
+  "email": {
+    "subject": "Call for participation - 5th LATAM School in Software Engineering Research",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 25 Jun 2025 16:20:46 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "call_for_participation": {
+        "event_name": "5th LATAM School in Software Engineering Research",
+        "co_located_with": "CBSoft - XVI Brazilian Conference on Software: Practice and Theory",
+        "dates": {
+          "event_dates": "September 22nd to 26th, 2025",
+          "LATAM_school_dates": "September 22nd and 23rd, 2025"
+        },
+        "location": "Recife, PE, Brazil",
+        "organization": {
+          "organizer": "Prof. Lina Garcés",
+          "affiliation": "USP",
+          "email": "[log in to unmask]"
+        },
+        "info_url": "https://cbsoft.sbc.org.br/2025/escola",
+        "eligibility": {
+          "requirements": [
+            "PhD or MSc students from Latin American institutions",
+            "PhD graduates in 2024 working in Latin American organizations/universities",
+            "Highly motivated undergraduate students",
+            "Researching software engineering topics"
+          ],
+          "note": "Limited spots (maximum of 50 students) available."
+        },
+        "application_details": {
+          "application_deadline": "June 30th, 2025",
+          "notification_date": "July 20th, 2025",
+          "submission_process": {
+            "submission_url": "https://jems3.sbc.org.br/latamschool2025",
+            "documents_required": [
+              {
+                "type": "structured abstract",
+                "description": "Context/Problem, Aims, Method, and Results (1-page limit)"
+              },
+              {
+                "type": "poster",
+                "dimensions": {
+                  "height": "122cm",
+                  "width": "92cm"
+                },
+                "fonts": {
+                  "headings": "36-48",
+                  "text": "20-28"
+                }
+              },
+              {
+                "type": "publication list",
+                "description": "A document with publications in journals and conferences between 2022 and 2025."
+              }
+            ]
+          }
+        },
+        "benefits": [
+          "Free registration for the School (including lunch and coffee break)",
+          "Free participation in the CBSoft conference",
+          "Potential financial support for participants"
+        ],
+        "program": {
+          "description": "Topics related to career and research in Software Engineering, including keynotes, panel discussions, and mentoring sessions.",
+          "keynote_topics": [
+            {
+              "title": "Research methodologies",
+              "description": "Design and execution of scientific methods in software engineering research."
+            },
+            {
+              "title": "Open science",
+              "description": "Fostering openness, collaboration, and transparency in research."
+            },
+            {
+              "title": "Industry research",
+              "description": "Collaboration with industry to tackle practical problems."
+            },
+            {
+              "title": "Life balance and health",
+              "description": "Discussing mental health and work-life balance for academic researchers."
+            }
+          ],
+          "mentoring_program": {
+            "description": "Students grouped by topics with at least one mentor.",
+            "structure": "Poster presentations followed by feedback sessions."
+          },
+          "research_panel": {
+            "description": "3-4 experienced researchers answering student queries."
+          }
+        }
+      }
+    }
+  }
+}

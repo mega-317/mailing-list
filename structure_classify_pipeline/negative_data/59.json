@@ -1,0 +1,71 @@
+{
+  "event": {
+    "name": "SEMLA 2025",
+    "type": "symposium",
+    "dates": {
+      "start": "2025-06-17",
+      "end": "2025-06-19"
+    },
+    "location": {
+      "venue": "Polytechnique Montréal",
+      "city": "Montréal",
+      "country": "Canada"
+    },
+    "website": "https://semla.polymtl.ca",
+    "theme": {
+      "title": "AgentOps and Intelligent Systems",
+      "areas": [
+        {
+          "name": "AgentOps",
+          "description": "The operationalization of intelligent agents for workflows in software engineering, interactive computing, autonomous database management, and voice-driven application control."
+        },
+        {
+          "name": "Intelligent Systems",
+          "description": "LLM-integrated use cases such as code generation, data preparation, and content moderation; the impact of Digital Twins for modeling, simulating, and optimizing real-world systems, especially for sustainability."
+        }
+      ]
+    },
+    "program": [
+      {
+        "date": "2025-06-17",
+        "title": "AgentOps Day",
+        "activities": [
+          "Keynotes",
+          "Sessions",
+          "Discussions focused on operationalizing intelligent agents"
+        ]
+      },
+      {
+        "date": "2025-06-18",
+        "title": "Intelligent Systems",
+        "activities": [
+          "Presentations",
+          "Expert talks",
+          "Discussions on AI-enhanced systems and sustainability"
+        ]
+      },
+      {
+        "date": "2025-06-19",
+        "title": "Tutorials and SEMTL Meeting",
+        "activities": [
+          "Hands-on tutorials",
+          "SEMTL meeting"
+        ]
+      }
+    ],
+    "invited_speakers": "https://semla.polymtl.ca/invited-speakers/",
+    "call_for_posters": {
+      "deadline": "2025-05-30",
+      "description": "We accept poster presentations related to any of the SEMLA topics. Accepted posters will be presented in a dedicated session, with select presenters eligible for travel grants or best poster prizes.",
+      "more_info": "https://semla.polymtl.ca/call-for-posters/"
+    },
+    "registration": {
+      "early_deadline": "2025-06-06",
+      "registration_link": "https://www.eventbrite.ca/e/semla-2025-tickets-1323634559599?aff=oddtdtcreator"
+    },
+    "organizers_contact": {
+      "email": "[log in to unmask]",
+      "more_info": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "email": {
+    "subject": "SPECIAL ISSUE ON Emerging Concerns in Technical Debt Management for publication in the EMSE Journal",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 12:31:43 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "introduction": "[Apologies for multiple postings]",
+      "announcement": {
+        "message": "We are pleased to announce a special issue focusing on Emerging Concerns in Technical Debt Management for publication in Empirical Software Engineering (EMSE)."
+      },
+      "scope": {
+        "definition": "Technical Debt (TD) is a powerful metaphor for the trade-offs and compromises made during software development.",
+        "context": "The proliferation of data-driven and highly complex systems in recent years has opened up novel challenges and opportunities for studying and managing TD.",
+        "invitation": "This special issue invites contributions investigating how emerging concerns in AI, data-intensive systems, and other evolving domains affect our understanding and management of TD.",
+        "concerns": [
+          {
+            "title": "Data Quality and Evolution",
+            "description": "In data-driven and AI systems, poor data quality or rapidly evolving datasets can create significant 'data debt,' affecting system performance and maintainability."
+          },
+          {
+            "title": "Ethical and Fairness Considerations",
+            "description": "In AI systems, addressing fairness, transparency, and bias creates new types of debt that must be managed to maintain system trustworthiness."
+          },
+          {
+            "title": "Scalability Challenges",
+            "description": "Systems designed for rapid scalability often incur architectural debt that can hinder future growth and adaptation."
+          }
+        ],
+        "broad_scope": {
+          "description": "The scope broadens beyond specific domains to encompass a wide range of 'new' concerns.",
+          "examples": [
+            "Data-driven systems that rely on machine learning, analytics, or real-time processing.",
+            "AI-enabled systems, including machine learning pipelines, autonomous decision-making platforms, and systems combining symbolic and statistical AI.",
+            "Cyber-physical systems, including but not limited to autonomous vehicles, robotics, and smart infrastructures.",
+            "Distributed and cloud-native architectures.",
+            "Emerging security and privacy concerns as they intersect with TD in sensitive systems."
+          ]
+        }
+      },
+      "submissions": {
+        "requirements": "Contributors are expected to provide rigorous empirical studies, evidence-based analyses, or innovative methodologies that advance our understanding of TD in these emerging areas.",
+        "topics": [
+          "Manifestations of TD in data-driven, AI-enabled, cyber-physical, or distributed systems.",
+          "Novel methodologies to measure, analyze, or manage TD in these contexts.",
+          "Case studies showcasing real-world experiences with TD in modern systems.",
+          "Impact assessments of TD on performance, maintainability, scalability, or security.",
+          "Longitudinal studies tracking the evolution and lifecycle of TD in emerging domains.",
+          "Tool evaluations that address TD detection, management, or mitigation in innovative ways.",
+          "Studies on practitioner experiences with TD in AI and data-intensive systems."
+        ],
+        "submission_process": {
+          "details": "Authors are not required to submit using a prescribed template. If accepted, the source files will be formatted for the SpringerLink platform. The pre-screening process may take several days."
+        },
+        "publication": {
+          "details": "Once typeset, the articles are immediately published Online—the version of record and is citable by the DoI (digital object identifier)."
+        }
+      },
+      "important_dates": {
+        "deadline": "June 9, 2025"
+      },
+      "contact_information": {
+        "guest_editors": [
+          {
+            "name": "Dr. Giammaria Giordano",
+            "institution": "University of Salerno, Italy",
+            "email": "[log in to unmask]",
+            "website": "https://giammariagiordano.github.io/giammaria-giordano/"
+          },
+          {
+            "name": "Dr. Zadia Codabux",
+            "institution": "University of Saskatchewan, Canada",
+            "email": "[log in to unmask]",
+            "website": "https://www.cs.usask.ca/faculty/zadiacodabux/"
+          },
+          {
+            "name": "Dr. Marcus Ciolkowski",
+            "institution": "QAware GmbH, Germany",
+            "email": "[log in to unmask]",
+            "website": "https://www.qaware.de/team/marcus-ciolkowski/"
+          },
+          {
+            "name": "Dr. Florian Deissenboeck",
+            "institution": "CQSE GmbH, Germany",
+            "email": "[log in to unmask]",
+            "website": "https://cqse.eu/deissenboeck"
+          },
+          {
+            "name": "Prof. Maria Teresa Baldassarre",
+            "institution": "University of Bari, Italy",
+            "email": "[log in to unmask]",
+            "website": "https://www.uniba.it/docenti/baldassarre-maria-teresa"
+          }
+        ]
+      },
+      "contributor_info": {
+        "name": "Giammaria Giordano",
+        "affiliation": "Software Engineering Lab (SeSa Lab), Department of Computer Science, University of Salerno",
+        "address": "Via Giovanni Paolo II, 132, 84084 Fisciano (SA) - Italy"
+      },
+      "SEWORLD_contact": {
+        "submission_email": "mailto:[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

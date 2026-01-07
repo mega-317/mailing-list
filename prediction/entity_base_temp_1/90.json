@@ -1,0 +1,53 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Posting",
+      "name": "Research Associate / Postdoctoral Research Assistant for Platform - Software Engineer",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "26-May-2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Durham University, UK",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Dr Nelly Bencomo"
+          ],
+          "submission_information": [
+            "Apply now – Closing Date: 26-May-2025, 11:59:00 PM"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Durham University Computer Science Job Posting": "https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=25000444&tz=GMT%2B01%3A00&tzname=Europe%2FLondon"
+          },
+          {
+            "Just Transitions to a Net Zero world": "https://www.durham.ac.uk/research/institutes-and-centres/csdlp/justn0w"
+          },
+          {
+            "Twenty20Insight Project": "https://aihs.webspace.durham.ac.uk/twenty20insight/"
+          },
+          {
+            "weDecide Project": "https://aihs.webspace.durham.ac.uk/wedecide/"
+          },
+          {
+            "Nelly Bencomo's Website": "http://www.nellybencomo.me"
+          }
+        ]
+      }
+    }
+  ]
+}

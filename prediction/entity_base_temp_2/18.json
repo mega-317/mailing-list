@@ -1,0 +1,39 @@
+{
+  "extracted_entities": [
+    {
+      "type": "job_posting",
+      "name": "Faculty Positions at UCLouvain",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "Early September 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "UCLouvain, Belgium",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": null,
+          "submission_information": {
+            "application_portal": "UCLouvain job portal",
+            "application_package": "resume, teaching/research statement"
+          },
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "description": "UCLouvain job portal for job application",
+            "url": "https://jobs.uclouvain.be/PersonnelAcademique/go/UCLouvain-Apply-for-an-academic-position/4568701/"
+          }
+        ]
+      }
+    }
+  ]
+}

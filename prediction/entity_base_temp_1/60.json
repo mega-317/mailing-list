@@ -1,0 +1,55 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "13th International Conference on Software Engineering Research and Innovation (CONISOFT 2025)",
+      "details": {
+        "dates": {
+          "conference": {
+            "start": "2025-10-27",
+            "end": "2025-10-31"
+          },
+          "satellite_events": null,
+          "submission_deadline": "2025-06-15",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "La Paz, BCS., Mexico",
+        "main_conferences": [
+          "CONISOFT 2025"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Software Engineering Mexican Network (REDMIS)",
+            "Universidad Autónoma de Baja California Sur"
+          ],
+          "submission_information": [
+            "Submissions that integrate theoretical and practical aspects are particularly encouraged."
+          ],
+          "promotion": {
+            "organizers_committee": "IEEE, IEEE ComputerSociety",
+            "registration": "https://conisoft.org/2025/#registration",
+            "participation_fee": {
+              "1 Paper": {
+                "USD": 200,
+                "MXN": 4000
+              },
+              "1 Additional paper": {
+                "USD": 100,
+                "MXN": 2000
+              },
+              "note": "A third paper must pay full fee."
+            }
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://conisoft.org"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "2025 OkIP International Conference on Software Engineering Research & Development (SERD)",
+      "details": {
+        "dates": {
+          "conference": "October 1-2, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 15, 2025",
+          "notification_of_acceptance": "August 1-15, 2025",
+          "final_files_due": "August 7-22, 2025"
+        },
+        "location": "Oklahoma City, OK, USA & Online",
+        "main_conferences": [
+          "Software Engineering Research & Development"
+        ],
+        "workshops": [],
+        "call_for_proposals": "1st Call for Abstracts and Papers",
+        "requirements": {
+          "organizers": [
+            "Kris Zeuti (OkIP Secretariat)"
+          ],
+          "submission_information": [
+            "Full Paper: Accomplished research results (6 pages)",
+            "Short Paper: Work in progress/fresh developments (3 pages)",
+            "Extended Abstract/Poster/Journal First: Displayed/Oral presented (1 page)"
+          ],
+          "promotion": {
+            "organizers_committee": "Technical Program Committee",
+            "registration": "August 7-22, 2025",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "SERD 2025": "https://eventutor.com/e/SERD005"
+          },
+          {
+            "Program Details": "https://eventutor.com/event/67/program"
+          },
+          {
+            "Committee Information": "https://eventutor.com/event/67/page/175-committee"
+          }
+        ]
+      }
+    }
+  ]
+}

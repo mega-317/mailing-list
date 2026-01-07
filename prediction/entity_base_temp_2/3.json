@@ -1,0 +1,52 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "Nineteenth International Tbilisi Summer School in Logic and Language",
+      "details": {
+        "dates": {
+          "conference": "September 4th-7th 2025",
+          "satellite_events": [
+            {
+              "name": "JELIA 2025",
+              "url": "https://viam.science.tsu.ge/jelia2025/"
+            },
+            {
+              "name": "TbiLLC 2025",
+              "url": "https://events.illc.uva.nl/Tbilisi/Tbilisi2025/"
+            }
+          ],
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Kutaisi International University, Kutaisi, Georgia",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": null,
+          "submission_information": null,
+          "promotion": {
+            "organizers_committee": null,
+            "registration": "Registration is free.",
+            "participation_fee": {
+              "JELIA 2025 participants": "Free",
+              "Others": "60 Euros"
+            }
+          }
+        },
+        "additional_links": [
+          {
+            "label": "Conference Website",
+            "url": "https://www.logic.at/tbilisi25/"
+          },
+          {
+            "label": "SEWORLD Information",
+            "url": "http://sigsoft.org/resources/seworld.html"
+          }
+        ]
+      }
+    }
+  ]
+}

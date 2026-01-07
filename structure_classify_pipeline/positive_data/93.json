@@ -1,0 +1,219 @@
+{
+  "email": {
+    "subject": "[CFP] IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024) 24–26 July 2024, Melbourne, Australia",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:14:43 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference_details": {
+        "name": "IEEE Annual Congress on Artificial Intelligence of Things",
+        "acronym": "IEEE AIoT 2024",
+        "dates": "24–26 July 2024",
+        "location": "Melbourne, Australia",
+        "website": "https://www.ieee-aiot.org",
+        "submission_link": "https://easychair.org/my/conference?conf=aiot2024"
+      },
+      "important_dates": {
+        "paper_submission": "8 May 2024 (FIRM)",
+        "notification_of_acceptance": "10 June 2024",
+        "final_manuscript_camera_ready": "3 July 2024"
+      },
+      "awards": {
+        "best_paper_award": {
+          "description": "Three accepted papers will be selected for best paper awards.",
+          "recommended_journals": [
+            {
+              "name": "IEEE Internet of Things Journal",
+              "impact_factor": 10.238
+            },
+            {
+              "name": "Digital Communications and Networks",
+              "impact_factor": 7.9
+            }
+          ]
+        }
+      },
+      "conference_aims": {
+        "description": "Bringing together interested parties from around the world working in the fields of AI and Internet of Things.",
+        "focus_areas": [
+          "AIoT Architectures, Frameworks, and Algorithms",
+          "AIoT Applications",
+          "Standards and Interoperability",
+          "Ethics and Security"
+        ]
+      },
+      "submission_topics": {
+        "eHealth_topics": [
+          "Edge AI and Distributed Intelligence",
+          "Machine Learning for IoT Applications",
+          "Mobile deployment of LLMs",
+          "Generative AI and LLMs for IoT applications",
+          "AI-empowered Robotics and Sensing for IoT",
+          "Smart Cities: AI and IoT Solutions",
+          "Security and Privacy in AI-driven IoT Systems",
+          "5G and its Impact on AI and IoT",
+          "Blockchain Technology for Securing IoT Devices",
+          "Human-Machine Interaction in IoT Environments",
+          "IoT Sensors and Actuators: Innovations and Advances",
+          "AI-driven Data Analytics and Decision-making",
+          "Energy-Efficient AI Algorithms for IoT Devices",
+          "IoT in Healthcare: Applications and Challenges",
+          "Industrial IoT (IIoT) and AI for Manufacturing",
+          "Smart Agriculture: AI and IoT in Precision Farming",
+          "Ethical Considerations in AI-powered IoT Systems",
+          "IoT Standards and Interoperability",
+          "Robotic Process Automation (RPA) in IoT",
+          "AI-driven Automation in Supply Chain Management",
+          "IoT Analytics and Big Data Processing",
+          "AI in Edge Devices: Challenges and Solutions",
+          "Wireless Sensor Networks in AI and IoT",
+          "IoT for Environmental Monitoring and Sustainability",
+          "AI and IoT in Transportation and Logistics",
+          "Cross-domain Integration of AI and IoT Technologies",
+          "Privacy, Security, and Trustworthiness",
+          "Standardization and Interoperability",
+          "Demonstrations, Proof-of-Concepts, and Deployments"
+        ]
+      },
+      "paper_format_submission": {
+        "format": "EDAS",
+        "length": {
+          "max_pages": 6,
+          "extra_page": {
+            "allowed": 1,
+            "cost": 100
+          }
+        },
+        "review_process": "Standard reviewing procedure with at least 3 independent anonymous reviews",
+        "publication": {
+          "platform": "IEEE Xplore®",
+          "journal_publication_conditions": "Must meet conditions against self-plagiarism"
+        },
+        "preparation": {
+          "formats": [
+            "LaTeX",
+            "Word"
+          ],
+          "submission_format": "PDF",
+          "instructions": "Use official IEEE templates, letter size (8.5 x 11) paper"
+        },
+        "language": "English"
+      },
+      "organization_committee": {
+        "general_chairs": [
+          {
+            "name": "Wei Xiang",
+            "affiliation": "La Trobe University, Australia"
+          },
+          {
+            "name": "Carla Fabiana Chiasserini",
+            "affiliation": "Politecnico di Torino, Italy"
+          }
+        ],
+        "tpc_chairs": [
+          {
+            "name": "Dusit Niyato",
+            "affiliation": "Nanyang Technological University, Singapore"
+          },
+          {
+            "name": "Ruidong Li",
+            "affiliation": "Kanazawa University, Japan"
+          },
+          {
+            "name": "Prasad Kodaypak",
+            "affiliation": "The XMG, USA"
+          }
+        ],
+        "keynote_chair": {
+          "name": "Song Guo",
+          "affiliation": "Hong Kong University of Science and Technology, China"
+        },
+        "industry_forum_chair": {
+          "name": "Henry Leung",
+          "affiliation": "University of Calgary"
+        },
+        "tutorial_chairs": [
+          {
+            "name": "Flora Salim",
+            "affiliation": "University of New South Wales, Australia"
+          },
+          {
+            "name": "JaeSeung Song",
+            "affiliation": "Sejong University, South Korea"
+          }
+        ],
+        "workshop_chairs": [
+          {
+            "name": "Teng Joon Lim",
+            "affiliation": "University of Sydney, Australia"
+          },
+          {
+            "name": "Jia Hu",
+            "affiliation": "University of Exeter, U. K."
+          }
+        ],
+        "poster_chairs": [
+          {
+            "name": "Pietro Manzoni",
+            "affiliation": "Universidad Politécnica de Valencia, Spain"
+          },
+          {
+            "name": "Xiang Sun",
+            "affiliation": "University of Mexico, USA"
+          }
+        ],
+        "publicity_chairs": [
+          {
+            "name": "Zhengxin Yu",
+            "affiliation": "Lancaster University, U. K."
+          }
+        ],
+        "publication_chairs": [
+          {
+            "name": "Constandinos X. Mavromoustakis",
+            "affiliation": "University of Nicosia, Cyprus"
+          },
+          {
+            "name": "Peng Cheng",
+            "affiliation": "La Trobe University, Australia"
+          }
+        ],
+        "registration_chair": {
+          "name": "Wei Wang",
+          "affiliation": "San Diego State University"
+        },
+        "web_chair": {
+          "name": "Haihan Nan",
+          "affiliation": "Kanazawa University, Japan"
+        },
+        "financial_chair": {
+          "name": "Kang Han",
+          "affiliation": "La Trobe University, Australia"
+        },
+        "local_chairs": [
+          {
+            "name": "Kan Yu",
+            "affiliation": "La Trobe University, Australia"
+          },
+          {
+            "name": "Phu Lai",
+            "affiliation": "La Trobe University, Australia"
+          }
+        ]
+      },
+      "contribution_info": {
+        "seworld_contribution": {
+          "email": "[log in to unmask]",
+          "more_info_link": "http://sigsoft.org/resources/seworld.html"
+        }
+      }
+    }
+  }
+}

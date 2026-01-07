@@ -1,0 +1,50 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "SCHIER 2025",
+      "details": {
+        "dates": {
+          "conference": "8–12 September 2025",
+          "satellite_events": null,
+          "submission_deadline": "25 June 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "UCLouvain, Louvain-la-Neuve, Belgium",
+        "main_conferences": [
+          "Informatics Education Research"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Informatics Europe"
+          ],
+          "submission_information": [
+            "Applications are limited to 40 participants on a first-come, first-served basis."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": {
+              "IE member institutes": "EUR 350",
+              "other participants": "EUR 400"
+            },
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://www.informatics-europe.org/education/informatics-education-research-school.html"
+          },
+          {
+            "flyer": "https://www.informatics-europe.org/images/SCHIER/2025/SCHIER2025-flyer.pdf"
+          },
+          {
+            "EU Council recognition": "https://www.informatics-europe.org/images/documents/IE-PhD-School-Informatics-Education-Research.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

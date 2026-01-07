@@ -1,0 +1,50 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "European Conference on Software Architecture (ECSA)",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "30th June 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "ECSA 2027 and onwards"
+        ],
+        "workshops": [],
+        "call_for_proposals": "Submission of Letters of Interest to organize ECSA 2027 and onwards.",
+        "requirements": {
+          "organizers": [
+            "Proposed General Chair name and CV"
+          ],
+          "submission_information": [
+            "Submission of Letter of Interest via email to SC chair, Paris Avgeriou"
+          ],
+          "promotion": {
+            "organizers_committee": "Not specified, potential members not binding",
+            "registration": null,
+            "participation_fee": "Self-funded through registration fees and sponsors"
+          }
+        },
+        "additional_links": [
+          {
+            "ECSA Charter": "https://ecsa-conferences.org/series/sc-documents/"
+          },
+          {
+            "ECSA 2025 Information": "https://conf.researchr.org/home/ecsa-2025"
+          },
+          {
+            "Steering Committee": "https://ecsa-conferences.org/series/steering-committee/"
+          },
+          {
+            "CORE Rankings": "http://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=CORE2023"
+          }
+        ]
+      }
+    }
+  ]
+}

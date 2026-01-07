@@ -1,0 +1,78 @@
+{
+  "email": {
+    "subject": "Call for Participation (Main Conference + Workshops): EASE'25: 29th International Conference on Evaluation and Assessment in Software Engineering, June 17-20, 2025",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 12:32:01 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "call_for_participation": {
+        "conference_name": "EASE'25",
+        "dates": "June 17-20, 2025",
+        "description": "The International Conference on Evaluation and Assessment in Software Engineering (EASE) provides a stimulating forum where researchers and practitioners can present and discuss recent research results on a wide range of topics within empirical evaluation of software engineering technologies, practices, and tools; transferring and applying empirical research methods from other disciplines to empirical software engineering and reflections on the use of such methods."
+      },
+      "technical_program": {
+        "keynotes": [
+          {
+            "speaker": "Prof. Dr. Sven Apel",
+            "affiliation": "Saarland University",
+            "topic": "AI4SE: Adventures in the Promised Land",
+            "date": "June 18, 2025"
+          },
+          {
+            "speaker": "Prof. Dr. Brian Fitzgerald",
+            "affiliation": "Lero - the Irish Software Research Centre",
+            "topic": "The Rise and Rise of InnerSource",
+            "date": "June 19, 2025"
+          },
+          {
+            "speaker": "Dr. Celal Ziftci",
+            "affiliation": "Google",
+            "topic": "Beyond Code Completion: Harnessing LLMs for Complex Code Migrations in an Enterprise Setting at Google",
+            "date": "June 20, 2025"
+          }
+        ],
+        "tracks": {
+          "research_track": {
+            "papers": 57
+          },
+          "industry_track": {
+            "papers": 13
+          },
+          "short_papers_track": {
+            "papers": 29
+          },
+          "ai_models_and_data_evaluation": {
+            "papers": 24
+          },
+          "vision_and_poster_track": {
+            "papers": 2
+          },
+          "doctoral_track": {
+            "papers": 4
+          },
+          "journal_first_track": {
+            "papers": 2
+          }
+        }
+      },
+      "registration": {
+        "link": "https://conf.researchr.org/attending/ease-2025/registration"
+      },
+      "workshops": {
+        "date": "June 17, 2025",
+        "number_of_workshops": 5
+      },
+      "submission_information": {
+        "email": "mailto:[log in to unmask]",
+        "seworld_information": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

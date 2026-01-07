@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "6th Summer School on Empirical Research Methods in Software Engineering and Informatics (ERMSEI)",
+      "details": {
+        "dates": {
+          "conference": "September 1-5, 2025",
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Centre de recherche INRIA/ IRISA, Rennes, France",
+        "main_conferences": [
+          "Empirical Research Methods in Software Engineering and Informatics"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "SEWORLD Moderator"
+          ],
+          "submission_information": [
+            "mailto:[log in to unmask]"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

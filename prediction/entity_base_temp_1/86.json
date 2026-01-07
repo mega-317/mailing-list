@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "PROFES 2025",
+      "details": {
+        "dates": {
+          "conference": "December 1–3, 2025",
+          "satellite_events": null,
+          "submission_deadline": "June 13, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Complesso San Michele, Salerno, Italy",
+        "main_conferences": [
+          "26th International Conference on Product-Focused Software Process Improvement"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "PROFES 2025 Organizing Committee"
+          ],
+          "submission_information": [
+            "Call For Paper Website: https://conf.researchr.org/track/profes-2025/profes-2025-research-papers"
+          ],
+          "promotion": {
+            "organizers_committee": "PROFES 2025 Organizing Committee",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "PROFES 2025": "https://conf.researchr.org/home/profes-2025"
+          }
+        ]
+      }
+    }
+  ]
+}

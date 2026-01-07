@@ -1,0 +1,71 @@
+{
+  "email": {
+    "subject": "Postdoc in Software Engineering and Open Source Security at Polytechnic Institute of Paris",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 1 Jul 2025 06:39:19 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Hello",
+      "organization": {
+        "name": "Télécom Paris",
+        "description": "engineering school member of the Polytechnic Institute of Paris",
+        "position": "hiring a postdoctoral researcher",
+        "duration": "30 months",
+        "fields": [
+          "software engineering",
+          "cybersecurity"
+        ],
+        "project_participation": {
+          "name": "SECUBIC",
+          "description": "SEcure BInary supply Chain",
+          "url": "https://secubic-ptcc.github.io/",
+          "goal": "improve the security of binary executables that include open source components"
+        },
+        "team": {
+          "name": "ACES team",
+          "objective": "develop techniques and tools that leverage Software Heritage as knowledge base about open source software to improve the state of the art of binary software composition analysis (SCA)",
+          "software_heritage": {
+            "url": "https://www.softwareheritage.org/",
+            "description": "the largest archive of source code in the world"
+          }
+        }
+      },
+      "job_description_links": {
+        "english": "https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5",
+        "french": "https://institutminestelecom.recruitee.com/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5"
+      },
+      "application_deadline": "31 August 2025",
+      "contact": {
+        "email": "[log in to unmask]"
+      },
+      "sender": {
+        "name": "Stefano Zacchiroli",
+        "email": "[log in to unmask]",
+        "website": "https://upsilon.cc/zack",
+        "title": "Full professor of Computer Science",
+        "organization": "Télécom Paris, Polytechnic Institute of Paris",
+        "roles": [
+          "Co-founder & CSO Software Heritage"
+        ],
+        "social_media": {
+          "mastodon": "https://mastodon.xyz/@zacchiro"
+        }
+      },
+      "footer": {
+        "call_to_action": "To contribute to SEWORLD, send your submission to",
+        "submission_email": "mailto:[log in to unmask]",
+        "more_info": {
+          "url": "http://sigsoft.org/resources/seworld.html",
+          "description": "provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+        }
+      }
+    }
+  }
+}

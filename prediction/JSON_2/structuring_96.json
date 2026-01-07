@@ -1,0 +1,67 @@
+{
+  "email": {
+    "subject": "JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:12:12 -0000",
+    "content_type": "text/plain",
+    "call_for_papers": {
+      "title": "JSS Special Issue on “Intelligent DevOps for Performance, Sustainability, and Reliability”",
+      "journal": "Journal of Systems and Software",
+      "submission_deadline": "30 September 2025",
+      "description": "DevOps has recently emerged as a fundamental principle in software engineering, aimed at accelerating the delivery of high-quality software through automation and seamless integration of development (Dev) and operations (Ops). Despite its clear advantages, DevOps can produce a mixed impact on software quality. On one hand, the rapid release cycles commonly associated with DevOps can conflict with the rigorous quality assurance practices needed to maintain critical runtime attributes such as performance, sustainability, and reliability. On the other hand, the close integration between development and operational activities unlocks unprecedented opportunities to enhance software quality through continuous collection, and analysis of operational data. Intelligent DevOps techniques can leverage this feedback loop to transform raw operational data into actionable insights that drive ongoing improvements in software quality.",
+      "relevant_subtopics": [
+        "Observability and monitoring in DevOps pipelines, including data collection, visualization, and analysis",
+        "Application of AIOps techniques to support quality assurance, continuous integration and deployment",
+        "Automated anomaly detection, incident prediction, and root cause analysis",
+        "Data-driven feedback loops for continuous improvement",
+        "Intelligent test automation, model-based testing, and AI-driven defect prediction",
+        "Integration of AI and data analytics tools into CI/CD pipelines and DevOps workflows",
+        "Infrastructure as code solutions augmented by intelligent self-adaptation and performance tuning",
+        "Methods and tools leveraging AI to enhance software quality at development time",
+        "Techniques and frameworks for improving sustainability, such as energy-efficient builds and resource optimization that reduce environmental impact",
+        "Model-based performance analysis and predictive modeling to proactively address capacity planning, scalability, and reliability concerns",
+        "Leveraging large language models for automation DevOps processes",
+        "Software architecture modeling, analysis, and adaptation informed by operational data",
+        "Tools and methodologies for quality assurance in microservices-based systems",
+        "Comparative evaluations, benchmarks, and empirical studies of tools, frameworks, and methodologies for quality assurance spanning the entire software delivery lifecycle"
+      ],
+      "submission_instructions": {
+        "manuscript_preparation": "Submissions should be prepared according to the Guide for Authors.",
+        "submission_link": "https://www2.cloud.editorialmanager.com/jssoftware",
+        "submission_article_type": "VSI:Intelligent DevOps",
+        "submission_deadline": "30th September 2025"
+      },
+      "editors": [
+        {
+          "name": "Luca Traini",
+          "title": "Assistant Professor",
+          "institution": "University of L’Aquila",
+          "location": "L'Aquila, Italy"
+        },
+        {
+          "name": "Heng Li",
+          "title": "Assistant Professor",
+          "institution": "Polytechnique Montreal",
+          "location": "Montréal Quebec, Canada"
+        },
+        {
+          "name": "Weiyi Shang",
+          "title": "Associate Professor",
+          "institution": "University of Waterloo",
+          "location": "Waterloo Ontario, Canada"
+        }
+      ]
+    },
+    "contribution_information": {
+      "submission_email": "mailto:[log in to unmask]",
+      "seworld_information_link": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

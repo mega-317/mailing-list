@@ -1,0 +1,116 @@
+{
+  "email": {
+    "subject": "Senior Lecturer in Computer Science, Specialisation in AI Engineering (Permanent Position) - Karlstad University, Sweden",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 27 May 2025 13:51:25 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear colleagues,",
+      "message": "Considering applying to join the Software Quality and Digital Modernization (SQuaD) at the Department of Mathematics and Computer Science, Karlstad University (Sweden). Details below.",
+      "closing": "Best wishes,",
+      "signature": "Leonardo Iwaya",
+      "job_details": {
+        "position": {
+          "title": "Senior Lecturer in Computer Science",
+          "specialization": "AI Engineering",
+          "url": "https://kau.varbi.com/en/what:job/jobID:718619/iframeEmbedded:0/where:4",
+          "last_application_date": "08.Jun.2025"
+        },
+        "department": {
+          "name": "Department of Mathematics and Computer Science",
+          "motto": "Sapere Aude – dare to know",
+          "description": "Our students and employees develop important knowledge that enrich both the individual and the community...",
+          "staff": {
+            "total_employees": 1400,
+            "total_students": 17700,
+            "campus_locations": [
+              "Karlstad",
+              "Arvika"
+            ]
+          }
+        },
+        "description": "The Department of Mathematics and Computer Science hereby invites applications for a senior lectureship in Computer Science with a specialisation in AI Engineering.",
+        "duties": {
+          "teaching": "Contribute to both teaching and research in the AI domain, conduct innovative research in AI Engineering, deliver cutting-edge AI/ML content.",
+          "collaboration": "Striving for research collaboration with other colleagues at the Department, industry, and other academics.",
+          "community_engagement": "Collaborate with the wider community for mutual exchange."
+        },
+        "qualifications": {
+          "requirements": [
+            "Documented pedagogical skills",
+            "Doctoral degree or equivalent in Computer Science or AI Engineering",
+            "Proficiency in Swedish and English"
+          ],
+          "notes": [
+            "Candidates not proficient in Swedish may be hired with the requirement to actively acquire proficiency."
+          ]
+        },
+        "assessment_criteria": {
+          "overall_criteria": "Equal weight will given to pedagogical and scientific excellence.",
+          "special_weight": [
+            "Merits in teaching in computer science applied to AI Engineering.",
+            "Recent research and development in computer science applied to AI Engineering."
+          ],
+          "considerable_weight": [
+            "International work experience.",
+            "Contribution of knowledge and experience to the Department.",
+            "Current collaboration experience with the wider community."
+          ]
+        },
+        "terms": {
+          "employment_type": "Permanent full-time",
+          "probationary_period": "May be applied"
+        },
+        "application": {
+          "submission_method": "Via the University’s web-based recruitment tool, Varbi.",
+          "requirements": [
+            "CV",
+            "Cover letter",
+            "Teaching experience",
+            "Higher education pedagogy certificate",
+            "Research experience",
+            "Managerial experience",
+            "Future work plans",
+            "Collaborations and networks",
+            "List of publications",
+            "Language proficiency certificates",
+            "PhD degree certificate",
+            "No more than 10 scientific publications",
+            "Two references"
+          ],
+          "address": {
+            "name": "Karlstads universitet",
+            "contact_person": "Hanna Ljungdahl",
+            "postal_code": "651 88 KARLSTAD"
+          },
+          "application_deadline": "2025-06-08",
+          "reference_number": "REK2024-86"
+        },
+        "contacts": [
+          {
+            "name": "Anna Brunström",
+            "phone": "+46547001795"
+          },
+          {
+            "name": "Thomas Bragefors",
+            "title": "Union representative",
+            "phone": "054-7001714"
+          },
+          {
+            "name": "Denita Gustavsson",
+            "title": "Union representative",
+            "phone": "054-7001434"
+          }
+        ],
+        "publication_date": "09.May.2025"
+      }
+    }
+  }
+}

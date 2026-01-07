@@ -1,0 +1,59 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opportunity",
+      "name": "Postdoc in Software Engineering and Open Source Security",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "31 August 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Télécom Paris, Polytechnic Institute of Paris",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Télécom Paris"
+          ],
+          "submission_information": [
+            {
+              "description": "For a complete job description see",
+              "links": [
+                {
+                  "language": "EN",
+                  "url": "https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5"
+                },
+                {
+                  "language": "FR",
+                  "url": "https://institutminestelecom.recruitee.com/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5"
+                }
+              ]
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "SECUBIC": "https://secubic-ptcc.github.io/"
+          },
+          {
+            "Software Heritage": "https://www.softwareheritage.org/"
+          },
+          {
+            "Contact": "[log in to unmask]"
+          }
+        ]
+      }
+    }
+  ]
+}

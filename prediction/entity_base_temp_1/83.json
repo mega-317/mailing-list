@@ -1,0 +1,54 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Announcement",
+      "name": "Dean of School of Computing and Information Systems",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "2025-06-10",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Singapore Management University, 80 Stamford Road, Singapore 178902",
+        "main_conferences": [
+          {
+            "name": "Singapore Management University",
+            "rank": {
+              "global": 4,
+              "area": "Software Engineering",
+              "date": 2024
+            }
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Perrett Laver"
+          ],
+          "submission_information": [
+            {
+              "documents": [
+                "Cover letter",
+                "Curriculum vitae"
+              ],
+              "details": "Description of relevant management and leadership experiences, teaching and research interests."
+            }
+          ],
+          "promotion": {
+            "organizers_committee": "SCIS Dean Search Committee",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Perrett Laver Job Posting": "https://candidates.perrettlaver.com/vacancies/"
+          }
+        ]
+      }
+    }
+  ]
+}

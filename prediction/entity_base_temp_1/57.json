@@ -1,0 +1,45 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Announcement",
+      "name": "Senior Lecturer in Computer Science, Specialisation in AI Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "2025-06-08",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": {
+          "city": "Karlstad",
+          "county": "Värmlands län",
+          "country": "Sweden"
+        },
+        "main_conferences": [
+          "Karlstad University"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Karlstad University"
+          ],
+          "submission_information": [
+            "Candidates must submit a complete application via the University’s web-based recruitment tool, Varbi."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "URL": "https://kau.varbi.com/en/what:job/jobID:718619/iframeEmbedded:0/where:4"
+          }
+        ]
+      }
+    }
+  ]
+}

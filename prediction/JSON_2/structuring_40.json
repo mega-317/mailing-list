@@ -1,0 +1,64 @@
+{
+  "email": {
+    "subject": "Special Issue on Software Engineering in Generative Art",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 5 Jun 2025 13:58:53 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "introduction": {
+        "title": "SI of the IEEE Computer Magazine on Software Engineering in Generative Art",
+        "url": "https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art",
+        "description": "Algorithmic artists, a.k.a generative artists, use code as a medium to produce artworks."
+      },
+      "discussion": {
+        "details": "When the code executes, it can drive any number of processes, including generating visuals and/or sound, responding to user interactions, or choreographing movements of robotic elements. The code includes non-deterministic elements such as random numbers, live data processing, or audience inputs. There exist software engineering concerns related to maintenance, evolution, programming abstractions, and performance."
+      },
+      "challenges": {
+        "challenges": [
+          "Measuring the correctness of artistic output is non-trivial as output aesthetics are difficult to formally quantify.",
+          "Maintaining, preserving, and restoring algorithmic artworks is challenging due to outdated runtimes or libraries, reliance on quickly unavailable online resources, and obsolete technology.",
+          "Balancing performance for real-time interactions and domain-specific abstractions that support artistic expression with code."
+        ]
+      },
+      "aim": {
+        "goal": "To open a conversation between software engineers, generative artists, and caretakers about advancements at the intersection of software technology and algorithmic art."
+      },
+      "encouragement": "Encouragement to develop and apply software technology to strengthen all aspects of the software engineering lifecycle in algorithmic art projects, and to make code and data publicly accessible.",
+      "more_details_url": "https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art",
+      "important_dates": {
+        "submission_deadline": "December 15, 2025",
+        "feedback_to_authors": "March 15, 2026",
+        "submission_of_revised_papers": "April 15, 2026",
+        "final_notification_to_authors": "May 15, 2026"
+      },
+      "guest_editors": [
+        {
+          "name": "Benoit Baudry",
+          "url": "https://softwarediversity.eu/",
+          "affiliation": "Université de Montréal"
+        },
+        {
+          "name": "Patricia Falcao",
+          "url": "https://www.tate.org.uk/research/studentships/patricia-falc%C3%A3o",
+          "affiliation": "Tate Modern"
+        },
+        {
+          "name": "Erik Fredericks",
+          "url": "https://efredericks.github.io/",
+          "affiliation": "Grand Valley State University"
+        }
+      ],
+      "submission_information": {
+        "contact": "mailto:[log in to unmask]",
+        "more_info_url": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

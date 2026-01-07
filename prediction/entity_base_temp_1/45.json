@@ -1,0 +1,50 @@
+{
+  "extracted_entities": [
+    {
+      "type": "School",
+      "name": "School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions",
+      "details": {
+        "dates": {
+          "conference": "July 7th-11th 2025",
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Kutaisi International University, Kutaisi, Georgia",
+        "main_conferences": [
+          "School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Maribel Fernandez",
+            "Giovanni Ciatto",
+            "Elena Umili",
+            "Santiago Escobar",
+            "Temur Kutsia",
+            "Martin Leucker",
+            "Martin Berger"
+          ],
+          "submission_information": [
+            "Send submissions to [log in to unmask]"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": {
+              "fee": "150 EUR",
+              "contact": "[log in to unmask]"
+            },
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://europroofnet.github.io/Kutaisi25/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "email": {
+    "subject": "CGO'26 - Call for Papers and first submission round",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 21 May 2025 23:25:17 -0000",
+    "content_type": "text/plain"
+  },
+  "conference": {
+    "name": "ACM/IEEE International Symposium on Code Generation and Optimization",
+    "abbreviation": "CGO 2026",
+    "website": "https://2026.cgo.org/",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "call_for_papers": {
+      "submission_deadline": "29 May 2025",
+      "author_rebuttal_period": {
+        "start": "8 July 2025",
+        "end": "10 July 2025"
+      },
+      "notification_date": "21 July 2025",
+      "description": "CGO provides a premier venue to bring together researchers and practitioners working at the interface of hardware and software on a wide range of optimization and code generation techniques and related issues.",
+      "submission_link": "https://2026.cgo.org/track/cgo-2026-papers"
+    }
+  },
+  "contact": {
+    "name": "Luisa Cicolini",
+    "submission_email": "[log in to unmask]",
+    "seworld_info": {
+      "website": "http://sigsoft.org/resources/seworld.html",
+      "archive": "complete archive of messages posted to the list"
+    }
+  }
+}

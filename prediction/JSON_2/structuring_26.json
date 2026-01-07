@@ -1,0 +1,157 @@
+{
+  "email": {
+    "subject": "Postdoctoral position in Computer Science, OPEHRA (Software Engineering, AI, Human Rights, and Digital Health), Karlstad University (Sweden)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 19 Jun 2025 17:16:38 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear colleagues,",
+      "introduction": "We are looking for a highly motivated postdoc researcher to work together with us in the KKS-funded project 'OPEHRA: Operationalising Human Rights in the Design of AI-supported Digital Health'.",
+      "project_description": {
+        "title": "OPEHRA: Operationalising Human Rights in the Design of AI-supported Digital Health",
+        "focus": [
+          "meaningful integration of human rights in the software engineering lifecycle",
+          "digital health and social care AI systems",
+          "AI fairness and bias",
+          "gender equality",
+          "privacy and data protection rights"
+        ],
+        "url": "https://kau.varbi.com/en/what:job/jobID:822208/iframeEmbedded:0/where:4"
+      },
+      "institution_description": {
+        "motto": "Sapere Aude – dare to know",
+        "commitment": [
+          "promoting sustainable development",
+          "gender equality",
+          "diversity",
+          "democratic approach"
+        ],
+        "location": "Värmland, Sweden",
+        "employee_count": 1400,
+        "student_count": 17700,
+        "campuses": [
+          "Karlstad",
+          "Arvika"
+        ],
+        "website": "kau.se/en/work-with-us"
+      },
+      "position_details": {
+        "type": "postdoctoral",
+        "field": "Computer Science",
+        "focus": [
+          "Impact and Risk Assessments",
+          "Artificial Intelligence",
+          "Digital Health and Social Care Systems"
+        ],
+        "research_group": "Privacy & Security (PriSec)",
+        "employment_type": "full-time",
+        "duration": "2 years",
+        "start_date_range": {
+          "from": "October 1, 2025",
+          "to": "December 1, 2025"
+        }
+      },
+      "duties": {
+        "research": [
+          "conduct research on AI-based systems for digital health",
+          "focus on impact and risk assessments",
+          "carry out qualitative case study research",
+          "develop AI literacy materials"
+        ],
+        "teaching": {
+          "involvement": "up to 20% of working time"
+        }
+      },
+      "qualifications": {
+        "requirements": [
+          "PhD in Computer Science or closely related subject",
+          "PhD completion no more than three years before application deadline"
+        ],
+        "considerations": [
+          "sick leave",
+          "parental leave",
+          "clinical service",
+          "union representation",
+          "military service",
+          "relevant service"
+        ]
+      },
+      "assessment_criteria": {
+        "special_weight": [
+          "scientific experience in impact and risk assessments",
+          "interdisciplinary research experience",
+          "qualitative research methods",
+          "familiarity with European legal frameworks",
+          "publications in high-impact journals",
+          "communication skills in English and Swedish"
+        ],
+        "considerable_weight": [
+          "personal qualities such as initiative and cooperation skills",
+          "current community collaboration experience",
+          "international work experience",
+          "knowledge of responsible and trustworthy AI"
+        ],
+        "weight": [
+          "teaching experience in tertiary education",
+          "knowledge of Swedish language"
+        ],
+        "valuable_qualifications": [
+          "recognised teaching and assessment skills",
+          "completed course in higher education pedagogy",
+          "capacity to teach in English and Swedish"
+        ]
+      },
+      "application_process": {
+        "platform": "University's web-based recruitment tool, Varbi",
+        "responsibility": "Applicants must submit a complete application",
+        "deadline": "03.08.2025",
+        "application_contents": [
+          "CV",
+          "Cover letter (max 2 pages)",
+          "List of publications",
+          "Copy of PhD degree or expected completion date",
+          "Copy of doctoral thesis",
+          "Two references"
+        ],
+        "reference_number": "REK. 2025/101"
+      },
+      "contact_information": {
+        "main_contact": {
+          "name": "Leonardo Iwaya",
+          "position": "Docent, PhD, Associate Senior Lecturer",
+          "department": "Privacy and Security Research Group (PriSec)",
+          "institution": "Department of Mathematics and Computer Science, Karlstad University",
+          "phone": "0547001037",
+          "email": "[log in to unmask]"
+        },
+        "union_representatives": [
+          {
+            "name": "Thomas Bragefors",
+            "union": "SACO",
+            "phone": "+4654-7001714",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Denita Gustavsson",
+            "union": "OFR",
+            "phone": "+4654-7001434",
+            "email": "[log in to unmask]"
+          }
+        ]
+      },
+      "publications": [
+        {
+          "date": "17.Jun.2025",
+          "last_application_date": "03.Aug.2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Intelligent DevOps for Performance, Sustainability, and Reliability",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "30 September 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "Journal of Systems and Software"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Luca Traini",
+              "title": "Assistant Professor",
+              "affiliation": "University of L’Aquila, L'Aquila, Italy"
+            },
+            {
+              "name": "Heng Li",
+              "title": "Assistant Professor",
+              "affiliation": "Polytechnique Montreal, Montréal Quebec, Canada"
+            },
+            {
+              "name": "Weiyi Shang",
+              "title": "Associate Professor",
+              "affiliation": "University of Waterloo, Waterloo Ontario, Canada"
+            }
+          ],
+          "submission_information": [
+            {
+              "submission_guidelines": "All manuscripts should be submitted via the Elsevier Editorial System.",
+              "link": "https://www2.cloud.editorialmanager.com/jssoftware",
+              "article_type": "VSI:Intelligent DevOps"
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Guide for Authors": "https://www.sciencedirect.com/journal/journal-of-systems-and-software/publish/guide-for-authors"
+          },
+          {
+            "Special Issue Link": "https://www.sciencedirect.com/special-issue/320414/intelligent-devops-for-performance-sustainability-and-reliability"
+          }
+        ]
+      }
+    }
+  ]
+}

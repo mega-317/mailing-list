@@ -1,0 +1,64 @@
+{
+  "email": {
+    "subject": "[ICLP 2025 - Announcement of Accepted Workshops ] 41st International Conference on Logic Programming (ICLP’25), University of Calabria, Rende, Italy | September 12-19, 2025",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 27 May 2025 13:52:35 -0000",
+    "contentType": "text/plain",
+    "body": {
+      "introduction": "ICLP 2025, the 41st International Conference on Logic Programming, will be held at the University of Calabria, Rende, Italy, from September 12 to September 19, 2025.",
+      "announcement": {
+        "workshopsCount": 8,
+        "workshops": [
+          {
+            "name": "32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion (RCRA 2025)",
+            "website": "https://rcra2025.wordpress.com",
+            "description": "The scope of the workshop is fostering the cross-fertilization of ideas stemming from different areas, proposing benchmarks for new challenging problems, comparing models and algorithms from an experimental viewpoint, and, in general, comparing different approaches regarding efficiency, problem modelling, and ease of development."
+          },
+          {
+            "name": "18th Workshop on Answer Set Programming and Other Computing Paradigms (ASPOCP 2025)",
+            "website": "https://sites.google.com/view/aspocp-2025/",
+            "description": "Workshop on combining Answer Set Programming with Other Computing Paradigms, such as constraint satisfaction, quantified Boolean formulas (QBF), Constraint Logic Programming (CLP), first-order logic (FOL)."
+          },
+          {
+            "name": "12th Workshop on Probabilistic Logic Programming (PLP 2025)",
+            "website": "https://stoics.org.uk/~plp2025/",
+            "description": "The PLP workshop encompasses all aspects of combining logic, algorithms, programming, and probability. Due to logic programming's strong theoretical underpinnings, PLP is one of the more disciplined areas of probabilistic programming."
+          },
+          {
+            "name": "9th Workshop on Advances in Argumentation in Artificial Intelligence (AI³ 2025)",
+            "website": "https://tinyurl.com/ai3w25",
+            "description": "Argumentation is the study of the processes and activities involving the production and exchange of arguments, where arguments are attempts to persuade someone or something by giving reasons for accepting a particular conclusion as evident."
+          },
+          {
+            "name": "Third Prolog Education Workshop (PEG 2025)",
+            "website": "https://prolog-lang.org/Education/PrologEducationWS2025.html",
+            "description": "The PEG workshop series is one of the initiatives of the Prolog Education Group 2.0, which aims to promote the use of Prolog-like computing to make logical reasoning and trustworthy coding skills more universally available."
+          },
+          {
+            "name": "Second Annual Workshop on Prolog Improvement Proposals (PIPs)",
+            "website": "https://prolog-lang.org/ImplementersForum/PIPWorkshop2025.html",
+            "description": "The PIP workshop series offers Prolog implementers and users an opportunity to present short descriptions of features desired or not supported in all systems that they believe would benefit other systems."
+          },
+          {
+            "name": "Workshop on Logic Programming and Legal Reasoning (LPLR 2025)",
+            "website": "https://lplr2025.legaltech.wales/",
+            "description": "Representation of legal rules and reasoning over them is a critical application area since laws and regulations are used in almost all human activities."
+          },
+          {
+            "name": "1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action (CARLA)",
+            "website": "https://carla-ws.github.io/web/",
+            "description": "CARLA aims to advance the field of intelligent robotics through the integration of large language models, symbolic reasoning, and logic solvers."
+          }
+        ]
+      },
+      "conclusion": "Best regards, ICLP 2025 Chairs"
+    }
+  }
+}

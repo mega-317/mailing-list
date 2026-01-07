@@ -1,0 +1,49 @@
+{
+  "email": {
+    "subject": "Call for Participation - 6th Summer School on Empirical Research Methods in Software Engineering and Informatics (ERMSEI), 1-5 September 2025, Rennes, France.",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 19 May 2025 15:45:56 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "title": "Call for Participation to the ERMSEI 2025 Summer School",
+      "event": {
+        "name": "6th Summer School on Empirical Research Methods in Software Engineering and Informatics (ERMSEI)",
+        "dates": {
+          "start": "2025-09-01",
+          "end": "2025-09-05"
+        },
+        "location": {
+          "venue": "Centre de recherche INRIA/ IRISA",
+          "city": "Rennes",
+          "country": "France"
+        }
+      },
+      "goal": "The goal of this summer school is to get junior researchers started on using empirical research methods on software engineering topics. We emphasize practical, hands-on exercises throughout the course because that is the only way to really get going. We focus on providing overview rather than details: those are better learned by reading specialized books. We will try to work on your research topics as much as possible, delivering real and immediate value to participants.",
+      "speakers": [
+        {
+          "name": "Harald St√∂rrle",
+          "affiliation": "QAware",
+          "location": "Munich, Germany"
+        },
+        {
+          "name": "Djamel E. Khelladi",
+          "affiliation": "CNRS, Univ. Rennes",
+          "location": "France"
+        }
+      ],
+      "topics": "We will cover all major research methods, i.e., controlled experiments, a selection of qualitative methods, and the major approaches to secondary research. We will also discuss study design as the most important obstacle to high quality empirical research, but we will not cover statistics or specialized tools such as R. The whole summer school is based on case studies of actual published empirical research, and quite possibly your own research projects.",
+      "prerequisite": {
+        "note": "To contribute to SEWORLD, send your submission to",
+        "email": "[log in to unmask]",
+        "link": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

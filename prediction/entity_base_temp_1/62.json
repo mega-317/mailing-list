@@ -1,0 +1,88 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ETAPS 2026",
+      "details": {
+        "dates": {
+          "conference": "April 11–16, 2026",
+          "satellite_events": "April 11–12, 2026",
+          "submission_deadline": "June 26, 2025",
+          "notification_of_acceptance": "July 9, 2025",
+          "final_files_due": "January 15, 2026"
+        },
+        "location": "Torino, Italy",
+        "main_conferences": [
+          {
+            "name": "ESOP",
+            "full_name": "European Symposium on Programming"
+          },
+          {
+            "name": "FASE",
+            "full_name": "Fundamental Approaches to Software Engineering"
+          },
+          {
+            "name": "FoSSaCS",
+            "full_name": "Foundations of Software Science and Computation Structures"
+          },
+          {
+            "name": "TACAS",
+            "full_name": "Tools and Algorithms for the Construction and Analysis of Systems"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "The ETAPS 2026 organizing committee invites proposals for satellite events to complement the main conferences.",
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Vincenzo Ciancia",
+              "affiliation": "CNR-ISTI, Pisa, Italy"
+            },
+            {
+              "name": "Luca Paolini",
+              "affiliation": "University of Torino, Torino, Italy"
+            },
+            {
+              "name": "Enrico Beraldo",
+              "affiliation": "Synesthesia, Torino, Italy"
+            }
+          ],
+          "submission_information": [
+            "Organizers must submit a proposal including the name of the event, duration, expected participants, and a brief description of the event."
+          ],
+          "promotion": {
+            "organizers_committee": "ETAPS 2026 organizing committee",
+            "registration": "Arranged as a component of registration for ETAPS",
+            "participation_fee": "Collected from registrants"
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://etaps.org/2025/sat-events/"
+          },
+          {
+            "ETAPS 2024": "https://etaps.org/2024/sat-events/"
+          },
+          {
+            "ETAPS 2023": "https://etaps.org/2023/sat-events/"
+          },
+          {
+            "ETAPS 2022": "https://etaps.org/2022/workshops"
+          },
+          {
+            "ETAPS 2021": "https://etaps.org/2021/workshops"
+          },
+          {
+            "ETAPS 2020": "https://etaps.org/2020/workshops"
+          },
+          {
+            "ETAPS 2019": "https://etaps.org/2019/workshops"
+          },
+          {
+            "ETAPS 2018": "https://etaps.org/2018/workshops"
+          }
+        ]
+      }
+    }
+  ]
+}

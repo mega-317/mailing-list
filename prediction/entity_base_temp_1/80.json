@@ -1,0 +1,46 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Positions",
+      "name": "Postdoctoral positions at UCLouvain",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "UCLouvain, Belgium",
+        "main_conferences": [
+          "RAINDROP project"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Pr. Etienne Rivière",
+            "Pr. Ramin Sadre",
+            "Pr. Anthony Cleve"
+          ],
+          "submission_information": [
+            "Include CV and publication record"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Contact Pr. Etienne Rivière": "[log in to unmask]"
+          },
+          {
+            "Contact Pr. Ramin Sadre": "[log in to unmask]"
+          }
+        ]
+      }
+    }
+  ]
+}

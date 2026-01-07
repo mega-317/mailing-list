@@ -1,0 +1,61 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024)",
+      "details": {
+        "dates": {
+          "conference": "24–26 July 2024",
+          "satellite_events": null,
+          "submission_deadline": "8 May 2024",
+          "notification_of_acceptance": "10 June 2024",
+          "final_files_due": "3 July 2024"
+        },
+        "location": "Melbourne, Australia",
+        "main_conferences": [
+          "IEEE AIoT 2024"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Wei Xiang, La Trobe University, Australia",
+            "Carla Fabiana Chiasserini, Politecnico di Torino, Italy",
+            "Dusit Niyato, Nanyang Technological University, Singapore",
+            "Ruidong Li, Kanazawa University, Japan",
+            "Prasad Kodaypak, The XMG, USA",
+            "Song Guo, Hong Kong University of Science and Technology, China",
+            "Henry Leung, University of Calgary",
+            "Flora Salim, University of New South Wales, Australia",
+            "JaeSeung Song, Sejong University, South Korea",
+            "Teng Joon Lim, University of Sydney, Australia",
+            "Jia Hu, University of Exeter, U.K.",
+            "Pietro Manzoni, Universidad Politécnica de Valencia, Spain",
+            "Xiang Sun, University of Mexico, USA",
+            "Zhengxin Yu, Lancaster University, U.K.",
+            "Constandinos X. Mavromoustakis, University of Nicosia, Cyprus",
+            "Peng Cheng, La Trobe University, Australia",
+            "Wei Wang, San Diego State University",
+            "Haihan Nan, Kanazawa University, Japan",
+            "Kang Han, La Trobe University, Australia",
+            "Kan Yu, La Trobe University, Australia",
+            "Phu Lai, La Trobe University, Australia"
+          ],
+          "submission_information": [
+            "Papers must be submitted using EDAS. Full papers should not exceed six (6) IEEE style pages including results, figures, and references. One (1) extra page is allowed with an extra charge of $100."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "IEEE AIoT 2024": "https://www.ieee-aiot.org"
+          }
+        ]
+      }
+    }
+  ]
+}

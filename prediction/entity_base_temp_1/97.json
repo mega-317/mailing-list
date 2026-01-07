@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "21st International Conference on Information Systems Security (ICISS 2025)",
+      "details": {
+        "dates": {
+          "conference": "December 16–20, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 10, 2025",
+          "notification_of_acceptance": "September 30, 2025",
+          "final_files_due": "October 15, 2025"
+        },
+        "location": "Indian Institute of Technology Indore (IIT Indore), India",
+        "main_conferences": [
+          "ICISS 2025"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Organizing Committee ICISS 2025"
+          ],
+          "submission_information": [
+            "For more details, submission guidelines, and updates, please visit the official conference website."
+          ],
+          "promotion": {
+            "organizers_committee": "Organizing Committee ICISS 2025",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ICISS 2025": "https://iciss.isrdc.in/"
+          }
+        ]
+      }
+    }
+  ]
+}

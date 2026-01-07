@@ -1,0 +1,61 @@
+{
+  "email": {
+    "subject": "CFP: The International Symposium on Sustainable Systems Technologies and Green Computing (STGC) | Dubrovnik, Croatia",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 28 May 2025 12:08:28 -0000",
+    "content_type": "text/plain",
+    "conference_details": {
+      "title": "The International Symposium on Sustainable Systems Technologies and Green Computing (STGC)",
+      "date": {
+        "start": "2025-10-15",
+        "end": "2025-10-17"
+      },
+      "location": "Dubrovnik, Croatia",
+      "website": "https://flta-conference.org/flta-2025/sts.php",
+      "conference_type": "Hybrid",
+      "sponsor": "IEEE Croatia Section"
+    },
+    "call_for_papers": {
+      "invitation": "We are pleased to invite you to submit your original research papers, case studies, and industry insights to our upcoming symposium.",
+      "co_location": {
+        "conference": "3rd International Conference on Federated Learning Technologies and Applications (FLTA 2025)",
+        "date": {
+          "start": "2025-10-14",
+          "end": "2025-10-17"
+        }
+      },
+      "aim": "STS aims to address the growing demand for sustainable, energy-efficient, and resilient software systems by exploring innovative approaches in technology and system development.",
+      "topics": [
+        "Energy-Efficient Software Engineering",
+        "Sustainable Architectures",
+        "AI for Sustainability",
+        "IoT-Enabled Sustainability",
+        "Green Computing",
+        "Scalability and Adaptability",
+        "Blockchain for Sustainability",
+        "Technology, Sociology, and Economy for Sustainable Development",
+        "Software Engineering for Sustainability"
+      ],
+      "publication": "Accepted papers will be published in IEEE Xplore in the proceedings of FLTA 2025.",
+      "key_dates": {
+        "submission_deadline": "2025-08-02",
+        "symposium_date": "2025-10-15",
+        "location": "Dubrovnik, Croatia"
+      },
+      "official_webpage": "https://flta-conference.org/flta-2025/sts.php"
+    },
+    "contact": {
+      "name": "Fahed",
+      "email": "[log in to unmask]",
+      "note": "Should you have any questions or require further information, please feel free to contact me directly."
+    },
+    "closing": "Kind regards"
+  }
+}

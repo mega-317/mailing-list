@@ -1,0 +1,65 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Symposium",
+      "name": "9th Working Formal Methods Symposium",
+      "details": {
+        "dates": {
+          "conference": "September 17-19, 2025",
+          "satellite_events": null,
+          "submission_deadline": "June 22, 2025",
+          "notification_of_acceptance": "July 22, 2025",
+          "final_files_due": "August 29, 2025"
+        },
+        "location": "Iași, România",
+        "main_conferences": [
+          "Working Formal Methods Symposium"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Verimag",
+            "CNRS",
+            "University of Grenoble Alpes",
+            "Faculty of Computer Science, Alexandru Ioan Cuza University of Iași"
+          ],
+          "submission_information": [
+            "Papers of up to 16 pages prepared according to the EPTCS template must be submitted electronically using the EasyChair submission system."
+          ],
+          "promotion": {
+            "organizers_committee": [
+              "Bogdan Aman",
+              "Andrei Arusoaie",
+              "Ștefan Ciobâcă",
+              "Mădălina Erașcu",
+              "Pierre Ganty",
+              "Peter Habermehl",
+              "Dániel Horpácsi",
+              "Radu Iosif",
+              "Laurențiu Leuștean",
+              "Dorel Lucanu",
+              "Mircea Marin",
+              "David Nowak",
+              "Vlad Rusu",
+              "Arnaud Sangnier",
+              "Mihaela Sighireanu",
+              "Andrei Sipoș",
+              "Viorica Sofronie-Stokkermans",
+              "Alicia Villanueva",
+              "Tomáš Vojnar",
+              "Florian Zuleger"
+            ],
+            "registration": "September 2, 2025",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://fromsymposium.github.io/"
+          }
+        ]
+      }
+    }
+  ]
+}

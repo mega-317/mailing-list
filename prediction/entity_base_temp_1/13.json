@@ -1,0 +1,87 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE iMETA 2025",
+      "details": {
+        "dates": {
+          "conference": "14-17 October 2025",
+          "satellite_events": null,
+          "submission_deadline": {
+            "late_track": "July 30, 2025",
+            "workshops": "July 30, 2025"
+          },
+          "notification_of_acceptance": {
+            "late_track": "August 20, 2025",
+            "workshops": "August 30, 2025"
+          },
+          "final_files_due": {
+            "late_track": "August 31, 2025",
+            "workshops": "September 10, 2025"
+          }
+        },
+        "location": "Dubrovnik, Croatia",
+        "main_conferences": [
+          {
+            "name": "International Conference on Intelligent Metaverse Technologies & Applications",
+            "tracks": [
+              "Large Language Models (LLMs) in the Metaverse",
+              "Native AI for Metaverse Technologies",
+              "Security and Privacy",
+              "Networking and Communications",
+              "Systems and Computing",
+              "Multimedia and Computer Vision",
+              "Immersive Technologies and Services",
+              "Storage and Processing"
+            ]
+          }
+        ],
+        "workshops": [
+          {
+            "name": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse",
+            "link": "https://imeta-conference.org/2025/workshops#WS1"
+          },
+          {
+            "name": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse",
+            "link": "https://imeta-conference.org/2025/workshops#WS2"
+          },
+          {
+            "name": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems",
+            "link": "https://imeta-conference.org/2025/workshops#WS3"
+          },
+          {
+            "name": "1st International Workshop on Generative AI for Immersive Experience Design",
+            "link": "https://imeta-conference.org/2025/workshops#WS4"
+          },
+          {
+            "name": "1st International Workshop on AI-Enhanced Learning Worlds",
+            "link": "https://imeta-conference.org/2025/workshops#WS5"
+          },
+          {
+            "name": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse",
+            "link": "https://imeta-conference.org/2025/workshops#WS6"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "IEEE iMETA 2025 Organizing Committee"
+          ],
+          "submission_information": [
+            "Manuscripts must be original, not previously published, or under review. Submissions should adhere to the IEEE Conference Proceedings Format, using a double-column layout, 10-point font, and letter-sized paper. Manuscripts must be submitted in PDF format and should not exceed 6 pages for the review process. Accepted papers may extend to a maximum of 8 pages for the camera-ready version, subject to an overlength page fee."
+          ],
+          "promotion": {
+            "organizers_committee": "IEEE iMETA 2025 Organizing Committee",
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://imeta-conference.org/"
+          }
+        ]
+      }
+    }
+  ]
+}

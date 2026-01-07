@@ -1,0 +1,77 @@
+{
+  "email": {
+    "subject": "Call for Papers: TOSEM special issue in Agentic AI",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 7 Jul 2025 03:12:28 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "special_issue": {
+        "title": "Agentic Artificial Intelligence (AI) in Software",
+        "journal": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2026,
+        "description": "A special issue on Agentic AI in Software is planned in TOSEM in 2026, and papers are being solicited for this purpose. AI has had significant impact in SE affecting various branches in Software Engineering (SE) including coding, testing, analysis, patching, documentation, and even design. Lately with the arrival of Large Language Model (LLM) agents – the discipline of SE has seen further shifts. The autonomous deployment of tools with LLM backends gives the agents tremendous power and potential in bringing greater automation to SE tasks. At the same time, greater automation in SE tasks does not immediately mean greater productivity gains. There exists a lot of concerns around trust in the output produced by agents and the amount of manual effort needed to integrate agent workflows into software engineering workflows. Further, a software engineer's creativity is not only from their own thought - but can be triggered by interactions among team members or from feedback given in a team meeting.",
+        "topics": [
+          {
+            "category": "Auto",
+            "description": "Automation of SE tasks via agents"
+          },
+          {
+            "category": "Trust",
+            "description": "Enhancing trust in agent outputs"
+          },
+          {
+            "category": "Integrate",
+            "description": "Integration of agents into existing software workflows"
+          },
+          {
+            "category": "A-H",
+            "description": "Agent – human interaction in SE teams and team dynamics"
+          },
+          {
+            "category": "Oth",
+            "description": "Any other agent in SE topics not covered in the preceding list"
+          }
+        ],
+        "submission_instructions": {
+          "link": "https://mc.manuscriptcentral.com/tosem",
+          "button_text": "Special issue 2025: Agentic AI in Software",
+          "broad_area_choice": "AI and SE"
+        },
+        "timeline": {
+          "submission_deadline": "Nov 1, 2025",
+          "first_reviews": "Jan 31, 2025",
+          "revisions_due": "March 31, 2026",
+          "outcome_of_revisions": "May 2026",
+          "online_publication": "July 2026",
+          "special_issue_publication": "August 2026"
+        },
+        "editors": [
+          {
+            "name": "Abhik Roychoudhury",
+            "role": "Editor-in-Chief"
+          },
+          {
+            "name": "Foutse Khomh",
+            "role": "Guest Editor"
+          },
+          {
+            "name": "Denys Poshyvanyk",
+            "role": "Guest Editor"
+          }
+        ],
+        "queries_contact": "mailto:[log in to unmask]"
+      },
+      "additional_info": {
+        "website": "http://sigsoft.org/resources/seworld.html",
+        "archive_information": "provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

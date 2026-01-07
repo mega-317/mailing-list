@@ -1,0 +1,97 @@
+{
+  "event": {
+    "title": "7th International Workshop on Formal Methods for Autonomous Systems",
+    "abbreviation": "FMAS 2025",
+    "dates": {
+      "start": "2025-11-17",
+      "end": "2025-11-19"
+    },
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "url": "https://fmasworkshop.github.io/FMAS2025/",
+    "contact": {
+      "email": "[log in to unmask]",
+      "social_media": {
+        "BlueSky": "https://bsky.app/profile/fmasworkshop.bsky.social",
+        "Mastodon": "https://mastodon.acm.org/@FMASWorkshop",
+        "LinkedIn": "https://www.linkedin.com/groups/10019224/"
+      }
+    },
+    "hashtag": "#FMAS2025",
+    "important_dates": {
+      "submission": "2025-08-22",
+      "notification": "2025-10-06",
+      "final_version": "2025-10-17"
+    },
+    "scope": {
+      "description": "FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems.",
+      "challenges": [
+        "Dynamic deployment environment",
+        "Verifying decision making capabilities including planning, ethical, and reconfiguration choices",
+        "Using formal methods results as evidence for certification or regulatory organizations"
+      ],
+      "welcome_submissions": [
+        "Use of formal methods to specify, model, or verify autonomous systems",
+        "Integrated formal methods combining multiple methods in software engineering",
+        "Advancing applicability of formal methods for autonomous systems"
+      ]
+    },
+    "topics_of_interest": [
+      "Applicable, tool-supported Formal Methods suited to Autonomous Systems",
+      "Runtime Verification addressing reality gap",
+      "Verification against safety assurance arguments or standards",
+      "Formal specification, modelling, and requirements engineering for autonomous systems",
+      "Case Studies identifying challenges with formal methods in autonomous systems",
+      "Experience Reports providing guidance on challenges in formal methods or tools",
+      "Future directions of the field"
+    ],
+    "special_topics": {
+      "human_ai_teams": {
+        "description": "Formal methods for human-AI teamwork interpreted broadly as autonomous, intelligent, or self-learning systems.",
+        "submission_deadlines": "within the usual scope of FMAS"
+      }
+    },
+    "submission_details": {
+      "categories": [
+        {
+          "name": "Vision papers",
+          "page_limit": 6
+        },
+        {
+          "name": "Research previews",
+          "page_limit": 6
+        },
+        {
+          "name": "Experience report papers",
+          "page_limit": 15
+        },
+        {
+          "name": "Regular papers",
+          "page_limit": 15
+        }
+      ],
+      "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+      "submission_format": "EPTCS LaTeX style",
+      "review_process": "Each submission will receive at least three single-blind reviews",
+      "registration_requirements": "At least one author must register and attend workshop for accepted papers"
+    },
+    "awards": {
+      "best_paper": "FMAS 2025 will honour the best paper selected on various criteria",
+      "special_issue": "A journal special issue will collect extensions of accepted papers"
+    },
+    "poster_session": {
+      "description": "FMAS 2025 will include demos and posters co-located with iFM2025"
+    },
+    "venue": {
+      "description": "FMAS 2025 will be co-located with the International Conference on Integrated Formal Methods (iFM) 2025",
+      "url": "https://ifm2025.ens.psl.eu/",
+      "hosting": "Inria Paris, France"
+    },
+    "participation": {
+      "in_person": "At least one author must register and pay for on-site attendance",
+      "remote": "Participating online is free, but must inform organizers"
+    }
+  }
+}

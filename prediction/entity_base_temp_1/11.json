@@ -1,0 +1,56 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICSA 2026",
+      "details": {
+        "dates": {
+          "conference": "June 22-26, 2026",
+          "satellite_events": null,
+          "submission_deadline": {
+            "Research_Track": {
+              "abstracts_due": "November 28, 2025",
+              "papers_due": "December 5, 2025"
+            },
+            "Software_Architecture_in_Practice_Track": {
+              "abstracts_due": "November 28, 2025",
+              "papers_due": "December 5, 2025"
+            },
+            "workshop_proposals": {
+              "submission_deadline": "October 3, 2025"
+            }
+          },
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Amsterdam, Netherlands",
+        "main_conferences": [
+          "Research Track",
+          "Software Architecture in Practice Track"
+        ],
+        "workshops": [],
+        "call_for_proposals": "We are also accepting workshop proposals for ICSA 2026!",
+        "requirements": {
+          "organizers": [
+            "The ICSA 2026 Organizing Committee"
+          ],
+          "submission_information": [
+            "For submission guidelines and further details, please visit: https://conf.researchr.org/track/icsa-2026/icsa-2026-papers",
+            "For submission guidelines and further details, please visit: https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track",
+            "For submission guidelines and further details, please visit: https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ICSA 2026": "https://conf.researchr.org/home/icsa-2026"
+          }
+        ]
+      }
+    }
+  ]
+}

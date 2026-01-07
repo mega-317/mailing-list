@@ -1,0 +1,102 @@
+{
+  "email": {
+    "subject": "Two post-doctoral positions available at UCLouvain on edge/cloud computing",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 12:32:13 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "introduction": "We invite applications for two postdoctoral positions at UCLouvain, Belgium.",
+      "positions": {
+        "number": 2,
+        "location": "UCLouvain, Belgium",
+        "requirements": {
+          "degree": "Ph.D. in computer science",
+          "location_restriction": "currently outside Belgium"
+        },
+        "salary": "competitive",
+        "support": "access to large-scale experimental testbeds",
+        "duration": {
+          "initial": "1 year",
+          "extension": "possibility for extension"
+        },
+        "thematic_focus": "open to the interest and expertise of the candidates"
+      },
+      "project": {
+        "name": "RAINDROP",
+        "collaborators": [
+          {
+            "name": "UCLouvain",
+            "role": "Researcher"
+          },
+          {
+            "name": "UNamur",
+            "role": "Collaborator"
+          }
+        ],
+        "supervisors": [
+          {
+            "name": "Pr. Etienne Rivière",
+            "field": "Cloud and Systems engineering"
+          },
+          {
+            "name": "Pr. Ramin Sadre",
+            "field": "Networking and performance modeling"
+          },
+          {
+            "name": "Pr. Anthony Cleve",
+            "field": "Data management and software evolution"
+          }
+        ],
+        "research_focus": "Investigates adaptation of traditional cloud applications to exploit distributed cloud and edge resources",
+        "current_research": [
+          "autonomous adaptation and sharding of applications computation and state across sites",
+          "resource management of edge and cloud resources using performance models and queuing theory",
+          "automated analysis and visualization of data access patterns in cloud applications"
+        ]
+      },
+      "independent_project": {
+        "description": "Each postdoctoral researcher will develop an independent research project",
+        "mentorship": "under the mentoring of three PIs",
+        "target_themes": [
+          "Middleware and runtimes for distributed cloud applications",
+          "Scheduling and resource management for cloud/edge resources",
+          "Adaptation techniques for state and computation placement",
+          "Visualization and monitoring techniques for developer assistance",
+          "Performance modeling and simulation for cloud/edge applications"
+        ]
+      },
+      "application_process": {
+        "contact": [
+          {
+            "name": "Pr. Etienne Rivière",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Pr. Ramin Sadre",
+            "email": "[log in to unmask]"
+          }
+        ],
+        "requirements": [
+          "CV",
+          "current publication record",
+          "description of topics of interest"
+        ],
+        "process": {
+          "steps": "Upon identification of a topic of common interest, candidates will be invited to send a more complete application package.",
+          "screening": "Starts immediately and until positions are filled."
+        }
+      },
+      "disclaimer": {
+        "location_restriction": "Positions only open to candidates currently outside Belgium",
+        "degree_requirement": "Must hold a Ph.D. in computer science or a directly-related field at the start of the position"
+      }
+    }
+  }
+}

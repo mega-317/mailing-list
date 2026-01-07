@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Innovative Frontiers in Automated Software Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "July 21, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Guest editors"
+          ],
+          "submission_information": [
+            "Submission guidelines available at https://link.springer.com/journal/10515/submission-guidelines"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://link.springer.com/collections/idcadeffac"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+      "details": {
+        "dates": {
+          "conference": {
+            "start": "2026-04-12",
+            "end": "2026-04-14"
+          },
+          "satellite_events": {
+            "start": "2026-04-18",
+            "end": "2026-04-18"
+          },
+          "submission_deadline": "2025-06-23",
+          "notification_of_acceptance": "2025-07-28",
+          "final_files_due": "TBA"
+        },
+        "location": "Rio de Janeiro, Brazil",
+        "main_conferences": [
+          {
+            "name": "ICSE 2026 Workshops",
+            "url": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "All proposals must not exceed 5 pages, including a maximum of 4 pages for the proposal text, references, appendices, and figures, plus 1 page for the draft Call for Submissions.",
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Rodrigo Santos",
+              "role": "Workshops Co-Chair",
+              "affiliation": "UNIRIO, Brazil",
+              "profile_url": "https://conf.researchr.org/profile/icse-2026/rodrigosantos"
+            },
+            {
+              "name": "Antonia Bertolino",
+              "role": "Workshops Co-Chair",
+              "affiliation": "Gran Sasso Science Institute, Italy",
+              "profile_url": "https://conf.researchr.org/profile/icse-2026/antoniabertolino"
+            }
+          ],
+          "submission_information": [
+            "Submissions of workshops should be in PDF format, 12 point font. Workshop proposals will not be published but will be used for acceptance decisions."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": "All participants must register for the workshop.",
+            "participation_fee": {
+              "members": 250,
+              "non_members": 350
+            }
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

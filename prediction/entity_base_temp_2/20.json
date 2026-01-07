@@ -1,0 +1,57 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opportunity",
+      "name": "Postdoc in Software Engineering and Open Source Security",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "31 August 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Télécom Paris, Polytechnic Institute of Paris",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": null,
+          "submission_information": {
+            "job_description": {
+              "EN": "https://institutminestelecom.recruitee.com/l/en/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5",
+              "FR": "https://institutminestelecom.recruitee.com/o/post-doctorante-ou-post-doctorant-en-genie-logiciel-et-cybersecurite-cdd-de-30-mois-2-5"
+            }
+          },
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "description": "SECUBIC Project",
+            "url": "https://secubic-ptcc.github.io/"
+          },
+          {
+            "description": "Software Heritage",
+            "url": "https://www.softwareheritage.org/"
+          },
+          {
+            "description": "Contact",
+            "url": "mailto:[log in to unmask]"
+          },
+          {
+            "description": "Professor's Profile",
+            "url": "https://upsilon.cc/zack"
+          },
+          {
+            "description": "Mastodon Profile",
+            "url": "https://mastodon.xyz/@zacchiro"
+          }
+        ]
+      }
+    }
+  ]
+}

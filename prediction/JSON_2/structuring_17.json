@@ -1,0 +1,74 @@
+{
+  "email": {
+    "subject": "Call for Book Chapters: System of Systems Engineering: Innovations, Challenges, and Future Directions",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 7 Jul 2025 03:03:27 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "call_for_chapters": {
+        "title": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+        "publisher": "Elsevier",
+        "summary": "This book aims to address the increasing complexity of modern engineering challenges by providing a comprehensive resource that integrates theoretical foundations, emerging technologies, and practical applications of System of Systems Engineering (SoSE).",
+        "editors": [
+          {
+            "name": "Bedir Tekinerdogan",
+            "affiliation": "Wageningen University, The Netherlands"
+          },
+          {
+            "name": "Khalil Drira",
+            "affiliation": "LAAS-CNRS Université de Toulouse, France"
+          }
+        ],
+        "scope_and_objectives": "System of Systems Engineering (SoSE) is an interdisciplinary field focused on the design, management, and optimization of complex systems that operate independently yet interact to achieve shared goals. This book addresses the growing need for advanced SoSE approaches across diverse industries.",
+        "suggested_topics": [
+          "Foundations of System of Systems Engineering",
+          "Governance and Management",
+          "Methodologies and Tools",
+          "AI and Emerging Technologies",
+          "Human and Organizational Factors",
+          "Case Studies and Domain-Specific Applications",
+          "Emerging Challenges and Future Directions"
+        ],
+        "important_dates": {
+          "chapter_abstracts_due": "September 1, 2025",
+          "notification_abstracts": "September 15, 2025",
+          "full_chapters_due": "December 15, 2025",
+          "notification_full_chapters": "January 15, 2026",
+          "camera_ready_copy_due": "March 1, 2026"
+        },
+        "submission_guidelines": {
+          "requirements": "Contributions should be original, unpublished, and not under review elsewhere. Each chapter should be approximately 7,500 words.",
+          "proposal_length": "500-1,000 words",
+          "operation_method": "Submissions can be made via Easychair or inquiries can be sent to the specified email."
+        },
+        "contact_information": {
+          "editor": {
+            "name": "Prof. Dr. Ir. Bedir Tekinerdogan",
+            "position": "Chair Information Technology",
+            "affiliation": "Wageningen University & Research",
+            "address": "P.O. Box 8130, 6700 EW, Wageningen, The Netherlands",
+            "phone": {
+              "primary": "+31 (0)317 485477",
+              "secretary": [
+                "+31 (0)317 489876",
+                "+31 (0)317 481 403"
+              ]
+            },
+            "email": "[log in to unmask]",
+            "web": "http://wageningenur.nl/inf"
+          }
+        },
+        "links": {
+          "easychair": "https://easychair.org/conferences/?conf=sose2025"
+        }
+      }
+    }
+  }
+}

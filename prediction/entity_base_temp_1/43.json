@@ -1,0 +1,52 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Position",
+      "name": "Postdoctoral Position Available in Programming Languages Working on Fixed-Point-Oriented Programming",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "NUS",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": "https://michaeldadams.org/hiring",
+        "requirements": {
+          "organizers": [
+            "Michael D. Adams"
+          ],
+          "submission_information": [
+            {
+              "application_process": "Email adamsmd AT nus.edu.sg to schedule a Zoom interview. Interviews will begin immediately."
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "project_white_paper": "https://michaeldadams.org/papers/fpop/fixed-point-oriented-programming.pdf"
+          },
+          {
+            "homepage": "https://michaeldadams.org/"
+          },
+          {
+            "research_goals": "https://michaeldadams.org/vitae/research-statement.pdf"
+          },
+          {
+            "papers": "https://michaeldadams.org/papers/"
+          }
+        ]
+      }
+    }
+  ]
+}

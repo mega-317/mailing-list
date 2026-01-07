@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ER2025",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "ER2025"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            null
+          ],
+          "submission_information": [
+            "mailto:[log in to unmask]"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

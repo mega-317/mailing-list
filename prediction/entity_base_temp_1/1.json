@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "position",
+      "name": "Associate Senior Lecturer (Tenure Track) in AI for Software Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "August 1, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Blekinge Institute of Technology, Karlskrona, Sweden",
+        "main_conferences": [
+          "ELLIT"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Blekinge Institute of Technology"
+          ],
+          "submission_information": [
+            "Doctoral degree or equivalent scientific competence required."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://www.bth.se/english/vacancies/job/associate-senior-lecturer-in-ai-for-software-engineering-tenure-track-karlskrona"
+          }
+        ]
+      }
+    }
+  ]
+}

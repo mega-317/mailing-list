@@ -1,0 +1,55 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Software Engineering in Generative Art",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "December 15, 2025",
+          "notification_of_acceptance": "May 15, 2026",
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": "https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art",
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Benoit Baudry",
+              "affiliation": "Université de Montréal",
+              "link": "https://softwarediversity.eu/"
+            },
+            {
+              "name": "Patricia Falcao",
+              "affiliation": "Tate Modern",
+              "link": "https://www.tate.org.uk/research/studentships/patricia-falc%C3%A3o"
+            },
+            {
+              "name": "Erik Fredericks",
+              "affiliation": "Grand Valley State University",
+              "link": "https://efredericks.github.io/"
+            }
+          ],
+          "submission_information": [
+            "Authors are encouraged to make their code and data publicly accessible."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Software Engineering in Generative Art": "https://www.computer.org/digital-library/magazines/co/cfp-software-engineering-generative-art"
+          }
+        ]
+      }
+    }
+  ]
+}

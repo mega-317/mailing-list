@@ -1,0 +1,64 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "International Conference on Software Engineering (ICSE) 2026",
+      "details": {
+        "dates": {
+          "conference": "April 12-18, 2026",
+          "satellite_events": null,
+          "submission_deadline": "July 18, 2025",
+          "notification_of_acceptance": "October 17, 2025",
+          "final_files_due": "TBA"
+        },
+        "location": "Rio de Janeiro, Brazil",
+        "main_conferences": [
+          {
+            "title": "Research Track",
+            "submission_cycles": [
+              {
+                "cycle": "First",
+                "submission": null,
+                "author_response_period": null,
+                "notification": null,
+                "revision_due": null,
+                "final_decision": null,
+                "camera_ready": null
+              },
+              {
+                "cycle": "Second",
+                "submission": "July 18, 2025",
+                "author_response_period": "September 23-25, 2025",
+                "notification": "October 17, 2025",
+                "revision_due": "November 14, 2025",
+                "final_decision": "December 19, 2025",
+                "camera_ready": "TBA"
+              }
+            ]
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "Accepted papers will be allowed one extra page for the main text of the camera-ready version.",
+        "requirements": {
+          "organizers": [
+            "Mira Mezini",
+            "Thomas Zimmermann"
+          ],
+          "submission_information": [
+            "All submissions must be in PDF format and conform to the official ACM Primary Article Template."
+          ],
+          "promotion": {
+            "organizers_committee": "ICSE 2026 Program Committee",
+            "registration": "At least one author of the paper is required to register for ICSE 2026 to present the paper.",
+            "participation_fee": "APC will be $250 for ACM/SIG members and $350 for non-members under specific conditions."
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://conf.researchr.org/home/icse-2026"
+          }
+        ]
+      }
+    }
+  ]
+}

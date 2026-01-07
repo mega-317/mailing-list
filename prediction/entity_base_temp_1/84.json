@@ -1,0 +1,45 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Conceptual and Technical Engineering of Blockchain-based Information Systems",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "September 30, 2025",
+          "notification_of_acceptance": "May 1, 2026",
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "Information Systems"
+        ],
+        "workshops": [],
+        "call_for_proposals": "Call for Papers - Special Issue",
+        "requirements": {
+          "organizers": [
+            "Prof. Sarah Bouraga, Ph.D. - EM Normandie Business School, France",
+            "Dr. Felix Härer, Ph.D. - FHNW University of Applied Sciences, Switzerland",
+            "Dr. Alessandro Marcelletti, Ph.D. - University of Camerino, Italy"
+          ],
+          "submission_information": [
+            "Manuscripts must be submitted electronically through Editorial Manager®.",
+            "Select article type 'VSI: BISs - Research article' or 'VSI: BISs - Review article'.",
+            "Prepare manuscripts according to the 'Guide for Authors' of the Information Systems journal."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://www.sciencedirect.com/special-issue/319734/conceptual-and-technical-engineering-of-blockchain-based-information-systems"
+          }
+        ]
+      }
+    }
+  ]
+}

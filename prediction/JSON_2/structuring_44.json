@@ -1,0 +1,155 @@
+{
+  "email": {
+    "subject": "Call for Letter of Interest (LoI) to organize the European conference on Software Architecture (ECSA)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 5 Jun 2025 13:58:03 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "European conference on Software Architecture",
+        "acronym": "ECSA",
+        "description": "ECSA is the premier European conference on Software Architecture. It targets advances and breakthroughs beyond the state-of-the-art in Software Architecture and covers all aspects of research in the domain of Software Architecture, ranging from theory to technology and their applications.",
+        "ranking": {
+          "core_rank": "A",
+          "since": 2010,
+          "current_rank": "CORE2023",
+          "rank_url": "http://portal.core.edu.au/conf-ranks/?search=ECSA&by=all&source=CORE2023"
+        },
+        "steering_committee_invitation": {
+          "submission_open": true,
+          "years": {
+            "start": 2027
+          },
+          "submission_details": {
+            "letter_type": "Letter of Interest",
+            "purpose": "To inform the ECSA Steering Committee of the potential intent of teams to organize ECSA in prospective venues.",
+            "requirements": {
+              "general_chair": {
+                "description": "name and short CV, including experience on organizing international conferences"
+              },
+              "location": {
+                "description": "general presentation of the potential venue and the city"
+              },
+              "supporting_organizations": {
+                "description": "preliminary list of organizations supporting the proposal, including academia, research institutions, industry and other relevant organizations"
+              },
+              "optional": {
+                "program_chair": "initial list of names for potential Program Chair(s) and other Organizing Committee members"
+              }
+            },
+            "submission_info": {
+              "deadline": "30th June 2025 (23:59 Anywhere on Earth)",
+              "procedure": {
+                "contact_person": {
+                  "name": "Paris Avgeriou",
+                  "email": "[log in to unmask]"
+                }
+              }
+            }
+          },
+          "previous_editions": [
+            {
+              "year": 2007,
+              "location": "Aranjuez, Spain"
+            },
+            {
+              "year": 2008,
+              "location": "Paphos, Cyprus"
+            },
+            {
+              "year": 2009,
+              "location": "Cambridge, United Kingdom"
+            },
+            {
+              "year": 2010,
+              "location": "Copenhagen, Denmark"
+            },
+            {
+              "year": 2011,
+              "location": "Essen, Germany"
+            },
+            {
+              "year": 2012,
+              "location": "Helsinki, Finland"
+            },
+            {
+              "year": 2013,
+              "location": "Montpellier, France"
+            },
+            {
+              "year": 2014,
+              "location": "Vienna, Austria"
+            },
+            {
+              "year": 2015,
+              "location": "Cavtat, Croatia"
+            },
+            {
+              "year": 2016,
+              "location": "Copenhagen, Denmark"
+            },
+            {
+              "year": 2017,
+              "location": "Canterbury, United Kingdom"
+            },
+            {
+              "year": 2018,
+              "location": "Madrid, Spain"
+            },
+            {
+              "year": 2019,
+              "location": "Paris, France"
+            },
+            {
+              "year": 2020,
+              "location": "L'Aquila, Italy (virtual)"
+            },
+            {
+              "year": 2021,
+              "location": "Växjö, Sweden (virtual)"
+            },
+            {
+              "year": 2022,
+              "location": "Prague, Czech Republic"
+            },
+            {
+              "year": 2023,
+              "location": "Istanbul, Turkey"
+            },
+            {
+              "year": 2024,
+              "location": "Luxembourg"
+            },
+            {
+              "year": 2025,
+              "location": "Limassol, Cyprus"
+            },
+            {
+              "year": 2026,
+              "location": "Bolzano, Italy (planned)"
+            }
+          ],
+          "publishing_details": {
+            "publisher": "Springer",
+            "series": "LNCS",
+            "current_edition_url": "https://conf.researchr.org/home/ecsa-2025"
+          },
+          "funding": {
+            "description": "ECSA is self-funded. Each year the organization of ECSA is funded from the payment of registration fees and additional sponsors or actions."
+          },
+          "steering_committee": {
+            "description": "The ECSA Steering Committee fosters and selects proposals for organizing ECSA.",
+            "committee_url": "https://ecsa-conferences.org/series/steering-committee/"
+          }
+        }
+      }
+    }
+  }
+}

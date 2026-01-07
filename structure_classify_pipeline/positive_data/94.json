@@ -1,0 +1,124 @@
+{
+  "email": {
+    "subject": "[CFP] 44th International Conference on Conceptual Modeling (ER 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:13:33 -0000",
+    "contentType": "text/plain",
+    "body": {
+      "apology": "apologies for cross-posting",
+      "conference": {
+        "name": "44th International Conference on Conceptual Modeling",
+        "abbreviation": "ER 2025",
+        "date": {
+          "start": "20 October 2025",
+          "end": "23 October 2025"
+        },
+        "location": "Poitiers, France",
+        "website": "https://er2025.ensma.fr/",
+        "theme": "BUILDING TRUST THROUGH CONCEPTUAL MODELING",
+        "description": "Building trust in digital ecosystems has gained a heightened importance in an increasingly contested world. This year’s theme focuses on the important role conceptual modeling plays in creating systems that are trustworthy, inclusive, and transparent.",
+        "submissions": {
+          "callForPapers": "We welcome submissions of original research on a variety of topics on conceptual modeling, including well-established and emerging areas of research and practice.",
+          "importantDates": {
+            "abstractSubmission": "19 MAY 2025",
+            "fullPaperSubmission": "26 MAY 2025",
+            "authorNotification": "30 JULY 2025",
+            "cameraReadyPapers": "18 AUGUST 2025"
+          },
+          "submissionLink": "https://easychair.org/conferences/?conf=er2025",
+          "specialIssue": {
+            "description": "The authors of selected papers will be invited to prepare a substantially revised and extended version of a Special Issue in Elsevier's Data & Knowledge Engineering.",
+            "impactFactor": "2.7"
+          },
+          "submissionGuidelines": {
+            "format": "LNCS style",
+            "pageLimit": "16 pages",
+            "reviewProcess": "double-blind",
+            "anonymization": "Authors must remove all identifying information and use anonymization services."
+          }
+        },
+        "topicsOfInterest": {
+          "foundations": [
+            "Human-centred and inclusive modeling",
+            "Model explainability and transparency",
+            "Role of modeling in engendering trust and building trustworthy systems",
+            "Automated and AI-assisted conceptual modeling",
+            "Complexity management of large conceptual models",
+            "Concept formalization",
+            "Domain-specific modeling",
+            "Discovery of models and patterns",
+            "Evolution, exchange, integration, and transformation of models",
+            "Justification and evaluation of models",
+            "Interactive, dynamic and adaptive modeling systems",
+            "Logic-based knowledge representation",
+            "Multi-level and multi-perspective modeling",
+            "Ontological and cognitive foundations",
+            "Quality paradigms and metrics",
+            "Semantics in conceptual modeling",
+            "Theories and methodologies for conceptual modeling",
+            "Verification and validation of conceptual models"
+          ],
+          "conceptualModelingFor": [
+            "Data access, acquisition, integration, and visualization",
+            "Data management including database design, performance optimization",
+            "Data-centric AI development",
+            "Distributed, decentralized databases",
+            "Graph and network databases",
+            "Object-oriented and NoSQL databases",
+            "Spatial and temporal databases",
+            "Web and Semantic Web databases",
+            "Synthetic data and simulation modeling"
+          ],
+          "conceptualModelingIn": [
+            "AI, data mining, and machine learning",
+            "Business, climate, compliance, and governance",
+            "Collaboration and social networks",
+            "Business intelligence and analytics",
+            "Engineering and model-driven engineering",
+            "Ethics, fairness, and responsibility",
+            "Digital twins and IoT",
+            "Scientific data management"
+          ],
+          "conceptualModelingShowcasedBy": [
+            "Computational tools that advance the state-of-the-art",
+            "Ethnographic and empirical case studies",
+            "Comparative and benchmarking studies"
+          ]
+        },
+        "organization": {
+          "generalChairs": [
+            {
+              "name": "Ladjel Bellatreche",
+              "affiliation": "ISAE-ENSMA, Poitiers, France"
+            },
+            {
+              "name": "Oscar Pastor",
+              "affiliation": "Universitat Politècnica de València"
+            }
+          ],
+          "programChairs": [
+            {
+              "name": "Shazia Sadiq",
+              "affiliation": "The University of Queensland, Australia"
+            },
+            {
+              "name": "Dominik Bork",
+              "affiliation": "TU Wien, Austria"
+            },
+            {
+              "name": "Roman Lukyanenko",
+              "affiliation": "University of Virginia, USA"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

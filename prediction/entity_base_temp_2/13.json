@@ -1,0 +1,82 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "IEEE iMETA 2025",
+      "details": {
+        "dates": {
+          "conference": "14-17 October 2025",
+          "satellite_events": null,
+          "submission_deadline": {
+            "late_track": "July 30, 2025",
+            "workshop": "July 30, 2025"
+          },
+          "notification_of_acceptance": {
+            "late_track": "August 20, 2025",
+            "workshop": "August 30, 2025"
+          },
+          "final_files_due": {
+            "late_track": "August 31, 2025",
+            "workshop": "September 10, 2025"
+          }
+        },
+        "location": "Dubrovnik, Croatia",
+        "main_conferences": [
+          {
+            "title": "The 3rd International Conference on Intelligent Metaverse Technologies & Applications (iMETA 2025)",
+            "tracks": [
+              "Track 1: Large Language Models (LLMs) in the Metaverse",
+              "Track 2: Native AI for Metaverse Technologies",
+              "Track 3: Security and Privacy",
+              "Track 4: Networking and Communications",
+              "Track 5: Systems and Computing",
+              "Track 6: Multimedia and Computer Vision",
+              "Track 7: Immersive Technologies and Services",
+              "Track 8: Storage and Processing"
+            ]
+          }
+        ],
+        "workshops": [
+          {
+            "title": "1st International Workshop on Intelligent Digital Twins for Smart Cities in the Metaverse (IDTSC)",
+            "link": "https://imeta-conference.org/2025/workshops#WS1"
+          },
+          {
+            "title": "1st International Workshop on BCI Interfaces & Cognitive Engineering in the Metaverse (BCIME)",
+            "link": "https://imeta-conference.org/2025/workshops#WS2"
+          },
+          {
+            "title": "1st International Workshop on Ethical AI & Secure Metaverse Ecosystems (EASME)",
+            "link": "https://imeta-conference.org/2025/workshops#WS3"
+          },
+          {
+            "title": "1st International Workshop on Generative AI for Immersive Experience Design (GAIXR)",
+            "link": "https://imeta-conference.org/2025/workshops#WS4"
+          },
+          {
+            "title": "1st International Workshop on AI-Enhanced Learning Worlds (MetaLearn)",
+            "link": "https://imeta-conference.org/2025/workshops#WS5"
+          },
+          {
+            "title": "1st International Workshop on Standards, Protocols, and AI Agents for a Unified Metaverse (SPAAUM)",
+            "link": "https://imeta-conference.org/2025/workshops#WS6"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": "IEEE iMETA 2025 Organizing Committee",
+          "submission_information": "Manuscripts must be original, not previously published, or under review. Submissions should adhere to IEEE Conference Proceedings Format in PDF format, maximum of 6 pages for review, accepted papers can be up to 8 pages.",
+          "promotion": {
+            "organizers_committee": "IEEE iMETA 2025 Organizing Committee",
+            "registration": "Available via the conference website",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://imeta-conference.org/",
+          "https://easychair.org/my/conference?conf=imeta2025"
+        ]
+      }
+    }
+  ]
+}

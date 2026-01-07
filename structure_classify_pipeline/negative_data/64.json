@@ -1,0 +1,45 @@
+{
+  "email": {
+    "subject": "Postdoctoral Opportunity in Software Engineering – University of Otago, New Zealand",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "2025-05-23T14:20:32Z",
+    "content": {
+      "introduction": "Are you passionate about AI, software reliability, and making a real-world impact? Join us at the University of Otago as a Postdoctoral Fellow on our $1 million project:",
+      "project_title": "Automating software violation detection and repair: future-proofing software reputation and skills development.",
+      "lead_ci": {
+        "name": "Associate Professor Sherlock Licorish",
+        "institution": "University of Otago"
+      },
+      "project_description": "Software errors can have serious consequences – impacting everything from space missions to critical infrastructure. With the rise of AI-generated code and the widespread reuse of publicly available code, the risk of inheriting software vulnerabilities is greater than ever.",
+      "goals": [
+        "Develop cutting-edge, AI-inspired algorithms for software violation detection and repair",
+        "Support New Zealand software developers in delivering reliable, secure, high-value software",
+        "Package our solutions to upskill under-represented groups and address the tech skills shortage"
+      ],
+      "call_to_action": "If you have a background in software engineering, AI, or related fields and want to contribute to future-proofing software development, we want to hear from you!",
+      "application_link": "https://otago.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=2500780",
+      "share_invitation": "Feel free to share or tag someone who might be interested!",
+      "hashtags": [
+        "#Postdoc",
+        "#SoftwareEngineering",
+        "#AI",
+        "#ResearchJobs",
+        "#Otago",
+        "#NewZealand",
+        "#TechJobs",
+        "#AcademicJobs"
+      ],
+      "footer": {
+        "contribution_info": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+        "more_info": "http://sigsoft.org/resources/seworld.html provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

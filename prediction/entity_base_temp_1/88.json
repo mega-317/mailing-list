@@ -1,0 +1,80 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "Responsible AI Special Issue Journal - Information Processing & Management",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "2025-10-30",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "Information Processing & Management"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Ebrahim Bagheri",
+              "affiliation": "University of Toronto",
+              "role": "Professor (managing guest editor)",
+              "email": "[log in to unmask]"
+            },
+            {
+              "name": "Robin Cohen",
+              "affiliation": "University of Waterloo",
+              "role": "Professor",
+              "email": "[log in to unmask]"
+            },
+            {
+              "name": "Faezeh Ensan",
+              "affiliation": "Toronto Metropolitan University",
+              "role": "Assistant Professor",
+              "email": "[log in to unmask]"
+            },
+            {
+              "name": "Benjamin C. M. Fung",
+              "affiliation": "McGill University",
+              "role": "Professor",
+              "email": "[log in to unmask]"
+            },
+            {
+              "name": "Sébastien Gambs",
+              "affiliation": "Université du Québec à Montréal",
+              "role": "Professor",
+              "email": "[log in to unmask]"
+            },
+            {
+              "name": "Reihaneh Rabbany",
+              "affiliation": "McGill University",
+              "role": "Assistant Professor",
+              "email": "[log in to unmask]"
+            }
+          ],
+          "submission_information": [
+            "Manuscripts must be submitted online through the submission system of Information Processing & Management.",
+            "Submissions will undergo a single-blind peer-review process."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Information Processing & Management Submission": "https://www.editorialmanager.com/ipm/default.aspx"
+          },
+          {
+            "General Author Guidelines": "https://www.sciencedirect.com/journal/information-processing-and-management/publish/guide-for-authors"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Workshop",
+      "name": "7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)",
+      "details": {
+        "dates": {
+          "conference": "17th to 19th of November 2025",
+          "satellite_events": null,
+          "submission_deadline": "22nd of August 2025",
+          "notification_of_acceptance": "6th of October 2025",
+          "final_files_due": "17th of October 2025"
+        },
+        "location": "Paris, France",
+        "main_conferences": [
+          {
+            "name": "International Conference on Integrated Formal Methods (iFM) 2025",
+            "date": "17th to 19th of November 2025",
+            "link": "https://ifm2025.ens.psl.eu/"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "https://fmasworkshop.github.io/FMAS2025/",
+        "requirements": {
+          "organizers": [
+            "The Organising Committee"
+          ],
+          "submission_information": [
+            {
+              "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+              "category_info": "Vision papers, Research previews, Experience report papers, Regular papers"
+            }
+          ],
+          "promotion": {
+            "organizers_committee": "The Organising Committee",
+            "registration": "At least one author per paper must register and pay for on-site attendance",
+            "participation_fee": "Presenting or participating online will be free"
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          },
+          {
+            "DBLP listing": "https://dblp.dagstuhl.de/db/conf/fmas/index.html"
+          },
+          {
+            "Arxiv link": "https://arxiv.org/abs/2112.12758"
+          },
+          {
+            "EPTCS": "http://www.eptcs.org/"
+          },
+          {
+            "EPTCS LaTeX style": "http://style.eptcs.org/"
+          }
+        ]
+      }
+    }
+  ]
+}

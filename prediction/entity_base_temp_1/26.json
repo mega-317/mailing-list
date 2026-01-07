@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Position",
+      "name": "Postdoctoral position in Computer Science, OPEHRA",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "2025-08-03",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Karlstad, Sweden",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Leonardo Iwaya"
+          ],
+          "submission_information": [
+            "CV, Cover letter, List of publications, Copy of PhD degree, Copy of doctoral thesis, Two references"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Job Link": "https://kau.varbi.com/en/what:job/jobID:822208/iframeEmbedded:0/where:4"
+          }
+        ]
+      }
+    }
+  ]
+}

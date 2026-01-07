@@ -1,0 +1,55 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "EICS 2026",
+      "details": {
+        "dates": {
+          "conference": "June 22-26, 2025",
+          "satellite_events": null,
+          "submission_deadline": "July 25, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Trier, Germany",
+        "main_conferences": [
+          "The 18th ACM SIGCHI Symposium on Engineering Interactive Computing Systems"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Célia Martinie",
+            "Davide Spano"
+          ],
+          "submission_information": [
+            "Papers should be written in ACM format.",
+            "Papers must comply with ACM policy on research involving human participants."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "EICS 2026": "https://eics.acm.org/2026/"
+          },
+          {
+            "Newcomer's guide to EICS": "https://dl.acm.org/doi/10.1145/3300960"
+          },
+          {
+            "ACM Author Submissions": "https://www.acm.org/publications/authors/submissions"
+          },
+          {
+            "ACM Research Policy": "https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects"
+          },
+          {
+            "Submissions Platform": "https://new.precisionconference.com"
+          }
+        ]
+      }
+    }
+  ]
+}

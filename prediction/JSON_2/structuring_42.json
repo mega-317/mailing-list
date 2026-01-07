@@ -1,0 +1,77 @@
+{
+  "email": {
+    "subject": "[CfP] Extended deadline for JOWO paper submissions",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 5 Jun 2025 13:58:28 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear ontology-engineering enthusiast,",
+      "main_message": {
+        "call_to_action": "The submission deadline of all JOWO workshops has been extended to June 14th, 2025.",
+        "motivational_message": "Don’t hesitate, even a small idea can have huge impact.",
+        "historical_reference": {
+          "example": "A twenty page document titled “Information Management: A proposal”",
+          "outcome": "ended being the birth certificate of the internet, signed by one Sir Tim Berners-Lee."
+        },
+        "community_invitation": "we welcome your work within the communities of Joint Ontologies Workshops (JOWO)."
+      },
+      "workshops": [
+        "Cognition and OntologiesS (CAOS9)",
+        "14th International Workshop on Formal Ontologies Meet Industry (FOMI)",
+        "Fifth International Workshop on Semantic Web and Ontology Design for Cultural Heritage (SWODCH 2025)",
+        "The Ninth Image Schema Day (ISD9)",
+        "Integrated Food Ontology Workshop (IFOW 2025)",
+        "9th Workshop on Foundational Ontology (FOUST IX)",
+        "2nd Playing with Meanings workshop (PwM2)",
+        "Knowledge Management and process mining for Law (KM4LAW)",
+        "The 2nd International Workshop on Modeling for Cybersecurity (Shields 2)",
+        "Second Annual Workshop on Convergence of Large-Language Models and Ontologies (ONTOLLM 2025)",
+        "Explicit and Implicit Knowledge Extraction (EIKE)",
+        "Ontologies for Services and Social-good (OSS)",
+        "Workshop on Promoting Healthy Aging through the Semantic Enrichment of Social Science (PHASES 2025)",
+        "Perspectival Ontology Workshop on Entities that can be Realized (POWERs)",
+        "Planning and Ontology Workshop (PLATO)"
+      ],
+      "co_hosting": {
+        "event": "15th International Conference on Formal Ontology in Information Systems (FOIS)",
+        "location": "Catania",
+        "dates": "September 8-12, 2025"
+      },
+      "important_dates": {
+        "workshop_paper_submission_deadlines": [
+          "May 25, 2025",
+          "June 1, 2025",
+          "June 14, 2025"
+        ],
+        "workshop_paper_author_notification": "July 14, 2025",
+        "camera_ready_submission": "September 1, 2025"
+      },
+      "registration_details": {
+        "early_bird_registration": "July 25, 2025",
+        "on_site_registration": "August 31, 2025",
+        "registration_links": [
+          {
+            "text": "FOIS 2025 Registration",
+            "url": "https://www.dmi.unict.it/fois2025/?page_id=728"
+          }
+        ]
+      },
+      "closing": {
+        "signature": "César Bernabé and Eric Top",
+        "title": "(FOIS Publicity chairs)",
+        "organization": "FOIS and JOWO"
+      },
+      "footer": {
+        "contribution_notice": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+        "seworld_info": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

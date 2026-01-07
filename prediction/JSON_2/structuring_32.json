@@ -1,0 +1,126 @@
+{
+  "subject": "[CFP] MPLR’25 - 22nd International Conference on Managed Programming Languages & Runtimes",
+  "from": {
+    "name": "SEWORLD Moderator",
+    "email": "[log in to unmask]"
+  },
+  "reply_to": "[log in to unmask]",
+  "date": "Mon, 16 Jun 2025 05:32:53 -0000",
+  "content_type": "text/plain",
+  "conference": {
+    "name": "22nd International Conference on Managed Programming Languages & Runtimes",
+    "abbreviation": "MPLR",
+    "formerly_known_as": "ManLang",
+    "originally_known_as": "PPPJ",
+    "description": "A premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems.",
+    "areas_of_interest": [
+      {
+        "category": "Languages and Compilers",
+        "topics": [
+          "Managed languages (e.g., Java, Scala, JavaScript, Python, Ruby, C#, F#, Clojure, Groovy, Kotlin, R, Smalltalk, Racket, Rust, Go, Lua, MATLAB, Raku, Pony)",
+          "Domain-specific languages",
+          "Language design",
+          "Compilers and interpreters",
+          "Type systems and program logics",
+          "Language interoperability",
+          "Parallelism, distribution, and concurrency"
+        ]
+      },
+      {
+        "category": "Virtual Machines",
+        "topics": [
+          "Portable intermediate representations (e.g., JVM, WebAssembly, RPython)",
+          "Managed runtime systems (e.g., GraalVM, Android Runtime, V8, JavaScriptCore, .NET)",
+          "VM design and optimization",
+          "VMs for mobile and embedded devices",
+          "VMs for real-time applications",
+          "Memory management and garbage collection",
+          "Hardware/software co-design",
+          "Persistence"
+        ]
+      },
+      {
+        "category": "Techniques, Tools, and Applications",
+        "topics": [
+          "Static and dynamic program analysis",
+          "Testing and debugging",
+          "Refactoring",
+          "Program understanding",
+          "Program synthesis",
+          "Security and privacy",
+          "Performance analysis and monitoring",
+          "Compiler and program verification and model checking"
+        ]
+      }
+    ],
+    "contact": {
+      "name": "Tomoharu Ugawa",
+      "email": "ugawa ci i u-tokyo ac jp"
+    },
+    "submission_categories": [
+      {
+        "type": "Regular research papers",
+        "description": "Describing novel contributions involving managed language platforms.",
+        "evaluation_criteria": [
+          "Relevance",
+          "Novelty",
+          "Technical rigor",
+          "Contribution to the state-of-the-art"
+        ],
+        "format": "up to 12 pages, excluding bibliography and appendix"
+      },
+      {
+        "type": "Work-in-progress research papers",
+        "description": "Describing hot topics or promising new ideas.",
+        "evaluation_criteria": [
+          "Novelty",
+          "Potential of new ideas"
+        ],
+        "format": "up to 6 pages, excluding bibliography and appendix"
+      },
+      {
+        "type": "Industry and tool papers",
+        "description": "Presenting technical challenges and solutions for managed language platforms.",
+        "evaluation_criteria": [
+          "Relevance",
+          "Usefulness",
+          "Results",
+          "Suitability for demonstration",
+          "Availability for tool papers"
+        ],
+        "format": "up to 6 pages, excluding bibliography and appendix; up to 12 pages allowed if justified by content"
+      }
+    ],
+    "publication": {
+      "policy": "Accepted submissions will be published in the ACM Digital Library, except if the authors prefer not to be included.",
+      "prior_publication_policy": "MPLR 2025 submissions must conform to the ACM Policy on Prior Publication and Simultaneous Submissions and to the SIGPLAN Republication Policy.",
+      "poster_session": "MPLR 2025 will not hold its own poster session."
+    },
+    "author_instructions": {
+      "format": "ACM SIGPLAN format with the sigplan style.",
+      "latex_instructions": "Use the acmart document class with the sigplan option. Include page numbers in your submission.",
+      "submission_format": "All submissions need to be in PDF format.",
+      "review_process": "MPLR now uses double-blind reviewing."
+    },
+    "submission_site": "https://mplr25.hotcrp.com",
+    "important_dates": [
+      {
+        "event": "Paper Submission Deadline",
+        "date": "June 24, 2025 (extended)"
+      },
+      {
+        "event": "Paper Author Notification",
+        "date": "July 28, 2025"
+      },
+      {
+        "event": "Camera Ready for Papers",
+        "date": "August 25, 2025"
+      },
+      {
+        "event": "Conference Date",
+        "date": "October 14, 2025"
+      }
+    ],
+    "publication_date_note": "The official publication date may be up to two weeks prior to the first day of your conference."
+  }
+}

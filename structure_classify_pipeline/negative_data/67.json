@@ -1,0 +1,28 @@
+{
+  "email": {
+    "subject": "[CFP] ER2025 - List of Workshops",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 21 May 2025 23:24:33 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "apology": "apologies for cross-posting",
+      "instructions": {
+        "submission": {
+          "statement": "To contribute to SEWORLD, send your submission to",
+          "email": "mailto:[log in to unmask]"
+        },
+        "website": {
+          "url": "http://sigsoft.org/resources/seworld.html",
+          "information": "provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+        }
+      }
+    }
+  }
+}

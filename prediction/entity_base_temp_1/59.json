@@ -1,0 +1,81 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "SEMLA 2025",
+      "details": {
+        "dates": {
+          "conference": {
+            "start": "2025-06-17",
+            "end": "2025-06-19"
+          },
+          "satellite_events": null,
+          "submission_deadline": "2025-05-30",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Polytechnique Montréal, Montréal, Canada",
+        "main_conferences": [
+          {
+            "date": "2025-06-17",
+            "focus": "AgentOps Day",
+            "activities": [
+              "Keynotes",
+              "Sessions",
+              "Discussions"
+            ]
+          },
+          {
+            "date": "2025-06-18",
+            "focus": "Intelligent Systems",
+            "activities": [
+              "Presentations",
+              "Expert Talks",
+              "Discussions"
+            ]
+          },
+          {
+            "date": "2025-06-19",
+            "focus": "Tutorials and SEMTL Meeting",
+            "activities": [
+              "Hands-on Tutorials",
+              "SEMTL Meeting"
+            ]
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": {
+          "type": "Poster Contribution",
+          "submission_info": {
+            "abstract_deadline": "2025-05-30",
+            "link": "https://semla.polymtl.ca/call-for-posters/"
+          }
+        },
+        "requirements": {
+          "organizers": [
+            "SEMLA 2025 Organizers"
+          ],
+          "submission_information": [
+            "Poster presentations related to any of the SEMLA topics."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": {
+              "early_registration_deadline": "2025-06-06",
+              "registration_link": "https://www.eventbrite.ca/e/semla-2025-tickets-1323634559599?aff=oddtdtcreator"
+            },
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "SEMLA Website": "https://semla.polymtl.ca"
+          },
+          {
+            "Invited Speakers": "https://semla.polymtl.ca/invited-speakers/"
+          }
+        ]
+      }
+    }
+  ]
+}

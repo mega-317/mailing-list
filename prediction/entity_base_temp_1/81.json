@@ -1,0 +1,100 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "EASE'25: 29th International Conference on Evaluation and Assessment in Software Engineering",
+      "details": {
+        "dates": {
+          "conference": "June 17-20, 2025",
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          {
+            "name": "EASE'25",
+            "tracks": [
+              {
+                "track_name": "Research Track",
+                "papers": 57
+              },
+              {
+                "track_name": "Industry Track",
+                "papers": 13
+              },
+              {
+                "track_name": "Short Papers Track",
+                "papers": 29
+              },
+              {
+                "track_name": "AI Models & Data Evaluation",
+                "papers": 24
+              },
+              {
+                "track_name": "Vision & Poster Track",
+                "papers": 2
+              },
+              {
+                "track_name": "Doctoral Track",
+                "papers": 4
+              },
+              {
+                "track_name": "Journal First Track",
+                "papers": 2
+              }
+            ],
+            "keynotes": [
+              {
+                "speaker": "Prof. Dr. Sven Apel",
+                "affiliation": "Saarland University",
+                "title": "AI4SE: Adventures in the Promised Land",
+                "date": "June 18, 2025"
+              },
+              {
+                "speaker": "Prof. Dr. Brian Fitzgerald",
+                "affiliation": "Lero - the Irish Software Research Centre",
+                "title": "The Rise and Rise of InnerSource",
+                "date": "June 19, 2025"
+              },
+              {
+                "speaker": "Dr. Celal Ziftci",
+                "affiliation": "Google",
+                "title": "Beyond Code Completion:  Harnessing LLMs for Complex Code Migrations in an Enterprise Setting at Google",
+                "date": "June 20, 2025"
+              }
+            ]
+          }
+        ],
+        "workshops": [
+          {
+            "date": "June 17, 2025",
+            "description": "EASE will feature five workshops"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            null
+          ],
+          "submission_information": [
+            "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": {
+              "link": "https://conf.researchr.org/attending/ease-2025/registration"
+            },
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "SEWORLD": "http://sigsoft.org/resources/seworld.html"
+          }
+        ]
+      }
+    }
+  ]
+}

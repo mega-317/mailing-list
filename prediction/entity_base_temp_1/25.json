@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoc Position",
+      "name": "Postdoc position in Trustworthy Distributed Systems",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "KU Leuven, Belgium",
+        "main_conferences": [
+          "ACM",
+          "IEEE"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "DistriNet research group"
+          ],
+          "submission_information": [
+            "PhD degree in Computer Science",
+            "Publication track record in relevant international peer-reviewed conferences or journals"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "KU Leuven Job Info": "https://www.kuleuven.be/personeel/jobsite/jobs/60496661"
+          },
+          {
+            "Postdoc Career Info": "https://research.kuleuven.be/en/career/postdoc"
+          },
+          {
+            "Research Unit Website": "https://distrinet.cs.kuleuven.be/"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "email": {
+    "subject": "Research Fellow in Edge Software Vulnerability Detection at Queen's University Belfast, UK",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 10 Jul 2025 16:15:56 -0000",
+    "content_type": "text/plain",
+    "application_entry": "https://hrwebapp.qub.ac.uk/tlive_webrecruitment/wrd/run/ETREC107GF.open?VACANCY_ID=396975RtnB&WVID=6273090Lgx&LANG=USA",
+    "university_research_jobs_page": "https://www.qub.ac.uk/sites/QUBJobVacancies/ResearchJobs/",
+    "position": {
+      "title": "Research Fellow-Edge Software Vulnerability Detection",
+      "reference": "25/112645",
+      "school": "School of Electronics, Electrical Engineering and Computer Science",
+      "closing_date": "21-07-2025",
+      "details": {
+        "description": "The Post holder will be a highly productive, ambitious and collaborative member of the National Edge AI Hub research project at Queen's University Belfast.",
+        "activities_responsibilities": [
+          {
+            "activity": "Understanding Vulnerabilities",
+            "details": "Investigate, characterise, and develop ontologies of software vulnerabilities in the edge computing environment."
+          },
+          {
+            "activity": "Vulnerability Detection",
+            "details": "Monitor and/or analyse source code (and data), software behaviours, and software environment to identify potential vulnerabilities and assess their impacts."
+          },
+          {
+            "activity": "Remediation and Prevention",
+            "details": "Predict or identify vulnerabilities early, to fix them quickly and effectively, preventing potential exploitation."
+          },
+          {
+            "activity": "Anomaly Detection and Malware Detection",
+            "details": "Investigate the software quality certification/robustness to cyber disturbances, cyber-attacks, on federated/distributed EC environment."
+          },
+          {
+            "activity": "Identify quality issues with AI models",
+            "details": "Implement on edge and offer mitigation strategies to resolve the challenges."
+          }
+        ]
+      },
+      "candidate_requirements": {
+        "expected_qualification": "PhD degree in Artificial Intelligence, Software Engineering, or Computer Science",
+        "relevant_experience": [
+          "Undertaking research in Artificial Intelligence, Software Engineering, Edge Computing, and/or Cybersecurity.",
+          "Hands-on experience with machine learning frameworks such as PyTorch, Keras, or TensorFlow.",
+          "Solid understanding of edge intelligence and software vulnerabilities.",
+          "Working effectively as part of a research team.",
+          "Strong publication record commensurate with stage of career."
+        ],
+        "shortlisting_advice": "Please ensure you clearly evidence in your application how you meet the essential and, where applicable, desirable criteria listed in the Candidate Information."
+      },
+      "contract": {
+        "duration": "2 years",
+        "type": "Fixed term",
+        "renewal_possibility": "subject to availability of funding"
+      },
+      "benefits": {
+        "salary": "competitive",
+        "holiday_entitlement": "up to 8.4 weeks a year",
+        "pension_schemes": true,
+        "development_opportunities": true,
+        "wellbeing_support": [
+          "flexible working options",
+          "work-life balance initiatives",
+          "support for physical and mental health"
+        ],
+        "benefits_url": "https://www.qub.ac.uk/directorates/HumanResources/pay-reward-and-benefits/"
+      },
+      "equality_commitment": {
+        "description": "Queen's University is committed to promoting equality of opportunity to all.",
+        "charters": [
+          "Diversity Charter Mark NI",
+          "Athena Swan"
+        ],
+        "staff_networks": [
+          "iRise (Black, Asian, Minority Ethnic and International Staff Network)",
+          "PRISM (LGBTQ+)"
+        ],
+        "inclusion_information_url": "www.qub.ac.uk/diversity"
+      },
+      "international_applicants": {
+        "visa_support_information": "If you are an international applicant and don't already hold a visa that permits you to take up the role you are applying for, please use the information provided on our website to self-assess whether the University is likely to be able to support a visa application.",
+        "visa_information_url": "http://go.qub.ac.uk/internationalstaffsupport"
+      }
+    }
+  }
+}

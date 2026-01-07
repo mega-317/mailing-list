@@ -1,0 +1,55 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Book",
+      "name": "System of Systems Engineering: Innovations, Challenges, and Future Directions",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": {
+            "proposed_chapter_abstracts": "September 1, 2025",
+            "notification_of_reviewed_abstracts": "September 15, 2025",
+            "submission_of_full_chapters": "December 15, 2025",
+            "notification_of_full_chapters": "January 15, 2026",
+            "camera_ready_copy": "March 1, 2026"
+          },
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Published by Elsevier",
+        "main_conferences": null,
+        "workshops": null,
+        "call_for_proposals": "Contributions should be original, unpublished, and not under review elsewhere. Submit a chapter proposal (500-1,000 words) outlining the scope, methodology, and expected contributions of the chapter.",
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Bedir Tekinerdogan",
+              "affiliation": "Wageningen University, The Netherlands"
+            },
+            {
+              "name": "Khalil Drira",
+              "affiliation": "LAAS-CNRS Université de Toulouse, France"
+            }
+          ],
+          "submission_information": "Each chapter should be approximately 7,500 words and follow Elsevier's formatting guidelines. Co-authored chapters are welcome.",
+          "promotion": {
+            "organizers_committee": [
+              {
+                "name": "Bedir Tekinerdogan",
+                "position": "Chair Information Technology",
+                "email": "[log in to unmask]",
+                "phone": "+31 (0)317 485477"
+              }
+            ],
+            "registration": "Submissions can be made via Easychair: https://easychair.org/conferences/?conf=sose2025",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          "https://easychair.org/conferences/?conf=sose2025"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "email": {
+    "subject": "ETAPS 2026 Joint Call for Papers",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 5 Jun 2025 13:58:40 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "event": {
+        "name": "ETAPS 2026",
+        "type": "International Joint Conferences",
+        "focus": "Theory and Practice of Software",
+        "date": {
+          "start": "April 11, 2026",
+          "end": "April 16, 2026"
+        },
+        "location": "Torino, Italy",
+        "website": "https://etaps.org/2026"
+      },
+      "about_etaps": {
+        "description": "ETAPS is a primary forum for academic and industrial researchers working on topics relating to software science.",
+        "established": 1998,
+        "event_number": 29,
+        "notes": [
+          "ETAPS is one of the world's leading fora for research on software science, with a history of more than 25 years.",
+          "The proceedings of ETAPS appear in gold open access, with no article processing charge for the authors specifically.",
+          "All constituent conferences provide artifact evaluation (AE).",
+          "Activities include a blog on software science, a PhD workshop, sessions on diversity and inclusion, and an ask-me-anything session.",
+          "Poster and Tool demo sessions are organized over the week.",
+          "Spin Symposium and Rust Verification Workshop are colocated with ETAPS again."
+        ]
+      },
+      "new_in_2026": {
+        "changes": [
+          "Submission deadlines are strict and firm, no exceptions will be granted.",
+          "FoSSaCS 2026 will adopt a double-blind reviewing process.",
+          "PC members of FoSSaCS allowed to submit up to one paper to FoSSaCS with a higher acceptance threshold."
+        ]
+      },
+      "main_conferences": {
+        "dates": "April 13-16, 2026",
+        "conferences": [
+          {
+            "name": "ESOP",
+            "description": "European Symposium on Programming",
+            "pc_chair": "Robbert Krebbers, Radboud University",
+            "ae_chair": "Michael Sammler, ISTA"
+          },
+          {
+            "name": "FASE",
+            "description": "Fundamental Approaches to Software Engineering",
+            "pc_chairs": [
+              "Elvira Albert, Complutense University of Madrid",
+              "Corina Pasareanu, NASA Ames"
+            ],
+            "ae_chair": "TBD"
+          },
+          {
+            "name": "FoSSaCS",
+            "description": "Foundations of Software Science and Computation Structures",
+            "pc_chairs": [
+              "Nathalie Bertrand, Rennes University",
+              "Stefan Milius, Friedrich-Alexander Universitaet"
+            ],
+            "ae_chair": "Guillermo Alberto Perez, University of Antwerp"
+          },
+          {
+            "name": "TACAS",
+            "description": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "pc_chairs": [
+              "Sebastian Junges, Radboud University",
+              "Guy Katz, Hebrew University"
+            ],
+            "ae_chairs": [
+              "Guy Amir, Cornell University",
+              "Matthias Volk, Eindhoven University of Technology"
+            ]
+          }
+        ]
+      },
+      "important_dates": [
+        {
+          "event": "Submission deadline ESOP round 1",
+          "date": "June 3, 2025"
+        },
+        {
+          "event": "Rebuttal ESOP round 1",
+          "date": "July 21-23, 2025"
+        },
+        {
+          "event": "Notification ESOP round 1",
+          "date": "August 1, 2025"
+        },
+        {
+          "event": "Submission deadline ESOP round 2",
+          "date": "October 16, 2025"
+        },
+        {
+          "event": "Submission deadline for TACAS, FoSSaCS, FASE",
+          "date": "October 16, 2025"
+        },
+        {
+          "event": "TACAS mandatory artifact submission deadline (for tools)",
+          "date": "October 30, 2025"
+        },
+        {
+          "event": "Rebuttal (ESOP, FoSSaCS, TACAS)",
+          "date": "December 8-10, 2025"
+        },
+        {
+          "event": "Paper notification and TACAS mandatory artifact notification",
+          "date": "December 22, 2025"
+        },
+        {
+          "event": "Artifact submission deadline for accepted papers (except for TACAS tools)",
+          "date": "January 8, 2026"
+        },
+        {
+          "event": "Paper final version",
+          "date": "January 22, 2026"
+        },
+        {
+          "event": "Artifact notification ESOP, FASE, FoSSaCS, TACAS (voluntary artifacts)",
+          "date": "February 12, 2026"
+        },
+        {
+          "event": "Main Conference",
+          "date": "April 13-16, 2026"
+        }
+      ],
+      "publication": {
+        "description": "The proceedings will be published in the Advanced Research in Computing and Software Science (ARCoSS) subline of Springer's LNCS series.",
+        "notes": [
+          "Proceedings volumes will appear in gold open access, so published versions of all papers will be available for free download.",
+          "The copyright of the papers will remain with the authors."
+        ]
+      },
+      "awards": {
+        "distinguished_papers": {
+          "description": "The strongest papers from the four conferences will be marked as distinguished.",
+          "selection_committee": [
+            "EAPLS",
+            "EASST",
+            "EATCS",
+            "Best Tool Paper Award committee"
+          ]
+        },
+        "etaps_test_of_time_award": {
+          "description": "Recognizes outstanding papers published at ETAPS more than ten years in the past."
+        },
+        "etaps_rance_cleaveland_test_of_time_tool_award": {
+          "description": "Acknowledges the importance of reliable and well-maintained research tools."
+        },
+        "doctoral_dissertation_award": {
+          "description": "Promotes and recognizes an outstanding dissertation in the research areas covered by the four main ETAPS conferences."
+        }
+      },
+      "submission_instructions": {
+        "description": "The four main conferences of ETAPS 2026 solicit contributions of different types.",
+        "details": [
+          {
+            "conference": "ESOP",
+            "submission_types": [
+              {
+                "type": "regular research papers",
+                "max_pages": 25
+              },
+              {
+                "type": "experience reports",
+                "max_pages": 15
+              },
+              {
+                "type": "fresh perspectives",
+                "max_pages": 15
+              }
+            ],
+            "notes": "Submitted research papers may be formatted in other formats."
+          },
+          {
+            "conference": "FASE",
+            "submission_types": [
+              {
+                "type": "regular research papers",
+                "max_pages": 18
+              },
+              {
+                "type": "empirical evaluation papers",
+                "max_pages": 18
+              },
+              {
+                "type": "new ideas and emerging results (NIER) papers",
+                "max_pages": 8
+              },
+              {
+                "type": "tool demonstration papers",
+                "max_pages": 8,
+                "additional_notes": "optional appendix of max 6 pp"
+              },
+              {
+                "type": "data showcase papers",
+                "max_pages": 8
+              }
+            ]
+          },
+          {
+            "conference": "FoSSaCS",
+            "submission_types": [
+              {
+                "type": "regular research papers",
+                "max_pages": 18
+              }
+            ]
+          },
+          {
+            "conference": "TACAS",
+            "submission_types": [
+              {
+                "type": "regular research papers",
+                "max_pages": 16
+              },
+              {
+                "type": "case study papers",
+                "max_pages": 16
+              },
+              {
+                "type": "regular tool papers",
+                "max_pages": 16
+              },
+              {
+                "type": "tool demonstration papers",
+                "max_pages": 6
+              }
+            ]
+          }
+        ],
+        "submission_conditions": [
+          "Papers must be in English, presenting original research.",
+          "Papers must be unpublished and not submitted for publication elsewhere.",
+          "Simultaneous submission of the same contribution to multiple ETAPS conferences is forbidden.",
+          "Submissions must follow the formatting guidelines of Springer's LNCS."
+        ],
+        "review_process": "ETAPS conferences will use double-blind reviewing (for regular research papers). Authors should omit names and institutions."
+      },
+      "artifact_submission_and_evaluation": {
+        "notes": [
+          "Regular tool paper and tool demonstration paper submissions to TACAS must be accompanied by an artifact.",
+          "For research paper submissions at TACAS, participation in artifact evaluation is voluntary.",
+          "ESOP, FASE, and FoSSaCS will accept artifact submissions, participation is voluntary, and outcomes will not alter paper acceptance."
+        ]
+      },
+      "satellite_events": {
+        "description": "Several satellite workshops and other events will take place during the weekend before the main conferences."
+      },
+      "city_and_host_institution": {
+        "city": "Turin, Italy",
+        "organizer": {
+          "name": "University of Turin",
+          "department": "Department of Computer Science",
+          "description": "Centre coordinating research, teaching, dissemination and technological transfer in Computer Science."
+        },
+        "city_highlights": [
+          "Rich historical background",
+          "Nurturing the automobile industry",
+          "Culinary delights",
+          "Stunning architecture",
+          "Technology hub with a startup community"
+        ],
+        "tourist_attractions": [
+          "Egyptian Museum",
+          "Museum of Oriental Art",
+          "Automobile Museum",
+          "National Cinema Museum"
+        ],
+        "tourism_website": "https://turismotorino.org/en"
+      },
+      "organisers": [
+        "Feruccio Damiani",
+        "Maurice ter Beek",
+        "Enrico Beraldo",
+        "Barbara Boni"
+      ]
+    }
+  }
+}

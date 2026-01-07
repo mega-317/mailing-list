@@ -1,0 +1,72 @@
+{
+  "email": {
+    "subject": "Two postdoc positions at KFUPM",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 19 May 2025 15:46:08 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "positions": {
+        "number": 2,
+        "institution": {
+          "name": "King Fahd University of Petroleum and Minerals",
+          "location": "Saudi Arabia",
+          "website": "https://www.kfupm.edu.sa/"
+        },
+        "fields": [
+          "Secure Software Development/Software Security",
+          "Artificial Intelligence in Software Engineering"
+        ],
+        "duration": {
+          "initial": "2 years",
+          "extension": {
+            "possible": true,
+            "duration": "2 years",
+            "conditions": [
+              "based on performance",
+              "mutual agreement"
+            ]
+          }
+        },
+        "qualifications": [
+          "Ph.D. in Computer Science",
+          "Ph.D. in Software Engineering",
+          "Ph.D. in a closely related field",
+          "Candidates near completion of Ph.D. are acceptable",
+          "Currently holding postdoc positions are encouraged to apply"
+        ],
+        "application": {
+          "contact_person": {
+            "name": "Prof. Mohammad Alshayeb",
+            "email": "[log in to unmask]"
+          },
+          "call_to_action": "Interested candidates are invited to send their CV or direct any inquiries."
+        },
+        "note": "We look forward to hearing from qualified candidates who are enthusiastic about contributing to impactful research at KFUPM."
+      },
+      "contact_info": {
+        "professor": {
+          "name": "Mohammad Alshayeb, Ph.D., PMP, PMI-ACP",
+          "title": "Professor",
+          "department": "Information and Computer Science Department",
+          "affiliation": "Senior Research Scholar, IRC for Intelligent Secure Systems",
+          "institution": "King Fahd University of Petroleum and Minerals",
+          "address": "Dhahran, Saudi Arabia 31261",
+          "website": "http://www.alshayeb.com",
+          "phone": "+(966) 13-860-4874"
+        }
+      },
+      "SEWORLD_contribution": {
+        "email": "[log in to unmask]",
+        "info_link": "http://sigsoft.org/resources/seworld.html",
+        "archive_link": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "18th IFIP WG8.1 Working Conference on the Practice of Enterprise Modeling",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "IFIP WG8.1 Working Conference"
+        ],
+        "workshops": [],
+        "call_for_proposals": "CfP PoEM 2025",
+        "requirements": {
+          "organizers": [
+            null
+          ],
+          "submission_information": [
+            "Send your submission to mailto:[log in to unmask]"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

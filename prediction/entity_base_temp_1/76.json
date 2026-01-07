@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "postdoc_positions",
+      "name": "Postdoc Positions at KFUPM",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Saudi Arabia",
+        "main_conferences": [
+          "King Fahd University of Petroleum and Minerals"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Prof. Mohammad Alshayeb"
+          ],
+          "submission_information": [
+            "Candidates should send their CV or inquiries to Prof. Mohammad Alshayeb."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "KFUPM": "https://www.kfupm.edu.sa/"
+          },
+          {
+            "Professor Mohammad Alshayeb": "http://www.alshayeb.com"
+          }
+        ]
+      }
+    }
+  ]
+}

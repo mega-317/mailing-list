@@ -1,0 +1,40 @@
+{
+  "email": {
+    "subject": "Postdoctoral Researcher position in Denmark",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": "[log in to unmask]",
+    "date": "2025-05-27T13:52:47Z",
+    "content": {
+      "greeting": "Dear all,",
+      "body": {
+        "position": {
+          "title": "Postdoctoral Researcher",
+          "department": "Dynamical Systems",
+          "institution": {
+            "name": "Technical University of Denmark",
+            "website": "https://www.linkedin.com/company/dtu-mathematics/"
+          },
+          "fields": [
+            "Software Architecture and Software Evaluation (Quality attributes)",
+            "Digital Twin & Digital Transformation"
+          ],
+          "description": "If you're an applied researcher with a passion for practical European projects, this is your opportunity to elevate your work in Software Engineering and contribute to impactful research with real-world relevance.",
+          "relevantDomains": [
+            "Energy",
+            "Mobility",
+            "Climate Change"
+          ],
+          "application": {
+            "link": "https://lnkd.in/dz8VSae3",
+            "notes": "If there is any question, please feel free to contact via email at [log in to unmask]. It would be greatly appreciated if you could circulate this position among your research team or through your professional network."
+          }
+        },
+        "jobPostingLink": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5212/?utm_medium=jobshare&utm_source=External+Job+Share"
+      },
+      "closing": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]."
+    }
+  }
+}

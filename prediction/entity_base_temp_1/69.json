@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Research Position",
+      "name": "SPARTAN effort on AI agents",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "National University of Singapore",
+        "main_conferences": [
+          "ACM TOSEM"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Abhik Roychoudhury"
+          ],
+          "submission_information": [
+            "Interested candidates can email their CV and sample publications."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "NUS Research Group": "https://nus-tss.github.io/"
+          },
+          {
+            "SPARTAN Project": "https://spartan-nus.github.io/"
+          }
+        ]
+      }
+    }
+  ]
+}

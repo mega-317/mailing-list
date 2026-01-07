@@ -1,0 +1,47 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "SLE 2025",
+      "details": {
+        "dates": {
+          "conference": "12-13 June 2025",
+          "satellite_events": null,
+          "submission_deadline": "May 10th, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Koblenz, Germany",
+        "main_conferences": [
+          "18th ACM SIGPLAN International Conference on Software Language Engineering"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "ACM SIGPLAN"
+          ],
+          "submission_information": [
+            "Registration through STAF registration page"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": "Early Bird Registration",
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://conf.researchr.org/home/sle-2025"
+          },
+          {
+            "SLE Official Website": "https://www.sleconf.org/2025/"
+          },
+          {
+            "Twitter": "https://x.com/sleconf"
+          }
+        ]
+      }
+    }
+  ]
+}

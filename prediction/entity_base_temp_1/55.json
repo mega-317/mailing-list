@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Position",
+      "name": "Postdoctoral Fellow in Software Engineering for AI Systems",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Concordia University, Montreal, Canada",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Emad Shihab, PhD, P.Eng"
+          ],
+          "submission_information": [
+            "Apply at: https://dearprof.com/positions/66b4f1c30178fa4bf77d0614/apply or email a CV"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "DAS Lab Website": "http://das.encs.concordia.ca"
+          }
+        ]
+      }
+    }
+  ]
+}

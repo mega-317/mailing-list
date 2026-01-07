@@ -1,0 +1,70 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "41st IEEE International Conference on Software Maintenance and Evolution (ICSME 2025)",
+      "details": {
+        "dates": {
+          "conference": {
+            "start_date": "2025-09-07",
+            "end_date": "2025-09-12"
+          },
+          "satellite_events": null,
+          "submission_deadline": "2025-07-15T23:59:00",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Auckland, New Zealand",
+        "main_conferences": [
+          {
+            "name": "SCAM",
+            "url": "https://conf.researchr.org/home/scam-2025"
+          },
+          {
+            "name": "VISSOFT",
+            "url": "https://vissoft.io/2025/"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "IEEE Computer Society",
+            "IEEE TCSE"
+          ],
+          "submission_information": [
+            "Application and Reference Letters for student volunteers"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": {
+              "link": "https://conf.researchr.org/home/icsme-2025",
+              "early_bird_deadline": "2025-08-01"
+            },
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ICSME 2025": "https://conf.researchr.org/home/icsme-2025"
+          },
+          {
+            "Program overview": "https://conf.researchr.org/info/icsme-2025/program-overview"
+          },
+          {
+            "Keynotes": "https://conf.researchr.org/info/icsme-2025/keynotes"
+          },
+          {
+            "Student Volunteer": "https://conf.researchr.org/attending/icsme-2025/student-volunteer"
+          },
+          {
+            "Travel support": "https://conf.researchr.org/attending/icsme-2025/travel-support"
+          },
+          {
+            "Explore Software Engineering research": "https://conf.researchr.org/info/icsme-2025/explore-se-research-in-nz#engage-with-software-engineering-researchers-in-aotearoa-new-zealand"
+          }
+        ]
+      }
+    }
+  ]
+}

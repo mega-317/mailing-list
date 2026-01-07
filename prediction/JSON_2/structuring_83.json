@@ -1,0 +1,95 @@
+{
+  "email": {
+    "subject": "Dean Search, School of Computing and Information Systems, Singapore Management University",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 12:31:31 -0000",
+    "content_type": "text/plain"
+  },
+  "position": {
+    "title": "Dean",
+    "school": "School of Computing and Information Systems",
+    "university": "Singapore Management University",
+    "description": {
+      "university": {
+        "name": "Singapore Management University",
+        "established": 2000,
+        "description": "Offers a transformative education for a new generation of graduates and leaders, and a multi-disciplinary research environment.",
+        "goal": "Generate leading-edge research with global impact and produce socially engaged, creative, and entrepreneurial leaders."
+      },
+      "school": {
+        "name": "School of Computing and Information Systems",
+        "established": 2003,
+        "description": "A dynamic school seeking to uplift its research and education focused on excellence in academic knowledge and practical technology.",
+        "rankings": {
+          "software_engineering": {
+            "global_rank": 4,
+            "metric": "CSRankings",
+            "year": 2024
+          },
+          "master_program": {
+            "name": "Master of IT in Business",
+            "asia_rank": 2,
+            "worldwide_rank": 24,
+            "category": "QS Business Master's Rankings 2024: Business Analytics"
+          }
+        }
+      },
+      "role": {
+        "description": "Lead a rapidly growing school at a significant period of the University's development, advancing its innovative educational and research profile.",
+        "requirements": [
+          "Leverage relevant leadership experience in a research-intensive environment of similar standing and scale.",
+          "Demonstrate an excellent scholarly profile.",
+          "Contribute to advancing research in Computing and Information Systems.",
+          "Develop and execute a distinct vision.",
+          "Provide inspiring and inclusive leadership that supports faculty, students, and communities."
+        ]
+      }
+    }
+  },
+  "application": {
+    "process": {
+      "supporting_firm": "Perrett Laver",
+      "committee": "SCIS Dean Search Committee",
+      "documentation": [
+        "Cover letter describing management and leadership experiences, teaching and research interests.",
+        "Full curriculum vitae."
+      ]
+    },
+    "application_instructions": {
+      "url": "https://candidates.perrettlaver.com/vacancies/",
+      "reference": 7847,
+      "inquiries_contact": {
+        "name": "Dong Qing Yang",
+        "email": "[log in to unmask]"
+      }
+    },
+    "deadline": "10 June 2025"
+  },
+  "sender": {
+    "name": "Lingxiao Jiang",
+    "position": "Professor of Computer Science",
+    "school": "School of Computing and Information Systems",
+    "university": "Singapore Management University",
+    "address": {
+      "street": "80 Stamford Road",
+      "city": "Singapore",
+      "postal_code": "178902"
+    },
+    "contact": {
+      "did": "+ 65 68085113",
+      "fax": "+ 65 68280919"
+    },
+    "websites": [
+      "https://www.smu.edu.sg/",
+      "https://computing.smu.edu.sg/",
+      "https://candidates.perrettlaver.com/vacancies/4689/dean_of_school_of_computing_and_information_systems/"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "extracted_entities": [
+    {
+      "type": "conference",
+      "name": "ETAPS 2026",
+      "details": {
+        "dates": {
+          "conference": "April 11-16, 2026",
+          "satellite_events": "April 11-12, 2026",
+          "submission_deadline": {
+            "ESOP_round_1": "June 3, 2025",
+            "ESOP_round_2": "October 16, 2025",
+            "TACAS": "October 16, 2025",
+            "FoSSaCS": "October 16, 2025",
+            "TACAS_artifact_submission": "October 30, 2025",
+            "rebuttal_period": "December 8-10, 2025",
+            "notification": "December 22, 2025",
+            "artifact_submission_acceptance": "January 8, 2026",
+            "final_files_due": "January 22, 2026",
+            "artifact_notification_voluntary": "February 12, 2026"
+          },
+          "notification_of_acceptance": "August 1, 2025",
+          "final_files_due": "January 22, 2026"
+        },
+        "location": "Turin, Italy",
+        "main_conferences": [
+          {
+            "name": "ESOP",
+            "dates": "April 13-16, 2026",
+            "PC_chairs": [
+              {
+                "name": "Robbert Krebbers",
+                "affiliation": "Radboud University"
+              }
+            ],
+            "AE_chair": "Michael Sammler, ISTA"
+          },
+          {
+            "name": "FASE",
+            "dates": "April 13-16, 2026",
+            "PC_chairs": [
+              {
+                "name": "Elvira Albert",
+                "affiliation": "Complutense University of Madrid"
+              },
+              {
+                "name": "Corina Pasareanu",
+                "affiliation": "NASA Ames"
+              }
+            ],
+            "AE_chair": "TBD"
+          },
+          {
+            "name": "FoSSaCS",
+            "dates": "April 13-16, 2026",
+            "PC_chairs": [
+              {
+                "name": "Nathalie Bertrand",
+                "affiliation": "Rennes University"
+              },
+              {
+                "name": "Stefan Milius",
+                "affiliation": "Friedrich-Alexander Universitaet"
+              }
+            ],
+            "AE_chair": "Guillermo Alberto Perez, University of Antwerp"
+          },
+          {
+            "name": "TACAS",
+            "dates": "April 13-16, 2026",
+            "PC_chairs": [
+              {
+                "name": "Sebastian Junges",
+                "affiliation": "Radboud University"
+              },
+              {
+                "name": "Guy Katz",
+                "affiliation": "Hebrew University"
+              }
+            ],
+            "AE_chairs": [
+              {
+                "name": "Guy Amir",
+                "affiliation": "Cornell University"
+              },
+              {
+                "name": "Matthias Volk",
+                "affiliation": "Eindhoven University of Technology"
+              }
+            ]
+          }
+        ],
+        "workshops": [
+          {
+            "name": "Spin Symposium",
+            "type": "workshop"
+          },
+          {
+            "name": "Rust Verification Workshop",
+            "type": "workshop"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Feruccio Damiani",
+            "Maurice ter Beek",
+            "Enrico Beraldo",
+            "Barbara Boni"
+          ],
+          "submission_information": [
+            "Submissions must be in English, original research, unpublished and not submitted for publication elsewhere."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://etaps.org/2026"
+          },
+          {
+            "Turin Tourism": "https://turismotorino.org/en"
+          }
+        ]
+      }
+    }
+  ]
+}

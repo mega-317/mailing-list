@@ -1,0 +1,110 @@
+{
+  "event": {
+    "title": "1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025)",
+    "date": {
+      "start": "2025-09-01",
+      "end": "2025-09-03"
+    },
+    "location": {
+      "venue": "University of Extremadura",
+      "city": "Cáceres",
+      "country": "Spain"
+    },
+    "website": "https://i3lab.unex.es/summer-school/",
+    "target_audience": [
+      "researchers",
+      "PhD students",
+      "professionals"
+    ],
+    "topics": [
+      "LLM-based agents for software development tasks (e.g., requirements analysis, coding, testing, deployment)",
+      "Evaluation and benchmarking of agent-based systems",
+      "Human-agent collaboration in software engineering"
+    ],
+    "program": {
+      "description": "A mix of lectures and hands-on workshops delivered by internationally recognized experts in AI and software engineering.",
+      "confirmed_speakers": [
+        {
+          "name": "Davide Di Ruscio",
+          "institution": "Università degli Studi dell'Aquila",
+          "country": "Italy"
+        },
+        {
+          "name": "Jie Zhang",
+          "institution": "King's College London",
+          "country": "UK"
+        },
+        {
+          "name": "Antonio García Domínguez",
+          "institution": "University of York",
+          "country": "UK"
+        },
+        {
+          "name": "Jesús M. González Barahona",
+          "institution": "Universidad Rey Juan Carlos",
+          "country": "Spain"
+        },
+        {
+          "name": "Massimo Tisi",
+          "institution": "IMT Atlantique",
+          "country": "France"
+        },
+        {
+          "name": "Merve Astekin",
+          "institution": "SINTEF Digital",
+          "country": "Norway"
+        },
+        {
+          "name": "Adela Nedisan Videsjorden",
+          "institution": "SINTEF Digital",
+          "country": "Norway"
+        },
+        {
+          "name": "Simeon Tverdal",
+          "institution": "SINTEF Digital",
+          "country": "Norway"
+        },
+        {
+          "name": "Olivier Perard",
+          "institution": "Oracle EMEA",
+          "country": "Spain"
+        }
+      ]
+    },
+    "registration": {
+      "details": {
+        "fee": "free of charge",
+        "includes": [
+          "all course materials",
+          "coffee breaks",
+          "daily lunches",
+          "one guided tourist activity",
+          "social dinner"
+        ],
+        "certificate": "certificate of attendance provided"
+      },
+      "scholarships": {
+        "description": "Limited number of accommodation scholarships available for students.",
+        "application_process": "indicate interest during registration"
+      }
+    },
+    "venue_description": "University of Extremadura, Cáceres, Spain - a beautiful historical city and UNESCO World Heritage Site, perfect for learning and networking in a relaxed and inspiring environment.",
+    "co_chairs": [
+      {
+        "name": "Prof. Dr. Roberto Rodríguez Echeverría",
+        "institution": "University of Extremadura",
+        "country": "Spain"
+      },
+      {
+        "name": "Prof. Dr. José María Conejero",
+        "institution": "University of Extremadura",
+        "country": "Spain"
+      }
+    ],
+    "organization": "i3Lab by Quercus Software Engineering Group and INTIA",
+    "sponsors": [
+      "Consejería de Economía, Empleo y Transformación Digital, Junta de Extremadura",
+      "ACM SIGSOFT"
+    ]
+  }
+}

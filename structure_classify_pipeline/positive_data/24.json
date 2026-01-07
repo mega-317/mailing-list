@@ -1,0 +1,188 @@
+{
+  "email": {
+    "subject": "CFP: (IEEE Tech Sponsored) SDS2025: Lyon, France 2-5 Dec 2025 - The 12th International Conference on Software Defined Systems",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 25 Jun 2025 16:18:03 -0000",
+    "content_type": "text/plain",
+    "conference_info": {
+      "title": "The 12th International Conference on Software Defined Systems (SDS2025)",
+      "website": "https://www.gcet-conference.com/SDS2025",
+      "location": "Lyon, France",
+      "dates": {
+        "start": "2025-12-02",
+        "end": "2025-12-05"
+      },
+      "venue": "University Lyon 1, Lyon, France",
+      "submission": {
+        "link": "https://easychair.org/conferences/?conf=sds202501",
+        "dates": {
+          "submission_due": "2025-08-31",
+          "notification_to_authors": "2025-10-20",
+          "camera_ready_submission": "2025-10-30"
+        }
+      }
+    },
+    "call_for_papers": {
+      "description": "In the era of digital transformation, the world is rapidly converging toward a future where everything will be software-controlled. This paradigm enables unprecedented agility, automation, and intelligence across every layer of modern computing environments. SDS 2025 invites researchers, engineers, and practitioners from academia, industry, and government to explore the foundations, architectures, challenges, and breakthroughs in software-defined everything.",
+      "areas_of_interest": [
+        {
+          "title": "Core Foundations of Software-Defined Systems",
+          "topics": [
+            "Software-Defined Networking (SDN), Storage (SDS), and Compute",
+            "Network Function Virtualization (NFV) and service chaining",
+            "Control plane/data plane decoupling and programmability (e.g., P4, eBPF)",
+            "Intent-based, policy-driven, and declarative system control",
+            "Platforms for orchestration, monitoring, and lifecycle management"
+          ]
+        },
+        {
+          "title": "Software-Defined Cloud, Edge, and Fog Environments",
+          "topics": [
+            "Software-defined architectures for cloud-edge continuum",
+            "Edge-native orchestration and microservices",
+            "Serverless and Function-as-a-Service (FaaS) models in SDS",
+            "Lightweight virtualization and container orchestration at scale",
+            "Hybrid and distributed infrastructure control across fog, edge, and cloud"
+          ]
+        },
+        {
+          "title": "AI-Driven and Intelligent SDS",
+          "topics": [
+            "AI/ML for optimization, orchestration, and decision-making",
+            "Federated and distributed learning in software-defined environments",
+            "Reinforcement learning for dynamic resource and policy control",
+            "Explainable and trustworthy AI in SDS automation"
+          ]
+        },
+        {
+          "title": "Security, Privacy, and Trust in Software-Defined Systems",
+          "topics": [
+            "Secure identity, authentication, and access control",
+            "Zero trust architectures for SDS",
+            "AI-based threat detection and intrusion response",
+            "Post-quantum security and trust models in virtualized systems",
+            "Confidential computing and privacy-preserving orchestration"
+          ]
+        },
+        {
+          "title": "Automation, Resilience, and Adaptability",
+          "topics": [
+            "Self-configuring, self-healing, and self-optimizing SDS",
+            "Closed-loop control and feedback in system orchestration",
+            "Digital twins and predictive simulation for SDS environments",
+            "Resilience and disaster recovery in programmable infrastructure"
+          ]
+        },
+        {
+          "title": "Interoperability, Standards, and DevOps",
+          "topics": [
+            "Multi-vendor and multi-domain SDS interoperability",
+            "Infrastructure-as-Code (IaC) and DevSecOps for SDS",
+            "APIs, standard protocols, and open-source frameworks",
+            "Benchmarks, simulators, and validation environments for SDS"
+          ]
+        },
+        {
+          "title": "Sustainable and Responsible Software-Defined Systems",
+          "topics": [
+            "Energy-aware design and carbon-efficient orchestration",
+            "Green AI and sustainability metrics in softwarised systems",
+            "Lifecycle management and sustainable SDS architecture"
+          ]
+        },
+        {
+          "title": "Human-Centered and Societal Perspectives",
+          "topics": [
+            "Human-in-the-loop and explainable SDS interfaces",
+            "Usability, visualization, and abstraction for managing complex SDS",
+            "Ethics, transparency, and governance in autonomous systems"
+          ]
+        },
+        {
+          "title": "Applications and Emerging Domains",
+          "topics": [
+            "SDS for smart cities, industrial automation (Industry 4.0), and healthcare",
+            "Software-defined robotics, drones, and autonomous systems",
+            "SDS in 5G/6G networks, network slicing, and beyond",
+            "Digital twins for infrastructure, manufacturing, and cyber-physical systems",
+            "Integration of quantum, neuromorphic, and non-traditional compute models"
+          ]
+        },
+        {
+          "title": "Software Engineering for Software-Defined Systems",
+          "topics": [
+            "Software Architecture & Design for SDS",
+            "Design patterns for programmable infrastructures",
+            "Scalable and modular architectures for cloud-edge control",
+            "Domain-Specific Languages (DSLs) and APIs for infrastructure control",
+            "DevOps, DevSecOps, and Automation",
+            "CI/CD pipelines and deployment automation for SDS",
+            "Infrastructure-as-Code (IaC) and configuration management",
+            "Security integration (DevSecOps) in software-defined environments",
+            "Testing, Verification, and Reliability Engineering",
+            "Formal methods and runtime verification for SDS",
+            "Chaos engineering, fault injection, and resilience testing",
+            "Simulation and digital twins for pre-deployment validation",
+            "Tooling and Software Infrastructure",
+            "Compilers, SDKs, and orchestration frameworks for SDS",
+            "Open-source tools and platforms supporting programmable systems",
+            "Emulators, testbeds, and benchmarking environments",
+            "Human-Centered and Process-Aware Engineering",
+            "Developer experience (DevEx) and usability in SDS tools",
+            "Socio-technical aspects and collaboration in large SDS teams",
+            "Agile/lean processes adapted for infrastructure software",
+            "Governance, Sustainability, and Software Lifecycle Management",
+            "Lifecycle engineering for long-term evolution of SDS",
+            "Sustainability and green software practices",
+            "Regulatory compliance, traceability, and ethics in system automation"
+          ]
+        }
+      ]
+    },
+    "submission_guidelines": {
+      "requirements": [
+        "Manuscripts should be prepared in 10-point font using the IEEE 8.5\" x 11\" two-column format.",
+        "All papers should be in PDF format.",
+        "Papers must present original unpublished research that is not currently under review for any other conference or journal.",
+        "Papers not following these guidelines may be rejected without review.",
+        "A full paper should be between 6 and 8 pages, including all figures, tables, and references.",
+        "Short papers should be between 3 and 4 pages.",
+        "Extended abstracts should be 2 pages.",
+        "Abstracts should not exceed 500 words."
+      ],
+      "peer_review": {
+        "process": "All submissions are peer-reviewed by at least two reviewers.",
+        "accepted_papers": "Accepted papers will appear in the SDS 2025 Proceedings and be submitted to IEEE Xplore.",
+        "other_indexing": [
+          "EI (Compendex)",
+          "Scopus",
+          "DBLP"
+        ]
+      }
+    },
+    "contact": {
+      "email": "[log in to unmask]"
+    },
+    "general_co_chairs": [
+      {
+        "name": "Larbi Boubchir",
+        "affiliation": "University of Paris 8, France"
+      },
+      {
+        "name": "Tamara Zhukabayeva",
+        "affiliation": "L.N Eurasian National University, Kazakhstan"
+      },
+      {
+        "name": "Jaime Lloret",
+        "affiliation": "Universitat Politècnica de València, Spain"
+      }
+    ]
+  }
+}

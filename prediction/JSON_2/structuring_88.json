@@ -1,0 +1,108 @@
+{
+  "email": {
+    "subject": "Call for Papers: Responsible AI Special Issue Journal - Information Processing & Management",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:24:03 -0000",
+    "content_type": "text/plain"
+  },
+  "call_for_papers": {
+    "title": "Responsible Artificial Intelligence: Methodologies, Implications, and Practices",
+    "submission_deadline": "30 October 2025",
+    "guest_editors": [
+      {
+        "name": "Ebrahim Bagheri",
+        "institution": "University of Toronto",
+        "title": "Professor (managing guest editor)",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Robin Cohen",
+        "institution": "University of Waterloo",
+        "title": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Faezeh Ensan",
+        "institution": "Toronto Metropolitan University",
+        "title": "Assistant Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Benjamin C. M. Fung",
+        "institution": "McGill University",
+        "title": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Sébastien Gambs",
+        "institution": "Université du Québec à Montréal",
+        "title": "Professor",
+        "email": "[log in to unmask]"
+      },
+      {
+        "name": "Reihaneh Rabbany",
+        "institution": "McGill University",
+        "title": "Assistant Professor",
+        "email": "[log in to unmask]"
+      }
+    ],
+    "special_issue_information": {
+      "description": "This special issue seeks to bring together cutting-edge research, methodologies, and critical reflections on Responsible Artificial Intelligence (RAI). The issue aims to deepen our understanding of the ethical, legal, technical, and societal dimensions of AI systems.",
+      "importance": "As AI technologies permeate decision-making across industry, government, and society, the demand for systems that are fair, accountable, transparent, and trustworthy has never been more urgent.",
+      "purpose": "This special issue will provide a dedicated venue for interdisciplinary contributions addressing key challenges and opportunities in designing, deploying, and governing responsible AI systems."
+    },
+    "possible_topics": [
+      "Fairness and Bias Mitigation in AI",
+      "Adversarial AI and Red Teaming",
+      "Interpretability and Explainability",
+      "Trust, Reliability, and Safety",
+      "Accountability in Algorithmic Decision-Making",
+      "Auditing and Monitoring AI Systems",
+      "Human-Centered AI Design",
+      "Sociotechnical and Cultural Dimensions of AI",
+      "Environmental Impact of AI",
+      "Regulatory, Legal, and Policy Considerations",
+      "Responsible AI Education and Training",
+      "Social Impact and Labor Implications"
+    ],
+    "manuscript_submission_information": {
+      "important_dates": {
+        "call_for_papers_open": "May 2025",
+        "submission_deadline": "October 30, 2025"
+      },
+      "types_of_submissions": {
+        "description": "We invite original, high-quality submissions that contribute substantively to the field of Responsible AI.",
+        "examples": [
+          "Research articles with empirical findings, theoretical contributions, or methodological innovations",
+          "Review articles offering comprehensive surveys of specific sub-areas within responsible AI"
+        ]
+      },
+      "submission_guidelines": {
+        "peer_review_process": "Single-blind peer-review process coordinated by the guest editors in coordination with the IP&M EiC.",
+        "overlapping_publications": "Authors must disclose any overlapping publications and provide clear documentation of changes in revised submissions.",
+        "submission_link": "https://www.editorialmanager.com/ipm/default.aspx",
+        "general_author_guidelines": "https://www.sciencedirect.com/journal/information-processing-and-management/publish/guide-for-authors"
+      }
+    },
+    "keywords": [
+      "Responsible AI",
+      "AI Ethics",
+      "Algorithmic Accountability",
+      "AI Auditing",
+      "Social Implications of AI"
+    ],
+    "contact": {
+      "name": "Calvin Hillis",
+      "position": "Program Coordinator - Responsible Development of Artificial Intelligence",
+      "institution": "Toronto Metropolitan University",
+      "linked_in": "https://www.linkedin.com/in/calvin-hillis-3a608ba4"
+    }
+  }
+}

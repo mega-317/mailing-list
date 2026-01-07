@@ -1,0 +1,45 @@
+{
+  "email": {
+    "subject": "Call for workshops and tutorials associated with JELIA 2025",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 21 May 2025 23:24:55 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "19th edition of the European Conference on Logics in Artificial Intelligence",
+        "date": "1-5 September 2025",
+        "location": "Kutaisi, Georgia",
+        "url": "https://viam.science.tsu.ge/jelia2025/"
+      },
+      "call_for_proposals": {
+        "description": "The organizers of the JELIA conference are now inviting proposals for affiliated workshops and tutorials. We welcome submissions on any topic related to Artificial Intelligence.",
+        "workshop_details": {
+          "purpose": "provide a forum for presenting ongoing research that is not yet ready for formal publication",
+          "tutorial_details": "offer in-depth introductions to specific topics or extended demonstrations of software tools"
+        },
+        "focus_areas": [
+          "intersection of statistical and symbolic AI",
+          "data-driven machine learning approaches",
+          "logic-based reasoning"
+        ],
+        "encouragement": "proposals that aim to bridge communities and foster dialogue between researchers working in machine learning, knowledge representation, logic, and cognitive systems",
+        "mission": "promote foundational and applied research in logical aspects of AI"
+      },
+      "contact_information": {
+        "email": "[log in to unmask]",
+        "invitation": "If you are considering organizing a workshop or tutorial, please feel free to reach out to me by email as soon as possible."
+      },
+      "submission_guidelines": {
+        "contribution_link": "mailto:[log in to unmask]",
+        "seworld_information": "http://sigsoft.org/resources/seworld.html provides more information on SEWORLD as well as links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

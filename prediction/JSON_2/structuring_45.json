@@ -1,0 +1,67 @@
+{
+  "email": {
+    "subject": "School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 5 Jun 2025 13:57:41 -0000",
+    "content_type": "text/plain",
+    "event": {
+      "title": "School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions",
+      "location": {
+        "venue": "Kutaisi International University",
+        "city": "Kutaisi",
+        "country": "Georgia"
+      },
+      "dates": {
+        "start": "2025-07-07",
+        "end": "2025-07-11"
+      },
+      "website": "https://europroofnet.github.io/Kutaisi25/",
+      "description": "The School on Symbolic and Statistical Methods for Reasoning and Processing Formal Expressions aims to equip participants with advanced techniques for formal reasoning and expression processing. Covering topics such as access control policies, symbolic knowledge extraction, automated protocol analysis, and quantitative constraint solving, the program bridges symbolic and statistical approaches. It explores the integration of regular languages in deep learning and the use of runtime verification with SMT solving, providing both theoretical foundations and practical applications. Through interdisciplinary learning, the school fosters research and innovation in formal methods and AI.",
+      "sessions": [
+        {
+          "title": "Specification and Analysis of Access Control, Obligation and Privacy Policies via the Category-Based MetaModel",
+          "presenter": "Maribel Fernandez"
+        },
+        {
+          "title": "Symbolic Knowledge Extraction and Injection: Theory and Methods",
+          "presenter": "Giovanni Ciatto"
+        },
+        {
+          "title": "Integration of Regular Languages in Deep Learning for Sequential Domains",
+          "presenter": "Elena Umili"
+        },
+        {
+          "title": "Automated Reasoning in Maude for Protocol Analysis",
+          "presenter": "Santiago Escobar"
+        },
+        {
+          "title": "Symbolic techniques for solving quantitative constraints",
+          "presenter": "Temur Kutsia"
+        },
+        {
+          "title": "Runtime Verification as contiguous formula progression and SMT solving",
+          "presenter": "Martin Leucker"
+        },
+        {
+          "title": "Towards GPU-accelerated automated reasoning",
+          "presenter": "Martin Berger"
+        }
+      ],
+      "registration": {
+        "fee": "150 EUR",
+        "contact": "[log in to unmask]"
+      }
+    },
+    "contribution_info": {
+      "instructions": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+      "resources_link": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

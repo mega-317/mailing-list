@@ -66,7 +66,7 @@ def align_structure_node(state) -> dict:
     target_mail_text = state.get("mail_text", "")
     
     # 4. LLM 실행 (구조 맞추기)
-    aligned_json = flexible_chain.invoke({
+    aligned_json = transfer_chain.invoke({
         "template_json": json.dumps(template_skeleton, indent=2),
         "mail_text": target_mail_text
     })

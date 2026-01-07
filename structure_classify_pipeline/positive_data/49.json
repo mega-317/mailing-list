@@ -1,0 +1,100 @@
+{
+  "email": {
+    "subject": "Call for Papers: International Conference on Software Engineering (ICSE) 2026 Research Track",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 28 May 2025 12:08:40 -0000",
+    "content": {
+      "call_for_papers": {
+        "conference": {
+          "name": "International Conference on Software Engineering (ICSE)",
+          "track": "Research Track",
+          "dates": {
+            "start": "April 12, 2026",
+            "end": "April 18, 2026"
+          },
+          "location": "Rio de Janeiro, Brazil",
+          "website": "https://conf.researchr.org/home/icse-2026",
+          "submission_deadline": "July 18, 2025"
+        },
+        "description": "The ICSE is the premier forum for presenting and discussing recent technical research contributions in Software Engineering. We invite high-quality submissions describing original and unpublished results of software engineering research.",
+        "important": [
+          {
+            "details": "Starting 2026, all articles published by ACM will be Open Access."
+          },
+          {
+            "details": "Submissions must follow the latest 'IEEE Submission and Peer Review Policy' and 'ACM Policy on Authorship'."
+          },
+          {
+            "details": "Registering a paper with a title and an abstract is encouraged but not mandatory."
+          }
+        ],
+        "research_areas": [
+          "AI for Software Engineering",
+          "Analytics",
+          "Architecture and Design",
+          "Dependability and Security",
+          "Evolution",
+          "Human and Social Aspects",
+          "Requirements and Modeling",
+          "Software Engineering for AI",
+          "Testing and Analysis"
+        ],
+        "submission_cycles": {
+          "first_cycle": "In progress",
+          "second_cycle": {
+            "submission_deadline": "July 18, 2025",
+            "author_response_period": {
+              "start": "September 23, 2025",
+              "end": "September 25, 2025"
+            },
+            "notification_date": "October 17, 2025",
+            "revision_due": "November 14, 2025",
+            "final_decision": "December 19, 2025"
+          }
+        },
+        "review_criteria": [
+          "Novelty",
+          "Rigor",
+          "Relevance",
+          "Verifiability and Transparency",
+          "Presentation"
+        ],
+        "resubmissions_policy": {
+          "reject_policy": "Papers that receive a REJECT decision in the first cycle are discouraged from resubmitting.",
+          "exception_case": "Authors can resubmit with a clarifications document."
+        },
+        "submission_process": {
+          "format": "PDF",
+          "template": "ACM Primary Article Template",
+          "page_limit": "10 pages for the main text, with 2 additional pages for references."
+        },
+        "open_science_policy": {
+          "guiding_principle": "All research results should be accessible to the public.",
+          "expectations": [
+            "Share data/artifacts to increase reproducibility.",
+            "Justification required if not sharing."
+          ]
+        },
+        "withdrawing_policy": "Authors can withdraw their paper anytime until the final decision."
+      },
+      "conclusion": {
+        "contact_persons": [
+          {
+            "name": "Mira Mezini"
+          },
+          {
+            "name": "Thomas Zimmermann"
+          }
+        ],
+        "note": "At least one author must register for ICSE 2026 and present the paper if accepted."
+      }
+    }
+  }
+}

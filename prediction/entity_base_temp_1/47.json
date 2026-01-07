@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Summer School",
+      "name": "1st International Summer School on LLM-based Agents for Software Engineering (LLMA4SE 2025)",
+      "details": {
+        "dates": {
+          "conference": "September 1-3, 2025",
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "University of Extremadura, Cáceres, Spain",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "i3Lab by Quercus Software Engineering Group and INTIA"
+          ],
+          "submission_information": [
+            "Free of charge. Includes all course materials, coffee breaks, daily lunches, one guided tourist activity, and a social dinner. A certificate of attendance will be provided."
+          ],
+          "promotion": {
+            "organizers_committee": [
+              "Prof. Dr. Roberto Rodríguez Echeverría, University of Extremadura, Spain",
+              "Prof. Dr. José María Conejero, University of Extremadura, Spain"
+            ],
+            "registration": "To register, visit: https://i3lab.unex.es/summer-school/",
+            "participation_fee": "Free of charge"
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://i3lab.unex.es/summer-school/"
+          }
+        ]
+      }
+    }
+  ]
+}

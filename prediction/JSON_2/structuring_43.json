@@ -1,0 +1,52 @@
+{
+  "email": {
+    "subject": "Postdoctoral Position Available in Programming Languages Working on Fixed-Point-Oriented Programming",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 5 Jun 2025 13:58:16 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Hello,",
+      "announcement": {
+        "title": "Postdoctoral Position Available in Programming Languages Working on Fixed-Point-Oriented Programming",
+        "description": "We are excited to announce a postdoctoral position in programming languages focused on the newly emerging paradigm of fixed-point-oriented programming. This paradigm allows for the development of programs based on inference rules that traverse a lattice, significantly simplifying complex algorithms in areas such as parsing, static analysis, type-checking, graph algorithms, and automata minimization.",
+        "position_details": {
+          "application_process": "If you or someone you know is interested in this position, please email me at 'adamsmd AT nus.edu.sg' to schedule a Zoom interview. We are eager to fill this role quickly, so interviews will begin immediately, and we encourage you to reach out promptly to ensure your application is considered before the position is filled.",
+          "duration_and_salary": "The position offers a competitive salary and a flexible start date, with funding available for 2 to 3 years, contingent upon satisfactory progress."
+        },
+        "project_information": {
+          "overview": "Fixed-point oriented programming is an emerging programming paradigm that lets one write programs in terms of inference rules that climb a lattice. While that might sound like obscure theory, in practice, it greatly simplifies many complex algorithms in domains such as parsing, static analysis, type checking, graph algorithms, and automata minimization.",
+          "practical_applications": "In fact, using this framework, many classic algorithms such as Dijkstra's algorithm, CYK parsing, Hopcroft's automata minimization algorithm, and tree-automata minimization can be expressed in only two or three executable lines of code.",
+          "team_activities": "Our team is developing a language and implementation that transforms high-level specifications into optimized Haskell modules, similar to how parser generators, SQL engines, or SMT solvers streamline tasks in their respective domains. Key components of this project will involve language design, compiler development, and the development of sophisticated code optimization techniques.",
+          "white_paper_url": "https://michaeldadams.org/papers/fpop/fixed-point-oriented-programming.pdf"
+        },
+        "about_research": {
+          "overview": "My research is dedicated to empowering programmers to write clear, concise, and elegant code without compromising performance.",
+          "focus_areas": [
+            "next-generation languages",
+            "compilers",
+            "optimization",
+            "domain-specific and extensible languages",
+            "generic and meta-programming",
+            "duality",
+            "syntax and parsing",
+            "static analysis/control-flow analysis"
+          ],
+          "homepage_url": "https://michaeldadams.org/",
+          "research_goals_url": "https://michaeldadams.org/vitae/research-statement.pdf",
+          "papers_url": "https://michaeldadams.org/papers/"
+        },
+        "posting_date": "June 2, 2025",
+        "posting_url": "https://michaeldadams.org/hiring",
+        "closing_message": "We look forward to your application!"
+      },
+      "signature": "-- Michael D. Adams"
+    }
+  }
+}

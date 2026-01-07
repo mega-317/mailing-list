@@ -1,0 +1,93 @@
+{
+  "email": {
+    "subject": "Postdoc position in Trustworthy Distributed Systems (KU Leuven, Belgium)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 19 Jun 2025 17:17:20 -0000",
+    "contentType": "text/plain"
+  },
+  "position": {
+    "title": "Post-doc researcher in Trustworthy Distributed Software Systems",
+    "organization": {
+      "name": "KU Leuven University",
+      "location": "Belgium"
+    },
+    "researchGroup": "DistriNet",
+    "context": {
+      "projectFocus": [
+        "Blockchain",
+        "Local-first Software"
+      ],
+      "mission": "To empower industry partners to create better, scalable, secure, and sovereign decentralized applications.",
+      "collaboration": "Research on Ethereum and next-generation blockchains with Web3 companies."
+    },
+    "role": {
+      "description": "Ideal candidate for post-doc researcher position with experience in Distributed Systems, Blockchain, Cloud or Web.",
+      "responsibilities": [
+        "Advance new lines of research in blockchain and decentralized systems.",
+        "Coach junior researchers and identify collaboration opportunities.",
+        "Attract and secure research funding.",
+        "Lecture in specialist courses in Master-level education programs."
+      ],
+      "requirements": {
+        "education": "PhD degree in Computer Science",
+        "publications": "Proven publication track record in relevant peer-reviewed conferences or journals (ACM, IEEE)",
+        "skills": [
+          "Fluent in English (written and oral communication)",
+          "Independent planning and reporting of work",
+          "Experience with grant writing (plus)",
+          "Collaboration with industry partners (plus)",
+          "Team player and collaborator",
+          "Open-minded and curious"
+        ]
+      }
+    },
+    "offer": {
+      "employmentType": "full-time salaried position",
+      "contract": "fixed-term with the outlook for a multi-year engagement",
+      "workplace": {
+        "environment": "multicultural international environment",
+        "location": "KU Leuven High Tech Campus, Leuven, Belgium",
+        "workingHours": "flexible"
+      },
+      "opportunities": [
+        "Grow research experience by coaching PhD researchers and managing projects.",
+        "Access support from research experts and coordination offices.",
+        "Publish and present work at international conferences."
+      ]
+    },
+    "application": {
+      "link": "https://www.kuleuven.be/personeel/jobsite/jobs/60496661",
+      "jobRef": "BAP-2025-367",
+      "additionalLinks": [
+        {
+          "description": "Post-doc information at KU Leuven",
+          "url": "https://research.kuleuven.be/en/career/postdoc"
+        },
+        {
+          "description": "Research Unit website",
+          "url": "https://distrinet.cs.kuleuven.be/"
+        }
+      ],
+      "interviewNote": "Shortlisted candidates will be interviewed on a rolling basis."
+    },
+    "contact": {
+      "name": "Tom Van Cutsem",
+      "title": "Associate Professor",
+      "organization": "DistriNet KU Leuven",
+      "department": "Dept. of Computer Science",
+      "address": {
+        "street": "Celestijnenlaan 200A",
+        "postalCode": "3001",
+        "city": "Leuven",
+        "country": "Belgium"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "MPLR 2025",
+      "details": {
+        "dates": {
+          "conference": "October 14, 2025",
+          "satellite_events": null,
+          "submission_deadline": "June 24, 2025",
+          "notification_of_acceptance": "July 28, 2025",
+          "final_files_due": "August 25, 2025"
+        },
+        "location": null,
+        "main_conferences": [
+          "22nd International Conference on Managed Programming Languages & Runtimes"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Tomoharu Ugawa"
+          ],
+          "submission_information": [
+            "Papers must conform to the ACM Policy on Prior Publication and Simultaneous Submissions.",
+            "All submissions need to be in PDF format.",
+            "Authors should not show their names on a submission."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Submission Site": "https://mplr25.hotcrp.com"
+          },
+          {
+            "ACM Policy": "http://www.sigplan.org/Resources/Policies/Republication"
+          }
+        ]
+      }
+    }
+  ]
+}

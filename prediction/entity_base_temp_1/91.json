@@ -1,0 +1,41 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Opening",
+      "name": "PhD and Postdoc Positions",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Stuttgart, Germany",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Michael Pradel"
+          ],
+          "submission_information": [
+            "Details and application process available at https://software-lab.org/"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

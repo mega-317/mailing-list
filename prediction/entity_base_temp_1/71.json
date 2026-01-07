@@ -1,0 +1,49 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Faculty Positions",
+      "name": "Open Faculty Positions in Computer Science",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "May 29, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "NOVA University Lisbon, Portugal",
+        "main_conferences": [
+          "Recruitment for Assistant Professor Faculty Positions"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "The Department of Computer Science at NOVA University Lisbon"
+          ],
+          "submission_information": [
+            {
+              "email": "[log in to unmask]",
+              "subject": "Faculty call 2025a",
+              "documents": [
+                "current CV",
+                "cover letter including a short research statement",
+                "three sample publications"
+              ]
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "NOVA University Lisbon": "https://www.di.fct.unl.pt/noticias/2025/03/recruitment-tenured-and-tenure-track-computer-science-faculty-members"
+          }
+        ]
+      }
+    }
+  ]
+}

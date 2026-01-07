@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Special Issue",
+      "name": "IST Special Issue on “Next-Generation Model-Based Software Engineering with Foundation Models”",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "May 31, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          "Information and Software Technology journal"
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Claudio Di Sipio",
+            "Silvia Abrahão",
+            "Martin Weyssow",
+            "Fabio Palomba"
+          ],
+          "submission_information": [
+            "Papers should be submitted through the Editorial Manager site of IST journal: https://edu.lu/xpnxj. Once you log into the platform, you will find the Special Issue (“VSI:Next_MBSE”) under the article type selection."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "IST journal submission guidelines": "https://edu.lu/axctf"
+          }
+        ]
+      }
+    }
+  ]
+}

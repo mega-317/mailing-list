@@ -1,0 +1,78 @@
+{
+  "email": {
+    "subject": "Due July 15- SERD 2025 Software Engineering Research & Development, Oct 1-2, USA & Online",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": "[log in to unmask]",
+    "date": "Mon, 19 May 2025 15:46:33 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "call_for_abstracts": {
+        "conference_name": "2025 OkIP International Conference on Software Engineering Research & Development (SERD)",
+        "location": "Oklahoma City, OK, USA & Online",
+        "dates": {
+          "start": "October 1, 2025",
+          "end": "October 2, 2025"
+        },
+        "submission": {
+          "url": "https://eventutor.com/e/SERD005",
+          "deadline": "July 15, 2025"
+        },
+        "publication_info": {
+          "extended_versions_considered_for": "International Journal of Software Research"
+        },
+        "areas": [
+          "General and Social Aspects of Software Engineering (SE)",
+          "Software Design, Testing, Evolution, and Maintenance",
+          "Formal Methods and Theoretical Foundations",
+          "Programming Languages (PLs), Systems, and Environments",
+          "Object-Oriented (OO) Design and Analysis",
+          "Service Orientation and Human Interactions",
+          "AI, Web-Based Environments, and Adaptive Systems",
+          "Automated Software Engineering",
+          "Emerging SE Technologies and Dependability",
+          "Distribution, Componentization, and Collaboration",
+          "Concurrent, Parallel, and Distributed Systems"
+        ],
+        "important_dates": {
+          "abstract_or_paper_submission": "July 15, 2025",
+          "author_notification": "August 1-15, 2025",
+          "camera_ready_paper_submission_registration": "August 7-22, 2025",
+          "conference_dates": {
+            "start": "October 1, 2025",
+            "end": "October 2, 2025"
+          }
+        },
+        "technical_program_committee_url": "https://eventutor.com/event/67/page/175-committee",
+        "contribution_types": [
+          {
+            "type": "Full Paper",
+            "description": "Accomplished research results",
+            "length": "6 pages"
+          },
+          {
+            "type": "Short Paper",
+            "description": "Work in progress/fresh developments",
+            "length": "3 pages"
+          },
+          {
+            "type": "Extended Abstract/Poster/Journal First",
+            "description": "Displayed/Oral presented",
+            "length": "1 page"
+          }
+        ],
+        "contact": {
+          "name": "Kris Zeuti",
+          "role": "OkIP Secretariat",
+          "email": "[log in to unmask]"
+        },
+        "submission_info": {
+          "email": "[log in to unmask]",
+          "more_info_url": "http://sigsoft.org/resources/seworld.html"
+        }
+      }
+    }
+  }
+}

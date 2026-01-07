@@ -1,0 +1,53 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Vacancy",
+      "name": "Post Doctoral Researcher in Human-Centered AI for Software Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "10 August 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Helsingforsgade 10, 8200 Aarhus N, Denmark",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Department of Electrical and Computer Engineering, Aarhus University"
+          ],
+          "submission_information": [
+            "The application must be submitted via Aarhus University's recruitment system."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "AI4SE1DK": "https://ece.au.dk/en/research/key-areas-in-research-and-development/software-engineering-computing-systems"
+          },
+          {
+            "Department Details": "https://ece.au.dk/en/about-the-department"
+          },
+          {
+            "International Research Opportunities": "https://internationalstaff.au.dk/relocationservice/"
+          },
+          {
+            "Junior Researcher Development Programme": "http://talent.au.dk/junior-researcher-development-programme/"
+          },
+          {
+            "Danish Ministry of Science": "https://international.au.dk/fileadmin/Bekendtgoerelse_nr__242_af_a3__MARTS_2012_-_ENGELSK_UDGAVE.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

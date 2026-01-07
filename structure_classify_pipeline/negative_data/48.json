@@ -1,0 +1,58 @@
+{
+  "email": {
+    "subject": "Postdoctoral positions in Fuzz testing",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 3 Jun 2025 02:04:05 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "introduction": "Applicants are invited for postdoctoral positions at the National University of Singapore (NUS) in the area of fuzz testing.",
+      "website": "https://nus-tss.github.io/fuzzing/",
+      "program_details": {
+        "sponsor": "Singapore's Cybersecurity Agency (CSA)",
+        "program_name": "Fuzz Testing",
+        "funding_period": "2023-2027",
+        "description": "A large research program involving several research projects that improve the reliability of modern software applications using techniques inspired from fuzz testing.",
+        "research_focus": "Advance the state-of-the-art in testing and analysis of concurrent/distributed/stateful software.",
+        "applications": "Including kernel software such as parts of the Linux Kernel.",
+        "related_work": {
+          "description": "Fuzzing works will go hand in hand with our works on agentic AI based automated program repair.",
+          "website": "https://spartan-nus.github.io/coderover-s.html"
+        }
+      },
+      "application_details": {
+        "start_date": "1 July 2023",
+        "requirements": {
+          "education": "PhD degree or should be submitting PhD thesis soon",
+          "documents": [
+            "CV, including publications",
+            "Research statement",
+            "Names of two referees"
+          ]
+        },
+        "location": "Computer Science Department of NUS",
+        "reputation": "High degree of academic reputation."
+      },
+      "contact": {
+        "name": "Abhik Roychoudhury",
+        "title": "Lead PI",
+        "email": "[log in to unmask]"
+      },
+      "footer": {
+        "name": "Abhik Roychoudhury",
+        "titles": [
+          "Provost's Chair Professor",
+          "Editor-in-Chief, ACM TOSEM",
+          "Senior Scientific Advisor, SonarSource"
+        ],
+        "website": "https://abhikrc.com"
+      }
+    }
+  }
+}

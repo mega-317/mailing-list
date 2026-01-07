@@ -1,0 +1,69 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ESOP 2026",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": {
+            "Round_1": "June 3, 2025",
+            "Round_2": "October 16, 2025"
+          },
+          "notification_of_acceptance": {
+            "Round_1": "August 1, 2025",
+            "Round_2": "December 22, 2025"
+          },
+          "final_files_due": null
+        },
+        "location": null,
+        "main_conferences": [
+          {
+            "name": "ESOP",
+            "description": "An annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems."
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Robbert Krebbers (Radboud University Nijmegen, Netherlands)"
+          ],
+          "submission_information": [
+            {
+              "categories": [
+                {
+                  "type": "Research Papers",
+                  "description": "Articles that advance the state-of-the-art on the theory and practice of programming languages and systems."
+                },
+                {
+                  "type": "Experience Reports",
+                  "description": "Articles reporting on systems and techniques developed in practice, such as artifacts, tools, mechanized proofs, and educational systems."
+                },
+                {
+                  "type": "Fresh Perspectives",
+                  "description": "Articles that promote new insights on programming languages and systems in a particularly elegant way."
+                }
+              ],
+              "submission_process": "Submissions must be double-blind, and authors should not identify themselves either explicitly or by implication."
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Joint Call for Papers": "https://etaps.org/2026/important-dates"
+          },
+          {
+            "Submission portal": "https://esop26.hotcrp.com/"
+          }
+        ]
+      }
+    }
+  ]
+}

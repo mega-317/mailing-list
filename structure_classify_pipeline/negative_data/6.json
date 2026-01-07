@@ -1,0 +1,41 @@
+{
+  "email": {
+    "subject": "Assistant Professor Position at the University of Coimbra (Portugal) - deadline August 7",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 10 Jul 2025 16:23:48 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "announcement": {
+        "institution": "University of Coimbra",
+        "country": "Portugal",
+        "department": "Department of Informatics Engineering",
+        "position": {
+          "type": "tenure-track",
+          "level": "Assistant Professor",
+          "field": "Informatics Engineering",
+          "focus_areas": [
+            "Dependability",
+            "Software Engineering"
+          ]
+        },
+        "application_deadline": "August 7, 2025",
+        "application_portal": "https://apply.uc.pt/IT136-25-15300",
+        "invitation": "Please feel free to share this opportunity with strong candidates who may be interested in a permanent position at a leading European university and looking to advance their careers in an excellent academic environment."
+      },
+      "closing": {
+        "best_regards": "Nuno Laranjeiro"
+      },
+      "contribution_info": {
+        "submission_email": "mailto:[log in to unmask]",
+        "additional_info_link": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

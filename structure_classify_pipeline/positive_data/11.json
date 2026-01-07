@@ -1,0 +1,57 @@
+{
+  "email": {
+    "subject": "Combined Call for Papers & Workshop Proposals: ICSA 2026",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 10 Jul 2025 16:12:04 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "IEEE International Conference on Software Architecture",
+        "abbreviation": "ICSA 2026",
+        "location": "Amsterdam, Netherlands",
+        "dates": {
+          "start": "June 22, 2026",
+          "end": "June 26, 2026"
+        },
+        "tracks": [
+          {
+            "type": "Research Track",
+            "theme": "Architecting in Continuous Software Engineering: Evolving Roles, Enduring Principles",
+            "important_dates": {
+              "abstracts_due": "November 28, 2025",
+              "papers_due": "December 5, 2025"
+            },
+            "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-papers"
+          },
+          {
+            "type": "Software Architecture in Practice Track",
+            "focus": "Context-driven solutions tailored to specific domains or organizations",
+            "important_dates": {
+              "abstracts_due": "November 28, 2025",
+              "papers_due": "December 5, 2025"
+            },
+            "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-software-architecture-in-practice-track"
+          },
+          {
+            "type": "Workshop Proposals",
+            "description": "Propose a workshop to foster discussions on emerging trends and research in software architecture. Workshops can be half-day or full-day sessions.",
+            "submission_deadline": "October 3, 2025",
+            "submission_guidelines": "https://conf.researchr.org/track/icsa-2026/icsa-2026-workshops"
+          }
+        ],
+        "website": "https://conf.researchr.org/home/icsa-2026"
+      },
+      "closing": {
+        "message": "We look forward to your contributions and hope to see you in Amsterdam!",
+        "sender": "The ICSA 2026 Organizing Committee"
+      }
+    }
+  }
+}

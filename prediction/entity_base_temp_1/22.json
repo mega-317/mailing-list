@@ -1,0 +1,56 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Event",
+      "name": "5th LATAM School in Software Engineering Research",
+      "details": {
+        "dates": {
+          "conference": "September 22nd to 26th, 2025",
+          "satellite_events": null,
+          "submission_deadline": "June 30th, 2025",
+          "notification_of_acceptance": "July 20th, 2025",
+          "final_files_due": null
+        },
+        "location": "Recife, PE, Brazil",
+        "main_conferences": [
+          {
+            "name": "CBSoft - XVI Brazilian Conference on Software: Practice and Theory",
+            "dates": "September 22nd to 26th, 2025"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            {
+              "name": "Prof. Lina Garcés",
+              "affiliation": "USP",
+              "email": "[log in to unmask]"
+            }
+          ],
+          "submission_information": [
+            {
+              "documents_required": [
+                "A structured abstract of your research with the headings: Context/Problem, Aims, Method, and Results (1-page limit)",
+                "A poster outlining your research (dimensions: 122cm height, 92cm width)",
+                "A document listing papers published between 2022 and 2025"
+              ],
+              "submission_platform": "JEMS3",
+              "submission_link": "https://jems3.sbc.org.br/latamschool2025"
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": "Free registration for the School (including lunch and coffee break)",
+            "participation_fee": "Free participation in the CBsoft"
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": "https://cbsoft.sbc.org.br/2025/escola"
+          }
+        ]
+      }
+    }
+  ]
+}

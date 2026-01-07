@@ -1,0 +1,110 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Joint Conference",
+      "name": "Joint Ontologies Workshops (JOWO)",
+      "details": {
+        "dates": {
+          "conference": {
+            "start_date": "2025-09-08",
+            "end_date": "2025-09-12"
+          },
+          "satellite_events": null,
+          "submission_deadline": {
+            "workshops": [
+              {
+                "name": "All JOWO workshops",
+                "date": "2025-06-14"
+              }
+            ]
+          },
+          "notification_of_acceptance": "2025-07-14",
+          "final_files_due": "2025-09-01"
+        },
+        "location": "Catania",
+        "main_conferences": [
+          {
+            "name": "15th International Conference on Formal Ontology in Information Systems (FOIS)",
+            "dates": {
+              "start_date": "2025-09-08",
+              "end_date": "2025-09-12"
+            }
+          }
+        ],
+        "workshops": [
+          {
+            "name": "Cognition and Ontologies (CAOS9)"
+          },
+          {
+            "name": "14th International Workshop on Formal Ontologies Meet Industry (FOMI)"
+          },
+          {
+            "name": "Fifth International Workshop on Semantic Web and Ontology Design for Cultural Heritage (SWODCH 2025)"
+          },
+          {
+            "name": "The Ninth Image Schema Day (ISD9)"
+          },
+          {
+            "name": "Integrated Food Ontology Workshop (IFOW 2025)"
+          },
+          {
+            "name": "9th Workshop on Foundational Ontology (FOUST IX)"
+          },
+          {
+            "name": "2nd Playing with Meanings workshop (PwM2)"
+          },
+          {
+            "name": "Knowledge Management and process mining for Law (KM4LAW)"
+          },
+          {
+            "name": "The 2nd International Workshop on Modeling for Cybersecurity (Shields 2)"
+          },
+          {
+            "name": "Second Annual Workshop on Convergence of Large-Language Models and Ontologies (ONTOLLM 2025)"
+          },
+          {
+            "name": "Explicit and Implicit Knowledge Extraction (EIKE)"
+          },
+          {
+            "name": "Ontologies for Services and Social-good (OSS)"
+          },
+          {
+            "name": "Workshop on Promoting Healthy Aging through the Semantic Enrichment of Social Science (PHASES 2025)"
+          },
+          {
+            "name": "Perspectival Ontology Workshop on Entities that can be Realized (POWERs)"
+          },
+          {
+            "name": "Planning and Ontology Workshop (PLATO)"
+          }
+        ],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "César Bernabé",
+            "Eric Top"
+          ],
+          "submission_information": [
+            "Consult individual workshop calls for specific deadlines."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": {
+              "early_bird": "2025-07-25",
+              "on_site": "2025-08-31"
+            },
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "JOWO Information": "https://www.dmi.unict.it/fois2025/?page_id=499"
+          },
+          {
+            "Registration Page": "https://www.dmi.unict.it/fois2025/?page_id=728"
+          }
+        ]
+      }
+    }
+  ]
+}

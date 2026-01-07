@@ -1,0 +1,74 @@
+{
+  "job": {
+    "title": "Post Doctoral Researcher in Human-Centered AI for Software Engineering",
+    "department": {
+      "name": "Department of Electrical and Computer Engineering",
+      "institution": "Aarhus University"
+    },
+    "location": {
+      "address": "Helsingforsgade 10, 8200 Aarhus N, Denmark",
+      "area_of_employment": "Aarhus University"
+    },
+    "duration": {
+      "type": "fixed-term",
+      "length": "two years",
+      "start_date": "2025-11-01"
+    },
+    "funding_source": "Innovation Fund Denmark Grand Solutions project \"AI4SE1DK - Human-Centered Adoption of Artificial Intelligence for Software Engineering in Denmark\"",
+    "research_focus": {
+      "area": "Empirical Software Engineering",
+      "specific_focus": "Large Language Models in Software Project Management"
+    },
+    "collaboration": {
+      "partners": [
+        "leading Danish universities",
+        "practitioners from software companies in Denmark and Sweden"
+      ],
+      "industrial_partner": "large industrial partner"
+    },
+    "application_details": {
+      "deadline": "2025-08-10",
+      "application_procedure": "Shortlisting process with feedback",
+      "required_documents": [
+        "CV",
+        "degree certificate",
+        "list of publications",
+        "statement of future research plans",
+        "teaching portfolio",
+        "verified information on previous teaching experience"
+      ],
+      "contact": {
+        "name": "Professor Emilia Mendes",
+        "email": "[log in to unmask]"
+      }
+    },
+    "qualifications": {
+      "required": {
+        "degree": "PhD in Computer Science or related field",
+        "research_experience": "Solid research experience in applied AI, particularly with Large Language Models",
+        "programming_expertise": "Python",
+        "publications": "Main author in at least one journal publication in AI4SE at a high impact journal",
+        "english_skills": "Excellent in oral and written",
+        "teamwork": "Ability to collaborate effectively in multidisciplinary and multicultural teams"
+      },
+      "optional": {
+        "experience": "Prior research experience in an industrial software development setting"
+      }
+    },
+    "benefits": {
+      "infrastructure": "well-developed research infrastructure and access to shared equipment",
+      "environment": "interdisciplinary environment with national, international and industrial collaborators",
+      "work_climate": "encouragement of open and critical discussion",
+      "relationships": "close working relationships with networking and social activities",
+      "work_life_balance": "professionalism and equality"
+    },
+    "formalities": {
+      "salary": "depends on seniority as agreed between the Danish Ministry of Taxation and the Confederation of Professional Associations",
+      "appointment": "in accordance with collective labour agreement"
+    },
+    "resources": {
+      "research_evaluation": "evaluated in relation to actual research time",
+      "support_services": "broad variety of services for international researchers and families"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "ICSOC 2025",
+      "details": {
+        "dates": {
+          "conference": "December 1-4, 2025",
+          "satellite_events": null,
+          "submission_deadline": "20 June 2024",
+          "notification_of_acceptance": "27 June 2025",
+          "final_files_due": null
+        },
+        "location": "Shenzhen, China",
+        "main_conferences": [
+          "23rd International Conference on Service-Oriented Computing"
+        ],
+        "workshops": [
+          {
+            "workshop_chairs": [
+              "Jianwen Su, University of California at Santa Barbara, CA, USA",
+              "Xiao Xue, Tianjin University, China",
+              "Sami Yangui, LAAS-CNRS, Toulouse, France"
+            ],
+            "workshop_date": "01 December 2025",
+            "submission_information": "Workshop proposals shall be submitted to Workshop Co-chairs; see https://icsoc2025.hit.edu.cn/19950/list.htm for the list of information to include in the proposal."
+          }
+        ],
+        "call_for_proposals": "ICSOC is inviting applicants to submit proposals for high-quality workshops contributing to the scientific program of the main conference.",
+        "requirements": {
+          "organizers": [
+            "Workshop Co-chairs"
+          ],
+          "submission_information": [
+            "Proposals must include focused discussions on specific sub-areas within Service-Oriented Computing."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ICSOC 2025": "https://icsoc2025.hit.edu.cn"
+          }
+        ]
+      }
+    }
+  ]
+}

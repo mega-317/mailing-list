@@ -1,0 +1,81 @@
+{
+  "email": {
+    "subject": "Call for Workshop Proposals: 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": "[log in to unmask]",
+    "date": "Sat, 17 May 2025 12:32:27 -0000",
+    "contentType": "text/plain",
+    "conferenceDetails": {
+      "name": "48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)",
+      "location": "Rio de Janeiro, Brazil",
+      "dates": [
+        {
+          "start": "2026-04-12",
+          "end": "2026-04-14"
+        },
+        {
+          "date": "2026-04-18"
+        }
+      ],
+      "submissionLink": "https://conf.researchr.org/track/icse-2026/icse-2026-workshops#submissions"
+    },
+    "callForWorkshops": {
+      "description": "The workshops at the International Conference on Software Engineering 2026 (ICSE) provide a forum for groups of 20-50 participants to discuss topics in software engineering research and practice.",
+      "submissionRequirements": {
+        "maxPages": 5,
+        "maxProposalTextPages": 4,
+        "submissionFormat": "pdf",
+        "font": "12 point"
+      },
+      "sections": [
+        "Workshop Title and Acronym",
+        "Abstract (200 words or fewer)",
+        "Contact Information for all workshop organizers",
+        "Motivation and Objectives",
+        "Format and Required Services",
+        "Target Audience",
+        "Proceedings",
+        "Workshop History",
+        "Organizers’ bios"
+      ],
+      "proposalReviewCriteria": "ICSE welcomes long-running, successful workshops. Desk-accept proposals for workshops with a history of participation.",
+      "acceptedWorkshopsConditions": "Workshop organizers cannot submit (refereed) papers to their own workshop.",
+      "importantDates": {
+        "proposalSubmissionDeadline": "2025-06-23",
+        "proposalAcceptanceNotification": "2025-07-28",
+        "workshopWebsitesOnline": "2025-08-25",
+        "workshopPapersSubmissionDeadline": "2025-10-20",
+        "workshopPapersAcceptanceNotification": "2025-11-24",
+        "workshopPapersInfoToChairs": "2025-12-22",
+        "cameraReadyPapers": "TBA"
+      },
+      "submissionSystemLink": "https://icse2026-workshops.hotcrp.com"
+    },
+    "workshopChairs": [
+      {
+        "name": "Rodrigo Santos",
+        "title": "Workshops Co-Chair",
+        "affiliation": "UNIRIO, Brazil",
+        "profileLink": "https://conf.researchr.org/profile/icse-2026/rodrigosantos"
+      },
+      {
+        "name": "Antonia Bertolino",
+        "title": "Workshops Co-Chair",
+        "affiliation": "Gran Sasso Science Institute, Italy",
+        "profileLink": "https://conf.researchr.org/profile/icse-2026/antoniabertolino"
+      }
+    ],
+    "sender": {
+      "name": "Prof. Rodrigo Santos",
+      "title": "Head of Complex Systems Engineering Lab",
+      "positions": [
+        "Associate Professor of CS/IS/SoftEng"
+      ],
+      "affiliation": "LabESC | PPGI | BSI | UNIRIO",
+      "authorProfileLink": "https://orcid.org/0000-0003-4749-2551"
+    }
+  }
+}

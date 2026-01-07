@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Position",
+      "name": "Assistant Professor of Software Engineering",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "June 29, 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "Ulm University, Ulm, Germany",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Prof. Dr. Matthias Tichy"
+          ],
+          "submission_information": [
+            {
+              "application_portal": "https://stellenangebote.uni-ulm.de/aznsw",
+              "reference_number": "25079"
+            }
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "SEWORLD": "http://sigsoft.org/resources/seworld.html"
+          }
+        ]
+      }
+    }
+  ]
+}

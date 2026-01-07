@@ -1,0 +1,114 @@
+{
+  "email": {
+    "subject": "CfP - 2nd International Conference on Engineering Digital Twins",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 16 Jun 2025 05:31:20 -0000",
+    "content_type": "text/plain",
+    "conference": {
+      "name": "2nd International Conference on Engineering Digital Twins",
+      "abbreviation": "EDTconf 2025",
+      "type": "Call for Papers",
+      "co_located_with": "MODELS 2025",
+      "dates": {
+        "start": "October 6, 2025",
+        "end": "October 7, 2025"
+      },
+      "location": "Michigan, US",
+      "website": "www.edtconf.org",
+      "scope": "Digital Twins (DTs) have emerged as a key approach to understand, monitor, and improve systems across various domains including agriculture, automotive, avionics, construction, healthcare, manufacturing, and smart cities. DT development is inherently multi-disciplinary and requires the integration of data, models, simulation, software engineering, and domain knowledge. Despite increasing adoption, DT engineering is still often ad hoc, lacking systematic concepts, methods, and tools. EDTconf 2025 aims to bring together researchers and practitioners from academia and industry to shape the future of engineering DTs in a systematic, scalable, and principled way.",
+      "important_dates": {
+        "abstract_submission_deadline": "June 27, 2025",
+        "paper_submission_deadline": "July 02, 2025",
+        "notification_of_acceptance": "August 05, 2025",
+        "camera_ready_submission": "August 20, 2025"
+      },
+      "topics": [
+        "Modeling concepts and languages, methods, and tools for developing DTs",
+        "AI for DTs/DTs for AI",
+        "DevOps for DTs/DTs for DevOps",
+        "Quality assurance for and evaluation of DTs",
+        "DT modeling, simulation, and co-simulation of CPS",
+        "Deployment and operation of DTs",
+        "Model consistency, management, and evolution of engineering models and DT models",
+        "DTs for dynamic (re)configuration and optimization",
+        "Evolution and compositionality of DTs",
+        "Uncertainty and fidelity in DTs",
+        "DT reliability, trust, and security",
+        "Architectural patterns for DTs",
+        "Virtual commissioning based on DTs",
+        "DTs for continuous learning and improvement",
+        "Combining models and data in DTs",
+        "Case studies, experience reports, comparisons in various application domains",
+        "Empirical studies of DT development and use",
+        "Teaching and education of DT skills"
+      ],
+      "submission_guidelines": {
+        "regular_papers": {
+          "max_pages": "10+2",
+          "description": "Novel research contributions with substantive evaluation."
+        },
+        "vision_new_ideas_papers": {
+          "max_pages": "6+1",
+          "description": "Innovative and forward-looking ideas which may not yet be full developed or evaluated."
+        },
+        "tool_demonstration_papers": {
+          "max_pages": "4+1",
+          "description": "Practical insights and tools; include appendix with demo outline."
+        },
+        "exemplar_papers": {
+          "max_pages": "6+1",
+          "description": "Engineering-focused implementations or specs of DTs in certain domains."
+        },
+        "formatting": [
+          "IEEE Proceedings Template (LaTeX or Word)",
+          "Conference format must be used"
+        ],
+        "submission_link": "https://easychair.org/conferences/?conf=edtconf25",
+        "notes": [
+          "Page limits are strict.",
+          "Papers must be original and not under review elsewhere.",
+          "ORCID usage is recommended."
+        ]
+      },
+      "journal_opportunity": {
+        "description": "Authors of selected regular papers will be invited to submit extended versions to the Journal on Software and Systems Modeling (SoSyM), with at least 30% new material required."
+      },
+      "organizers": {
+        "general_co_chairs": [
+          {
+            "name": "Romina Eramo",
+            "affiliation": "University of Teramo, IT"
+          },
+          {
+            "name": "Manuel Wimmer",
+            "affiliation": "Johannes Kepler University Linz, AT"
+          },
+          {
+            "name": "Steffen Zschaler",
+            "affiliation": "King’s College London, UK"
+          }
+        ],
+        "publicity_web_co_chairs": [
+          {
+            "name": "Claudio Gomes",
+            "affiliation": "Aarhus University, DK"
+          },
+          {
+            "name": "Vittoriano Muttillo",
+            "affiliation": "University of Teramo, IT"
+          }
+        ]
+      },
+      "contact": {
+        "email": "[log in to unmask]"
+      }
+    }
+  }
+}

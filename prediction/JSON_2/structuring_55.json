@@ -1,0 +1,68 @@
+{
+  "email": {
+    "subject": "Postdoctoral Fellow position in Software Engineering for AI Systems - Concordia University",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Tue, 27 May 2025 13:51:59 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "position": {
+        "title": "Postdoctoral Fellow",
+        "field": "Software Engineering for AI Systems",
+        "location": {
+          "institution": "Concordia University",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        "term": "two year",
+        "start_date": "September 2025 or shortly after",
+        "description": "The postdoc fellow will be involved in several projects related to the development, analysis and deployment of AI based systems. The postdoc will be encouraged to collaborate with and supervise DAS lab members and pursue their own relevant research interests.",
+        "requirements": {
+          "degree": "PhD",
+          "field": "Software Engineering or related field",
+          "experience": "proven track record of research excellence in Software Engineering"
+        }
+      },
+      "department": {
+        "name": "Computer Science and Software Engineering",
+        "university": "Concordia University",
+        "location": "Montreal",
+        "additional_info": "Montreal is often voted as one of the best cities in Canada for its livability. The city has one of the highest university students per capita in North America and is often ranked as one of the best cities to study abroad."
+      },
+      "application": {
+        "link": "https://dearprof.com/positions/66b4f1c30178fa4bf77d0614/apply",
+        "email": "[log in to unmask]"
+      },
+      "lab_info": {
+        "name": "Data-driven Analysis of Software (DAS) lab",
+        "website": "http://das.encs.concordia.ca"
+      },
+      "application_review": {
+        "start_date": "June 30, 2025",
+        "status": "accepted until the position is filled"
+      },
+      "contact": {
+        "name": "Emad Shihab, PhD, P.Eng",
+        "position": [
+          "Associate Dean, Research and Innovation",
+          "Professor and Concordia Research Chair"
+        ],
+        "department": "Gina Cody School of Engineering and Computer Science",
+        "address": "Concordia University, EV3.112",
+        "phone": "514-848-2424 ext. 4359",
+        "website": "http://das.encs.concordia.ca"
+      },
+      "contribution_info": {
+        "submission_email": "mailto:[log in to unmask]",
+        "seworld_link": "http://sigsoft.org/resources/seworld.html",
+        "archive_info": "links to a complete archive of messages posted to the list."
+      }
+    }
+  }
+}

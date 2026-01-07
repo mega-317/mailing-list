@@ -1,0 +1,44 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Job Position",
+      "name": "Postdoctoral Researcher",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": null,
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "DTU Compute, Technical University of Denmark",
+        "main_conferences": [
+          null
+        ],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "Dynamical Systems section at DTU Compute"
+          ],
+          "submission_information": [
+            "See job posting at https://lnkd.in/dz8VSae3"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Job Posting": "https://lnkd.in/dz8VSae3"
+          },
+          {
+            "Application Link": "https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5212/?utm_medium=jobshare&utm_source=External+Job+Share"
+          }
+        ]
+      }
+    }
+  ]
+}

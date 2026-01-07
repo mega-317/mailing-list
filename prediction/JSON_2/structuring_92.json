@@ -1,0 +1,74 @@
+{
+  "email": {
+    "subject": "CfP: IST Special Issue on “Next-Generation Model-Based Software Engineering with Foundation Models”",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:15:15 -0000",
+    "content_type": "text/plain",
+    "call_for_papers": {
+      "title": "IST Special Issue on “Next-Generation Model-Based Software Engineering with Foundation Models”",
+      "submission_deadline": "May 31, 2025",
+      "journal": "Information and Software Technology",
+      "description": "This special issue aims to provide a venue for researchers to present insights, experiences, innovations, and solutions at the intersection of model-based software engineering and foundation models.",
+      "foundation_models_role": "Foundation models (FMs) have revolutionized traditional software engineering (SE), outperforming traditional AI-based systems in different tasks. This issue solicits the application of well-founded FMs to MBE and related sub-fields.",
+      "review_process": {
+        "description": "All submissions will undergo a rigorous reviewing process by independent reviewers who are experts in this field.",
+        "criteria": [
+          "relevance",
+          "significance of contribution",
+          "technical quality",
+          "scholarship",
+          "potential impact",
+          "quality of presentation"
+        ]
+      },
+      "submission_requirements": {
+        "originality": "Papers should present original, unpublished work relevant to the topics outlined.",
+        "previous_work": "Extensions of previously published material are accepted if substantial.",
+        "submission_policy": "Submissions must not be under review or published in another journal or conference during the review process."
+      },
+      "submission_topics": [
+        "The use of foundation models for supporting the completion of different modeling artifacts",
+        "The use of foundation models for supporting the development of domain-specific language (DSL), abstract and concrete syntax",
+        "The use of foundation models in industrial MBE systems",
+        "The use of foundation models to support software architecture and requirement engineering",
+        "The use of foundation models to support low-code development platforms",
+        "Fine-tuned models for supporting MBE, MDE, MDD, and MDA tasks",
+        "Generation of synthetic datasets for MBE using foundation models",
+        "MBE techniques to support the development of foundation models, pre-trained models, or large language models",
+        "MBE paradigms for specifying prompt engineering techniques for large language models",
+        "Systematic literature review, systematic mapping study, and multi-vocal studies on the intersection between MBE and foundation models",
+        "Empirical studies, experience reports, and surveys on the usage of foundation models for MBE systems"
+      ],
+      "submission_instructions": {
+        "platform": "Editorial Manager (EM) site of IST journal",
+        "submission_link": "https://edu.lu/xpnxj",
+        "special_issue": "VSI:Next_MBSE",
+        "guidelines_link": "https://edu.lu/axctf"
+      },
+      "contact_info": {
+        "guest_editors": [
+          "Claudio Di Sipio",
+          "Silvia Abrahão",
+          "Martin Weyssow",
+          "Fabio Palomba"
+        ],
+        "general_inquiries": {
+          "description": "If you have questions, comments, or are interested in volunteering as a reviewer, please reach out to the guest editors."
+        }
+      }
+    },
+    "additional_information": {
+      "submission_to_SEWORLD": {
+        "email": "mailto:[log in to unmask]",
+        "more_info": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Postdoctoral Position",
+      "name": "Postdoctoral Position in Software Engineering and AI for Sustainable Food Choices",
+      "details": {
+        "dates": {
+          "conference": null,
+          "satellite_events": null,
+          "submission_deadline": "10 June 2025",
+          "notification_of_acceptance": null,
+          "final_files_due": null
+        },
+        "location": "University of Southern Denmark (SDU)",
+        "main_conferences": [],
+        "workshops": [],
+        "call_for_proposals": null,
+        "requirements": {
+          "organizers": [
+            "University of Southern Denmark (SDU)"
+          ],
+          "submission_information": [
+            "https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/2850/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002425904"
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "ETAPS 2025": null
+          }
+        ]
+      }
+    }
+  ]
+}

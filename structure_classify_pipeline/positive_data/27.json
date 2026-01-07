@@ -1,0 +1,51 @@
+{
+  "email": {
+    "subject": "Call for Papers – SSBSE 2025, Seoul",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 19 Jun 2025 17:15:39 -0000",
+    "content_type": "text/plain",
+    "event": {
+      "name": "17th Symposium on Search-Based Software Engineering",
+      "abbreviation": "SSBSE 2025",
+      "date": "16 November 2025",
+      "location": "Seoul",
+      "focus": "transformative role of AI and optimization in software engineering",
+      "topics": [
+        "Novel applications of SBSE, especially in emerging domains",
+        "Theoretical advances in search algorithms for software engineering",
+        "Rigorous empirical evaluations with reproducible results",
+        "Industrial experiences and real-world deployments",
+        "Integrations of SBSE with AI, machine learning, and cutting-edge technologies"
+      ],
+      "important_dates": {
+        "submission_deadline": "August 21, 2025",
+        "notification": "September 25, 2025",
+        "camera_ready": "October 3, 2025"
+      },
+      "additional_info": {
+        "journal": "Automated Software Engineering",
+        "submission_link": "https://lnkd.in/gwxVDG5q",
+        "co_location": {
+          "event": "ASE",
+          "link": "https://lnkd.in/gTDTsXuX"
+        },
+        "previous Proceedings": "https://lnkd.in/gnCGdwtQ"
+      },
+      "organizers": [
+        "Man Zhang",
+        "Shin Hong"
+      ]
+    },
+    "contribution_info": {
+      "submission_email": "mailto:[log in to unmask]",
+      "seworld_link": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

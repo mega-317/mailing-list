@@ -1,0 +1,118 @@
+{
+  "email": {
+    "subject": "ETAPS 2026 - Call for Satellite Events",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Fri, 23 May 2025 14:21:18 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "event": {
+        "name": "ETAPS 2026",
+        "description": "The ETAPS International Joint Conferences on Theory and Practice of Software is the primary forum for academic and industrial researchers working on topics relating to Software Science. It has been an annual event held each spring since 1998. Its 29th edition, ETAPS 2026, will be held on April 11–16, 2026, in Torino, Italy.",
+        "location": {
+          "city": "Torino",
+          "country": "Italy"
+        },
+        "dates": {
+          "main_conferences": {
+            "start_date": "2026-04-13",
+            "end_date": "2026-04-16"
+          },
+          "satellite_events": {
+            "start_date": "2026-04-11",
+            "end_date": "2026-04-12"
+          }
+        },
+        "main_conferences": [
+          "ESOP: European Symposium on Programming",
+          "FASE: Fundamental Approaches to Software Engineering",
+          "FoSSaCS: Foundations of Software Science and Computation Structures",
+          "TACAS: Tools and Algorithms for the Construction and Analysis of Systems"
+        ]
+      },
+      "call_for_satellite_events": {
+        "description": "The ETAPS 2026 organizing committee invites proposals for satellite events (e.g., workshops) to complement the main conferences.",
+        "scope": "Satellite events should fall within the scope of ETAPS.",
+        "opportunity": "Satellite events provide an opportunity to discuss and report on emerging research approaches and practical experiences relevant to the theory and practice of software."
+      },
+      "important_dates": {
+        "proposal_deadline": "2025-06-26",
+        "acceptance_notification": "2025-07-09"
+      },
+      "arrangements": {
+        "organizers_expectations": [
+          "create and maintain a website for the event",
+          "form a PC and produce a call for papers for the event (if appropriate)",
+          "advertise the event through mailing lists etc. to complement the publicity of ETAPS",
+          "review submissions and make acceptance decisions",
+          "prepare informal (pre-)proceedings for the event, if appropriate",
+          "prepare the event's program according to the overall schedule of ETAPS 2026",
+          "prepare and organize the publication of formal (post-)proceedings, if desired"
+        ],
+        "committee_expectations": [
+          "promote the event on the website and in the publicity material of ETAPS 2026",
+          "arrange registration for the event as a component of registration for ETAPS",
+          "collect a participation fee from the registrants",
+          "provide a meeting room of appropriate size, A/V equipment, coffee breaks, and possibly lunch(es)"
+        ],
+        "note": "As a rule, ETAPS will not contribute toward the travel or accommodation costs of invited speakers or organizers of satellite events."
+      },
+      "submission_guidelines": {
+        "organizers": [
+          {
+            "name": "Vincenzo Ciancia",
+            "affiliation": "CNR-ISTI, Pisa, Italy"
+          },
+          {
+            "name": "Luca Paolini",
+            "affiliation": "University of Torino, Torino, Italy"
+          },
+          {
+            "name": "Enrico Beraldo",
+            "affiliation": "Synesthesia, Torino, Italy"
+          }
+        ],
+        "submission_link": "https://cgi.cse.unsw.edu.au/~eptcs/ETAPS/",
+        "requested_information": [
+          "name and acronym of the satellite event",
+          "names and contact information of the organizers",
+          "duration of the event (one or two days) and the preferred period",
+          "expected number of participants",
+          "brief description (120 words approximately) of the event topic for ETAPS 2026 publicity",
+          "brief explanation of the event topic and its relevance to ETAPS",
+          "description of organizer's background, including relevant experience and contact information",
+          "publicity strategy and selection procedure of contributions; PC chair and members, if known; information about past editions",
+          "any other relevant information such as special format, invited speakers, demo sessions, special requirements",
+          "tentative schedule for paper submission, notification of acceptance, and final versions for (informal pre-)proceedings",
+          "plans for formal publication (no publication, formal proceedings ready by the event, post-proceedings, publication venue)"
+        ],
+        "evaluation": "Proposals will be evaluated by the ETAPS 2026 organizing committee based on their assessed benefit for prospective participants."
+      },
+      "further_information": {
+        "contact": [
+          {
+            "name": "Vincenzo Ciancia",
+            "affiliation": "CNR-ISTI, Pisa, Italy",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Luca Paolini",
+            "affiliation": "University of Torino, Italy",
+            "email": "[log in to unmask]"
+          },
+          {
+            "name": "Enrico Beraldo",
+            "affiliation": "Synesthesia, Torino, Italy",
+            "email": "[log in to unmask]"
+          }
+        ]
+      }
+    }
+  }
+}

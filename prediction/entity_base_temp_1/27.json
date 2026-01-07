@@ -1,0 +1,45 @@
+{
+  "extracted_entities": [
+    {
+      "type": "Conference",
+      "name": "SSBSE 2025",
+      "details": {
+        "dates": {
+          "conference": "16 November 2025",
+          "satellite_events": null,
+          "submission_deadline": "August 21, 2025",
+          "notification_of_acceptance": "September 25, 2025",
+          "final_files_due": "October 3, 2025"
+        },
+        "location": "Seoul",
+        "main_conferences": [
+          {
+            "name": "ASE",
+            "link": "https://lnkd.in/gTDTsXuX"
+          }
+        ],
+        "workshops": [],
+        "call_for_proposals": "https://lnkd.in/gwxVDG5q",
+        "requirements": {
+          "organizers": [
+            "Man Zhang",
+            "Shin Hong"
+          ],
+          "submission_information": [
+            "High-quality research submissions focused on AI and optimization in software engineering."
+          ],
+          "promotion": {
+            "organizers_committee": null,
+            "registration": null,
+            "participation_fee": null
+          }
+        },
+        "additional_links": [
+          {
+            "Previous Proceedings": "https://lnkd.in/gnCGdwtQ"
+          }
+        ]
+      }
+    }
+  ]
+}

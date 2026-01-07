@@ -1,0 +1,62 @@
+{
+  "email": {
+    "subject": "ICSOC 2025 Call for Workshops Proposals",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "replyTo": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:12:47 -0000",
+    "contentType": "text/plain",
+    "conferenceDetails": {
+      "name": "23rd International Conference on Service-Oriented Computing",
+      "abbreviation": "ICSOC 2025",
+      "dates": {
+        "start": "December 1, 2025",
+        "end": "December 4, 2025"
+      },
+      "location": {
+        "city": "Shenzhen",
+        "country": "China"
+      },
+      "website": "https://icsoc2025.hit.edu.cn"
+    },
+    "workshopCall": {
+      "description": "ICSOC is inviting applicants to submit proposals for high-quality workshops contributing to the scientific program of the main conference.",
+      "purpose": "Provide venues for specialist groups to meet and hold focused discussions on specific sub-areas within Service-Oriented Computing.",
+      "submissionDetails": {
+        "submissionTo": "Workshop Co-chairs",
+        "proposalInfoLink": "https://icsoc2025.hit.edu.cn/19950/list.htm"
+      }
+    },
+    "importantDates": {
+      "submissionDue": "20 June 2024 (AoE)",
+      "notification": "27 June 2025 (AoE)",
+      "workshopDate": "01 December 2025 (AoE)"
+    },
+    "workshopChairs": [
+      {
+        "name": "Jianwen Su",
+        "affiliation": "University of California at Santa Barbara",
+        "location": "CA, USA"
+      },
+      {
+        "name": "Xiao Xue",
+        "affiliation": "Tianjin University",
+        "location": "China"
+      },
+      {
+        "name": "Sami Yangui",
+        "affiliation": "LAAS-CNRS",
+        "location": "Toulouse, France"
+      }
+    ],
+    "additionalInfo": {
+      "contributionInstructions": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+      "seworldInfoLink": "http://sigsoft.org/resources/seworld.html"
+    }
+  }
+}

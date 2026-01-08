@@ -1,0 +1,265 @@
+{
+  "email": {
+    "subject": "[CFP] IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2024) 24–26 July 2024, Melbourne, Australia",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:14:43 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "IEEE Annual Congress on Artificial Intelligence of Things",
+        "abbreviation": "IEEE AIoT",
+        "year": 2024,
+        "dates": {
+          "start": "2024-07-24",
+          "end": "2024-07-26"
+        },
+        "location": {
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        "event_type": null,
+        "co_located_with": null,
+        "submission": {
+          "deadline": "2024-05-08",
+          "notification_date": "2024-06-10",
+          "camera_ready_due": "2024-07-03"
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": null,
+              "theme": null,
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": null,
+              "evaluation_criteria": [
+                null
+              ]
+            }
+          ],
+          "description": "IEEE AIoT 2024 aims at bringing together interested parties (universities, research centers, industries and stakeholders) from around the world working in the fields of AI and Internet of Things to exchange opinions, discuss brand-new ideas, developing innovative and emerging solutions, and establishing new collaborations.",
+          "topics": [
+            "Edge AI and Distributed Intelligence",
+            "Machine Learning for IoT Applications",
+            "Mobile deployment of LLMs",
+            "Generative AI and LLMs for IoT applications",
+            "AI-empowered Robotics and Sensing for IoT",
+            "Smart Cities: AI and IoT Solutions",
+            "Security and Privacy in AI-driven IoT Systems",
+            "5G and its Impact on AI and IoT",
+            "Blockchain Technology for Securing IoT Devices",
+            "Human-Machine Interaction in IoT Environments",
+            "IoT Sensors and Actuators: Innovations and Advances",
+            "AI-driven Data Analytics and Decision-making",
+            "Energy-Efficient AI Algorithms for IoT Devices",
+            "IoT in Healthcare: Applications and Challenges",
+            "Industrial IoT (IIoT) and AI for Manufacturing",
+            "Smart Agriculture: AI and IoT in Precision Farming",
+            "Ethical Considerations in AI-powered IoT Systems",
+            "IoT Standards and Interoperability",
+            "Robotic Process Automation (RPA) in IoT",
+            "AI-driven Automation in Supply Chain Management",
+            "IoT Analytics and Big Data Processing",
+            "AI in Edge Devices: Challenges and Solutions",
+            "Wireless Sensor Networks in AI and IoT",
+            "IoT for Environmental Monitoring and Sustainability",
+            "AI and IoT in Transportation and Logistics",
+            "Cross-domain Integration of AI and IoT Technologies",
+            "Privacy, Security, and Trustworthiness",
+            "Standardization and Interoperability",
+            "Demonstrations, Proof-of-Concepts, and Deployments"
+          ]
+        },
+        "tracks": [],
+        "website": "https://www.ieee-aiot.org",
+        "description": null,
+        "areas_of_interest": [
+          {
+            "category": null,
+            "topics": [
+              null
+            ]
+          }
+        ]
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": null,
+        "sender": null
+      }
+    },
+    "submission_link": "https://easychair.org/my/conference?conf=aiot2024",
+    "submission_url": null,
+    "chairs": [
+      {
+        "name": "Wei Xiang",
+        "affiliation": "La Trobe University, Australia"
+      },
+      {
+        "name": "Carla Fabiana Chiasserini",
+        "affiliation": "Politecnico di Torino, Italy"
+      }
+    ],
+    "publicity_web_co_chairs": [],
+    "contact": {
+      "name": null,
+      "email": null
+    },
+    "general_chairs": [
+      {
+        "name": "Wei Xiang",
+        "affiliation": "La Trobe University, Australia"
+      },
+      {
+        "name": "Carla Fabiana Chiasserini",
+        "affiliation": "Politecnico di Torino, Italy"
+      }
+    ],
+    "program_chairs": [
+      {
+        "name": "Dusit Niyato",
+        "affiliation": "Nanyang Technological University, Singapore"
+      },
+      {
+        "name": "Ruidong Li",
+        "affiliation": "Kanazawa University, Japan"
+      },
+      {
+        "name": "Prasad Kodaypak",
+        "affiliation": "The XMG, USA"
+      }
+    ],
+    "program_committee": [],
+    "organizing_committee": {
+      "keynote_chair": {
+        "name": "Song Guo",
+        "affiliation": "Hong Kong University of Science and Technology, China"
+      },
+      "industry_forum_chair": {
+        "name": "Henry Leung",
+        "affiliation": "University of Calgary"
+      },
+      "tutorial_chairs": [
+        {
+          "name": "Flora Salim",
+          "affiliation": "University of New South Wales, Australia"
+        },
+        {
+          "name": "JaeSeung Song",
+          "affiliation": "Sejong University, South Korea"
+        }
+      ],
+      "workshop_chairs": [
+        {
+          "name": "Teng Joon Lim",
+          "affiliation": "University of Sydney, Australia"
+        },
+        {
+          "name": "Jia Hu",
+          "affiliation": "University of Exeter, U. K."
+        }
+      ],
+      "poster_chairs": [
+        {
+          "name": "Pietro Manzoni",
+          "affiliation": "Universidad Politécnica de Valencia, Spain"
+        },
+        {
+          "name": "Xiang Sun",
+          "affiliation": "University of Mexico, USA"
+        }
+      ],
+      "publicity_chairs": [
+        {
+          "name": "Zhengxin Yu",
+          "affiliation": "Lancaster University, U. K."
+        }
+      ],
+      "publication_chairs": [
+        {
+          "name": "Constandinos X. Mavromoustakis",
+          "affiliation": "University of Nicosia, Cyprus"
+        },
+        {
+          "name": "Peng Cheng",
+          "affiliation": "La Trobe University, Australia"
+        }
+      ],
+      "registration_chair": {
+        "name": "Wei Wang",
+        "affiliation": "San Diego State University"
+      },
+      "web_chair": {
+        "name": "Haihan Nan",
+        "affiliation": "Kanazawa University, Japan"
+      },
+      "financial_chair": {
+        "name": "Kang Han",
+        "affiliation": "La Trobe University, Australia"
+      },
+      "local_chairs": [
+        {
+          "name": "Kan Yu",
+          "affiliation": "La Trobe University, Australia"
+        },
+        {
+          "name": "Phu Lai",
+          "affiliation": "La Trobe University, Australia"
+        }
+      ]
+    },
+    "more_information": {
+      "link": null
+    },
+    "journal_opportunity": {
+      "description": "Three accepted papers will be selected for best paper awards. Selected papers will be recommended to IEEE Internet of Things Journal (IF: 10.238) and Digital Communications and Networks (IF: 7.9) for potential fast-track publications."
+    },
+    "submission_details": {
+      "submission_format": "Papers should not have more than six (6) IEEE style pages including results, figures and references. One (1) extra page is allowed with an extra charge of $100.",
+      "review_process": "Papers will be reviewed with the standard reviewing procedure (with at least 3 independent anonymous reviews).",
+      "registration_requirements": null
+    },
+    "artifact_evaluation": {
+      "description": null,
+      "further_details": null
+    },
+    "awards": {
+      "best_paper": "Best Paper Award",
+      "special_issue": "Journal Special Issues"
+    },
+    "poster_session": {
+      "description": null
+    },
+    "venue": {
+      "description": null,
+      "url": null,
+      "hosting": null
+    },
+    "participation": {
+      "in_person": null,
+      "remote": null
+    },
+    "important_dates": {
+      "submission_rounds": [
+        {
+          "round": null,
+          "submission_deadline": "2024-05-08",
+          "rebuttal_period": null,
+          "notification_date": "2024-06-10"
+        }
+      ]
+    }
+  }
+}

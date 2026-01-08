@@ -1,0 +1,47 @@
+{
+  "email": {
+    "subject": "VMCAI 2026: first call for papers",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 16 Jul 2025 06:16:26 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "VMCAI",
+        "year": 2026,
+        "dates": {
+          "start": "2026-01-12",
+          "end": "2026-01-13"
+        },
+        "location": {
+          "city": "Rennes",
+          "country": "France"
+        },
+        "event_type": "physical",
+        "co_located_with": "POPL 2026",
+        "submission": {
+          "deadline": "2025-09-10",
+          "notification_date": "2025-11-06"
+        },
+        "call_for_papers": {
+          "types": [
+            "regular papers",
+            "tools papers",
+            "case studies"
+          ]
+        },
+        "website": "https://conf.researchr.org/home/VMCAI-2026"
+      },
+      "seworld_info": {
+        "submission_email": "mailto:[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

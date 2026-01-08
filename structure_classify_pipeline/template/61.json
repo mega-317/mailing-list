@@ -1,0 +1,286 @@
+{
+  "email": {
+    "subject": "ESOP 2026 - Second Call for Papers",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Fri, 23 May 2025 14:21:41 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "ESOP",
+        "abbreviation": "ESOP",
+        "year": 2026,
+        "dates": {
+          "start": null,
+          "end": null
+        },
+        "location": {
+          "city": null,
+          "country": null
+        },
+        "event_type": null,
+        "co_located_with": null,
+        "submission": {
+          "deadline": null,
+          "notification_date": null,
+          "camera_ready_due": null
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": "Research Papers",
+              "theme": null,
+              "important_dates": {
+                "abstracts_due": "June 3, 2025",
+                "papers_due": "June 3, 2025"
+              },
+              "submission_guidelines": "Formatted in Springer’s LNCS, ACM’s PACMPL, or ACM’s TOPLAS format, with a maximum of 25 pages for camera-ready papers.",
+              "evaluation_criteria": [
+                "technical soundness",
+                "originality"
+              ]
+            },
+            {
+              "type": "Experience Reports",
+              "theme": null,
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": "June 3, 2025"
+              },
+              "submission_guidelines": "Formatted in Springer’s LNCS, not exceeding 15 pages.",
+              "evaluation_criteria": [
+                "critical evaluation of the experience reported"
+              ]
+            },
+            {
+              "type": "Fresh Perspectives",
+              "theme": null,
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": "June 3, 2025"
+              },
+              "submission_guidelines": "Formatted in Springer’s LNCS, not exceeding 15 pages.",
+              "evaluation_criteria": [
+                "new insights on programming languages and systems"
+              ]
+            }
+          ],
+          "description": "ESOP is an annual conference devoted to fundamental issues in the specification, design, analysis, and implementation of programming languages and systems.",
+          "topics": [
+            "programming paradigms and styles",
+            "methods and tools to specify and reason about programs and languages",
+            "programming language foundations",
+            "methods and tools for implementation, concurrency and distribution",
+            "applications and emerging topics"
+          ]
+        },
+        "tracks": [],
+        "website": null,
+        "description": null,
+        "areas_of_interest": [
+          {
+            "category": null,
+            "topics": [
+              null
+            ]
+          }
+        ]
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": "To contribute to SEWORLD, send your submission to mailto:[log in to unmask]",
+        "sender": null
+      }
+    },
+    "submission_link": "https://esop26.hotcrp.com/",
+    "submission_url": null,
+    "chairs": [
+      {
+        "name": "Robbert Krebbers",
+        "affiliation": "Radboud University Nijmegen, Netherlands"
+      }
+    ],
+    "publicity_web_co_chairs": [],
+    "contact": {
+      "name": null,
+      "email": null
+    },
+    "general_chairs": [],
+    "program_chairs": [],
+    "program_committee": [
+      {
+        "name": "Alasdair Armstrong",
+        "affiliation": "University of Cambridge, UK"
+      },
+      {
+        "name": "Aslan Askarov",
+        "affiliation": "Aarhus University, Denmark"
+      },
+      {
+        "name": "Mohamed Faouzi Atig",
+        "affiliation": "Uppsala University, Sweden"
+      },
+      {
+        "name": "Andrej Bauer",
+        "affiliation": "University of Ljubljana, Slovenia"
+      },
+      {
+        "name": "Veronique Benzaken",
+        "affiliation": "LMF Université Paris-Saclay, France"
+      },
+      {
+        "name": "Małgorzata Biernacka",
+        "affiliation": "University of Wrocław, Poland"
+      },
+      {
+        "name": "Liang-Ting Chen",
+        "affiliation": "Academia Sinica, Taiwan"
+      },
+      {
+        "name": "Raphaëlle Crubillé",
+        "affiliation": "Aix Marseille Univ, CNRS, LIS, France"
+      },
+      {
+        "name": "Deepak D'Souza",
+        "affiliation": "Indian Institute of Science, India"
+      },
+      {
+        "name": "Ankush Das",
+        "affiliation": "Boston University, USA"
+      },
+      {
+        "name": "Farzaneh Derakhshan",
+        "affiliation": "Illinois Institute of Technology, USA"
+      },
+      {
+        "name": "Emanuele D’Osualdo",
+        "affiliation": "University of Konstanz, Germany"
+      },
+      {
+        "name": "Paulo Emílio de Vilhena",
+        "affiliation": "Imperial College London, UK"
+      },
+      {
+        "name": "Francesco Gavazzo",
+        "affiliation": "University of Padua, Italy"
+      },
+      {
+        "name": "Justin Hsu",
+        "affiliation": "Cornell University, USA"
+      },
+      {
+        "name": "Ambrus Kaposi",
+        "affiliation": "Eötvös Loránd University, Hungary"
+      },
+      {
+        "name": "Sven Keidel",
+        "affiliation": "TU Darmstadt, Germany"
+      },
+      {
+        "name": "Ori Lahav",
+        "affiliation": "Tel Aviv University, Israel"
+      },
+      {
+        "name": "Christoph Matheja",
+        "affiliation": "University of Oldenburg and DTU Compute, Germany"
+      },
+      {
+        "name": "Andreia Mordido",
+        "affiliation": "LASIGE, University of Lisbon, Portugal"
+      },
+      {
+        "name": "Christopher Pulte",
+        "affiliation": "University of Cambridge, UK"
+      },
+      {
+        "name": "Jorge A. Pérez",
+        "affiliation": "University of Groningen, Netherlands"
+      },
+      {
+        "name": "Ryosuke Sato",
+        "affiliation": "Tokyo University of Agriculture and Technology, Japan"
+      },
+      {
+        "name": "Ilya Sergey",
+        "affiliation": "National University of Singapore, Singapore"
+      },
+      {
+        "name": "Kathrin Stark",
+        "affiliation": "Heriot-Watt University, UK"
+      },
+      {
+        "name": "Bernardo Toninho",
+        "affiliation": "NOVA FCT and NOVA LINCS, Portugal"
+      },
+      {
+        "name": "Jana Wagemaker",
+        "affiliation": "Radboud University Nijmegen, Netherlands"
+      },
+      {
+        "name": "John Wickerson",
+        "affiliation": "Imperial College London, UK"
+      },
+      {
+        "name": "Fabio Zanasi",
+        "affiliation": "University College London, UK"
+      }
+    ],
+    "organizing_committee": [],
+    "more_information": {
+      "link": null
+    },
+    "journal_opportunity": {
+      "description": "We welcome research papers submitted via a Journal-First channel at TOPLAS."
+    },
+    "submission_details": {
+      "submission_format": "Formatted in Springer’s LNCS, ACM’s PACMPL, or ACM’s TOPLAS format.",
+      "review_process": "double-blind review process.",
+      "registration_requirements": null
+    },
+    "artifact_evaluation": {
+      "description": "Voluntary artifact evaluation post-paper acceptance. Does not affect acceptance decision.",
+      "further_details": "To be announced later."
+    },
+    "awards": {
+      "best_paper": null,
+      "special_issue": null
+    },
+    "poster_session": {
+      "description": null
+    },
+    "venue": {
+      "description": null,
+      "url": null,
+      "hosting": null
+    },
+    "participation": {
+      "in_person": null,
+      "remote": null
+    },
+    "important_dates": {
+      "submission_rounds": [
+        {
+          "round": 1,
+          "submission_deadline": "June 3, 2025",
+          "rebuttal_period": "July 21-23, 2025",
+          "notification_date": "August 1, 2025"
+        },
+        {
+          "round": 2,
+          "submission_deadline": "October 16, 2025",
+          "rebuttal_period": "December 8-10, 2025",
+          "notification_date": "December 22, 2025"
+        }
+      ]
+    }
+  }
+}

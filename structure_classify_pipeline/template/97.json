@@ -1,0 +1,210 @@
+{
+  "email": {
+    "subject": "Call for Papers-21st International Conference on Information Systems Security (ICISS 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Sat, 17 May 2025 04:11:34 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "greeting": "Dear Colleagues,",
+      "conference": {
+        "name": "21st International Conference on Information Systems Security",
+        "abbreviation": "ICISS 2025",
+        "year": 2025,
+        "dates": {
+          "start": "2025-12-16",
+          "end": "2025-12-20"
+        },
+        "location": {
+          "city": "Indore",
+          "country": "India"
+        },
+        "host": "Indian Institute of Technology Indore (IIT Indore)",
+        "event_type": null,
+        "co_located_with": null,
+        "submission": {
+          "deadline": "2025-07-10",
+          "notification_date": "2025-09-30",
+          "camera_ready_due": "2025-10-15"
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": null,
+              "theme": null,
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": null,
+              "evaluation_criteria": [
+                null
+              ]
+            }
+          ],
+          "description": null,
+          "topics": [
+            "cybersecurity",
+            "cryptography",
+            "system security",
+            "hardware security"
+          ]
+        },
+        "tracks": [],
+        "website": "https://iciss.isrdc.in/",
+        "description": "ICISS is a premier international forum that brings together researchers, academicians, and industry professionals to share their latest findings and insights in the fields of cybersecurity, cryptography, system security, and hardware security.",
+        "areas_of_interest": [
+          {
+            "category": null,
+            "topics": [
+              null
+            ]
+          }
+        ]
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": "We look forward to your contributions and participation in ICISS 2025!\nBest regards,\nOrganizing Committee\nICISS 2025",
+        "sender": "Organizing Committee"
+      }
+    },
+    "submission_link": null,
+    "submission_url": null,
+    "chairs": [
+      {
+        "name": null,
+        "affiliation": null
+      }
+    ],
+    "publicity_web_co_chairs": [],
+    "contact": {
+      "name": null,
+      "email": null
+    },
+    "general_chairs": [
+      {
+        "name": null,
+        "affiliation": null
+      }
+    ],
+    "program_chairs": [
+      {
+        "name": null,
+        "affiliation": null
+      }
+    ],
+    "program_committee": [],
+    "organizing_committee": {
+      "keynote_chair": {
+        "name": null,
+        "affiliation": null
+      },
+      "industry_forum_chair": {
+        "name": null,
+        "affiliation": null
+      },
+      "tutorial_chairs": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "workshop_chairs": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "poster_chairs": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "publicity_chairs": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "publication_chairs": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ],
+      "registration_chair": {
+        "name": null,
+        "affiliation": null
+      },
+      "web_chair": {
+        "name": null,
+        "affiliation": null
+      },
+      "financial_chair": {
+        "name": null,
+        "affiliation": null
+      },
+      "local_chairs": [
+        {
+          "name": null,
+          "affiliation": null
+        }
+      ]
+    },
+    "more_information": {
+      "link": "http://sigsoft.org/resources/seworld.html"
+    },
+    "journal_opportunity": {
+      "description": null
+    },
+    "submission_details": {
+      "submission_format": null,
+      "review_process": null,
+      "registration_requirements": null
+    },
+    "artifact_evaluation": {
+      "description": null,
+      "further_details": null
+    },
+    "awards": {
+      "best_paper": null,
+      "special_issue": null
+    },
+    "poster_session": {
+      "description": null
+    },
+    "venue": {
+      "description": "IIT Indore has rapidly gained a reputation for excellence in education, research, and innovation.",
+      "url": null,
+      "hosting": null
+    },
+    "participation": {
+      "in_person": null,
+      "remote": null
+    },
+    "important_dates": {
+      "submission_rounds": [
+        {
+          "round": null,
+          "submission_deadline": "2025-07-10",
+          "rebuttal_period": null,
+          "notification_date": "2025-09-30"
+        }
+      ]
+    },
+    "history": {
+      "inception_year": 2005,
+      "significance": "ICISS has played a critical role in shaping the research landscape and fostering meaningful collaborations in information systems security."
+    }
+  }
+}

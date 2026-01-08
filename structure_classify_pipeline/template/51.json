@@ -1,0 +1,188 @@
+{
+  "email": {
+    "subject": "CfP: 7th International Workshop on Formal Methods for Autonomous Systems (FMAS 2025)",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Wed, 28 May 2025 12:08:06 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "7th Workshop on Formal Methods for Autonomous Systems",
+        "abbreviation": "FMAS 2025",
+        "year": 2025,
+        "dates": {
+          "start": "2025-11-17",
+          "end": "2025-11-19"
+        },
+        "location": {
+          "city": "Paris",
+          "country": "France"
+        },
+        "event_type": null,
+        "co_located_with": "International Conference on Integrated Formal Methods (iFM) 2025",
+        "submission": {
+          "deadline": "2025-08-22",
+          "notification_date": "2025-10-06",
+          "camera_ready_due": "2025-10-17"
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": "Vision papers",
+              "theme": "research directions into Formal Methods for Autonomous Systems",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "6 pages (excluding references)",
+              "evaluation_criteria": [
+                "research quality and relevance"
+              ]
+            },
+            {
+              "type": "Research previews",
+              "theme": "well-defined research ideas in early stages",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "6 pages (excluding references)",
+              "evaluation_criteria": [
+                "development potential"
+              ]
+            },
+            {
+              "type": "Experience report papers",
+              "theme": "practical experiences in applying Formal Methods to Autonomous Systems",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "15 pages (excluding references)",
+              "evaluation_criteria": [
+                "experience insights"
+              ]
+            },
+            {
+              "type": "Regular papers",
+              "theme": "completed applications of Formal Methods",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "15 pages (excluding references)",
+              "evaluation_criteria": [
+                "quality of results"
+              ]
+            }
+          ],
+          "description": "FMAS welcomes submissions that use formal methods to specify, model, or verify autonomous systems.",
+          "topics": [
+            "Applicable, tool-supported Formal Methods",
+            "Runtime Verification",
+            "Verification against safety assurance arguments",
+            "Formal specification and modelling approaches",
+            "Case Studies identifying challenges",
+            "Experience Reports on formal methods or tools",
+            "Future directions of the field",
+            "Human-AI teamwork"
+          ]
+        },
+        "tracks": [],
+        "website": "https://fmasworkshop.github.io/FMAS2025/",
+        "description": null,
+        "areas_of_interest": [
+          {
+            "category": "Formal methods for Autonomous Systems",
+            "topics": [
+              "robotic systems",
+              "cyber-physical systems"
+            ]
+          }
+        ]
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": "Kind Regards, The Organising Committee",
+        "sender": null
+      }
+    },
+    "submission_link": "https://easychair.org/conferences/?conf=fmas2025",
+    "submission_url": null,
+    "chairs": [
+      {
+        "name": null,
+        "affiliation": null
+      }
+    ],
+    "publicity_web_co_chairs": [
+      {
+        "name": null,
+        "affiliation": null
+      }
+    ],
+    "contact": {
+      "name": null,
+      "email": "[log in to unmask]"
+    },
+    "general_chairs": [],
+    "program_chairs": [],
+    "program_committee": [],
+    "organizing_committee": [],
+    "more_information": {
+      "link": null
+    },
+    "journal_opportunity": {
+      "description": "We will organise a journal special issue to collect extensions of papers accepted in FMAS 2025."
+    },
+    "social_media": {
+      "BlueSky": "https://bsky.app/profile/fmasworkshop.bsky.social",
+      "Mastodon": "https://mastodon.acm.org/@FMASWorkshop",
+      "LinkedIn": "https://www.linkedin.com/groups/10019224/"
+    },
+    "hashtag": "#FMAS2025",
+    "scope": {
+      "description": "FMAS 2025 is a 2.5-day peer-reviewed international workshop that brings together researchers working on a range of techniques for the formal verification of autonomous systems.",
+      "challenges": [
+        "Dynamic deployment environment",
+        "Verifying decision making capabilities including planning, ethical, and reconfiguration choices",
+        "Using formal methods results as evidence for certification or regulatory organizations"
+      ],
+      "welcome_submissions": [
+        "Use of formal methods to specify, model, or verify autonomous systems",
+        "Integrated formal methods combining multiple methods in software engineering",
+        "Advancing applicability of formal methods for autonomous systems"
+      ]
+    },
+    "submission_details": {
+      "submission_format": "EPTCS LaTeX style",
+      "review_process": "Each submission will receive at least three single-blind reviews",
+      "registration_requirements": "At least one author must register and attend workshop for accepted papers"
+    },
+    "awards": {
+      "best_paper": "FMAS 2025 will honour the best paper selected on various criteria",
+      "special_issue": "A journal special issue will collect extensions of accepted papers"
+    },
+    "poster_session": {
+      "description": "FMAS 2025 will include demos and posters co-located with iFM2025"
+    },
+    "venue": {
+      "description": "FMAS 2025 will be co-located with the International Conference on Integrated Formal Methods (iFM) 2025.",
+      "url": "https://ifm2025.ens.psl.eu/",
+      "hosting": "Inria Paris, France"
+    },
+    "participation": {
+      "in_person": "At least one author must register and pay for on-site attendance",
+      "remote": "Participating online is free, but must inform organizers"
+    }
+  }
+}

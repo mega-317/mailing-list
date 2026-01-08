@@ -7,21 +7,20 @@ import json
 # 주어진 템플릿에 맞게 메일을 요약하는 프롬프트
 structure_transfer_prompt = ChatPromptTemplate.from_messages([
     ("system",
-     "You are an expert Knowledge Graph Engineer. Your task is to extract information from the email text "
-     "and map it into the provided JSON template while **preserving the inherent complexity and independence of entities**.\n\n"
+     "You are an expert Knowledge Graph Engineer. Your task is to extract specific data points from the provided text and populate the corresponding values in the JSON template.\n\n"
      
-     "## CRITICAL DATA PRESERVATION RULES:\n"
-     "1. **Anchor Consistency:** Use the top-level keys provided in the `template_json` as fixed categories (Anchors).\n"
-     "2. **Entity Independence (Joint Conf Support):** If the email contains multiple independent entities (e.g., co-located conferences, multiple workshops, or distinct tracks), **DO NOT merge them**. Represent them as a **List of Objects** within the relevant key to preserve their individual identities.\n"
-     "3. **Structural Autonomy:** Within each top-level key, you have the freedom to create nested JSON structures, lists, or strings that best represent the original data's hierarchy. Do not flatten data if it results in information loss.\n"
-     "4. **No Lossy Compression:** Do not 'summarize away' the specific relationships (e.g., linking a specific deadline to a specific track). Maintain the mapping using nested objects.\n"
-     "5. **Missing Info:** If a category has no relevant data, set it to `null`. Do not invent or assume values.\n\n"
+     "## CRITICAL EXTRACTION RULES:\n"
+     "1. **Value Mapping:** Do NOT summarize. Identify the exact information for each key and fill it in with high fidelity.\n"
+     "2. **No Lossy Compression:** Do not omit details like specific dates, times, or URLs to make it shorter. Every detail counts.\n"
+     "3. **Data Integrity:** If a key requires a list (e.g., topics, dates), ensure all identified items are included as separate elements.\n"
+     "4. **Missing Info:** If a category has no relevant data in the text, set it to `null`. Do not invent, assume, or hallucinate values.\n"
+     "5. **Factual Consistency:** The values must strictly reflect the facts presented in the source text.\n\n"
      
-     "Output ONLY the completed JSON object."),
+     "Output ONLY the completed JSON object without any additional conversational text."),
     ("human",
-     "### Template Schema (Top-level Anchors):\n"
+     "### Template Schema (Keys to be filled):\n"
      "{template_json}\n\n"
-     "### New Email Text (Source Content):\n"
+     "### Source Email Text:\n"
      "{mail_text}")
 ])
 transfer_chain = json_parser_chain(structure_transfer_prompt)
@@ -70,6 +69,12 @@ def align_structure_node(state) -> dict:
         "template_json": json.dumps(template_skeleton, indent=2),
         "mail_text": target_mail_text
     })
+
+    # # 4. LLM 실행 (구조 맞추기)
+    # aligned_json = flexible_chain.invoke({
+    #     "template_json": json.dumps(template_skeleton, indent=2),
+    #     "mail_text": target_mail_text
+    # })
     
     return {
         "aligned_summary": aligned_json

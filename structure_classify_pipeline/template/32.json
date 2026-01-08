@@ -1,0 +1,161 @@
+{
+  "email": {
+    "subject": "[CFP] MPLR’25 - 22nd International Conference on Managed Programming Languages & Runtimes",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 16 Jun 2025 05:32:53 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "22nd International Conference on Managed Programming Languages & Runtimes",
+        "abbreviation": "MPLR",
+        "year": 2025,
+        "dates": {
+          "start": "2025-10-14",
+          "end": null
+        },
+        "location": {
+          "city": null,
+          "country": null
+        },
+        "event_type": null,
+        "co_located_with": null,
+        "submission": {
+          "deadline": "2025-06-24",
+          "notification_date": "2025-07-28",
+          "camera_ready_due": "2025-08-25"
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": "Regular research papers",
+              "theme": "Describing novel contributions involving managed language platforms.",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "Format: up to 12 pages, excluding bibliography and appendix.",
+              "evaluation_criteria": [
+                "Relevance",
+                "Novelty",
+                "Technical rigor",
+                "Contribution to the state-of-the-art"
+              ]
+            },
+            {
+              "type": "Work-in-progress research papers",
+              "theme": "Describing hot topics or promising new ideas, with perhaps less maturity than full papers.",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "Format: up to 6 pages, excluding bibliography and appendix.",
+              "evaluation_criteria": [
+                "Novelty",
+                "Potential of new ideas"
+              ]
+            },
+            {
+              "type": "Industry and tool papers",
+              "theme": "Presenting technical challenges and solutions for managed language platforms in the context of deployed applications and systems.",
+              "important_dates": {
+                "abstracts_due": null,
+                "papers_due": null
+              },
+              "submission_guidelines": "Format: up to 6 pages, excluding bibliography and appendix; up to 12 pages allowed if justified by the content.",
+              "evaluation_criteria": [
+                "Relevance",
+                "Usefulness",
+                "Results",
+                "Suitability for demonstration",
+                "Availability for tool papers"
+              ]
+            }
+          ],
+          "description": "MPLR accepts three types of submissions: Regular research papers, Work-in-progress research papers, Industry and tool papers. Accepted submissions will be published in the ACM Digital Library, except if the authors prefer not to be included.",
+          "topics": [
+            "Languages and Compilers",
+            "Virtual Machines",
+            "Techniques, Tools, and Applications"
+          ]
+        },
+        "tracks": [],
+        "website": "https://mplr25.hotcrp.com",
+        "description": "A premier forum for presenting and discussing novel results in all aspects of managed programming languages and runtime systems.",
+        "areas_of_interest": [
+          {
+            "category": "Languages and Compilers",
+            "topics": [
+              "Managed languages (e.g., Java, Scala, JavaScript, Python, Ruby, C#, F#, Clojure, Groovy, Kotlin, R, Smalltalk, Racket, Rust, Go, Lua, MATLAB, Raku, Pony)",
+              "Domain-specific languages",
+              "Language design",
+              "Compilers and interpreters",
+              "Type systems and program logics",
+              "Language interoperability",
+              "Parallelism, distribution, and concurrency"
+            ]
+          },
+          {
+            "category": "Virtual Machines",
+            "topics": [
+              "Portable intermediate representations (e.g., JVM, WebAssembly, RPython)",
+              "Managed runtime systems (e.g., GraalVM, Android Runtime, V8, JavaScriptCore, .NET)",
+              "VM design and optimization",
+              "VMs for mobile and embedded devices",
+              "VMs for real-time applications",
+              "Memory management and garbage collection",
+              "Hardware/software co-design",
+              "Persistence"
+            ]
+          },
+          {
+            "category": "Techniques, Tools, and Applications",
+            "topics": [
+              "Static and dynamic program analysis",
+              "Testing and debugging",
+              "Refactoring",
+              "Program understanding",
+              "Program synthesis",
+              "Security and privacy",
+              "Performance analysis and monitoring",
+              "Compiler and program verification and model checking"
+            ]
+          }
+        ]
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": "To contribute to SEWORLD, send your submission to the provided email.",
+        "sender": null
+      }
+    },
+    "submission_link": "https://mplr25.hotcrp.com",
+    "submission_url": null,
+    "chairs": [
+      {
+        "name": "Tomoharu Ugawa",
+        "affiliation": null
+      }
+    ],
+    "contact": {
+      "name": "Tomoharu Ugawa",
+      "email": "ugawa ci i u-tokyo ac jp"
+    },
+    "general_chairs": [],
+    "program_chairs": [],
+    "program_committee": [],
+    "organizing_committee": [],
+    "more_information": {
+      "link": null
+    }
+  }
+}

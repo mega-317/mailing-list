@@ -1,0 +1,278 @@
+{
+  "email": {
+    "subject": "Deadline Extended: CfP ICTAC'2025",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 19 Jun 2025 17:14:46 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "International Colloquium on Theoretical Aspects of Computing",
+        "abbreviation": "ICTAC",
+        "year": 2025,
+        "dates": {
+          "start": "2025-11-24",
+          "end": "2025-11-28"
+        },
+        "location": {
+          "city": "Marrakech",
+          "country": "Morocco"
+        },
+        "event_type": null,
+        "co_located_with": null,
+        "submission": {
+          "deadline": "2025-07-09",
+          "notification_date": "2025-08-30"
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": null,
+              "theme": null,
+              "important_dates": {
+                "abstracts_due": "2025-07-03",
+                "papers_due": "2025-07-09"
+              },
+              "submission_guidelines": null
+            }
+          ],
+          "description": "The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical aspects of computing through (formal) methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.",
+          "topics": [
+            "Formal languages and automata",
+            "Semantics of programming languages",
+            "Logic in computer science",
+            "Lambda calculus, type theory, and category theory",
+            "Domain-specific languages",
+            "Theories of concurrency and mobility",
+            "Theories of distributed computing",
+            "Models of objects and components",
+            "Coordination models",
+            "Security and privacy",
+            "Static analysis",
+            "Software verification",
+            "Timed, hybrid, and cyber-physical systems",
+            "Verification, analysis and control synthesis",
+            "Software testing",
+            "Program generation and transformation",
+            "Model checking and theorem-proving",
+            "Quantum computing",
+            "Trustworthy AI",
+            "Machine learning algorithms",
+            "Applications and experience"
+          ]
+        },
+        "tracks": [],
+        "website": "https://ictac2025.digital-hub.sh/"
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": null,
+        "sender": null
+      }
+    },
+    "submission_link": null,
+    "submission_url": null,
+    "chairs": [
+      {
+        "name": "Ahmed Bouajjani",
+        "affiliation": "Université de Paris, France"
+      },
+      {
+        "name": "Mohammed Erradi",
+        "affiliation": "ENSIAS, UM5R, Morocco"
+      }
+    ],
+    "general_chairs": [
+      {
+        "name": "Ahmed Bouajjani",
+        "affiliation": "Université de Paris, France"
+      },
+      {
+        "name": "Mohammed Erradi",
+        "affiliation": "ENSIAS, UM5R, Morocco"
+      }
+    ],
+    "program_chairs": [
+      {
+        "name": "Zhiming Liu",
+        "affiliation": "Southwest University, China"
+      },
+      {
+        "name": "Adnane Saoud",
+        "affiliation": "UM6P, Morocco"
+      },
+      {
+        "name": "Heike Wehrheim",
+        "affiliation": "University of Oldenburg, Germany"
+      }
+    ],
+    "program_committee": [
+      {
+        "name": "Jorge A. Pérez",
+        "affiliation": "University of Groningen, Netherlands"
+      },
+      {
+        "name": "Laurent Fribourg",
+        "affiliation": "ENS Paris-Saclay, LMF, France"
+      },
+      {
+        "name": "Lina Ye",
+        "affiliation": "CentraleSupélec, LRI, University Paris–Saclay, France"
+      },
+      {
+        "name": "Abderrahim Ait Wakrime",
+        "affiliation": "UM5R, Morocco"
+      },
+      {
+        "name": "Maike Schwammberger",
+        "affiliation": "Karlsruhe Institute of Technology, Germany"
+      },
+      {
+        "name": "Kirstin Peters",
+        "affiliation": "Universität Augsburg, Germany"
+      },
+      {
+        "name": "Emil Sekerinski",
+        "affiliation": "McMaster University, Canada"
+      },
+      {
+        "name": "Ichiro Hasuo",
+        "affiliation": "National Institute of Informatics, Japan"
+      },
+      {
+        "name": "Kim Guldstrand Larsen",
+        "affiliation": "Computer Science, Aalborg University, Denmark"
+      },
+      {
+        "name": "Yuxin Deng",
+        "affiliation": "East China Normal University, China"
+      },
+      {
+        "name": "Zhilin Wu",
+        "affiliation": "Institute of Software, Chinese Academy of Sciences, China"
+      },
+      {
+        "name": "Jan Kretinsky",
+        "affiliation": "Masaryk University, Czech Republic"
+      },
+      {
+        "name": "Sadegh Soudjani",
+        "affiliation": "Max Planck Institute, Germany"
+      },
+      {
+        "name": "Annabelle McIver",
+        "affiliation": "Macquarie University, Australia"
+      },
+      {
+        "name": "Rosemary Monahan",
+        "affiliation": "Maynooth University, Ireland"
+      },
+      {
+        "name": "Marcello Bonsangue",
+        "affiliation": "Leiden University, Netherlands"
+      },
+      {
+        "name": "Ana Sokolova",
+        "affiliation": "University of Salzburg, Austria"
+      },
+      {
+        "name": "Pushpak Jagtap",
+        "affiliation": "Indian Institute of Science, Bangalore, India"
+      },
+      {
+        "name": "Silvia Lizeth Tapia Tarifa",
+        "affiliation": "University of Oslo, Norway"
+      },
+      {
+        "name": "Jim Woodcock",
+        "affiliation": "University of York, United Kingdom"
+      },
+      {
+        "name": "Augusto Sampaio",
+        "affiliation": "Federal University of Pernambuco, Brazil"
+      },
+      {
+        "name": "Marjan Sirjani",
+        "affiliation": "Mälardalen University, Sweden"
+      },
+      {
+        "name": "Cong Tian",
+        "affiliation": "Xidian University, China"
+      },
+      {
+        "name": "Maurice ter Beek",
+        "affiliation": "CNR, Italy"
+      },
+      {
+        "name": "Tarmo Uustalu",
+        "affiliation": "Reykjavik University, Iceland"
+      },
+      {
+        "name": "Miaomiao Zhang",
+        "affiliation": "Tongji University, China"
+      },
+      {
+        "name": "Sarah Winkler",
+        "affiliation": "Free University of Bozen-Bolzano, Italy"
+      },
+      {
+        "name": "Hussein Sibai",
+        "affiliation": "Washington University in St. Louis, USA"
+      },
+      {
+        "name": "Tomás Vojnar",
+        "affiliation": "Brno University of Technology, Czech Republic"
+      },
+      {
+        "name": "Peter Habermehl",
+        "affiliation": "IRIF, Université Paris Cité, France"
+      },
+      {
+        "name": "Julien Signoles",
+        "affiliation": "CEA LIST, France"
+      },
+      {
+        "name": "Chelsea Edmonds",
+        "affiliation": "University of Sheffield, United Kingdom"
+      },
+      {
+        "name": "Inigo Incer",
+        "affiliation": "University of Michigan, USA"
+      }
+    ],
+    "organizing_committee": [
+      {
+        "name": "Abderrahim Ait Wakrime",
+        "affiliation": "UM5R, Morocco"
+      },
+      {
+        "name": "Sadek Belamfedel Alaoui",
+        "affiliation": "UM6P, Morocco"
+      },
+      {
+        "name": "Khaoula Boukir",
+        "affiliation": "Ibn Tofail University, Morocco"
+      },
+      {
+        "name": "Karam Kharraz",
+        "affiliation": "University of Lübeck, Germany"
+      },
+      {
+        "name": "Adnane Saoud",
+        "affiliation": "UM6P, Morocco"
+      }
+    ],
+    "more_information": {
+      "link": null
+    }
+  }
+}

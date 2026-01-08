@@ -5,7 +5,7 @@ from template_process_single import process_one_file as run_structure_transfer
 from merge_template_single import process_one_file as run_merge_process
 from template_pipeline.graph import save_json
 
-file_num = 4
+file_num = 11
 
 def run_total_pipeline(file_num: int):
     print(f"\n==== [Step 0] Initialization for File No. {file_num} ====")
@@ -29,19 +29,20 @@ def run_total_pipeline(file_num: int):
 
     # --- 경로 설정 ---
     input_txt_path = Path(f"./data/texts/{file_num}.txt")
-    base_template_path = Path(f"./entity_pipeline/template/template_v1.json")
+    base_template_path = Path(f"./structure_classify_pipleline/template.json")
     
     # 1단계 결과물 (구조화 요약) 경로
-    fit_output_path = Path(f"./entity_pipeline/output/output_{file_num}.json")
+    fit_output_path = Path(f"./structure_classify_pipleline/output/{file_num}.json")
     
     # 2단계를 위한 자유 요약본 경로
-    free_summary_path = Path(f"./entity_pipeline/entity_base_summ/{file_num}.json")
+    free_summary_path = Path(f"./structure_classify_pipleline/positive_data/{file_num}.json")
     
     # [수정] 최종 결과물 저장 경로 (두 가지 버전)
-    master_template_path = Path(f"./entity_pipeline/result/template.json") # 계속 덮어씌워짐 (Master)
-    history_template_path = Path(f"./entity_pipeline/result/{file_num}.json") # 번호별 저장 (Snapshot)
+    master_template_path = Path(f"./structure_classify_pipeline/template.json") # 계속 덮어씌워짐 (Master)
+    history_template_path = Path(f"./structure_classify_pipeline/template/{file_num}.json") # 번호별 저장 (Snapshot)
 
-
+    # output 폴더에는 템플릿에 맞게 메일을 요약한 결과들이 저장된다
+    # free_summary_path는 LLM이 알아서 메일을 정리한 것들이다
 
 
 

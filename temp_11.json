@@ -1,0 +1,46 @@
+{
+  "email": {
+    "subject": "Combined Call for Papers & Workshop Proposals: ICSA 2026",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Thu, 10 Jul 2025 16:12:04 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "IEEE International Conference on Software Architecture",
+        "year": 2026,
+        "dates": {
+          "start": "2026-06-22",
+          "end": "2026-06-26"
+        },
+        "location": {
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "event_type": null,
+        "co_located_with": null,
+        "submission": {
+          "deadline": null,
+          "notification_date": null
+        },
+        "call_for_papers": {
+          "types": [
+            "Research Track",
+            "Software Architecture in Practice Track"
+          ]
+        },
+        "website": "https://conf.researchr.org/home/icsa-2026"
+      },
+      "seworld_info": {
+        "submission_email": "mailto:[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      }
+    }
+  }
+}

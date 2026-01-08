@@ -1,0 +1,135 @@
+{
+  "email": {
+    "subject": "CfP - 2nd International Conference on Engineering Digital Twins",
+    "from": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "reply_to": {
+      "name": "SEWORLD Moderator",
+      "email": "[log in to unmask]"
+    },
+    "date": "Mon, 16 Jun 2025 05:31:20 -0000",
+    "content_type": "text/plain",
+    "body": {
+      "conference": {
+        "name": "2nd International Conference on Engineering Digital Twins",
+        "abbreviation": "EDTconf 2025",
+        "year": 2025,
+        "dates": {
+          "start": "2025-10-06",
+          "end": "2025-10-07"
+        },
+        "location": {
+          "city": "Michigan",
+          "country": "US"
+        },
+        "event_type": null,
+        "co_located_with": "MODELS 2025",
+        "submission": {
+          "deadline": "2025-07-02",
+          "notification_date": "2025-08-05",
+          "camera_ready_due": "2025-08-20"
+        },
+        "call_for_papers": {
+          "types": [
+            {
+              "type": "Regular Papers",
+              "theme": "Novel research contributions with substantive evaluation.",
+              "important_dates": {
+                "abstracts_due": "2025-06-27",
+                "papers_due": "2025-07-02"
+              },
+              "submission_guidelines": "Submissions via EasyChair: https://easychair.org/conferences/?conf=edtconf25",
+              "evaluation_criteria": [
+                "Page limits are strict.",
+                "Papers must be original and not under review elsewhere.",
+                "ORCID usage is recommended."
+              ]
+            }
+          ],
+          "description": null,
+          "topics": [
+            "Modeling concepts and languages, methods, and tools for developing DTs",
+            "AI for DTs/DTs for AI",
+            "DevOps for DTs/DTs for DevOps",
+            "Quality assurance for and evaluation of DTs",
+            "DT modeling, simulation, and co-simulation of CPS",
+            "Deployment and operation of DTs",
+            "Model consistency, management, and evolution of engineering models and DT models",
+            "DTs for dynamic (re)configuration and optimization",
+            "Evolution and compositionality of DTs",
+            "Uncertainty and fidelity in DTs",
+            "DT reliability, trust, and security",
+            "Architectural patterns for DTs",
+            "Virtual commissioning based on DTs",
+            "DTs for continuous learning and improvement",
+            "Combining models and data in DTs",
+            "Case studies, experience reports, comparisons in various application domains",
+            "Empirical studies of DT development and use",
+            "Teaching and education of DT skills"
+          ]
+        },
+        "tracks": [],
+        "website": "www.edtconf.org",
+        "description": "Digital Twins (DTs) have emerged as a key approach to understand, monitor, and improve systems across various domains including agriculture, automotive, avionics, construction, healthcare, manufacturing, and smart cities. DT development is inherently multi-disciplinary and requires the integration of data, models, simulation, software engineering, and domain knowledge. Despite increasing adoption, DT engineering is still often ad hoc, lacking systematic concepts, methods, and tools. EDTconf 2025 aims to bring together researchers and practitioners from academia and industry to shape the future of engineering DTs in a systematic, scalable, and principled way.",
+        "areas_of_interest": [
+          {
+            "category": null,
+            "topics": [
+              null
+            ]
+          }
+        ]
+      },
+      "seworld_info": {
+        "submission_email": "[log in to unmask]",
+        "website": "http://sigsoft.org/resources/seworld.html"
+      },
+      "closing": {
+        "message": null,
+        "sender": null
+      }
+    },
+    "submission_link": "https://easychair.org/conferences/?conf=edtconf25",
+    "submission_url": "https://easychair.org/conferences/?conf=edtconf25",
+    "chairs": [
+      {
+        "name": "Romina Eramo",
+        "affiliation": "University of Teramo, IT"
+      },
+      {
+        "name": "Manuel Wimmer",
+        "affiliation": "Johannes Kepler University Linz, AT"
+      },
+      {
+        "name": "Steffen Zschaler",
+        "affiliation": "King’s College London, UK"
+      }
+    ],
+    "publicity_web_co_chairs": [
+      {
+        "name": "Claudio Gomes",
+        "affiliation": "Aarhus University, DK"
+      },
+      {
+        "name": "Vittoriano Muttillo",
+        "affiliation": "University of Teramo, IT"
+      }
+    ],
+    "contact": {
+      "name": null,
+      "email": "[log in to unmask]"
+    },
+    "general_chairs": [],
+    "program_chairs": [],
+    "program_committee": [],
+    "organizing_committee": [],
+    "more_information": {
+      "link": null
+    },
+    "journal_opportunity": {
+      "description": "Authors of selected regular papers will be invited to submit extended versions to the Journal on Software and Systems Modeling (SoSyM), with at least 30% new material required."
+    }
+  }
+}

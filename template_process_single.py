@@ -19,17 +19,18 @@ from template_pipeline.graph import process_one_file, save_json
 # output_json_path = Path(f"./prediction/output/fit_{file_num}_to_{temp_num}.json")
 # -------------------------------------------------------------------------------
 
+input_text = 11
 
 # --- 경로 설정 ---
 # 1. 입력: 새로운 메일 텍스트 (내용을 채울 소스)
-input_txt_path = Path(f"./data/texts/16.txt")
+input_txt_path = Path(f"./data/texts/{input_text}.txt")
 
 # 2. 참조: 뼈대가 될 기존 JSON (포맷 템플릿)
-reference_json_path = Path(f"./structure_classify_pipeline/positive_data/93.json")
+reference_json_path = Path(f"./structure_classify_pipeline/template.json")
 
 # 3. 출력: 결과가 저장될 위치
 # output_json_path = Path(f"./prediction/flex_summ/{file_num}.json")
-output_json_path = Path(f"./temp93_16.json")
+output_json_path = Path(f"./temp_{input_text}.json")
 
 
 
